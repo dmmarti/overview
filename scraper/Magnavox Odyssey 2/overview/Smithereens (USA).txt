@@ -1,0 +1,1 @@
+This game takes place in a time when knights were bold and castle crumbling was one of the most popular sports. In this Artillery clone, two players must try to destroy each other's castle with their catapults. By pressing any direction in the joystick, t 

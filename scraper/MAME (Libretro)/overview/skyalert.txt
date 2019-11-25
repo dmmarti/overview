@@ -1,0 +1,1 @@
+Sky Alert (c) 10/1992 Metro.  - TECHNICAL -  Main CPU : 68000 (@ 12 Mhz) Sound CPU : uPD7810 (@ 12 Mhz) Sound Chips : OKI6295 (@ 9.375 Khz), YM2413 (@ 3.579545 Mhz)  Screen orientation : Vertical Video resolution : 224 x 360 pixels Screen refresh : 60.00 

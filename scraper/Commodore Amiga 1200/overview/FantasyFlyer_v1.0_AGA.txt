@@ -1,0 +1,1 @@
+Fantasy Flyer is 2D side scrolling action game. The player controls a flying, dragon-like creature with big eyes. He flies and explores level, kills strange enemies, looks for special objects (like chariot's parts) to be able to move on, and avoids various traps. The creature has a limited amount of shots. Game uses big 2D sprites (for 16-bit platform).

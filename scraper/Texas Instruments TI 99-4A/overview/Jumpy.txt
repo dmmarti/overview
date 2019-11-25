@@ -1,0 +1,1 @@
+In Jumpy, you control the hero, jumping from platform to platform collecting dots, while trying to avoid monsters and jumping off the edge. Each level features a different layout. You also have the ability to "double jump," skipping over one platform (and, potentially, an enemy) by pressing the Fire button on the joystick.

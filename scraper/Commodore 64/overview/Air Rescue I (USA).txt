@@ -1,0 +1,1 @@
+The game is a remake of Chopper Rescue with the following changes: Game is rewritten in machine language and doesn't require BASIC anymore; Mobile drones are now patrolling all labyrinth instead of certain sectors; Screens and fonts are slightly changed.

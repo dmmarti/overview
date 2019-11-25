@@ -1,0 +1,1 @@
+In this platform game your goal is to reach the bottom right of the screen where the exit to the next level is located. The levels are all build different but are all maze-like and not every way will lead to the exit. To make it more complicated to reach the exit to the next level you have to avoid rolling stones, jump water passages, not get hit by ice or similar objects. 

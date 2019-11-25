@@ -1,0 +1,1 @@
+Classic Casino is a collection featuring three different casino games: Blackjack, Poker, and Slots. Each game gives the player a certain number of credits, which they must use to acquire more in the chosen game. Blackjack is played against the house, while Poker and Slots are solo endeavors.

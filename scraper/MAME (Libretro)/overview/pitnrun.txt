@@ -1,0 +1,1 @@
+Pit &amp; Run - F1 Race (c) 1984 Taito.  - TECHNICAL -  Prom Stickers : A11  Main CPU : Z80 (@ 4 Mhz), M68705 (@ 2 Mhz) Sound CPU : Z80 (@ 2.5 Mhz) Sound Chips : (2x) AY8910 (@ 1.536 Mhz)  Players : 1 Control : 8-way joystick Buttons : 2  - TRIVIA -  Released

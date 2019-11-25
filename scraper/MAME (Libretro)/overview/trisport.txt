@@ -1,0 +1,1 @@
+Tri-Sports es una compilación que contiene tres juegos:nnnnPower Strike: es similar a la pista de bolos para 4 jugadores de Midway y cuenta con regulación, flash y modos de triple strike.nnPool Shark: no debe confundirse con el viejo Poolshark de Atari, cuenta con piscina recta, rotación y modos de nueve bolas.nnMini Golf Deluxe: es una continuación del juego Mini Golf de 1985.

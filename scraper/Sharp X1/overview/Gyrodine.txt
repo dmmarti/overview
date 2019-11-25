@@ -1,0 +1,1 @@
+Gyrodine is a basic vertical scrolling shooter. You pilot a helicopter and have to shoot as many enemies as you can. You will fight against enemy helicopters, bunkers, tanks and fighter jets above different terrains like water, desserts and military camps. There is no background story and there are no levels.

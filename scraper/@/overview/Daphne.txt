@@ -1,0 +1,3 @@
+DAPHNE is a multi-arcade LaserDisc emulator. The emulation code is open-source but the included frontend (DaphneLoader) is proprietary.
+
+Laserdisc games consisted of a traditional arcade pcb, and a laser disc player. The pcb worked much like a traditional video game, but the graphics were stored on the laser disc player, and the pcb would change to the appropriate scene based on the user's input.

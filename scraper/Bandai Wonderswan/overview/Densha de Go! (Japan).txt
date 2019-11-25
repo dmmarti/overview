@@ -1,0 +1,14 @@
+Based on the 1996 arcade game, Densha de Go! was one of the first commercial train-driving simulation games, and went on to spawn numerous successors. 
+ 
+The player can choose from a variety of tracks and trains and will then have to drive the train to the designated stations while sticking to the tight schedule, stopping exactly at the marked positions, obeying all signs and signals, and ensuring passenger safety and comfort. 
+ 
+Whenever the player makes a mistake, points are deducted from a counter which at the start of each round is initialized to a value depending on the selected difficulty. If it reaches zero, the game is over. 
+ 
+The following lines are featured: 
+ 
+1. Sagano Main Line (Sanin Line) from Kameoka to Kyoto 
+2. Keihin-Tohoku Line from Shinagawa to Yokohama 
+3. Tokaido Main Line (JR Kyoto Line) from Kyoto to Osaka 
+4. Yamanote Line (Inner Circle) from Shibuya to Tokyo Station 
+5. Tokaido Main Line EX from Takatsuki to Osaka, part of the rapid Tokaido Main Line from the original version, but this time with stops at every station (Windows only) 
+6. Sagano Line EX from Kameoka to Kyoto, without the shortcut from Saga-Arashiyama to Tambaguchi from the original version (Windows only) 

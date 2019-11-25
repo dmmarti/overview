@@ -1,0 +1,1 @@
+Move your player through a maze-like level in this shoot'em up. Shoot enemies and collect treasures and keys.

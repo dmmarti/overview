@@ -1,0 +1,2 @@
+Super Bomberman - Panic Bomber W is one of the offsprings of the Panic Bomber Series. It was released for the Super Famicom and was only released in Japan. It features a single player mode and a multiplayer one that supports up to four players. 
+This game also implements a Dokuro mode which involves status effects. These can do everything from reduce blast radius to igniting bombs on screen. 

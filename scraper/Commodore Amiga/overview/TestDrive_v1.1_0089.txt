@@ -1,0 +1,1 @@
+ This mix of racing simulation and arcade game consists of driving a choice of 5 sports cars on a mountain strip at the fastest speed possible without getting caught by the cops.  To avoid them, use your radar detector -- or just try to outrun them if they spot you.  Manual stickshift only, so make sure you don't redline or you'll blow your engine.

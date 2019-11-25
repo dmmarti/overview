@@ -1,0 +1,1 @@
+Hellfire is a nice horizontal shoot'em up feature a selectable shooting direction.

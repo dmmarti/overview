@@ -1,0 +1,1 @@
+Pinball Hazard is a pinball game for up to five players, featuring four vertically scrolling tables: Vampire, Speed, Tomcat and Fight. Each table is thematically corresponding to its own name and has some unique elements, including simple arcade mini-challenges. Controls cover hitting the paddles and ejection of the ball.

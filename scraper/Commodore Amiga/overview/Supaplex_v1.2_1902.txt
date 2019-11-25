@@ -1,0 +1,1 @@
+ Supaplex is a puzzle game reminiscent of Boulder Dash; find the exit while collecting all Infotrons and avoiding the Zonks that can kill you.

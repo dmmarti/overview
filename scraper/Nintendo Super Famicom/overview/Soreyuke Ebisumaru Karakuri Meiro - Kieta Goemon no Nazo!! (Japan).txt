@@ -1,0 +1,3 @@
+A puzzle spin-off title from the Ganbare Goemon series. Goemon has been captured and his friend Ebisumaru goes out to try to find and rescue him. In order to do so, he must traverse a series of maze-like levels avoiding obstacles and enemies and get to the end zone. 
+ 
+The game is played from an isometric perspective from which you can get a good view of the mazes and Ebisumaru. You have no direct control of Ebisumaru per se, but instead switch special blocks around the mazes that can change Ebisumaru's direction of travel and such. You must reach the end of each stage before time runs out, and get all the power-ups and items laid in each maze in hopes of getting to Goemon alive. 

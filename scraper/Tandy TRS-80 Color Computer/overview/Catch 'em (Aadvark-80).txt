@@ -1,0 +1,1 @@
+The objective of Catchem is to catch all falling objects. Each level features a different object falling. When any object is missed, you lose a live, and your paddle, which you use to catch the objects, shrinks with one paddle. When a 'bad object' like a 

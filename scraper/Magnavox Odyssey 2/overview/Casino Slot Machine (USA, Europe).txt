@@ -1,0 +1,1 @@
+As the name implies, this game simulates a casino slot machine. One to four players can place their bets in any of the three horizontal rows or the two diagonal rows. Bets placed can be of $0.10, $0.25 or $1.00.The winning combinations are the following:  

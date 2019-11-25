@@ -1,0 +1,1 @@
+Pythagoras no Nazo - Riddle of Pythagoras (c) 1986 Sega.  - TECHNICAL -  Sega System E hardware  Main CPU : Z80 (@ 5.3693 Mhz) Sound Chips : (2x) SN76496 (@ 4 Mhz)  Players : 2 Control : dial Buttons : 2  - TRIVIA -  Even if titlescreen says 1986, Pythago

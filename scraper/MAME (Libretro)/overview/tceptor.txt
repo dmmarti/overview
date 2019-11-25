@@ -1,0 +1,1 @@
+Thunder Ceptor (c) 1986 Namco.  - TECHNICAL -  Game ID : TC  Main CPU : M6809 (@ 1.536 Mhz), 68000 (@ 12.288 Mhz), HD63701 (@ 1.536 Mhz) Sound CPU : (2x) M65C02 (@ 2.048 Mhz) Sound Chips : YM2151 (@ 3.579545 Mhz), Namco 8-channel WSG, DAC  Players : 1 Con

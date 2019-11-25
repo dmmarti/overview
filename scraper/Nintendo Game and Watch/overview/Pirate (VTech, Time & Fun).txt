@@ -1,0 +1,1 @@
+Pirates continuously climb up to embark your ship from three paths, to steal your gold. Move the captain to prevent pirates from reaching the deck. When a pirate successfully reaches the deck, a chance is missed. Five misses and game ends. 1 point is scored each time a pirate is hit. Maximum displayed score is 9999. 

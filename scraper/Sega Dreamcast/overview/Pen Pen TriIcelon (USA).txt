@@ -1,0 +1,1 @@
+ A racing game where you play as one of several animals known as Pen Pens.  The goal is to walk, swim, and slide across the finish line the fastest.  Unlike other racing games though where you hold a button for gas or tilt forward to run, you have to tap the A button in a rhythmic manner to match your strokes with the motion of your Pen Pen.

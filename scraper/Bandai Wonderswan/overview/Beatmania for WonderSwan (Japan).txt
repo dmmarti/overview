@@ -1,0 +1,6 @@
+This is a portable version of beatmania and as such it contains everything one could hope for in such a game, a series of music track (with reproduced vocals!), a lot of buttons to press, and a lot of vinyl to scratch. 
+ 
+After you select the music you want to play you'll have a vertical scroll which will indicate when you should hit one of the left directional buttons along with the music. The game also indicates when you should 'scratch' which should be be familiar to anyone who has played a beatmania arcade game. This refers to the scratching of a record, one might think that the WonderSwan is ill-equiped for such a for of input, well think again! beatmania for WonderSwan included in its packaging a miniature record that could be fitted over the right directional keys to make scratching more realistic. 
+ 
+As you finish songs you'll on lock more difficult and interesting(?) tunes. The game plays vertically. 
+ 

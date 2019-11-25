@@ -1,0 +1,1 @@
+Turkey Hunting USA allows the players to hunt in 5 different states : Florida, New Mexico, Montana, Pennsylvania and Kansas. Each of the states has a different weather condition and level of difficulty. If a pl

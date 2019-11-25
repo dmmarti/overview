@@ -1,0 +1,1 @@
+Quest for the Rings is a fantasy strategy game using the combination of a game board, tokens, keyboard overlay and the computer to play the game. The game board is used to hide the ten ring tokens with various monster tokens under the castle tokens by the 

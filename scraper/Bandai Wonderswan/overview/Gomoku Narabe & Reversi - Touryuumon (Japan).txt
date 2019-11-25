@@ -1,0 +1,9 @@
+A simple collection of two classic puzzle games Gomoku Narabe &amp; Reversi/Othello. 
+ 
+Gomoku Narabe, is a ancient Japanese game the title of which means "five stones in a row". The goal of the game is to place five tokens of your color (white or black) in a row. Of course your opponent will be trying to block you. The game ends when a player achieves tis penta-worthy task. The board is 14 x 14. 
+ 
+Reversi is a game commonly know under the name that it is marketed by Pressman, Othello. In reversi ones goal is to flip the opponents tiles (white or black) by surrounding the opposing token(s) on either end with your own. The board is 8x8. 
+ 
+A challenge mode approaches! You can battle your way through ranks of board game master beginning with a horrid smiling goblin and moving up to a mysterious old guru. 
+ 
+Two players can play the game through the Communication Cable, which is odd as it would seem feasible to play the games on a single system, but what can ya do? 

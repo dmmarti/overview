@@ -1,0 +1,1 @@
+One or two player real-time strategy game where you control armies of Infantry, Cavalry, Artillery, and Spies searching for your opponent's Command Center.

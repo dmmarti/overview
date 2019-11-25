@@ -1,0 +1,1 @@
+A first-person shoot'em up game, with a western motif. The player uses a gun (mounted to the cabinet) to escort the sheriff through a variety of dangers, gathering bounty for capturing criminals. There are 7 levels or scenes plus the bonus level:    

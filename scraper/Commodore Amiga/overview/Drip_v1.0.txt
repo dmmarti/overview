@@ -1,0 +1,8 @@
+Drip is a single player, keyboard controlled, shareware game for one or two players.
+
+Drip is a cool drop and he's partying. Some dastardly person/thing has tapped into his network of pipes and has stopped his supply of party juice so Drip has to race around all the pipes and rust them in order to restore the flow.
+
+So the objective in this game is to travel round a pipe network covering every pipe within a time limit. Naturally this is too easy so there are obstacles and problems to overcome so apart from the bad guys chasing him Drip has to avoid acid, plasma, ice-cubes, electric bubbles and lasers as contact with any of these will cost a life. There are also fluffy clouds which, when they touch a pipe will un-rust it.
+There are a couple of things that will aid Drip, he can travel off the top/bottom/edge of the screen and re-appear at the other side, stars occasionally appear on the screen and these give him a shield which kills enemies on contact, and then there are the party balloons. Balloons are essential on some levels, catching one allows Drip to float around the screen free of the pipe network, thus he can bypass his pursuers but more importantly he can reach pipe sections that are not connected to the rest of the network.
+
+The game has sixteen levels which appear in a random order apart from the final boss level. The levels are themed Acid, Ice and Fire and are coloured green, blue and orange accordingly. 

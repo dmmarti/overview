@@ -1,0 +1,1 @@
+Includes options to change the screen orientation, and a jukebox feature that can be used when the DS is closed.The 15 games are: Contra Gradius Time Pilot Scramble Rush 'n' Attack Horror Maze Po

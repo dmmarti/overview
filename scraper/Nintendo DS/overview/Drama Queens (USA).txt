@@ -1,0 +1,1 @@
+Drama Queen est un jeu de gestion sur DS dans lequel vous devez tout faire pour devenir la reine du lycée. Pour cela vous devez devenir populaire, acheter des robes pour épater la galerie, signer des autographes, entretenir de bonnes relations avec vos amis et trouver un petit ami pour avoir la chance d'être élue reine de la promo.

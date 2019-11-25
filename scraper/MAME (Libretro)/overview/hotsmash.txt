@@ -1,0 +1,1 @@
+Hot Smash (c) 1987 Taito.  - TECHNICAL -  Game ID : B18  Main CPU : Z80 (@ 6 Mhz), M68705 (@ 2 Mhz) Sound Chips : AY8910 (@ 1.5 Mhz), Custom (@ 1.5 Mhz)  Screen orientation : Vertical Video resolution : 224 x 256 pixels Screen refresh : 60.00 Hz Palette C

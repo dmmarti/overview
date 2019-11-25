@@ -1,0 +1,1 @@
+Pro Soccer (c) 1983 Data East.  - TECHNICAL -  DECO Cassette System hardware [Cassette No.33]  Main CPU : M6502 (@ 750 Khz), M6502 (@ 500 Khz), I8X41 (@ 500 Khz) Sound Chips : (2x) AY8910 (@ 1.5 Mhz)  Players : 2 Control : stick Buttons : 2  - TRIVIA -  R

@@ -1,0 +1,1 @@
+Cogans Run is a 2D side scrolling action game, a little similar to Impossible Mission. The player controls an agent, who must find a control terminal. He fights against various robots, but has limited ammo. The main aspect of the game is using teleporters, elevators and switches on the walls in order to unlock certain paths and go further.

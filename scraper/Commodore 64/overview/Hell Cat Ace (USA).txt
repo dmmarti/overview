@@ -1,0 +1,1 @@
+A classic 1st person flight simulation similar to Ace of Aces. In several missions you have to shoot down Japanese fighters and bombers. Through the front cockpit window you can see the sky and the ocean. Below the cockpit view is the instrument panel with engine power, altitude, fuel and your ammunition-counter. Through the rear window you can see the enemies on your tail.

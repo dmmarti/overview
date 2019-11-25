@@ -1,0 +1,4 @@
+Doki Doki Penguin Land MD is a 16-bit remake of the classic Master System puzzle game Penguin Land. The player controls a penguin who must get an egg from the top of each stage to the bottom, where his girlfriend is waiting for him. The player must break ice blocks to open a path, but if the egg falls too far, it will break. There are numerous hazards that the player must watch out for, including moving platforms, solid iron blocks, blocks that will break as soon as the egg touches them, moving spikes, and tubes through which only the penguin or the egg can pass. 
+ 
+The player can also find special items to help out; hearts will increase the bonus score, wings let the penguin jump higher, and iron eggs let the egg fall further without breaking. There are a total of 30 puzzles to solve, with a password given every five stages. The game also lets you pause the game to view the entire map, as well as set a waypoint to return to should the egg break. 
+ 

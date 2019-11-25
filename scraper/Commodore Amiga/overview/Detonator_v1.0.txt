@@ -1,0 +1,3 @@
+Detonator is a Breakout variant with 50 levels. The player controls a paddle at the bottom of the screen which can be moved left and right and is used to bounce a ball into the playfield (respectively keep it from falling down).
+
+The goal is to clear the field of all destroyable blocks in it which is accomplished when the ball hits them. Some blocks have to be touched multiple times before they break (this in indicated by changing colours) and others leave behind extras which float towards the bottom and have to picked up to activate them. Examples include a bigger paddle, a laser, multiple balls at the same time or the computer taking control over the paddle for a short time.

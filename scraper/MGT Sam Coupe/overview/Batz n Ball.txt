@@ -1,0 +1,1 @@
+An arkanoid-styled game. Fast, smooth and staggeringly difficult, with lots of power-ups and other features. 150 levels plus bonus screens.

@@ -1,0 +1,1 @@
+You are a robber, whose goal is to collect bags of money in each of the three scenes and dump them in your wheelbarrow, while avoiding miners and moving railcars. You can deal with the miners by using a pickaxe to knock them unconscious for a few seconds.

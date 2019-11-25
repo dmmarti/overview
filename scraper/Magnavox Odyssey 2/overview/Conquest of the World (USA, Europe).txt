@@ -1,0 +1,7 @@
+Players choose to play as one of 43 countries and make it their homeland. Each country's military and diplomacy power is reflected by its real life counterpart during the early 1980's. Each country's relationship with one another is also reflected by how it is in real life. 
+ 
+Gameplay involves the use of a gameboard. Gameplay done on the game board contains information which is then entered into the Odyssey 2 for it to handle. Inside the game itself, players do battle by land, air, and sea. Battles involve players controlling either a jet (air force), tank (army), or a submarine (navy) and then battling the other players jet, tank, or submarine. These vehicles are dependent on supplies which are displayed as energy units. Every shot fired and movement made drains the players energy units. The battle ends when all the energy units run out. These combat results are then recorded on the gameboard, which then spurs further entries into the Odyssey 2. 
+ 
+Every battle won and alliance made will increase a country's power. The country with the most power at the end of the game wins. 
+ 
+Besides the gameboard map itself, the game also comes with a 100 power base unit indicators, a Homeland Marker, and six sets of Conquest/Alliance markers. 

@@ -1,0 +1,1 @@
+Super Spacefortress Macross II (c) 1993 Banpresto.  - TECHNICAL -  Main CPU : 68000 (@ 10 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM2203 (@ 1.5 Mhz), (2x) OKI6295 (@ 24.242 Khz)  Screen orientation : Horizontal Video resolution : 384 x 224 pixels Scr

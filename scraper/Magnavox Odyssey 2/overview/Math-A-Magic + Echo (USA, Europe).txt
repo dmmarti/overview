@@ -1,0 +1,1 @@
+Math-A-Magic! is an "electronic arithmetic teacher". The player can chose up to three variations of mathematical games.In the first variation, the player will have to solve regular math problems. He first chooses th 

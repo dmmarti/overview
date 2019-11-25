@@ -1,0 +1,1 @@
+A cartoony horizontally scrolling shooter from Namco.

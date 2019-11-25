@@ -1,0 +1,1 @@
+The game uses a mat to play mini-games. The game-mat is different from the mat that is used in Dance Dance Revolution. Sports such as:      Kiteboarding      Rock Climbing      Skateboarding      Inline Skating      Street Luge      Basejumping      BMX      Wakeboarding      Acrobatic Double Dutch Skipping      Mountain Biking      Go-Karting

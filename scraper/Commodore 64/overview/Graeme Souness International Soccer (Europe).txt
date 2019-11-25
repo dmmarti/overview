@@ -1,0 +1,1 @@
+Graeme Souness International Soccer is a football game played between 1 or 2 players. Options available are length of half, number of players and the colours of the teams playing. The game is viewed from above at an elevated angle with a part of the pitch shown. The joystick controls the player nearest to the ball and the fire button either shoots/pass or slide tackles.

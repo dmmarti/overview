@@ -1,0 +1,3 @@
+Eliminate Down is a horizontally-scrolling shooter similar in style to Thunder Force. The player has several weapons that can be freely switched (forward shot, back shot, and missile), and can also change the speed of the ship. Enemies come from all directions, and certain waves will drop powerups, including shields and weapon upgrades. The player needs to collect five upgrades in order to improve their weaponry, but the upgrade affects all three weapons. 
+ 
+The game includes eight stages, most of which include both a midboss and a boss at the end, and three difficulty settings. There is also a minigame similar to Whack-a-Mole where there is a grid of ship icons, and the player must hit the rotating ships. 

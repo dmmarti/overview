@@ -1,0 +1,1 @@
+Space Seeker (c) 1981 Taito.  - TECHNICAL -  Taito SJ System hardware Prom Stickers : EB01-15  Main CPU : Z80 (Number : AA017805) (@ 4 Mhz) Sound CPU : Z80 (Number : LE070003) (@ 3 Mhz) Sound Chips : (4x) AY8910 (@ 1.5 Mhz), DAC (@ 1.5 Mhz)  Players : 2 C

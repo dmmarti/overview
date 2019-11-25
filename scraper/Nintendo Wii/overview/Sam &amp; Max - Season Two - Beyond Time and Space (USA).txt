@@ -1,0 +1,1 @@
+Season Two builds on Season One with more dynamic NPCs, an updated engine, a hint system, support for widescreen monitors, more realistic animations, and more mini-games within each episode. Season Two features a calibration assistant when first run, which allows the player to set their graphics and difficulty settings before playing

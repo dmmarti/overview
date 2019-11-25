@@ -1,0 +1,1 @@
+An angry lion is throwing bombs to a peaceful elephant. Playing the elephant, you have to spit water to bombs to defuse them before they explode. Misses: one miss per exploded bomb. Three misses and game ends. 10 points are awarded when the elephant successfully defuses a bomb. All bombs are cleared at every 1000 points. Maximum displayed score is 9999. 

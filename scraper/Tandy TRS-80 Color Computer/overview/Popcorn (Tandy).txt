@@ -1,0 +1,1 @@
+The object of this game is to use your paddles to catch as many of the falling popcorn kernels as possible, before they hit the bottom of the popper. You are awarded points for every kernel you catch. The more  kernels you catch, the faster the remaining kernels will fall!

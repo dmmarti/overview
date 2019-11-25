@@ -1,0 +1,1 @@
+Star Goose a top-down space shooter in which you move through a semi-3D environment shooting rounds and missiles at your enemies. Occasionally, the player can enter a tunnel and collect upgrades (ammo, shield or fuel) by climbing the walls of the tunnel to run into powerups.

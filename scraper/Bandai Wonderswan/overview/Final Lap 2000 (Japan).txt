@@ -1,0 +1,13 @@
+Final Lap 2000 is the first hand-held incarnation of Namco's Final Lap racing games.  
+ 
+This version presents a number of modes, a track building feature, and only one vehicle; an open-wheel car. 
+ 
+The modes are as follows: 
+ 
+1. World Tour: in the mode the player will compete against five other racers and progress through many tracks located around the world. Although the graphics are not very descriptive of location, the course's shape and curves will always change. 
+ 
+2. Arcade: in this classic mode you'll race against a single opponent through one of the many global tracks of your choosing. 
+ 
+3. Time Trial: here the player will attempt to make the best time on a course of his choosing. The player is the only car on the track for this mode. 
+ 
+The track editing feature can only be used to make simple tracks at the start of the game; however, playing the World Tour will unlock new track parts based on your performance. Using the communication cable players can transfer tracks between different copies of Final Lap 2000. 

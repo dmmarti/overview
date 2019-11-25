@@ -1,0 +1,1 @@
+A timed game where a penguin rolls spheres across a table attempting to hit its opponent for points. The character with the fewest spheres on its side of the table at the end of the match is the winner.

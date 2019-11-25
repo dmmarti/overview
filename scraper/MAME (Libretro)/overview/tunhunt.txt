@@ -1,0 +1,1 @@
+Tunnel Hunt (c) 1979 Atari.  - TECHNICAL -  Game ID : 136000  Main CPU : M6502 (@ 2 Mhz) Sound Chips : (2x) POKEY (@ 1.2096 Mhz)  Screen orientation : Vertical Video resolution : 240 x 256 pixels Screen refresh : 60.00 Hz Palette colors : 16  Players : 1 

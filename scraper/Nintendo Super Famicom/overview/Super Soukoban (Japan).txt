@@ -1,0 +1,5 @@
+Super Sokoban (or Soukoban) is a puzzle game in which the player must push crates around a maze to their designated storage area, ensuring they do not accidentally push a crate into a position where it cannot be recovered. Thinking Rabbit created the original game in 1982 on home computers, and Super Sokoban is the first Super Famicom game to follow the same blueprint. 
+ 
+The intro establishes that the eponymous Sokoban, or warehouse worker, must perform enough box-pushing puzzles to earn enough cash for a flashy new car so that he might finally impress the girl of his dreams. 
+ 
+An added wrinkle is that each stage has a fixed move limit, and so the player must not only push the boxes in the right order but do so with maximum efficiency. The game was not released outside of Japan. 

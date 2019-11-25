@@ -1,0 +1,1 @@
+ Budget release of Assassin which was updated. The main player now has an arm LASER instead of the boomerang weapon in the first game, a mission was cut and layout and pick-ups were updated.

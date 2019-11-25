@@ -1,0 +1,1 @@
+Kyuukai Douchuuki (c) 1990 Namco.  - TECHNICAL -  Namco System 2 hardware Game ID : KY  Main CPU : (2x) 68000 (@ 12.288 Mhz), M6809 (@ 3.072 Mhz), HD63705 (@ 2.048 Mhz) Sound Chips : C140 (@ 21.39 Khz), YM2151 (@ 3.57958 Mhz)  Screen orientation : Horizon

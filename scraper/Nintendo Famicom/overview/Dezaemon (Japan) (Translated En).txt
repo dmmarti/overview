@@ -1,0 +1,1 @@
+Dezaemon is a game designing application that lets aspiring developers create their own vertical scrolling shoot-'em-up. Players have control over how their ship looks, design how their levels (up to three) will look, and also create a title screen. Playe 

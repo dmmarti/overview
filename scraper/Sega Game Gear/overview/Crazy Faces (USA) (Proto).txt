@@ -1,0 +1,1 @@
+Crazy Faces has the user push tiles around a screen in an attempt to make pictures in the fastest possible time. Pictures involve popular video game IPs owned by Domark at the time, as well as some by Sega (namely Sonic the Hedgehog). The prototype has no music. 

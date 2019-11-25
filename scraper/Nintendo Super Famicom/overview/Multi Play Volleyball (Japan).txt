@@ -1,0 +1,1 @@
+The player controls a national volleyball squad (i.e., Cuba, USA, Canada, Brazil) as the play controls the entire team using an overhead view. Since indoor volleyball is simulated instead of beach volleyball, all matches take place on hardwood. 

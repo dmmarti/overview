@@ -1,0 +1,1 @@
+An conversion of Seibu Denshi's arcade classic Scion. It's a basic vertical shooter. Shoot the alien space ships while destroying the ground structures. To continue to the next scene the ground structures need to be completely destroyed. 

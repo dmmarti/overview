@@ -1,0 +1,2 @@
+XDR is a horizontal scrolling shooter in the mold of Gradius, featuring upgradable weapons and six stages of shooting action. The game features a vague science fiction theme, and includes six stages with a boss at the end of each. There are three difficulty settings. 
+ 

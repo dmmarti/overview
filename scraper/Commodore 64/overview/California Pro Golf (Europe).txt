@@ -1,0 +1,1 @@
+California Pro Golf is a golf game featuring two courses with 18 holes each. The hitting mechanics are similar to Leader Board. It is important to figure in the wind and to use the correct club which can be chosen out of 14. When hitting, the game is played in a 3D third-person perspective, but there is also an overhead map which can be used to get an overview of the course.

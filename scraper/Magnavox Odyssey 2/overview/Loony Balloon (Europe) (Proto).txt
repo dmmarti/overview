@@ -1,0 +1,17 @@
+In Loony Balloon, the player controls a kid carrying a swaying balloon crossing a playground. To get out of the playground, he must reduce the balloon's sway, or it will burst when he crosses the exit. To do so, he must earn 50 points by playing in the various amusements of the playground. 
+ 
+There are four kinds of amusements: a rocking horse, a slide, a roundabout and trees. The boy will also find threats to his balloon along the way, like birds that will cross the screen from left to right, trying to burst it, and sudden gusts of wind, which will take the balloon out from the boy's grasp if he stands still for too long. 
+ 
+The boy can release the balloon at any time and grab it again by its string (by pressing the action button). If the balloon hits a wall, it will burst and the game is over. The longer the game is played, the quicker the balloon rises if released. 
+ 
+The player scores: 
+ 
+1. 2 points by catching the balloon; 
+2. 5 points by playing at a tree; 
+3. 7 points by playing at the rocking horse; 
+4. 8 points by evading a bird; 
+5. 10 points by playing at the slide; 
+6. 12 points by playing at the roundabout; 
+7. 25 points by leaving the playground. 
+ 
+There are 10 difficulty levels. From levels 0 to 4, the playground layout is fixed. From levels 5 to 9, the walls in the playground will appear, disappear and change places. 

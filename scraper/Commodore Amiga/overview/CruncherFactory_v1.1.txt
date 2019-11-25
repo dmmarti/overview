@@ -1,0 +1,3 @@
+Cruncher Factor is a Pac-Man variant. The player commands a cruncher (which looks exactly like Pac-Man) and steers him through non-scrolling labyrinths shown from the side. On every place not occupied with a wall are pills which have to be eaten by rolling over the field they are on. There are also ghosts which cause the player to lose a life when touched - at least until the cruncher eats a special ball which causes him to eat the ghosts. A level is won when all balls are eaten.
+
+The game features 100 levels, a level editor (can be also used to change the existing levels) and a two-player mode.

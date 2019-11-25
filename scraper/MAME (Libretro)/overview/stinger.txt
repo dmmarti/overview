@@ -1,0 +1,1 @@
+The game consists of traveling around a space fortress meanwhile shooting aliens and spaceships. An object called 'Bongo' could be used as a defense method. This object will shoot itself to the enemies for a few seconds.

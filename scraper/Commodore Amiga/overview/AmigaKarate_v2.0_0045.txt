@@ -1,0 +1,5 @@
+Karate is a 2D one-on-one fighting game similar to World Karate Championship. The player controls a karate fighter through different stages that become more difficult over time. Fights take place against a single opponent and the health bars of the two are shown near the top of the screen. The character starts with three lives and additional ones can be gained by reaching certain scores.
+
+When holding a button or key pressed the controls include moving backwards and forwards, jump, duck, high punch and mid punch, front somersault and block. When that button or key is released the controls offer turning, high kick, mid kick, low kick, high back kick, jump kick, foot kick and back somersault. Fights are fast-paced and require a lot of hit and run tactics.
+
+On the Sinclair QL the game can be played with up to four players, taking turns.

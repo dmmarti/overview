@@ -1,0 +1,1 @@
+Wally wo Sagase! (c) 1992 Sega.  - TECHNICAL -  Sega System 18 hardware  Main CPU : 68000 (@ 10 Mhz) Sound CPU : Z80 (@ 8 Mhz) Sound Chips : (2x) YM3438 (@ 8 Mhz), RF5C68 (@ 10 Mhz)  Players : 3 Control : trackball Buttons : 3  - TRIVIA -  Released in Jun

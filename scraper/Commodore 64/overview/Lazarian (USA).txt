@@ -1,0 +1,1 @@
+In Lazarian, the player controls a space ship going through missions to rescue other space ships which have become stranded. In doing so the player will have to shoot at flying meteorites, aliens, and flying eyes. The player's space ship can be killed by being hit by meteorites and getting shot by aliens or cannons.

@@ -1,0 +1,1 @@
+The player takes control of big nosed Werner (a popular comic character in Germany) who struggles to retrieve beer bottles whilst avoiding falling boulders and getting stuck. The game plays similar to classic 2D platformers Boulder Dash and Mr.Do upon which Werner is based. The name of the game 'Flasch Bier' translates loosely to Bottle O' Beer

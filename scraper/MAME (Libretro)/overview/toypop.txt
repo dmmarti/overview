@@ -1,0 +1,1 @@
+Toypop (c) 1986 Namco.  - TECHNICAL -  Game ID : TP  Main CPU : M6809 (@ 1.536 Mhz), 68000 (@ 6.144 Mhz) Sound CPU : M6809 (@ 1.536 Mhz) Sound Chips : Namco 8-channel WSG  Players : 2 Control : 4-way joystick Buttons : 1  - TRIVIA -  Toypop was released i

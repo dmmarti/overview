@@ -1,0 +1,1 @@
+Megatouch 5 (c) 1997 Merit.  - TECHNICAL -  Main CPU : Z80 (@ 6 Mhz)  Palette colors : 256  - SERIES -  1. Megatouch 2. Megatouch II 3. Megatouch III (1995) 4. Megatouch III Tournament Edition (1995) 5. Megatouch IV (1996) 6. Megatouch IV Tournament Editi

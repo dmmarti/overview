@@ -1,0 +1,1 @@
+Tenkomori Shooting (c) 1998 Namco.  - TECHNICAL -  Namco System 12 hardware Game ID : TKM  Main CPU : PSX (@ 16.9344 Mhz), H8/3002 (@ 14.7456 Mhz) Sound Chips : C352 (@ 14.7456 Mhz)  Screen orientation : Vertical Video resolution : 480 x 640 pixels Screen

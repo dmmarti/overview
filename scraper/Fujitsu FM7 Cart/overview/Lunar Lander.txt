@@ -1,0 +1,3 @@
+Lunar Lander is one of many variants on a moon landing theme.
+
+The player controls a small lunar modules, whose goal is to land on one of the few safe flat plains on the moon's surface. The player has limited fuel, and receives points for each successful landing they make. The player controls vertical and horizontal thrust, with gravity continuously pulling the vessel downward. The player is awarded points based upon the difficulty of each landing site. If the player makes contact with the ground too fast or on uneven terrain, their lander is lost.

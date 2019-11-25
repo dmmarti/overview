@@ -1,0 +1,11 @@
+Sonic Eraser is a puzzle game very similar to Columns that features Sega mascot Sonic the Hedgehog. Pieces in different arrangements drop into a well; if two or more matching pieces touch, they disappear and the above pieces fall to take their place. There are four different single-player game modes: 
+ 
+1. Round: Each stage starts with pieces in the well already. There are several spinning green pieces, which must all be destroyed to finish the stage. 
+ 
+2. Normal: A standard endless mode in which the game speed continually rises as matches are made. 
+ 
+3. Doubt: No white-colored blocks will appear in the drop formations, but often a random block in the formation will change to a white block after it is placed. 
+ 
+4. Block: Similar to Normal mode, but blocks will not fall out of formation until a match is made, allowing for impressive clear combos. 
+ 
+These modes can be played either single player or two-player simultaneous on separate fields. There is also a versus mode for one or two players, in which creating a combo of three or more clears will attack the opposing player, which causes them to lose control of their pieces for a short time. 

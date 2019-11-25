@@ -1,0 +1,8 @@
+The Finnish game programmer Stavros Fasoulas made a game called Galactic, which slightly resembled Bubble Bobble mixed with the gameplay of Robotron. Fasoulas never found a publisher for the game, so finally published a slightly unfinished Christmas edition of the game on the coverdisk of The ONE magazine, January Issue 1994, Disk A.
+
+The game included two versions.
+
+    A standard A500 ECS game, requiring 1MB of Ram.
+    An enhanced "A1200" version, which while also ECS, required 2MB of Ram.
+
+An updated version called, Galactic X-mas Remix 95 was later released in 1995 under the developers own publishing name, Santasoft.

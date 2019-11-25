@@ -1,0 +1,3 @@
+Mickey's Memory Challenge is a puzzle / educational game. It stars Mickey Mouse and several other Disney characters make guest appearances.
+
+The game itself is a simple but colorful matchmaker game. Eight upturned cards are presented to the player, who can only turn two at a time. The goal is to find the missing couple of every card.

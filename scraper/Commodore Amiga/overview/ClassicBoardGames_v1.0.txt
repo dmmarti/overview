@@ -1,0 +1,5 @@
+Cllassic Board Games is a collection of three classic board games to be played against a remote opponent via modem or null-modem. It can also be played taking turns at the same computer.
+
+The games in question are chess, checkers and backgammon. The graphics are colourful, and can be seen both in 3-d from several perspectives as well as in a flat view from straight above. The package contains a phone book to keep track of remote opponents.
+
+On the CDTV version only local multiplayer is possible. Another difference is that it features spoken directions on how to play the game. These are recorded in six different languages: English, German, Japanese, French, Spanish and Italian.

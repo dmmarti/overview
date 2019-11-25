@@ -1,0 +1,1 @@
+Move a busy man in pyjamas around the house to save sleepwalkers. When a sleepwalker gets awaken, one miss is scored. Five misses and game ends. 1 point is scored for each safe sleepwalker. Maximum displayed score is 9999. 

@@ -1,0 +1,4 @@
+This game is based in real taekwondo, using it's real attacks and tournament rules, each character (there are 19) has his own specialities and you can make your personalized fighter (abilities,aspect,procedence...) the fighter control is real simple, the diferent attacks are toggled just by pressing a direction in your pad and some button (forward+b for example) 
+There are 4 game modes: Tournament, v.s, tag battle by turns, and practice. 
+This game is only in japanese and korean. 
+ 

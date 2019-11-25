@@ -1,0 +1,1 @@
+Japanese professional baseball game with fake player names. This is the arcade version of the popular NES baseball game.

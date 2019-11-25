@@ -1,0 +1,3 @@
+A baseball simulator, Exciting Baseball follows Exciting Billiards and Exciting Basket (better known as Double Dribble in the West) in Konami's series of sports games for the Famicom Disk System. 
+ 
+Like the others in the Exciting series it's a straightforward exemplar of its particular sport. It doesn't have the flair of the original two Exciting games, as it never had an Arcade antecedent. 

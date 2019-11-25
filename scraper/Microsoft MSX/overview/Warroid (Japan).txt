@@ -1,0 +1,3 @@
+Warroid is a game that pits two players (or one player and the AI) against each other in a robot versus robot fight. The objective: shoot the enemy warroid until it has no energy left. Destroying the enemy warroid will give the player one point on the six-point scale (the player starts out with three points each). When all points are lit in the player's color, the player wins the game. Controlling the warroid is easy, since it will always point its gun towards the enemy droids. Just push the space key to shoot a lot and jump away from the line of fire. There are multiple platform-like levels for the player to fight in. 
+ 
+A menu (called up by pressing the escape key) will let the player customize the game so as to set handicap and the colours of the player's warroids. 

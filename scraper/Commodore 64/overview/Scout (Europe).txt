@@ -1,0 +1,1 @@
+Side scrolling shoot-em-up featuring a jumping buggy-like craft fighting aliens across eight levels. With your spaceship in parts scattered across eight planets, pilot your scout capsule to find the pieces and return home. Between you and the wreckage are a host of nasty aliens. In order to survive you need to shoot the aliens, gather up the pieces and then head for home.

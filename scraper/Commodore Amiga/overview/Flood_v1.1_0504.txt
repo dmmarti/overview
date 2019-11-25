@@ -1,0 +1,1 @@
+ Flood is a side-scrolling platformer in which the player takes control of Quiffy, a strange amphibious creature, on his quest to stop the flooding of his underground world. The gameplay is familiar it is a platformer afterall, but there are some novel ideas, such as Quiffy's ability to cling to walls and ceilings.

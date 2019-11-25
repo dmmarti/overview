@@ -1,0 +1,1 @@
+Hat Trick is a two-on-two hockey game. Each player controls a goalie and a skater. The object is to shoot the puck into the opposing teams goal. Each game lasts two minutes.

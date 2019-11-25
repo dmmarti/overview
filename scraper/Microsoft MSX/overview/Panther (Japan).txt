@@ -1,0 +1,1 @@
+Your steer a tank at the bottom of the screen. You have to defend the city, which is behind you. From the top of the screen enemy tanks run down into your direction and try to destroy the city. 

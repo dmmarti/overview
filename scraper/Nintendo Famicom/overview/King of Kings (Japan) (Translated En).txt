@@ -1,0 +1,1 @@
+This cartridge contains three adventures. Your life meter is displayed as scrolls and when you are hit, you lose a half a scroll. When all the scrolls are gone, your game is over. You can collect additional scrolls in the game but to get the scroll, you w

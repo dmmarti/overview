@@ -1,0 +1,1 @@
+Spatter is a fast-moving maze-chase game in which the player takes on the role of a tricycle-pedalling child out collecting flowers, while trying to avoid collisions with the numerous enemies giving chase.

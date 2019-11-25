@@ -1,0 +1,1 @@
+A "Space Invaders" style shoot'em up. Defeat Battle after Battle and destroy the Monster Ship and the hordes of aliens.

@@ -1,0 +1,1 @@
+Train tennis by playing with your coach. Move the player left and right to get all balls. When a ball falls on the ground, a chance is missed. Three misses and game ends. 10 points are scored each time a ball is hit. a quick rest is awarded at every 1000 points. Maximum displayed score is 9990. 

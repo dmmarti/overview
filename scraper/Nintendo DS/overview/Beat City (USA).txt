@@ -1,0 +1,1 @@
+Beat City est un jeu de rythme sur DS dans lequel vous devez battre la mesure ou suivre un tempo au fil des 20 mini-jeux musicaux. Vos prouesses permettront de sauver la ville sous l'emprise de Dame Isolde Minor et de sa Cacophony Corporation.

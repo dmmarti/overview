@@ -1,0 +1,13 @@
+In Chinese Logic the player has to move a sequence of numbers (9 to 0) from the point A of a pattern of lines to point D (or B in the variations). The numbers must be placed in point D in the same descending order. There are two other points to which the numbers can be moved, B and C. 
+ 
+If one or more numbers are parked in one of the points, the player can only additionally move to that point numbers which are lower than the last one already parked. The numbers can be moved one by one only and to do so the player has to type the letter of origin and then type the destiny letter. Moves can be undone by pressing the "clear" key. 
+ 
+The computer keeps track of the time elapsed and the number of moves made by the player, also showing the minimum amount of moves to solve the puzzle. There are 9 other possible variations, with the difference of having the way to point D blocked and different amounts of numbers to move. Those variations can be selected by pressing "reset" and the desired number, as follows:one figure - minimum number of moves: 1 
+2. two figures - minimum number of moves: 3 
+3. three figures - minimum number of moves: 7 
+4. four figures - minimum number of moves: 15 
+5. five figures - minimum number of moves: 31 
+6. six figures - minimum number of moves: 63 
+7. seven figures - minimum number of moves: 127 
+8. eight figures - minimum number of moves: 255 
+9. nine figures - minimum number of moves: 511 

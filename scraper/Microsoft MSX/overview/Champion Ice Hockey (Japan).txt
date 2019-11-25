@@ -1,0 +1,2 @@
+A basic top down view ice hockey game in Sega's Champion sports series. 
+You can play an ice hockey match at three difficulty levels: amateur, semi-professional and professional. A referee is present at the start and during foul play. A match takes 20 minutes, this duration can not be altered. 

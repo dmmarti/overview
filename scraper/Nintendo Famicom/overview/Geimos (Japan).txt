@@ -1,0 +1,1 @@
+Geimos is an arcade style space shooter where players take control of a spaceship that flies over several different planets' surfaces destroying the incoming enemy units. The game contains two different game modes. "Mode A" keeps the games camera perspect 

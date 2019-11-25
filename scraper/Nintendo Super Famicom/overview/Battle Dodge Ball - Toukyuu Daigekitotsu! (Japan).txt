@@ -1,0 +1,1 @@
+A crossover combat dodgeball game featuring characters from Mobile Suit Gundam, Ultraman and Kamen Rider. Similarly to Technos's Super Dodge Ball, each combatant has a health meter which depletes whenever they are hit by the dodgeball. Stronger throws cause more damage and once a character's HP is depleted, they leave the arena. 

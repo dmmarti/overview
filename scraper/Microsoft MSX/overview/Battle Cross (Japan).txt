@@ -1,0 +1,1 @@
+A basic shooter where you fly a space ship and have to shoot fleets of ships that fly in from both sides of the screen and loop around in formation. While battling space ships you must avoid crashing on to a rock formations. 

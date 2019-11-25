@@ -1,0 +1,1 @@
+Reaktor (c) 1987 Zilec.  - TECHNICAL -  Main CPU : Z80 (@ 3.072 Mhz), Z80 (@ 3.579545 Mhz) Sound Chips : DAC (@ 3.579545 Mhz), SN76496 (@ 1.789772 Mhz), VLM5030 (@ 3.58 Mhz)  Palette colors : 32  Players : 1 Buttons : 1  - SOURCES -  Game's rom.

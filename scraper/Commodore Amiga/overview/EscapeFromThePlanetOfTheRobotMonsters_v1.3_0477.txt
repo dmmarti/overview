@@ -1,0 +1,1 @@
+ Based on the arcade game, in Escape from the Planet of the Robot Monsters you are sent in on a rescue mission to Planet X. This planet has been taken over by robots and you must find and evacuate the remaining humans.  It's a shooter similar to Gauntlet, only with an isometric viewpoint. You run around the levels shooting robots, rescuing humans and picking up items.

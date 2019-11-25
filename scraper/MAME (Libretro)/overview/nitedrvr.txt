@@ -1,0 +1,1 @@
+Night Driver is a simple two-dimensional driving game. Your perspective is from behind the wheel of the car as you drive down the highway.

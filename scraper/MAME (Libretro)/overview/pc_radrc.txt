@@ -1,0 +1,1 @@
+Rad Racer (c) 1989 Square.  - TECHNICAL -  Nintendo PlayChoice-10 hardware Game ID : RC  Main CPU : Z80 (@ 4 Mhz), N2A03 (@ 1.789772 Mhz) Sound Chips : N2A03 (@ 1.789772 Mhz), DAC (@ 1.789772 Mhz)  Screen orientation : Horizontal Video resolution : 256 x 

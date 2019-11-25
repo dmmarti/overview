@@ -1,0 +1,1 @@
+Starship 1 (c) 07/1977 Atari.  - TECHNICAL -  Game ID : 007513-007531  Main CPU : M6502 (@ 750 Khz)  Screen orientation : Horizontal Video resolution : 512 x 240 pixels Screen refresh : 60.00 Hz Palette Colors : 8  Players : 1 Control : stick Buttons : 3 

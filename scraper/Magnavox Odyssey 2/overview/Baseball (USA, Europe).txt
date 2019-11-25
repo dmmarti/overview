@@ -1,0 +1,1 @@
+the scoreboard at the lower left side of the screen indicate Balls, Strikes and Outs, in that order. Players on defense can control the outfielders with the joystick. D 

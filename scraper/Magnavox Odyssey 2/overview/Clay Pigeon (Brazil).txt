@@ -1,0 +1,1 @@
+As the name implies, Clay Pigeon! is a clay pigeon shooting game. At the left corner, a trap launches targets toward the shooter. The player controls the shooter which stands in the right corner of the screen.  In order to proceed to the next level, the p 

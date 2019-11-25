@@ -1,0 +1,1 @@
+Hen Pecked is a take on the arcade game Joust, but instead of knights, ostriches, and buzzards, you are a rooster trying to rule the roost. Flap your wings with the joystick and try to stay on top of the hens. Landing on them transforms them into eggs, which must be collected before they hatch into a new chicken.

@@ -1,0 +1,5 @@
+The black spaceman kidnapped Bomberman's beloved and brought her to his chambers in the castle, far beyond his reach, over the rivers, forest and mountains. Bomberman's job is to save her, battling the sea of the enemies, with only bombs at his disposal.
+
+The range of Bomberman's bomb explosions can be upgraded with time, but if he dies, the range resets back to the minimum range and Bomberman loses his previous skills. Some updates can make Bomberman walk through the walls, increase his speed, and give him some other assets to aid him in his quest to save the woman he loves.
+
+This top-down action-arcade game consists of nine levels per stage, each tougher than the other, and each final one consisting of the boss that will have to be dealt with. Bomberman can move horizontally and vertically and lay down bombs behind him, thus evaporating the enemies, but beware: Bomberman can block himself with his own bomb, and thus become a victim of his own bomb.

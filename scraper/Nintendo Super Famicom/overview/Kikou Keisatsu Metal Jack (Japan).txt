@@ -1,0 +1,3 @@
+Kikou Keisatsu Metal Jack is a scrolling brawler based on the anime of the same name. At the start of the game the player can choose from Red Jack, Silver Jack, or Blue Jack. Red and Silver both have weapons they can find ammo for in levels (a gun and baton, respectively), and all three can do a multiple hit combo or a jumping attack. At the end of a level the Jack will be met by his vehicle which will then merge with his armor. In this form the Jack's attacks are strengthened and he can charge up an attack that hits every enemy onscreen. 
+ 
+There is no story told at any point in the game, so if you want to know what's going on you'll have to track down the anime. 

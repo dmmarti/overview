@@ -1,0 +1,1 @@
+	Space Raiders is a Space Invaders clone. The player has three ships available and must destroy the invading alien army before they get to the Earth.

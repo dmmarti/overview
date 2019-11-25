@@ -1,0 +1,1 @@
+In Brat you must guide a baby, Nathan, through levels with features such as dynamite, bridges and holes. You do this indirectly, by specifying which direction he goes in, in a manner vaguely similar to Lemmings. You also tell him when to use objects in a simplistic manner similar to the Dizzy games. 

@@ -1,0 +1,1 @@
+Pit Boss II (c) 1988 Merit.  - TECHNICAL -  Main CPU : Z80 (@ 6 Mhz)  Palette colors  : 256  - SERIES -  1. Pit Boss (1983) 2. Super Pit Boss (198?) 3. Pit Boss II (1988) 4. Pit Boss Superstar (1989) 5. Pit Boss Megastar (1994)  - SOURCES -  Game's rom.

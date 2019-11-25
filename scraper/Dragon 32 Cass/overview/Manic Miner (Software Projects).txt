@@ -1,0 +1,1 @@
+The goal is to guide miner Willy through a series of caverns in his quest for fortune (and a high score). In each cavern he must collect all the keys to unlock the exit, and then make his escape before the air runs out. The caverns are populated by dangerous robots of quite amazing designs, and the platforms pose additional problems that must be solved.

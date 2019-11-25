@@ -1,0 +1,1 @@
+Welcome to pinball. Pinball is a realistic simulation of an arcade machine with the added option to design your own customized playfield.

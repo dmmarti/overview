@@ -1,0 +1,1 @@
+A "very different" type of Single-Player Real-Time Strategy game. Combining elements of strategy games and Japanese RPGs, it plays like nothing else out there.  Units move in real-time on a 2d world map, but combat takes place in a separate 3d side view (also in real time). At certain points in the game cut scenes reveal the story. It's even got brief anime cinematic sequences.

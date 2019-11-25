@@ -1,0 +1,1 @@
+Flipull is an arcade-logic game, where the main goal is to destroy as many blocks as possible on the playing field. The more blocks you destroy, the more points you build up. Going from level to level, the number of blocks increases as does the difficulty. The game contains more than 100 levels and also offers the ability to add new levels. The game supports multiple skins.

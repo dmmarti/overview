@@ -1,0 +1,13 @@
+Fighting games are generally interested in making a player hit a complex mash of buttons to perform pugilistic wonders. This game is however card based, how can that work? During a battle between two opponents a set of five moves will appear on a roulette. The player hits a button to stop the rotation of the selector to semi-randomly select a field. A higher number card will always cancels out a lower number card. Higher number cards also do more damage. Block cards and counter cards also exist. 
+ 
+A number of different attacks are available: combo cards pile up, allowing multiple cards to be selected until a combo card is reselected or a non-combo card is selected; juggling cards which allow for classic fighting game mechanics by allowing another attack after the first; charge cards allow the player to wait a turn to do extra damage should the player use an attack the next turn. 
+ 
+All cards have different visuals, and oft times different names, for different characters.  
+ 
+There are several game modes: a classic arcade battle where the player selects a character and a computer controlled character to face; an adventure mode where the player finds new cards and unlocks new character by defeating them; and a multiplayer vs. match for WonderSwan wielding humans. 
+ 
+The story mode plays on a 15x15 grid map covered with shrines, villages, and impassible mountains. You will only have a certain number of steps to make it to stage exit or you'll lose. Of course this Harshadic field is populated with a grave propensity of villains. Roving in the dark, for all the area of the world is obscured by 'fog' until the player walks there, are mysterious stormtroopers called Crow, Owl, Eagle. Also wandering the land are Tekken characters who hold long standing grudges against the player's character. Above it all in a high tower is the heinous Ogre, can he be defeated?  
+ 
+Along the way cards can be found that will increase the amount of moves that can be performed in combat. Sacred ziggurats exist, two per map, that will heal wounds and, if enough enemies have been defeated since the last shrine, a new form of attack card be obtained. These shrines may not be reentered.  
+ 
+Players may fight their friends or foes using the Communication Cable to connect two WonderSwans for a fight. 

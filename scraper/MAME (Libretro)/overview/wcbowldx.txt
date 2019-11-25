@@ -1,0 +1,1 @@
+Jeu de simulation de Bowling avec le point de vue du lanceur. Des efforts ont été fait pour ajouter des animations à l'issue des coups mais cela ne rattrape pas un jeu beaucoup trop simple en terme de contrôles. Dès que vous aurez trouvé le truc, plus un strike ne vous échappera. Dommage, les sons et les vues étaient plutôt réussies.  

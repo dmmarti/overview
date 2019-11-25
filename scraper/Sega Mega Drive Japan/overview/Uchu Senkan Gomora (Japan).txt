@@ -1,0 +1,6 @@
+Atlantal, a peaceful planet, has been attacked by an invading alien fleet known only as The Aggressors, leaving the capital city Delila in ruins. In order to sop The Aggressors, the people of Atlantal send the most powerful fighter ship on the planet, the bio-ship Gomorrah. 
+ 
+Uchu Senkan Gomorrah (Space Battle Ship Gomorrah) is a horizontally-scrolling shooter based on the 1990 coin-op of the same title. The player controls the titular ship, Gomorrah, which can shoot both straight forward as in most shooting games, as well as freely in any direction via an aiming cursor, which is controlled independently of the ship itself. Additionally, there are several power-ups that can be found, including speed-ups, additional mounted guns, and the life-up, which will not only increase the ship's armor, but also cause it to grow in size as well. 
+ 
+The game features 9 stages, each with a boss at the end, as well as one or two-player simultaneous play. The game difficulty has been rebalanced from the arcade to compensate for the lack of a trackball to control the aiming cursor; the player must stop their ship in order to move the cursor. 
+ 

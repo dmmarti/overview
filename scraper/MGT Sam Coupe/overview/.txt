@@ -1,0 +1,6 @@
+<provider>
+<System>MGT SAM Coupé</System>
+<software>Skraper</software>
+<database>ScreenScraper.fr</database>
+<web>http://www.screenscraper.fr</web>
+</provider>

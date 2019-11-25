@@ -1,0 +1,5 @@
+Eagle Fighter is a basic vertical shooter with a 3D effect. 
+You control a space craft that has to shoot and kill the alien invaders. 
+What this game makes different from many other shooters is that before you can shoot the aliens you have to get your space craft airborne and it must be in air before the end of the runway! 
+Once airborne, you can shoot all aliens. But remember, there is only a limited supply of fuel on board! You must shoot all aliens before you run out of fuel. 
+After you've shot all aliens you have to get your space craft back on the ground to refuel for another mission. 

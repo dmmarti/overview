@@ -1,0 +1,2 @@
+Move a busy thrash man around the street to clean banana peels. When a pedestrian falls on a banana peel, one miss is scored. Five misses and game ends. 
+1 point is scored for each safe pedestrian. 

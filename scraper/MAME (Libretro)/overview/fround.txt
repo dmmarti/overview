@@ -1,0 +1,1 @@
+Boxing Game. You play the role of Jabbin Jim who fights his way through different opponnents each tougher than the last. Some of the opponents are recognisable from the Rocky movies. Your boxer has three attributes: strength, speed, and staminia, and these all contribute to his overall power rating. The attributes can be improved by taking part in mini games between the rounds.

@@ -1,0 +1,5 @@
+In an authentic acre of the old west, two gunslingers (human or android) duel for their lives. Each one has six bullets in his gun, and trees are placed all around. 
+ 
+Each player has to hit his opponent ten times in order to win. At each hit, both players get their guns reloaded. They can also reload their guns anytime by taking the hidden bullets in the tree that matches their outfit. 
+ 
+The bullets will ricochet in the trees and the top and bottom edges of the screen, thus the players can hit themselves with their own bullets, scoring a hit to the opponent. It can also be used as a strategy to hit the opponent in a non direct trajectory. 

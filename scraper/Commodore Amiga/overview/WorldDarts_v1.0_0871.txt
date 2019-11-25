@@ -1,0 +1,7 @@
+Worl Darts AKA (180) is a darts simulation game and it follows the traditional darts rules where you compete against an opponent to see who scores the 501 points first on a best out of three sets.
+
+If you play against the computer in a Championship knockout competition the computer will randomly select the players out of eight different opponents. Each player has his own characteristics and style of play as their 'favorite doubles' they like to throw. Regardless against whom you play they will become better as you progress towards the final.
+
+A practice mode helps you to become familiar and more skillful at throwing the darts.
+
+The game can be played by one or two players.

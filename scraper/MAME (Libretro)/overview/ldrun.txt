@@ -1,0 +1,1 @@
+Lode Runner (c) 1984 Irem.  - TECHNICAL -  Irem M-62 system hardware  Main CPU : Z80 (@ 4 Mhz) Sound CPU : M6803 (@ 894.886 Khz) Sound Chips : (2x) AY8910 (@ 894.886 Khz), (2x) MSM5205 (@ 384 Khz)  Players : 2 Control : 8-way joystick Buttons : 2 =&gt; [A] D

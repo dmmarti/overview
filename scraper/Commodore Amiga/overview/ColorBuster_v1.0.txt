@@ -1,0 +1,1 @@
+ Color Buster is a puzzle game, that, like all classic puzzle games is easy to get into but hard to master. On each level, you have a goal: Push color boxes of same color together to unite them, then push the resulting box into the exit tile. Each level is time limited.

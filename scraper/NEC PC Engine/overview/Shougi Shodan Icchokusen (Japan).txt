@@ -1,0 +1,1 @@
+ Shōgi board game with a variety of characters.  		

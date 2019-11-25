@@ -1,0 +1,1 @@
+Senjyo is an arcade conversion and a basic vertical shooter. The player controls a tank that can only move left or right and has to shoot at aliens on the horizon. The aliens are moving towards the tank while shooting fire balls. On the right side of the screen the player can see how many aliens he has to shoot in a round to continue to the next. 

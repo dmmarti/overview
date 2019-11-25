@@ -1,0 +1,5 @@
+Metal Fangs is a unique futuristic battle driving game, where the player controls a team of racers and must attempt to destroy the competing team. Each "race" is made up of two heats of two parts each, and hits or kills on the other team earns points. During each heat, each team takes one turn attacking (four vehicles on the course) and one turn defending (three vehicles on the course). The team with the most points at the end of the last heat wins a reward and moves on to the next match. 
+ 
+However, your team won't get very far with just its basic equipment. After choosing your team's colors and members, you must then purchase upgrades for each person: engines, fuel, AI, armor, and of course weapons. During the game, you can switch freely between each member of your team. Your vehicle automatically moves forward around the track, but you can turn, throttle, and brake in order to move closer to or escape from the other team. 
+ 
+After each successful match there is a game of chance where winnings can be increased. There is also a two-player simultaneous battle mode. 

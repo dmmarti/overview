@@ -1,0 +1,1 @@
+ Slayer is a first-person action RPG using the ADandD 2nd Edition license and rules. Choose from the usual assortment of ADandD character races and classes and venture into randomly-generated dungeons, fighting monsters and finding items. Dungeon parameters and difficulty are customizable.

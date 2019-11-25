@@ -1,0 +1,1 @@
+Quasar (c) 1980 Zaccaria.  - TECHNICAL -  Main CPU : S2650 (@ 3.5795 Mhz) Sound CPU : I8035 (@ 400 Khz) Sound Chips : DAC (@ 400 Khz)  Screen orientation : Vertical Video resolution : 240 x 223 pixels Screen refresh : 50.00 Hz Palette Colors : 1024  Playe

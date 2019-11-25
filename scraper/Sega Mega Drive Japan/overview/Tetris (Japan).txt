@@ -1,0 +1,5 @@
+Tetris is one of many conversions of the famous block-stacking game, this one is based on the 1988 coin-op version produced by Sega. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which then disappear. As rows are cleared, the pace of the game increases and the background changes, and the game ends if the stack reaches the top of the well. 
+ 
+In addition to a standard endless mode for one or two players, the game also includes a "time trial" mode for one or two players, where the goal is to get as many points as possible in three minutes. There is also a "doubles" mode, where two players work together to fill lines in an extra-wide well, each controlling their own pieces simultaneously. 
+ 
+The game offers a number of standard options: setting the starting level, how much "garbage" is at the bottom of the well when the game starts, and whether the next piece is visible. There are also optional "item blocks," which are special flashing pieces that give an extra bonus if they are used to clear a line. 

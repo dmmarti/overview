@@ -1,0 +1,1 @@
+ Alien Swarm is a simple space shooter similar to Galaxian. The player controls a space ship and shoots aliens. The player's ship has unlimited ammunition, and is at the bottom of the screen, while the enemies come down from the top.

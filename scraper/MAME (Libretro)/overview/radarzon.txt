@@ -1,0 +1,1 @@
+El juego trata de ir completando el perímetro de varios polígonos para completar su superficie y sumar puntos, sin chocar con los puntos que te persiguen.

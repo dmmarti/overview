@@ -1,0 +1,6 @@
+The legend of the Valkyrie pilots is not yet over. Hikaru, Max, and Millia take flight to defend the earth from Zentraedi, robots, more robots, and giant space crab-bees. Now is the time to scramble Valkyrie again.  
+ 
+When starting a game or continuing the player picks from either Hikaru, Max, or Millia. Each flies a custom Valkyrie with its own set weapon load-out. A Valkyrie changes its weapon and movement speed by switching between its three forms: Fighter, Gerwalk, and Battroid. Typically the Valkyrie weapon shoots straight and quickly, the Gerwalk weapon shoots around or through obstacles, and the Battroid weapon does higher damage in exchange for reduced firing rate. Each weapon can be upgraded up to twice by picking up power up items dropped by special enemy ships, but one level of power up will be lost any time the Valkyrie is shot. If a Valkyrie's entire life bar is depleted then the full stage must be repeated, provided the player still has enough continues. 
+ 
+In a nod to Galaga the player is able to capture some enemy craft to increase their firepower. If the player does not shoot any weapons for a few seconds a field of electricity will cover the Valkyrie. Touching some enemy ships will then cause their targeting to be shorted out and make them friendly to the player, following along and shooting or ramming onscreen enemies. 
+ 

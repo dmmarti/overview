@@ -1,0 +1,1 @@
+Pachicom is a pachinko game simulation. Pachinko can be described as a game that is a cross between pinball and a slot machine. This game comes with two different game modes to play. Game A lets the player play until they attain a score of at least 3000.  

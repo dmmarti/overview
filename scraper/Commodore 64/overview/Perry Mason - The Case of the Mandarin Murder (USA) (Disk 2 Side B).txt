@@ -1,0 +1,1 @@
+The Case of the Mandarin Murder is a text adventure with graphics, based on the Perry Mason detective stories by Erle Stanley Gardner. A woman is in jail after her rich husband is found dead, and the skillful attorney Perry Mason must prove her innocence. The gameplay is influenced by Infocom's games in similar genre.

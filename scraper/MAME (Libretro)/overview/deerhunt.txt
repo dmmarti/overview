@@ -1,0 +1,1 @@
+An interactive shooting game where players stalk deer in the wilderness during hunting season.

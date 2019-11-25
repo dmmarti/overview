@@ -1,0 +1,1 @@
+One or two players can choose among three kinds of skiing competitions to play: Slalom, Giant Slalom and Down Hill. In the Slalom event, players must ski through 55 gates. The winner is the fastest player to conclude two runs down the courses. If a player 

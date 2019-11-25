@@ -1,0 +1,26 @@
+In a realm of feudal Japanese folklore the eponymous Ninja Jajamaru-kun must rescue his beloved Princess Sakura from the clutches of a fiendish catfish-faced pirate.  
+ 
+Jajamaru-kun begins on the bottom of a three tiered horizontal field. On each level of this field there are two enemies on each tier. The tiers have weak brick ceilings that Jajamaru-kun can break by jumping into them. Once a passage is made Jajamaru-kun can move through them as can enemies. To clear a level all enemies must be defeated, most enemies can be killed by having a shuriken thrown at them, the only weapon available without a power-up, some need to be stunned either by falling through a hole in a tier or by being jumped on. Enemy projectiles can also be canceled out by the shuriken. Being touched by an enemy projectile, or in a few cases an enemies body, will instantly kill Jajamaru-kun. After an enemy has been killed its spirit will ascend, you can grab this for extra points. 
+ 
+In each stage at the 80 seconds remaining mark Princess Sakura will, fittingly, drop a cherry blossom onto the field. This will float through the platforms and eventually slip off the bottom of the screen, unless the ninja intercepts this message from his love. Once three blossoms have been collected a bonus stage will occur. In the bonus stage the foe is the Pirate Lord on the top throwing fire down onto Jajamaru-kun below. Here shuriken can be thrown upwards. One hit kills the pirate and frees the princess. As the game progresses these bonus stages become more difficult adding clones of the wicked lord and more fire. 
+ 
+As the levels progress the new enemies, based on Japanese folklore, emerge. A new enemy will always appear as a "boss". This new enemy will be the only one of its kind on the top tier and all the other spirits will be comprised of the previous boss. The boss will be more intelligent than the other minions. After a spirit has been the boss for several stages it will become the standard minion and loss some of its difficulty. A new more difficult boss will then appear for the next few levels, and so on. 
+ 
+Items can be found occasionally by breaking a brick ceiling, the items in any give stage are randomized. Items once uncovered will remain until another ceiling is broken or are picked up. Items that alter the status of ninja have a transient effect. 
+ 
+The items in this game are: 
+ 
+1. Speed-up: This red ball will increase the determined ninja's speed, now he can get behind even the most cunning kami. 
+ 
+2. Ninja-cart: This little carriage can crush anything in it's path and move at incredible speeds, find this and your victory will be assured! 
+ 
+3. Shuriken: Finding this shuriken will increase the distance your deadly ninja stars can be thrown, snipe those oni. 
+ 
+4. Invisibility Potion: A highly potent blend capable of turning this ninja, if not totally invisible, into an invincible outline. 
+ 
+5. Inscribed Coins: These coins give additional points, different colors give different point valuations. 
+2. Extra Ninja: These little ninjas are extra lives, very rare! 
+ 
+6. Bombs: These two bombs can appear when a ceiling is cracked open. If the player is careless enough to jump into them after they are revealed he will surely meet his death. Enemies may pass through bombs with impunity. 
+ 
+7. Trusty Frog: The trusty frog is Jajamaru-kun's trusty steed, by getting three different items, or by gaining four lives, the frog will appear. 

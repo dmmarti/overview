@@ -1,0 +1,2 @@
+A continuation of the famous Donkey Kong Story. Now Mario has chained Donkey Kong. Donkey Kong Junior braves snapjaws, sparks and birds, throwing the key which will open Donkey Kong's locks, up to where his papa is held prisoner. Avoid sparks overhead and make Junior jump and throw key to upper screen. When a snapjaw attacks, make Junior jump without hitting overhead spark. When Junior reaches the upper screen, he has to jump to get the key he threw again. The key jumps to one of the four locks. 
+- Press top of "PLUS" button when on top of chain. A lock opens. 

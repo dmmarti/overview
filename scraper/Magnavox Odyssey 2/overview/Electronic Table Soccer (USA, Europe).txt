@@ -1,0 +1,1 @@
+As the name implies, this is a foosball game. One or two players control three rows of players: the goalkeeper, three middle fielders and two attackers. To control the goalkeeper, the player to the left has to use the up-left and down-left directions in t 

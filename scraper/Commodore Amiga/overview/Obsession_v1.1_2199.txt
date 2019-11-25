@@ -1,0 +1,1 @@
+ This is a pinball simulator with four different tables, each with its own set of graphics, music, sound effects and gameplay  The table themes centre around underwater action, a spy mission, Paris-Dakar and baseball.  The game does not feature any multi-ball but several play-modes and a highscore table.

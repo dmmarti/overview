@@ -1,0 +1,1 @@
+Rally Bike (c) 1988 Taito Corp.  - TECHNICAL -  Game ID : TP-012 Board Number : M6100335A Prom Stickers : B45  Main CPU : 68000 (@ 10 Mhz), Z80 (@ 3.5 Mhz) Sound Chips : YM3812 (@ 3.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Rel

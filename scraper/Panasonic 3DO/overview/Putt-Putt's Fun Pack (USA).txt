@@ -1,0 +1,1 @@
+ A collection of thinking games inspired from the existing Putt-Putt games, including checkers, pinball, and tic-tac-toe.  Intended as non-violent rainy-day fun for youngsters.

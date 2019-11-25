@@ -1,0 +1,1 @@
+Zero Wing (c) 1989 Toaplan.  - TECHNICAL -  Game ID : TP-015  Main CPU : 68000 (@ 10 Mhz), Z80 (@ 3.5 Mhz) Sound Chips : YM3812 (@ 3.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Released in September 1989.  Pony Canyon / Scitron r

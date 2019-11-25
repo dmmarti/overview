@@ -1,0 +1,1 @@
+A rather obscure vertical scrolling shooter, guide your ship in a battle against aliens using three different weapons. This game is known in Japan as V-Five and is also the first game from Tsuneki Ikeda.

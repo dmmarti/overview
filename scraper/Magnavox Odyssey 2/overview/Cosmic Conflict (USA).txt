@@ -1,0 +1,7 @@
+The player is a legendary hero of the Earth Federation, in command of a Centurion star fighter and must defend the galaxy from the Imperial ships attack. 
+ 
+From a first person perspective, the player must destroy fifteen enemy ships. A counter at the lower left corner of the screen shows how many ships are left. On the lower right, a counter marking, at the start of the mission, 1000 megajoules of remaining ship power. The ship needs one megajoule per second to sustain flight, ten megajoules per laser shot released and fifty megajoules per shot taken, to activate the deflector shields. 
+ 
+Three kinds of ships will assault the player's ship: invasion transports, battle frigates, and star fighters. The enemy fleet consists of five star fighters and ten ships randomly distributed among the remaining two kinds. Only star fighters represent a real threat, a general alert will sound and flash at the screen when one of those enter the player's range of sight. 
+ 
+The mission ends when all enemy ships are destroyed or when all the ship's fuel is used. 

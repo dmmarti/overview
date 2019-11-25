@@ -1,0 +1,1 @@
+Bowl-O-Rama has 3 different bowling variations to choose from 'Regulation Bowling', 'Flash-O-Matic', and 'BlackJack'

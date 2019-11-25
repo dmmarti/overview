@@ -1,0 +1,3 @@
+Dragon Fighter is a vertically scrolling shooter in which the player rides a dragon. The goal is to solve a hundred levels in order to become the new king. The dragon is affected by gravity which results in the need to counter-steer to avoid falling to the ground. Getting hit lowers the life energy and running out results in a game over because there is only on life available.
+
+Between levels the player visits a town in which power ups like weapon upgrades or life energy are purchased. However, there is also the need to save for the trip to the next of overall 25 towns. The money is earned by shooting enemies in the levels or participating in dice games in the local tavern.

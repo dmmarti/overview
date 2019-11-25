@@ -1,0 +1,5 @@
+Slither Link is a fiendishly simple puzzle game from the pages of the Nikoli puzzle magazine. While Nikoli is widely known for coining the puzzle name Sudoku they also have produced a myriad of puzzles often dealing with numbers.  
+ 
+In this puzzle the player needs to create a loop around the fields grid with out having the loop's line cross itself. This would of course present little challenge if it weren't for those pesky numbers. The field is dotted with numerals that signal how many times the line may be next to it. The number one may only have the line contiguous with it on one side, the two two sides, the three three side. Four of course does not exist as that would, by a requirement to have four sides, create a square and thus a intersection of the line. Zeros also exist these may not have any lines bordering them at all.  
+ 
+When a loop has been created so that all numbers are 'touched' appropriately and the line make a full loop you've cleared the puzzle. The game possesses six levels of difficulty and is played vertically on the WonderSwan. 

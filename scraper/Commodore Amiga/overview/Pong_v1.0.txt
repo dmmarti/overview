@@ -1,0 +1,3 @@
+Pong is a freeware Pong clone for one or two players.
+
+This game has four modes of play; practice, tennis, football and squash, the latter being a single player game. The game is entirely keyboard controlled and has no high score feature, no music though there is the 'Pong' sound when the ball hits something. It can be played in black and white or in colour. 

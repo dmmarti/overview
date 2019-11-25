@@ -1,0 +1,5 @@
+In Hustle the player directs a snake-like object moving around the play field. Each game lasts for 90 seconds. Periodically, targets will appear with a point value. You must aim for the target while avoiding your opponent's tail - and your own. 
+
+One or two players can play simultaneously. You also have three options pertaining to your targets - a normal game where target values don't change, a countdown where the value slowly falls, and a count up where values slowly climb and delaying can increase your score. There are also three skill levels that alter the speed of the game and the intelligence of the computer player. 
+
+Crashing into the walls or your own tail will give your opponent a 400 point bonus. Any targets on screen will also be awarded to your opponent. As play progresses, your tail grows longer, making it harder to avoid. Some targets display question marks instead of point values. These are random points, and there is a chance they will be awarded to your opponent instead of you, so they aren't always worth pursuing.

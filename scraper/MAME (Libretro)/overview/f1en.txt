@@ -1,0 +1,1 @@
+F1 Exhaust Note (c) 1991 Sega Enterprises, Ltd.  An F-1 racing game.  - TECHNICAL -  Sega System 32 hardware  Main CPU : V60 (@ 16.10795 Mhz), Z80 (@ 8.053975 Mhz) Sound Chips : (2x) YM3438 (@ 8.053975 Mhz), RF5C68 (@ 12.5 Mhz)  Players : 1 Control : padd

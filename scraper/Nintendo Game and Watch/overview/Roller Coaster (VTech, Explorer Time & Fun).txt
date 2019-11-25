@@ -1,0 +1,1 @@
+Roller Coaster needs maintenance: there are three holes on the railway. Move a busy worker around the rails to fill holes and prevent cars from falling. When a car falls into a hole, one miss is scored. Five misses and game ends. 1 point is scored for each safe car. Maximum displayed score is 9999. 

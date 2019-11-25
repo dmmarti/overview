@@ -1,0 +1,1 @@
+Vs. Atari RBI Baseball (c) 1987 Atari Games Corp.  - TECHNICAL -  Main CPU : N2A03 (@ 1.789772 Mhz) Sound Chips : N2A03 (@ 1.789772 Mhz), DAC  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Vs. Atari RBI Baseball was released in September 1

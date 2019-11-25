@@ -1,0 +1,5 @@
+Intended to be a licensed game based on the old 1930s/40s Universal Monsters movies (e.g. Dracula, The Wolf Man, Frankenstein, The Mummy).
+
+ Designed by graphics coder, Simon Butler, for Ocean.
+
+Scheduled for release in 1992 on 16-bit formats, the Amiga version was virtually complete when it was cancelled by Ocean in late 1993 [Source: Amiga Force, Nov 93). Reasons for cancellation have ranged from Mike Halsall, the main coder, being unable to get the game to play coherently to him leaving Ocean to join another development team. 

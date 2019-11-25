@@ -1,0 +1,1 @@
+A cutesy platform game.    This game is more like a bootleg or hack than an original game; some game code is taken directly from Data East's "Tumble Pop".

@@ -1,0 +1,1 @@
+Advantage Tennis is a tennis simulation played with 2D characters in a 3D simulated court. The camera zooms and pans in to follow the action. There are training, season and exhibition modes. The season mode allows playing against a variety of competitors and in different courts around the world. 

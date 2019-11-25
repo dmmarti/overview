@@ -1,0 +1,1 @@
+In this platform game you control a mouse that lives in a house and that collects pieces of cheese while chased by a couple of cats. On some floors you will find poison which must not be touched! To make it even more challenging not all stairs will lead to the next floor (up or down stairs). When all pieces of cheese have been collected you enter the next level. 

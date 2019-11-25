@@ -1,0 +1,10 @@
+Nine young people were turned into cyborgs by a company trying to take over the world. They have defeated this company and are now using their super powers to protect the world. 
+ 
+Based on the manga/anime by the same name, Cyborg 009 is a side-scrolling platformer in which the player takes control of 8 different cyborgs, using their special abilities to complete several missions.  
+ 
+Their special abilities are as follows: 
+002 can fly and hover in the air; 003 can see in the dark; 004 can fire bullets from his fingers and rockets from his knees; 005 can break rocks with his fists; 006 can blow fire that also melts rocks; 007 can take on different shapes including those of enemies; 008 can swim underwater for extended periods of time; 009 can move at very high speeds. (001 is a baby and can't be taken on missions). Using these special abilities consumes SP that slowly regenerate.  
+ 
+In addition to their special abilities, the cyborgs also have four attributes that govern their attack and defensive powers, their amount of SP and SP regeneration speed.  
+ 
+Before every mission, one cyborg is assigned leader and two more can be selected by the player. Only one cyborg can be controlled at a time, but it is possible to switch between cyborgs at any time. All cyborgs share the same HP and SP-bar. Throughout the levels, experience points can be collected and used to increase a cyborg's attributes after a completed mission. 

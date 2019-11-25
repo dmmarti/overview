@@ -1,0 +1,1 @@
+Ridge Racer 2 (c) 1994 Namco.  - TECHNICAL -  Namco System 22 hardware Game ID : RRS  Main CPU : 68020 (@ 24.576 Mhz), (2x) TMS32025 (@ 49.152 Mhz), M37702 (@ 16.384 Mhz) Sound Chips : C352 (@ 16.384 Mhz)  Control : steering wheel Pedals : accelerator and

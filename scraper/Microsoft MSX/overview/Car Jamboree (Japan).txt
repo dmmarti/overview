@@ -1,0 +1,6 @@
+Car Jamboree is a conversion of the arcade game with the same name. 
+In this game, which can be played by one or two players, you control a car and compete with three other cars in an squared arena. Your goal is to destroy the other three cars by crashing into them on the side. A head-on collision has no effect. 
+When all three other cars have been taken out of competition you advance to the next level. 
+In some levels the arena can contain a ramp, which can be used to jump on other cars or a pond in the middle in which you can try to push the other cars to take them out of the competition. 
+ 
+All this has to be done before you run out of fuel. If any fuel left then you'll receive bonus points. 

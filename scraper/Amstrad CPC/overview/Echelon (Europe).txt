@@ -1,0 +1,1 @@
+	Space combat simulator with wire-frame graphics.  Fly around an alien planet, looking for clues to a "mysterious event" in the planet's past.    A rather novel feature allows people to play without concerning themselves with battle, or turn off the "exploration" and concentrate solely on combat.

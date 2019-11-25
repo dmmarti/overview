@@ -1,0 +1,1 @@
+Space Invaders's clone.  When you insert a coin you get a 'Service Score' changing random number. When Play is pressed, the number stabilizes, then disappears. This number is the score you need to gain a bonus ship.

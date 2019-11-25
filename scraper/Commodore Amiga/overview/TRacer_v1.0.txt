@@ -1,0 +1,5 @@
+T-Racer is a 2D side-scrolling shoot 'em up with a side view. Written for Amiga line of computers entirely in Assembly 68000.
+
+Technically it offered the best that existed at the time: multi-layer parallax scrolling, hundreds of on-screen color, dozens of BOB (Blitter Objects, or sprite, for non-Amigans), scroll extremely fluid.
+
+Call me old-fashioned, but I'm in it for the effects—explosions are good, and the last blue 'rippley-looking level' really hit the eye-cones. Music's good. Overall: difficult, somewhat interesting.

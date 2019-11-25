@@ -1,0 +1,1 @@
+As the title implies, Classic Pucman is a clone of Pacman for the Amiga. While the game looks much like the original, with bright and cheerful 80s graphics on a black background, there are some new powerups such as one which turns all ghosts into Pacmen (or Pucmen) temporarily, as well as a simultaneous two-player mode.

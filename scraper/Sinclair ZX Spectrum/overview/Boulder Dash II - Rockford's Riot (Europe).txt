@@ -1,0 +1,1 @@
+In part two of the Boulder Dash series, game design hasn't changed compared to part one, so you still have to mine diamonds while avoiding falling rocks and cave monsters of all sorts. As in part one, later levels become more difficult because many puzzle elements are added.

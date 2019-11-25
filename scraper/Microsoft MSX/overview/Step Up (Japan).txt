@@ -1,0 +1,1 @@
+Step Up is a platform game in which you control an alien that has to reach his space ship at the roof of the building. To get there you have to climb the ladders but you are chased by mice, bats, cats and spiders... Don't let them get you or you will never see your home planet again. 

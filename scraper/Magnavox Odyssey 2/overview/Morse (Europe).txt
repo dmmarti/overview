@@ -1,0 +1,7 @@
+Morse teaches the code to players. There are 4 types of games which can be selected in a menu screen:The first type is a Morse code learning game. The player selects the game speed (4 to 30 words per minute) and level (1 to all 36 characters available). The computer will play the Morse signal for the first symbol (Q) and the player has to type in the symbol. After learning two signals, the game starts properly by introducing a row of trees in the top of the screen. An arrow is also displayed near the 4th tree from the left and a man on the right side. For each 10 correctly responded symbols the man takes down one tree. When he reaches the arrow, a new symbol is introduced and the process starts over again. The sequence of symbols is: Q, 7, Z, G, 0, 9, 8, O, 1, J, P, W, L, R, A, M, 6, B, X, D, Y, C, K, N, 2, 3, F, U, 4, 5, V, H, S, I, T and E. 
+ 
+2. The second type lets the player type individual symbols and listen to their respective codes. 
+ 
+3. The third type is similar to the second one, but in this one the player types a sequence of symbols and then press "enter" to ask the computer to play the respective code. 
+ 
+4. In the fourth type the player uses the "action" button of the joystick to enter codes into and the computer plays them and shows the respective symbol entered. 

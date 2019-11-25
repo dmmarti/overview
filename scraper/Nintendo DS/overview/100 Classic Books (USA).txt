@@ -1,0 +1,1 @@
+100 Livres Classiques est une compilation d'oeuvres littéraires majeures regroupées sur une seule cartouche DS. Ce programme contient 100 ouvrages de Jules Verne, Victor Hugo, Emile Zola, Jules Renard, Molière, Stendhal, etc. La DS se tient comme un livre et on peut marquer ou tourner les pages à l'aide du stylet.

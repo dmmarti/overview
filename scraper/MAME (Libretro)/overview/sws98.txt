@@ -1,0 +1,1 @@
+Super World Stadium '98 (c) 1998 Namco.  - TECHNICAL -  Namco System 12 hardware Game ID : SS8  Main CPU : PSX (@ 16.9344 Mhz), H8/3002 (@ 14.7456 Mhz) Sound Chips : C352 (@ 14.7456 Mhz)  Players : 2 Control : 8-way joystick Buttons : 6  - TRIVIA -  Super

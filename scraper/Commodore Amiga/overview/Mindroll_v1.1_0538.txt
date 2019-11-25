@@ -1,0 +1,1 @@
+In Mind-Roll you play a rolling eyeball in an attempt to find your way through numerous mazes. Each maze features different puzzles to solve and objects such as keys to collect in order to find the destination. There is a limited amount of time to solve each maze.

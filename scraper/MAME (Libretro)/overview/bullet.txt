@@ -1,0 +1,1 @@
+Bullet is an overhead run'n'gun twin-stick shooter for up to three players, set in a dark future. The left joystick will move your character around while the right joystick will make your character fire in the pressed direction, allowing you to move and shoot freely in different directions.

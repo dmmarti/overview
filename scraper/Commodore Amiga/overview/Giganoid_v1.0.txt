@@ -1,0 +1,5 @@
+Giganoid, like the name is suggesting, is very similar to Arkanoid. Most features of the 8-bit Breakout extension are implemented in Giganoid: the extras falling from the blocks to the lower side where the player's bat reside. Extras contain bat enlargement, multi-balls, points and also the handy laser, which allows the bat to shoot the blocks directly, are implemented.
+
+One addition to the Arkanoid scheme is done by adding a Gatekeeper and some Demons. The first attacks the player and must be destroyed with balls. The Demons are bonus rounds, allowing to skip levels. You can chose how many levels to skip. The more levels you chose, the faster the demons shoot at you.
+
+There are 50 levels. Control of the bat can be with joystick or mouse.

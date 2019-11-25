@@ -1,0 +1,1 @@
+Gate-In! - Wai Wai Jockey (c) 1984 Jaleco.  An early Horse Racing game.  - TECHNICAL -  Main CPU : M6502 (@ 2 Mhz) Sound CPU : M6502 (@ 600 Khz) Sound Chips : (2x) SN76496 (@ 2 Mhz), DAC  Players : 2 Control : 4-way joystick Buttons : 2  - TRIVIA -  Relea

@@ -1,0 +1,1 @@
+Peggle (c) 1991 Strata.  - TECHNICAL -  Main CPU : (2x) M6809 (@ 2 Mhz) Sound Chips : OKI6295 (@ 7.812 Khz), YM3812 (@ 4 Mhz)  Screen orientation : Vertical Video resolution : 240 x 400 pixels Screen refresh : 60.00 Hz Palette colors : 256  Players : 1 Co

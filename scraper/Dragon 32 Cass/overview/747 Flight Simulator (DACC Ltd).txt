@@ -1,0 +1,1 @@
+A dull-looking, monochrome flight simulator written in Basic. The instructions, although comprehensive, cannot compensate for the lack of any real excitement. 

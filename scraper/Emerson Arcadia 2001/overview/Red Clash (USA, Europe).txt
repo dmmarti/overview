@@ -1,0 +1,1 @@
+A solid port of the 1981 Tekhan arcade game (which was licensed to Kaneko in 1982), Red Clash lets players move their rocket in four directions, but the action scrolls vertically, and shots go straight up the screen. Gamers fire at flying saucers, aliens 

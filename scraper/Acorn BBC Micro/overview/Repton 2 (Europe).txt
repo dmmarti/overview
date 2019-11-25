@@ -1,0 +1,1 @@
+Repton 2 is a puzzle solving game about collecting diamonds. The player digs his way through the dirt in search for diamonds and other objects and has to watch out for falling boulders or monsters (reptiles) that are out for him.

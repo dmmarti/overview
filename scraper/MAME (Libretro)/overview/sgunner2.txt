@@ -1,0 +1,1 @@
+Steel Gunner 2 (c) 1991 Namco.  - TECHNICAL -  The majority of cabinets for this game were released as conversion kits for Taito's "Operation Thunderbolt".  Namco System 2 hardware Game ID : SNS  Main CPU : (2x) 68000 (@ 12.288 Mhz), M6809 (@ 3.072 Mhz), 

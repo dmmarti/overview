@@ -1,0 +1,1 @@
+Move a caveman to prevent condors from stealing his food, then entrap them. When a condor gets a piece of food, one miss is scored. Five misses and game ends. 1 point is scored each time you entrap a condor. Maximum displayed score is 9999. 

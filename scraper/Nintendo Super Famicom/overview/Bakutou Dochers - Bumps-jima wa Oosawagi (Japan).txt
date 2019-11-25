@@ -1,0 +1,5 @@
+Bakutou Dodgers is a Japan-only action game for up to four players. It superficially resembles Hudson's Bomberman series, with its top-down grid stages and chaotic gameplay, but rather than leaving bombs and waiting for them to explode, the player can shoot energy at blocks and each other. 
+ 
+The goal is to sneak up behind the opponent and shoot them before they can reciprocate. Various power-ups may appear after destructible blocks are removed, which can give the player an edge or, in the case of the ? icon, a possible random negative effect like reversed controls. There are also wandering monsters that can cause damage to anyone they come in contact with. Every combatant has a health bar which depletes at a rate dependent on the attacks they are getting hit by. 
+ 
+The single-player mode involves fighting through various worlds and removing all enemy combatants from the field to progress. 

@@ -1,0 +1,3 @@
+Under Pressure is 2D side scrolling arcade game. The player controls a robot (he is trapped inside) and tries to rescue kidnapped gal. Gameplay is simplistic - he goes into right side, avoid obstacles like lasers barriers, and kill alien creatures. Sometimes he needs to hurry - for example, when the floor collapses. Killed enemies drop shells, the player can collect them for new weapons.
+
+Game uses big animated sprites, for this reason, the player sees only the immediate environment.

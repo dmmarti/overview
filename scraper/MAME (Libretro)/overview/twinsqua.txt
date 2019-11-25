@@ -1,0 +1,1 @@
+Twin Squash (c) 1991 Sega.  - TECHNICAL -  Sega System C2 hardware  Main CPU : 68000 (@ 8.948862 Mhz) Sound Chips : YM3438 (@ 7.670453 Mhz), SN76496 (@ 3.579545 Mhz), UPD7759 (@ 640 Khz)  Screen orientation : Horizontal Video resolution : 320 x 224 pixels

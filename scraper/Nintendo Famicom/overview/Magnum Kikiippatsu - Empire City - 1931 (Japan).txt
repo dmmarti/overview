@@ -1,0 +1,8 @@
+In this arcade hall conversion of Empire City: 1931 which is set in 1931 you are a federal agent that has to eliminate all criminal activities in New York City. 
+You must hunt the criminals down and shoot them one by one. To locate a criminal you just have to follow the arrow on the left or right of the screen. Killing criminals is done by moving the cross hair over them. 
+A countdown timer will start counting down if a criminal starts shooting at you. You must kill the criminal before the timer reaches zero or you'll loose a life. 
+New bullets can be collected by shooting at the bullet boxes that regularly appear in the game as other useful objects. 
+The criminals sometimes take hostages for protection. Rescue these hostages for additional points. 
+ 
+Firing your gun is done with fire button 1 and deflecting bullets by pressing the fire button 2. 
+ 

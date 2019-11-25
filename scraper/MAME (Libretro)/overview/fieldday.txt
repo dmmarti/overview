@@ -1,0 +1,1 @@
+Field Day (c) 1984 Taito.  - TECHNICAL -  Game ID : A23  Main CPU : Z80 (@ 4 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : AY8910 (@ 2 Mhz), MSM5232 (@ 2 Mhz), DAC  Players : 4 Buttons : 3  - TRIVIA -  This game is known in Japan as "The Undoukai" (transla

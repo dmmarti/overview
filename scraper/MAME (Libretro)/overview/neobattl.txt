@@ -1,0 +1,1 @@
+A vertically scrolling shooter.  SD stands from 'Super Deformed'.

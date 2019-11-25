@@ -1,0 +1,1 @@
+Space Force (c) 1982 Entex Industries, Incorporated.  TECHNICAL  Game ID: 6078  TRIVIA  Known bug: If you die while there are a lot of asteroids on the screen, the game will wait for a clearing that will most likely never occur.

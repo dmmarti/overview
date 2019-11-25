@@ -1,0 +1,1 @@
+Truxton II (c) 1992 Toaplan Co., Ltd.  - TECHNICAL -  Board Number : M6100693A Game ID : TP-024  Main CPU : 68000 (@ 16 Mhz) Sound Chips : YM2151 (@ 3.375 Mhz), OKI6295 (@ 20.454 Khz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Truxton 

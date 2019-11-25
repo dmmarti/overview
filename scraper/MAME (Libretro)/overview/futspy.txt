@@ -1,0 +1,1 @@
+Future Spy is an arcade game released by Sega in 1984 that runs on Sega Zaxxon hardware.    Like Zaxxon it is a isometric shoot-'em-up, but unlike Zaxxon the player does not spend time adjusting the height of his ship (or plane in this circumstance). One button fires at air targets while another drops bombs on ground targets.

@@ -1,0 +1,1 @@
+The object of the game is to get rid of all the fruit by spinning the puzzle frame in order to combine matching fruit into formations or 3 or more before the time runs out.

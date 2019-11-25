@@ -1,0 +1,1 @@
+Astropal (c) 198? Sidam.  - TECHNICAL -  Main CPU : 8080 (@ 1.9968 Mhz) Sound Chips : SN76477 (@ 1.9968 Mhz), discrete circuitry  Screen orientation : Vertical Video resolution : 260 x 224 pixels Screen refresh : 59.54 Hz Palette colors : 2  Players : 2 C

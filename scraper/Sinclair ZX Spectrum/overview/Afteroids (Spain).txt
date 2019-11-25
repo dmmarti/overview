@@ -1,0 +1,1 @@
+You control a spaceship that floats around. You have to blast all the meteors and other objects that bounce in the area.  However, shooting the meteors will cause them to fragment into several smaller meteors.

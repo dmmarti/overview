@@ -1,0 +1,1 @@
+In StarTrash, the player controls a ball which needs to climb big mountains which are shown in an isometric perspective. The goal is to collect objects which were misplaced in the levels. Jumping in a hole or touching one of the critters causes the loss of a life. Bonus points are gained by collecting objects like money which are spread over the levels.

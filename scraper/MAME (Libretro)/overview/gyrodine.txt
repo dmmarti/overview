@@ -1,0 +1,1 @@
+Gyrodine is a vertically scrolling shoot 'em up.

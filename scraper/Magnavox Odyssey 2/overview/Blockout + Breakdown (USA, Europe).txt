@@ -1,0 +1,1 @@
+In Blockout, the object is to blast through the blocks in the shortest amount of time. There are four colored lines of blocks, and each line has an electronic demon. The electronic demons can replac 

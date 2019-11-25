@@ -1,0 +1,1 @@
+Paddle Mania (c) 1988 SNK.  - TECHNICAL -  Game ID : Alpha-68K96I 'PM'  Main CPU : 68000 (@ 6 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM3812 (@ 4 Mhz)  Players : 4 Control : 8-way joystick Buttons : 2  - TRIVIA -  Released in January 1988.  - STAFF -

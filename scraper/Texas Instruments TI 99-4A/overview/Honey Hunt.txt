@@ -1,0 +1,3 @@
+Honey Hunt is a simple game where you guide your bee from open flower to flower, collecting nectar and returning it to your hive. Bee assassins, dragonflies, and spider webs are all out to get you. Dragonflies fly around the screen. Bee assassins skip from flower to flower. Spider webs are static, but make navigating nearby very hazardous. 
+
+From time to time, a bear wanders by. If the speech synthesizer is attached, you'll hear it say, "Time to get the honey!" You must return to your hive to defend it. Simply being present in the hive is sufficient to ward off the bear.

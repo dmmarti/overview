@@ -1,0 +1,1 @@
+A standard horizontal shoot'em up. The main weapon can be powered-up to provide faster and more powerful shots. Weapons such as lightning or three-way shots appear as power-ups. There are 18 levels to complete the game.

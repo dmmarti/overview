@@ -1,0 +1,1 @@
+ Sengoku Mahjong is a mahjong game that takes place in feudal Japan. There are 12 different opponents, and two different modes of gameplay. In normal mode, the player chooses 3 opponents and plays mahjong against all of them at once. In battle mode, the play aims to unify the world by becoming a warlord and playing against all the others.			

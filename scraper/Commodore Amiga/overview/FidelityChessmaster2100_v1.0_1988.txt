@@ -1,0 +1,1 @@
+ An update/modification to Chessmaster 2000, adding 640x200 graphics for nicer displays, many tutorial and expert options, and a plethora of other features too numerous to mention here.

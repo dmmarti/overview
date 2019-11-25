@@ -1,0 +1,3 @@
+MSX Rugby is a simple arcade Rugby game. The game can be played by one player against the computer or by two players against each other. 
+The game play is vertical scrolling and a top-down view and follows the traditional rugby rules. 
+MSX Rugby has no referee or tournament mode and the duration of the match can not be altered. 

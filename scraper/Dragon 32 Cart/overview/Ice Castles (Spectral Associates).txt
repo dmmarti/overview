@@ -1,0 +1,1 @@
+Ice Castles is a remake of the Atari arcade game Crystal Castles. The objective is to score points by collecting gems lying around in a set of abstract 3D castles. Enemies are chasing you and sometimes also eating the gems. Different types of enemies behave differently, and can also be killed or defeated in various ways to score extra points.

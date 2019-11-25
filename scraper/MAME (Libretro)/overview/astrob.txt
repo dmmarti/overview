@@ -1,0 +1,1 @@
+Astro Blaster is a 1- or 2-player game in which players must advance through squadrons of alien ships in an attempt to dock with the mother ship. Players move their ship left or right and shoot at attacking squadrons. A special time warp allows the player to slow down the alien space ships and their laser fire, while maintaining his own ship and laser fire at normal speed.

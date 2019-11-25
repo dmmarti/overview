@@ -1,0 +1,1 @@
+Zugya est un shoot'em up à scrolling multidirectionnel, dans lequel vous allez devoir détruire des modules à la structure de plus en plus complexe tout au long des 50 niveaux que comporte le jeu.

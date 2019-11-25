@@ -1,0 +1,1 @@
+An air traffic control simulator. Guide planes across the screen through the USA, from varying airports. A simple mouse-based game, with fairly simple radar-a-like graphics. You must set the flight level (height), speed and direction of the aircraft passing through your jurisdiction and guide them to their correct airports. Do try and keep them apart!

@@ -1,0 +1,1 @@
+A basic American football game that follows the rules of the NFL. In two-player mode, one player takes on the role of Quarterback and the other player plays half-back.

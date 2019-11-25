@@ -1,0 +1,1 @@
+Hexcite is a puzzle game played on a honeycomb-like playing field. In the center is a hexagon; six more hexagons make up the entire playing field. Because of the turn-based gameplay, two people can play using only one system. Two-player link mode is also  

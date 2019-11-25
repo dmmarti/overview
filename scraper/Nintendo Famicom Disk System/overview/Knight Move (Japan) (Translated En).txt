@@ -1,0 +1,3 @@
+A puzzle game from Tetris creator Alexey Pajitnov! Featuring of a series of tiles with a single chess Knight, moved by the player. Knock out all the tiles within the time limit using the Knight, only able to move in a L shape. 
+ 
+As you clear tiles you will leave holes behind that have to be avoided. On later stages you will have to land on tiles several times before they vanish. 

@@ -1,0 +1,1 @@
+You are a spark trying to destroy resistors and enemy sparks. Try to complete the circuit so as to move on to the next level.

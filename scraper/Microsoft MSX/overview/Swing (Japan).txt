@@ -1,0 +1,5 @@
+In Swing you control a man that has to wash the windows of several skyscrapers. 
+Dirty windows have a grey color and clean windows are blue. 
+The skycraper's windows form a sort of maze-like pattern as you can only climb up or down on or next to a window. 
+While washing the windows of the skyscrapers you are pursued by several hostile monsters and if they catch you, you 'll lose a life.  
+When all windows are cleaned you have to enter the skyscraper through the front door to go to the next round. 

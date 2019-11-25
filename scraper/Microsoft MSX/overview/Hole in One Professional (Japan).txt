@@ -1,0 +1,3 @@
+This is the second golf game from HAL Laboratory after Hole in One. Like it's predecessor, Hole in One Professional is a standard 18-hole golf game, played from a top-down perspective. Players can compete in stroke play with up to four players, or match play against a friend or the computer. When playing against the computer, the player will play against an opponent that uses metal clubs, which hit farther than the standard wooden clubs. 
+ 
+In addition to stroke and match play, players can obtain passwords that allow a replay of any spectacular shots that are made (eagles, holes-in-one, and double-eagles). 

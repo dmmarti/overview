@@ -1,0 +1,1 @@
+Final Blow features a single season boxing championship run. You can select from a group of fictional fighters.    The game is essentially a side scrolling boxing game where the player moves left and right to control a boxer. When the timing is right, the player can unleash a final blow punch which can sometimes KO the opponent in a single strike.

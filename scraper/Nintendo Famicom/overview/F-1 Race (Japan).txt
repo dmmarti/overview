@@ -1,0 +1,2 @@
+In this game, which is similar to Pole Position, the player takes control of an F1 car. The player can race the vehicle on one of three different skill levels. Each skill level contains five different tracks for the player to race on. On each of these tracks, the player must complete 2 laps before a countdown timer expires. The player must also try not to crash into other racers and obstacles on the sides of the road. The vehicle has a manual transmission, so the player has to switch between low and hi gear while racing. 
+ 

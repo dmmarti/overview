@@ -1,0 +1,1 @@
+You are in control of a guy wearing blue pants that attempts to run around in an pac-man style maze collecting question marks, fruits and other items and avoiding monsters. The walls of the maze can flip and you can avoid the monsters or locking them in. All walls will flip if you grab one of the whirlwind symbols. Don't get caught in the fire. 

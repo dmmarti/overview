@@ -1,0 +1,1 @@
+SF-X (c) 1983 Nichibutsu.  - TECHNICAL -  Main CPU : Z80 (@ 3.072 Mhz) Sound CPU : (2x) Z80 (@ 1.78975 Mhz) Sound Chips : (2x) AY8910 (@ 1.78975 Mhz), and a DAC for speechs  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Developed by Nihon 

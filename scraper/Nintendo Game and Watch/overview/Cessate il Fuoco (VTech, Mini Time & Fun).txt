@@ -1,0 +1,1 @@
+Help Heathcliff the cat to prevent Sonja's flowers from being burned by flaming sticks thrown by an enemy cat. Spike the dog watches from behind the fence. Misses: one miss per burnt flower. Three misses and game ends. 10 points are awarded when Heathcliff successfully extinguishes a flame. All flames are cleared at every 1000 points. Maximum displayed score is 9999. 

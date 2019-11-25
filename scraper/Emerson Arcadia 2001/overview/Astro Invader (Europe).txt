@@ -1,0 +1,1 @@
+Astro Invader is a translation of the Stern arcade game. It was originally released in Japan in 1979 with the title 'Kamikaze'.  In Astro Invader, Earth has gotten in trouble and once again you're its only hope (that crazy planet). This time around you've

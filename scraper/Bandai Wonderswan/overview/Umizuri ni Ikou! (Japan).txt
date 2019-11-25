@@ -1,0 +1,10 @@
+Umitsuri ni Ikou! is a simple fishing simulator where you control a little boy at a variety of seaside locations; a pier, a beach, a stone outcropping, and out on the ocean. 
+ 
+As you cast a bar will rise and fall on the right side of the screen, when you press the A button the the bar will stop. Depending on how high the bar is when you stop it correlates to how far your line goes. Bigger fish lurk farther out; however, bigger fish are more difficult to real in given their distance from shore. 
+ 
+One your hook is in the water you will be treated to a [fisheye?] view of it in the brine. The background water is represented in different gradients so that the player can tell if they are moving up and down. A meter on the right hand side of the screen shows how deep you are, the farther you cast the deeper you'll be.  
+ 
+By pulling the line up with fish will be attracted to the hook. Should one grab on you'll get a "HIT". The view will now revert to being behind the fisher. Based on indications from a bar on the bottom you will have to push left and right, based on how the fish is trying to escape while pressing A.  
+ 
+Once caught you'll learn how big your fish was and be able to exchange data about it with other WonderSwan players. 
+ 

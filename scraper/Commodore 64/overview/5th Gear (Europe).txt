@@ -1,0 +1,1 @@
+The aim is to drive from the beginning of the track to the end while avoiding obstacles and eliminating (with your machine gun) other vehicles. The tracks are not roads, but maze-like obstacle courses in the wilderness. It is part maze solving, part combat, part racing against the clock.

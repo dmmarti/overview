@@ -1,0 +1,8 @@
+Sports game featuring you, the cat with various stages. Your task is to pass various obstacle courses, each more difficult than the last.
+
+Events include:
+
+    The City Park
+    Inner City Interlude
+    The Underground Sewer
+    The Bowling Pub 

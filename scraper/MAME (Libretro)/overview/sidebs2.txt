@@ -1,0 +1,1 @@
+Side By Side 2 (c) 1997 Taito.  - TECHNICAL -  Taito JC System hardware  Main CPU : 68040 (@ 25 Mhz), 68000 (@ 16 Mhz), MC68HC11 (@ 4 Mhz), TMS32051 (@ 50 Mhz) Sound Chips : ES5505 (@ 15.23805 Mhz)  - TRIVIA -  Side by Side 2 was released in May 1997 in J

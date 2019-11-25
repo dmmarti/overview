@@ -1,0 +1,6 @@
+Dahna: Megami Tanjo (Dahna: Birth of a Goddess) is a beat'em up with some RPG elements. The player controls Dahna as she scrolls horizontally or vertically through the levels. Dahna fights her enemies using a sword, and she can jump in two heights, duck and crawl. Dahna has also a magic meter, which has several colored levels. Different levels of her magic will produce different magical effects (as in Golden Axe). Her magic can be replenished by gathering magical orbs, dropped by enemy mages when killed. They will also drop health orbs as well. 
+ 
+She starts the game "riding" a giant, and in other portions of the game, she'll also ride other creatures, such as a horse and a griffin. When riding a creature, Dahna can't use her magic powers. 
+ 
+As she kills enemies and gather orbs, Dahna gains experience points, which grant her level upgrades. Leveling up affects only her health, as she gains more health points. 
+ 

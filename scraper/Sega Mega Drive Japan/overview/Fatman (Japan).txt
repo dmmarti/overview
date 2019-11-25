@@ -1,0 +1,3 @@
+An eclectic, intriguing fighting game. Choose from different alien races (including Human) with different abilities and fighting styles, purchase weapons and devices, and fight your way through multiple opponents to face the Fatman.  Some of the more innovative features include being able to place wagers on the outcome of the fight, and the phenominon of a special move being less powerful the more you use it to balance gameplay. 
+ 
+2 player, head-to-head combat is supported. 

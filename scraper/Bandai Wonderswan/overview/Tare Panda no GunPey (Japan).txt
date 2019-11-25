@@ -1,0 +1,9 @@
+Tarepanda no Gunpey is a Gunpey style puzzler which has the modes of Gunpey EX with an additional Tarepanda story mode.  
+ 
+The game includes classic Gunpey, endless Gunpey, a timed line removal mode, and a mode where the player must clear all lines at once. Two players can also link up to challenge each other and exchange high-scores.  
+ 
+A story mode is also included. Tarepanda discovers the existence of other lazy pandas all around the world; wondering what other floppy pandas are like Tare rolls off in search of them. 
+ 
+Each panda wears headgear associated with its homeland, top hat for Britain, turban for India, etc. When our hero is about to reach the new lazy panda something gets in the way, usually an incline too large to roll over. By finishing a certain number of lines you'll give your stymied panda the energy to jump the obstacle.  
+ 
+In the story mode a number of novel hazards are presented. Your lines may flip angles, or parts of the screen may be entirely blocked out. 

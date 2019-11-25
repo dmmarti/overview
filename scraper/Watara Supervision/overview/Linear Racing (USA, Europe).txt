@@ -1,0 +1,1 @@
+Linear Racing is a video puzzle game. A short animation is shown, then scrambled into 16 tiles, which must be rearranged to recreate the original image. Tiles may be swapped around, as well as flipped vertically or horizontally, to rebuild the animation. There are six different animations to choose from, and three difficulty settings for each.

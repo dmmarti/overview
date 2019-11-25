@@ -1,0 +1,1 @@
+Un jeu de boxe en perspective. Combattez votre adversaire autour de l'anneau en essayant de l'assommer avant que la cloche ne sonne. Les adversaires acquièrent de plus en plus d'expérience à mesure que les niveaux progressent.

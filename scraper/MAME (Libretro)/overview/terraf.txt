@@ -1,0 +1,1 @@
+A standard shooter. All levels are divided in 2 parts : overworld with vertical direction and underground with horizontal.

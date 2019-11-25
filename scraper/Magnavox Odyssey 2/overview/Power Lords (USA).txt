@@ -1,0 +1,7 @@
+The player has arrived at Vulcan Rock, an artificial planetoid defended by a laser-eyed space serpent and other minions of the evil Extra-Terrestrial Alliance. Now he must defend himself from them, as well as the volcano itself. 
+ 
+Controlling his spaceship with the control stick and shooting laser blasts with the action button, the player must avoid falling lava, rocks, the serpent's laser rays. Shooting the serpent will stun it, and shooting the rocks will destroy them. If the ship goes out of screen by one of its sides, it will come back in the opposite side. 
+ 
+From times to times, Gryptogg, Raygoth and Arkus of the Extra-Terrestrial Alliance will open doors in the volcano firing a gravitational ray, which will drag the player's ship to it. The higher the score, the stronger the ray will be. It can be stopped by blasting the door with laser. 
+ 
+The player earns 3 points for blasting lava during volcanic eruption, 15 points for stunning the space serpent, 45 points for hitting an open door, 75 points for destroying a lava rock and 1000 points for surviving a volcanic eruption. 

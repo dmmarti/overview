@@ -1,0 +1,1 @@
+A light gun shooter similar to "Lethal Enforcers", but with animated graphics. There are 10 stages here.

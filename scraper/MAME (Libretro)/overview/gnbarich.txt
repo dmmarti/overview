@@ -1,0 +1,1 @@
+Gunbarich (c) 2001 Psikyo.  - TECHNICAL -  Main CPU : SH-2 (@ 28.63635 Mhz) Sound Chips : YMF278B (@ 28.63635 Mhz)  Players : 2 Control : 8-way joystick Buttons : 3  - TRIVIA -  Released in June 2001.  Psikyo's Gunbarich is a spin-off of "Gunbird" featuri

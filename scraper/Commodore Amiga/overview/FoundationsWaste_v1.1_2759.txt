@@ -1,0 +1,5 @@
+The player is taken the role of Zak, a prisoner in a planetary prison called “Waste”, and of course, you have to escape. Stealing a space craft, you fight your way through the guarding forces.
+
+Foundations Waste is a vertically scrolling shoot-'em-up, in which you have to collect extra weapons, like a side shot, shields, a drone which can be controlled by the inverse control of the player ship and some kind of seeking missiles. Sometimes the power ups are fakes, inverting your control or slowing your ship down. You loose all extra weapons either on dying or on entering a new level.
+
+The enemy forces are tanks, ships, flying vessels and later even space ships. Each level is featuring an end-of-level guard, which can be destroyed for extra points, but can even passed if your fire-power is too low at that moment.

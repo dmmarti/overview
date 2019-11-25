@@ -1,0 +1,9 @@
+In Luxor, you journey through Egypt while battling Set to help Isis save the land.
+
+A level in Luxor consists of a pyramid and a long path. On this path, scarabs, Set's minions, are moving long groups of different colored spheres toward the pyramid. Your mission is to hinder those scarabs from completing their task. For this purpose, you have a winged sphere shooter with which you fire your own spheres into the queues of the moving scarabs.
+
+When you create a group of 3 spheres of the same color, they vanish. As soon as all spheres of a scarab are removed, you have destroyed this minion. Either when you destroy one of Set's minions, or you take too long to destroy it, another minion with lots of new spheres enters the screen, heading for the pyramid. Once you have destroyed all spheres in a level, you proceed to the next one. But when a scarab's spheres reach into the pyramid, you have lost a life.
+
+The game offers 88 levels, which are spread over 12 stages throughout ancient Egypt. When you progress through the levels, you will start with just one pyramid, but this will change over time, and you must play against two (or even more) scarab groups simultaneously.
+
+To help you, and make the game more interesting, there are plenty of power-ups available, like fireballs and lightning bolts for destroying multiple spheres, stopping, slowing down, and reversing the movement of all enemy scarabs for a few seconds, precision shots (with an aiming help), and some others.

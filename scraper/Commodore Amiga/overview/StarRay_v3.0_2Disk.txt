@@ -1,0 +1,1 @@
+A side scrolling shooter, the object is to defend your colonies from various waves of attacking aliens. Revenge of Defender features layered scrolling screens, and new background artwork and enemies for each of 7 levels.

@@ -1,0 +1,13 @@
+In Super Bee the player controls a bee flying in a magic garden, where fruits keep popping everywhere. The fruits must be eaten (by flying over them), while avoiding to crash in the garden's fences (the edges of the screen). Additionally, when a fruit is eaten a magic barrier will appear, in the same direction in which the bee is flying, and it also must avoid crashing on them. 
+ 
+The player earns points by gathering fruits as follows: 
+ 
+1. Lemon (yellow): 5 points 
+2. Apple (red): 10 points 
+3. Pear (green): 15 points 
+4. Plum (grey): 20 points 
+5. Strawberry (red): 25 points 
+ 
+When the player reaches 105 points a bonus round takes place. A big spider appears in the screen, along with a fruit, for a limited time. Super Bee must avoid the spider and eat the fruit. By doing so the player earns 50 points. The next bonus rounds take place every 15 more points. 
+ 
+There are 10 skill levels available (by pressing 0 to 9), each one with different mazes. 

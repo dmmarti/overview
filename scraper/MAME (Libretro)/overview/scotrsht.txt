@@ -1,0 +1,1 @@
+Scooter Shooter is a 2D arcade side scrolling shooter with split-screen. Players fly on special scooters and compete against each other (the player can play against CPU or the second player) - they start on the opposite end of map, and go towards the center. They must kill various enemies on road.

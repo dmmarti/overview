@@ -1,0 +1,34 @@
+  <provider>
+    <System>FM-7</System>
+    <software>Skraper</software>
+    <database>ScreenScraper.fr</database>
+    <web>http://www.screenscraper.fr</web>
+  </provider>
+    <path>./1942.zip</path>
+    <path>./Archon.zip</path>
+    <path>./Castle Excellent.zip</path>
+    <path>./Chackn Pop.zip</path>
+    <path>./Crisis Mountain.zip</path>
+    <path>./Dig Dug.zip</path>
+    <desc>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves). Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth. They are invincible and cannot be killed. From time to time, vegetables will appear in the center, and you can get these for points.</desc>
+    <path>./Dragon Slayer.zip</path>
+    <path>./Flappy.zip</path>
+    <path>./Galaga.zip</path>
+    <path>./Hydlide 2.zip</path>
+    <path>./Ixion.zip</path>
+    <path>./Lunar Lander.zip</path>
+    <desc />
+    <path>./Mappy.zip</path>
+    <path>./Mario Bros Punch Ball.zip</path>
+    <desc />
+    <path>./Miner 2049er.zip</path>
+    <path>./Return of Ishtar.zip</path>
+    <desc />
+    <path>./Sphinx.zip</path>
+    <path>./Thexder.zip</path>
+    <desc>A platform shooter from Japan, Thexder offers many levels and diverse enemies that gradually increase in difficulty. You pilot a Battletech-style robot capable of switching from a mech into a jet at any time. Your weapon auto-aims, but uses up a fixed amount of rechargeable energy; if you run out of this energy, you'll have to wait a few seconds before you can fire again. Your mech also contains a shield that can be activated to protect you from harm, but this lasts for a few seconds and uses up some of your life energy.</desc>
+    <path>./Thunder Force.zip</path>
+    <path>./Topple Zip.zip</path>
+    <desc />
+    <path>./Tritorn.zip</path>
+    <path>./Xevious.zip</path>

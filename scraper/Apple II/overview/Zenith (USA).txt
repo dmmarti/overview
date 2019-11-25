@@ -1,0 +1,1 @@
+You are a Skyfighter patrolling the airspace above the city Zenith as it's being built. Aliens are invading and your job is to shoot every single object above the city to prevent it from harm.  Zenith is a pseudo-3D space shooter similar to Horizon V gameplay-wise, the main difference being the player's ability to rotate the controlled ship left and right. 

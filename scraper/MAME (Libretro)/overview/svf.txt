@@ -1,0 +1,1 @@
+Super Visual Football - European Sega Cup (c) 1994 Sega.  - TECHNICAL -  Sega System 32 hardware Game ID : 833-10851  Main CPU : V60 (@ 16.10795 Mhz), Z80 (@ 8.053975 Mhz) Sound Chips : (2x) YM3438 (@ 8.053975 Mhz), RF5C68 (@ 12.5 Mhz)  Screen orientation

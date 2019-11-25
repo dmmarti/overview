@@ -1,0 +1,1 @@
+Manipulate the motion of the prisoner so as to avoid being caught by the guards appearing in the upper and lower rows, and to escape through the gate as soon as it's open. When the prisoner is spotted by a guard, he will be caught, meaning a miss. Five misses and game ends. 1 point is awarded when a prisoner successfully leaves the jail. Maximum displayed score is 9999. 

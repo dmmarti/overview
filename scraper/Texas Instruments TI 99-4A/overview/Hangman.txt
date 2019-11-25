@@ -1,0 +1,7 @@
+Try to guess the hidden word, one letter at a time -- if you guess right, nothing happens; if you guess wrong, another piece of the hanged man appears. Too many wrong guesses, and you'll be swinging from the gallows pole!
+
+This version of Hangman was developed by Milton Bradley, originally for their Gamevision line. You can play against the computer, or with a friend. Two different styles of play are available, just to keep things interesting: Regular, which is standard Hangman, or Scramble, in which the letters appear on the screen in the order you guess them, then are unscrambled into the correct word when you win.
+
+In a two-player game, both players can either guess the same word or different words, or they can each enter a word for the other player to solve.
+
+The game also allows a player to create a custom word list, which can be used immediately, or saved to cassette for later use.

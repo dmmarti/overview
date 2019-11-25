@@ -1,0 +1,1 @@
+Fortress 2 Blue Arcade (c) 2001 Eolith.  - TECHNICAL -  Eolith 32 bits hardware: Gradation 2D system  Main CPU : Hyperstone E1-32N @ 45 or 50 MHz  Sound: - CPU : 80c301/AT89c52 - General MIDI Chipset QDSP 1000 MIDI Player (80c32 CPU) - MIDI 16th Channel(3

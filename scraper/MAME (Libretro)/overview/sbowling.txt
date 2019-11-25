@@ -1,0 +1,1 @@
+Silver Strike Bowling is an arcade game that uses a trackball to create a realistic bowling experince in the arcades. While relatively basic, the 8 players mode and leaderboards can keep players coming back for more.

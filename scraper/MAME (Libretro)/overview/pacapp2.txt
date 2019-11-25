@@ -1,0 +1,1 @@
+Paca Paca Passion 2 (c) 1999 Produce.  - TECHNICAL -  Namco System 12 hardware Game ID : PKS  Main CPU : PSX (@ 16.9344 Mhz), H8/3002 (@ 14.7456 Mhz) Sound Chips : C352 (@ 14.7456 Mhz)  Screen orientation : Horizontal Video resolution : 640 x 480 pixels A

@@ -1,0 +1,1 @@
+Super World Court (c) 1992 Namco.  - TECHNICAL -  Namco System NA-1 hardware Game ID : SC  Main CPU : 68000 (@ 12.52825 Mhz), M37710 (@ 12.52825 Mhz) Sound Chips : C140 (@ 42.667 Khz)  Players : 4 Control : 8-way joystick Buttons : 3  - TRIVIA -  Even if 

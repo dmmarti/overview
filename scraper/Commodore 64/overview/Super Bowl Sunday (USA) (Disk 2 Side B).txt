@@ -1,0 +1,1 @@
+A strategy, turn based football game with teams and player stats based off of real life football. Play against the computer or human opponent while selecting teams and plays.

@@ -1,0 +1,1 @@
+A static-screen shoot'em up in which the player controls a robot named Performan that moves in four directions. The character's weapon is a Perfor-Boomerang that shoots in front of the player and a button allows the player to dig tunnels underground.

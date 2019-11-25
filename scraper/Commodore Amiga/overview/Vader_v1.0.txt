@@ -1,0 +1,1 @@
+Vader is a 2D vertical scrolling shooter. The player must defend planet - and force enemy invasion back. The gameplay is simple and typical for the genre - the player controls a space ship, flies straightforward and fights against enemies. He can move left and right only. The space ship has energy shield, resistant for several shots only.

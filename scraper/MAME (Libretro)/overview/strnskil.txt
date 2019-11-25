@@ -1,0 +1,1 @@
+Strength &amp; Skill (c) 1984 Sun Electronics Corp.  - TECHNICAL -  Game ID : TVG15  Main CPU : (2x) Z80 (@ 4 Mhz) Sound Chips : SN76496 (@ 2 Mhz), SN76496 (@ 4 Mhz)  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Strength &amp; Skill was released 

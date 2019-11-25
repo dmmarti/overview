@@ -1,0 +1,1 @@
+Super World Stadium '97 (c) 1997 Namco.  - TECHNICAL -  Namco System NB-1 hardware Game ID : SS7  Main CPU : 68EC020 (@ 24.192 Mhz), M37702 (@ 16.128 Mhz) Sound Chips : C352 (@ 16.128 Mhz)  Players : 2 Control : 8-way joystick Buttons : 3  - TRIVIA -  Sup

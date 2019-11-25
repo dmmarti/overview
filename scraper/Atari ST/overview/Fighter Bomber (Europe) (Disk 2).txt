@@ -1,0 +1,1 @@
+This is an add-on for Fighter Bomber, featuring 16 challenging missions (attack a submarine, protect an airfield etc.), new ground objects/targets and other enhancements. Includes a mission editor. 

@@ -1,0 +1,1 @@
+The game player is the pilot of the plane and must both avoid the mountainous terrain while shooting aliens.

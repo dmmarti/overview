@@ -1,0 +1,1 @@
+Ice Block is a clone of Sega/Coreland's arcade game, Pengo. The player controls a penguin in a maze and the objective is to kick ice blocks at enemies.

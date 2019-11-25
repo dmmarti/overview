@@ -1,0 +1,1 @@
+Sauro (c) 1987 Tecfri.  - TECHNICAL -  Main CPU : Z80 (@ 4 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM3812 (@ 3.6 Mhz)  Screen orientation : Horizontal Video resolution : 240 x 224 pixels Screen refresh : 60.00 Hz Palette Colors : 1024  Players : 2 Co

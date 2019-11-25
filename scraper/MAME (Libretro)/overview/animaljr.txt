@@ -1,0 +1,1 @@
+Animalandia Jr. (c) 1993 Taito Corp.  - TECHNICAL -  Main CPU : (2x) Z80 (@ 8 Mhz) Sound Chips : YM2413 (@ 3.579545 Mhz), AY8910 (@ 2 Mhz), OKI6295 (@ 8 Khz)  Players : 1  - TRIVIA -  Released in September 1993.  Manufactured by Taito, under license from 

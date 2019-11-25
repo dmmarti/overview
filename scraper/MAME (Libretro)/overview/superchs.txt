@@ -1,0 +1,1 @@
+Super Chase - Criminal Termination (c) 1992 Taito.  - TECHNICAL -  Board Number : K11E0740A Prom Stickers : D46  Main CPU : 68EC020 (@ 16 Mhz), 68000 (@ 16 Mhz) Sound CPU : 68000 (@ 16 Mhz) Sound Chips : ES5505 (@ 13.343 Mhz)  Players : 2 Control : Steeri

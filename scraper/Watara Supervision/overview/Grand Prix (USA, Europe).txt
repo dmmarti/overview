@@ -1,0 +1,1 @@
+Grand Prix is a simple F1 racing game for one player. The player's car has a turbo boost that can be used to pass other vehicles. The goal is simply to win each race by coming in first, continuing on to the next course. There are eight courses in total, each taking place in a different country.

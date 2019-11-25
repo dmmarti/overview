@@ -1,0 +1,1 @@
+In this pool title, two players can choose either one of the two games available: 8-ball or Rotation. The games are selected by pressing any direction in the joystick while their names are displayed on screen.  In the 8-ball game, the winner is the first  

@@ -1,0 +1,1 @@
+Galaxy Gunners (c) 1989 Electronic Devices.  - TECHNICAL -  Main CPU : I8086 (@ 8 Mhz) Sound CPU : I8086 (@ 8 Mhz) Sound Chips : YM2151 (@ 3 Mhz)  Screen orientation : Vertical Video resolution : 256 x 352 pixels Screen refresh : 60.00 Hz Palette colors :

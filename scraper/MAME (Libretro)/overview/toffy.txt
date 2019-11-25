@@ -1,0 +1,1 @@
+Toffy (c) 1993 Midas.  - TECHNICAL -  Main CPU : M6809 (@ 3.579545 Mhz) Sound CPU : M6809 (@ 3.579545 Mhz) Sound Chips : YM2151 (@ 3.579545 Mhz)  Screen orientation : Horizontal Video resolution : 240 x 224 pixels Screen refresh : 57.44 Hz Palette colors 

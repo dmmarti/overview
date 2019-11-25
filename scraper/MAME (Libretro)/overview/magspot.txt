@@ -1,0 +1,1 @@
+Magical Spot (c) 1980 Universal.  - TECHNICAL -  Main CPU : Z80 (@ 1.802666 Mhz) Sound Chips : DAC (@ 1.802666 Mhz)  Screen orientation : Vertical Video resolution : 192 x 256 pixels Screen refresh : 60.00 Hz Palette colors : 16  Players : 2 Control : 2-w

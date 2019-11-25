@@ -1,0 +1,1 @@
+This is a very basic, linear "shoot'em'up" game in which the robot of your choice, rigged with a variety of different weapons goes through a pipe and blasts at everything that comes in the way. The robot can fire weapons from both arms as well as jump, kick and punch. Power-ups and bonuses can be picked up along the way to upgrade weapons or armour. 

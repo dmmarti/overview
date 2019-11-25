@@ -1,0 +1,1 @@
+Robocalypse sur DS est un tower defense, c'est-à-dire un jeu de stratégie dans lequel il faut défendre une base contre des vagues successives d'ennemis. L'histoire met en scène une guerre entre deux clans de robots, qui s'affrontent au moyen d'une pléthore d'armes et de compétences évolutives. Une campagne solo et un mode multijoueur à 4 sont disponibles.

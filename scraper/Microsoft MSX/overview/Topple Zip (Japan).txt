@@ -1,0 +1,3 @@
+Topple Zip is a vertically scrolling shooter that is marketed as a racing game. The basic premise is that you control an aircraft and fly in competition against several other, computer controlled crafts. In addition to shooting at your opponents, you may ram into them, and they into you. Doing so may dislodge a pill shaped power-up from them which you can then shoot and collect.  
+ 
+The goal of the game is to locate a key which is necessary to access the warp which leads to the eight and final level. Collect it from whichever level it is hidden inside of, and access the eighth level before any of your competitors. 

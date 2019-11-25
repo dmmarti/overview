@@ -1,0 +1,1 @@
+Twintris is an excellent Tetris clone. It has six modes of gameplay for one or two players who progress through the difficulty levels. The player does not get bored with doing all the same all the time. Add to this tournament and cup modes and you get ultimate tetris which you can only dream about! Handling is smooth, graphics are OK, music is awesome. Nothing more, nothing less.

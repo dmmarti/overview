@@ -1,0 +1,1 @@
+ This game contains 4 games: Muncher, Invasion, Rebound and Galaxy.  These games are clones of the famous Pac-man, Space Invaders, Arkanoid and Galaxian.  Each game has 2 versions, the Classic and the Baby. The Classic is the normal version and the Baby is the kids' version with cute graphics.

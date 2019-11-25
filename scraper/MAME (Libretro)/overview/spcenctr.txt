@@ -1,0 +1,1 @@
+A great space shoot'em up game, with a good pseudo-3D graphics effects. Navigate with your Defense Ship through the large corridors of the space station, destroy all the enemies and increase the speed to evade enemies and his remains.

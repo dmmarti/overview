@@ -1,0 +1,1 @@
+Shootout Pool is a pool-game controlled with a realistic miniature cue-controller.

@@ -1,0 +1,1 @@
+This cartridge, which includes an overlay. provides an "easy" way to program the Astrocade in machine language. Though not a Z-80 assembler. MLM does simplify the entry of hex code (which otherwise must be entered using decimal via BASIC. Also the keypad layout does not require the use of the key-shifts, so typing is faster). Programs can be saved via the Bally BASIC 300-baud.

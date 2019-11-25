@@ -1,0 +1,1 @@
+A vertical shooter from Jaleco You are in control of a battleship that moves on the ocean. You have to shoot enemy ships to the bottom of the see, destroy enemy bunkers on land and avoid striking enemy fighter jets. 

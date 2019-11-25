@@ -1,0 +1,7 @@
+The Mousing Cat is another game about the eternal conflict between felines and rodents. The game consists in a series of six encounters in which the players alternate the roles of cat and mouse (three times each). The winner is the player with most points at the end of the series. 
+ 
+The only player to score is the mouse. He does so by eating the cheese pieces scattered through the room. To eat, the player controlling the mouse has to press and hold the "action" button. The longer the button stay pressed, the more it eats. If the mouse eats for a certain amount of time, it will grow bigger than the cat and will be immune for a short period of time. 
+ 
+The cat tries to catch the mouse by building a trap around it. To do so, the player controlling the cat has to move the cat around the mouse while pressing the "action" button. The cat has a limited amount of trap parts to use and the used ones can be picked up again by being walked over. 
+ 
+The game has 7 skill levels (with less trap parts for the mouse and both cat and mouse moving faster the higher the level is) and 8 possible variations (with stationary and moving cheese and obstacles for the mouse). 

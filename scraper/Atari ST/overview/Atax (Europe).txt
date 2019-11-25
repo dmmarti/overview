@@ -1,0 +1,1 @@
+Plax Atax is a shoot em up game written in STOS. This is a one screen game that takes place in a mouth. You control a tube of toothpaste and your job is to eliminate the bacterias before they destroy too many of the teeth. Every level lasts for 20 seconds and then a level bonus is computed and the teeth restored for the next level. 

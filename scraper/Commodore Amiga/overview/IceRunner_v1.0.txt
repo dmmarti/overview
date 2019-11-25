@@ -1,0 +1,1 @@
+Ice Runner is a Lode Runner variant set in Antarctica. In several one-screen levels, the player has to navigate platforms and collect all the fruit. However, the character can't jump and has to use ladders. Foes, deadly at touch, can be dispatched by digging holes in the ground. If they fall in, they are stuck until the ice freezes over. Then they die and respawn.

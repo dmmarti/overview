@@ -1,0 +1,1 @@
+My Pet Shop est un jeu de gestion sur DS qui vous propose d'ouvrir un magasin d'animaux afin de les offrir aux habitants de la ville de Green Town. A vous d'aider les clients de l'animalerie en accomplissant diverses tâches comme trouver des animaux, s'en occuper, les soigner. Tout ça en vous amusant avec vos petits protégés.

@@ -1,0 +1,18 @@
+Crazy Sue is a 2D platform game, which was first released in 1990 in issue 1 of the Amiga Fun magazine by MC Publications. In the game the player takes the role of the little girl named "Crazy Sue", who must defeat the evil "Wizard of Doom".
+
+Gameplay
+
+The game is a standard platform game, where the main character is controlled with the joystick. Levels scroll horizontally, and in some levels the direction is fixed so you can only advance from left to right. After collecting the Jumper power up, large jumps are possible. And in later levels there is another power up allowing Crazy Sue to also shoot lollipops at enemies.
+
+Crazy Sue dies if she falls out of the level, touches a monster or other deadly object, or if the time runs out. In all such cases she loses a life and the current level is restarted at the beginning.
+
+Story
+The story is quite short and told in the intro screen. In the Land of Ereanor, people are in trouble because the evil Wizard of Doom is enslaving them. But there exists an old prophecy of a girl who can defeat the Wizard. That girl is Crazy Sue, who tries to reach the lair of the evil wizard during the game.
+
+Levels
+The game has 10 levels through which Crazy Sue runs and jumps. The first level starts at her house, from where she advances through a forest in level 2 and a desert in level 3, to cross a mountain in level 4. In level 5 she finds herself in a petrified forest, from where she continues over a long bridge over an abyss in level 6, to reach a castle in level 7. Level 8 and 9 play in the castle as well, and in level 10 Crazy Sue reaches the final boss in the dungeons below the castle.
+
+The first few levels are completely linear, with the player starting at the very left, and the game scrolling to the right. Later they get more complicated, and in the castle there are many keys and doors through which you have to find the right way.
+
+Enemies
+In the beginning, enemies simply follow fixed paths and need to be avoided. Later, once Crazy Sue gets the ability to shoot lollipops, monsters get more difficult and need to be killed, with the end game boss being the hardest of all, targeting shots directly at Crazy Sue.

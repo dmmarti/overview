@@ -1,0 +1,1 @@
+The player assumes the role of captain of a battle starship, charged with defending the frontiers of space from hostile alien ships, which come in two sizes : large and small. The larger ships have cloaking devices which make them invisible. Damage is inflicted on ships when they are shot or rammed by other ships.

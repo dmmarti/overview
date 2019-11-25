@@ -1,0 +1,9 @@
+One or two players can play against the computer in this Blackjack game. 
+ 
+Each player starts with $1000. After placing their bets (through the keyboard), the dealer shuffles the cards and deals two face-up cards for each player and one face-up card and one face-down card to himself. He then asks the players to hit more cards or not (up to five). After each player has been dealt a full hand, the dealer reveals his face-down card. He'll take a hit if he has a total of 16 or less. 
+ 
+Blackjack or five cards without a bust pays double. The nearest to 21 hands pays even. No money is paid if there is a tie. 
+ 
+The computer offers an insurance bet if the dealer's first card is an ace. If the player accepts and the dealer goes blackjack, the player will lose no money. Otherwise, he will win or lose the current bet plus a half. 
+ 
+Sometimes the computer will also offer a double down. If the player accepts, the bet is doubled and he will get just one more card. 

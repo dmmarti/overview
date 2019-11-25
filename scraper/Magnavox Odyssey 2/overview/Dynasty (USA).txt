@@ -1,0 +1,1 @@
+Dynasty! is an Othello clone. The playfield is an 8 x 8 matrix of dots and the objective is to occupy as much of it as possible. The game begins with two pieces of each color at the center of the matrix and players take turns placing new pieces in it. The 

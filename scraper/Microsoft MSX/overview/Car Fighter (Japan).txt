@@ -1,0 +1,2 @@
+This is a top view racing game. You have to drive several stages across the United States. In each stage you 'll have to reach the finish line before you run out of gasoline or time reaches out. Don't crash into the wall or other cars 'cause if you do, you will loose gasoline. You can get additional gasoline by making a pit stop at a gas station. Your sophisticated car has an on board gun and you can shoot all other cars, no matter if they are in front, next to or behind you. 
+All cars do change lanes but especially avoid the purple cars! 

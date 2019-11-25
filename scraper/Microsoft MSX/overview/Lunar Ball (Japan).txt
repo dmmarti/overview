@@ -1,0 +1,1 @@
+Lunar Ball is a futuristic pool simulation with space age balls and tables. There are 32 different tables set ups to practice your skills on. Unlike normal pool, the tables are designed in several different shapes and sizes, in a miniature golf fashion. You can practice your skills alone or go head to head with another player. 

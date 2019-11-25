@@ -1,0 +1,1 @@
+Naughty Boy (c) 1982 Jaleco.  - TECHNICAL -  Main CPU : Z80 (@ 1.5 Mhz) Sound Chips : TMS36XX (@ 0.35 Khz), Custom (@ 0.35 Khz)  Players : 2 Control : 4-way joystick Buttons : 1  - TRIVIA -  Released in March 1982.  This is the first game manufactured by 

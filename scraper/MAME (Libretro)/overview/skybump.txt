@@ -1,0 +1,1 @@
+Fly your airplane over the nightly sky city, while makes loops to make points destroying enemies helicopters. Shoot the gates to move from one area to the next, always avoiding colliding with these. A neat feature is the ability to bounce off 'borders' with your plane, like a bumper car.

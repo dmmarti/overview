@@ -1,0 +1,1 @@
+Enemy soldiers continuously move towards your camp from three paths, trying to steal your Army's gold. Move the brave soldier to prevent soldiers from reaching the camp. When an enemy successfully reaches the camp, a chance is missed. Five misses and game ends. 1 point is scored each time an enemy soldier is hit. Maximum displayed score is 9999. 

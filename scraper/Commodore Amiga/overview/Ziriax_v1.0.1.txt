@@ -1,0 +1,1 @@
+ Horizontally scrolling futuristic shoot-em-up in the same vein as R-Type in fact it's almost identical. Collect power-ups, kill baddies and then, at the end of the level, kill the end-of-level baddie.

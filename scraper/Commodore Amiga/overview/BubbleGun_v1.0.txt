@@ -1,0 +1,1 @@
+ You control a ghost with the mouse and have to help him get a bubble from one side of the level to the other without bursting it. The ghost can be rotated with the mouse buttons and you blow the bubble by pressing space. You have to avoid sharp objects such as needles and obstacles such as candles. Fans blow the bubble off course.

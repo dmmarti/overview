@@ -1,0 +1,1 @@
+Master Axe is a classic beat-'em-up game where you pick a character and fight 1-on-1 with another character controlled by friend or computer. Game features: 13 playable characters, many different gameplay modes (training, tournament etc.) stages and music.

@@ -1,0 +1,1 @@
+The Magician is a 2D platform game set in a fantasy world. The player controls a "typical" magician with a magic wand which can shoot fireballs. The player travels from left to right, avoids enemies and various obstacles (He can use 3 tracks to move, game has 2.5 gameplay from many beat'em ups) and collect various items such as books. 

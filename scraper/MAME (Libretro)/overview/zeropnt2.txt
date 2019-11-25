@@ -1,0 +1,1 @@
+A shooting game controlled by a light-gun. Its the 2nd game in the Zero point series.

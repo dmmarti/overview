@@ -1,0 +1,4 @@
+A spin-off of the successful action puzzle series Puyo Puyo with a twist. Whereas the main Puyo Puyo games are aimed at defeating AI or human controlled opponents in puzzle duels (where each player has his own play area in which color-coded "puyos" fall and must clear them out faster than his opponent). Nazo Puyo instead challenges the player with different single-player scenarios in which a specific objective must be completed (such as clearing only the red Puyos, or performing a specific sequence of combos, etc.). 
+ 
+The game uses the mold of a top-down RPG in which you control the young magician Arle as she explores towns and dungeons in her search for adventure. Each quest involves finding an NPC who will trigger one of the aforementioned scenarios and rewards Arle with experience points and unique items that increase her stats. 
+ 

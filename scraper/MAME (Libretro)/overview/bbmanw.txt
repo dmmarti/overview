@@ -1,0 +1,1 @@
+Bomber Man World is a strategic maze-based action game for up to four players in which the aim is to plant bombs to kill all of the enemies on the stage. Each of the game's grid-based stages are littered with both destructible and indestructible blocks, destructible blocks can be blown up to clear a path as well as to reveal a variety of different power-ups. 

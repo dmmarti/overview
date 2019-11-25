@@ -1,0 +1,3 @@
+In this action game made under licensed from D.C. Comics, Inc. and First Star Software, Inc., you play as Superman on his mission to save kidnapped Lois Lane and all humankind from two super villains, Darkseid and Lex Luthor.
+
+The gameplay consists of different action-oriented sections including 3D flying, overhead vertical scrolling and side scrolling. Sections are linked by comic book graphics telling the story. Player controls the Superman on the game levels and use one of his four superpowers to defeat the opponents. Power energy is exhausted with its use and it should be regenerated. Collision with opponents may lead to life energy decrease. Top scores will be stored when game is over. 

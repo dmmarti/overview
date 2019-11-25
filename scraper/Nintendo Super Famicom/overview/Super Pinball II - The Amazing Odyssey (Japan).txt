@@ -1,0 +1,3 @@
+The sequel to the original Super Pinball, Super Pinball II is another pinball simulator featuring three different tables. This time the selection consists of the sci-fi themed "Space Sister" table, the spy-themed "The Spy Eyes", and the circus themed "Showtime". 
+ 
+As in the original, the game features a Competition (free tournament) or Conquest (clear each table in succession) modes, but the hotseat multiplayer component has been reduced to two-players. Graphics are 2D representations of the tables viewed from a tilted 3D view, which manages to fit the entire tables on the screen without scrolling. 

@@ -1,0 +1,1 @@
+Last Striker (c) 1989 East Technology.  A manga soccer game.  - TECHNICAL -  Main CPU : 68000 (@ 8 Mhz), Z80 (@ 4 Mhz) Sound Chips : YM2610 (@ 8 Mhz)  Players : 2 Control : 8-way joystick Buttons : 3  - TRIVIA -  Released in September 1989.  This game is 

@@ -1,0 +1,12 @@
+The Sharp MZ 700 series replaced the aging MZ 80 (MZ 80K, MZ 80A and MZ 80B) series. Moreover, the MZ 700 was compatible with the MZ 80K and MZ 80A. 
+
+The MZ 700 series is composed of four machines: the first three models were launched in 1983 (November 1982 in Japan) and the last one was launched in late 1985 (in fact, this one is the "ancestor" of the MZ 800): 
+
+- the MZ 711 was the "naked" model (without any peripheral),
+- the MZ 721, has an integrated tape recorder
+- the MZ 731, has built-in plotter and tape recorder).
+- the fourth model was the MZ 780 which was actually a MZ 731 with a 80 columns card, a floppy disk drive and a Centronics port. It worked under CP/M. 
+
+There was no language in ROM (the ROM size is only 2 KB, it is just used for boot and OS calls), it has to be loaded from tape. So there was a lot of languages adapted for this machine (more than five versions of BASIC, assemblers, Pascal, Lisp, C, Fortran, Comal, Forth, & others). 
+
+The games were a bit poor because of the low resolution (which was actually graphical characters), but there were 512 graphic characters in ROM, which can be used to offset it (sort of). 

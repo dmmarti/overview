@@ -1,0 +1,1 @@
+ Destroyer is a 2D naval simulation. Players take the role of a captain controlling a United States Navy Destroyer class vessel. During World War II, the player has to command several Destroyer operations:  1. Subhunter missions 2. Rescue missions 3. Blockade runnings 4. Bombardment missions 5. Scout operations 6. Convoy escort

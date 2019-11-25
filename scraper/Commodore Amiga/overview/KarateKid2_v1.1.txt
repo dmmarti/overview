@@ -1,0 +1,5 @@
+The Karate Kid: Part II - The Computer Game is a one-on-one fighting game based on the movie The Karate Kid: Part II. The storyline of the movie is not directly addressed; the player only participates in five fights based on movie scenes. The difficulty rises from fight to fight.
+
+The player uses the input device to perform a multitude of moves, kicks and strokes. When changing direction (e.g. after jumping over the opponent) the controls reverse. Every successful hit drains the opponent's energy and improves the high score - the opponent tries to do the same to the player, of course. Between fights there are two mini games with digitized movie images: either catching flies with chopsticks (basically a reaction game) or breaking an ice block with bare hands (building up enough force by joystick wiggling).
+
+The two-player mode is basically the same, only that the second player takes the role of Daniel's opponent. The last fight is not played and the mini games between fights are played by both players in turns.

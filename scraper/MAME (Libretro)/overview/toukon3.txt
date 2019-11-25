@@ -1,0 +1,1 @@
+Shin Nihon Pro Wrestling Toukon Retsuden 3 - Arcade Edition (c) 1997 Namco.  - TECHNICAL -  Namco System 12 Hardware  Main CPU : R3000A 32 bit RISC processor, Clock- 48MHz, Operating performance - 30 MIPS, Instruction Cache - 4 KB BUS : 132 MB/sec OS ROM 

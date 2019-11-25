@@ -1,0 +1,1 @@
+This is an action game created by Taskset. Your job in this game is to keep a pipeline flowing with water. This pipeline will be disrupted by a falling plug from above this line. Your workman assisting you to repair the possible plugs caused. Critters are around the pipeline and will kill you if they touch you.

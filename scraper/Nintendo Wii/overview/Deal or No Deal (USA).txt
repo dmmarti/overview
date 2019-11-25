@@ -1,0 +1,1 @@
+Deal or No Deal is based on the TV game show of the same name. Gameplay is simple; pick one of 26 cases, containing amounts of money from one cent to one million dollars, then open several others. After opening several cases, a deal is offered, based on the average value of the remaining cases, which the player can either take, or reject to open another batch of cases.

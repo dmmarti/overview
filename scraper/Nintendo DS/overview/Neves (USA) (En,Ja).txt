@@ -1,0 +1,1 @@
+NEVES est un jeu de réflexion sur DS reprenant le principe du tangram. Plusieurs centaines de défis attendent donc le joueur et lui demanderont à chaque fois de reconstituer la forme à l'écran en se servant toujours des 7 mêmes pièces de bois. Trois modes de jeu sont disponibles : le mode libre, le mode en temps limité et le mode qui n'autorise que 7 mouvements par puzzle.

@@ -1,0 +1,7 @@
+A simple golf game; Nice On brings the gray-gradient green into the hands itinerant gamers.  
+ 
+The mechanism for golfing in this game is simple as it is classic. The players chibi avatar stands by the tee club aloft whilst a 'power bar' fluctuates up and down beside it. When the player presses a button the power bars movements will stop and how height the bar was will effect the distance of the shot. Before this the player may of course state the direction they'd like to hit the ball and where on it's surface they would like to strike it. Hazards are or course a threat to the novice, such as sand traps, meddlesome trees, etc. The flight of the ball is shown in an overhead view. 
+ 
+Once the ball is on the putting green the view remains over head regardless if the ball is in motion or being struck. The player may here select the direction of the strike to the ball, and the power bar will recommence it's spasms; however, the golfer ball will move of its own accord without any golfer in sight. The putting green is covered by marks that indicate the subtle slopping of the ground that seeks to keep you away from your triple bogey.  
+ 
+Should you find endlessly teeing off with yourself a bit tedious you may use the Communication Cable to play with another human, or you may challenge the npc character. This veritable samurai of the rough, swarthily attired in a fly fishing hat, will critique your game as he putts against you. 

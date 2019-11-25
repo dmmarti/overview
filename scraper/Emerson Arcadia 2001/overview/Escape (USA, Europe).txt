@@ -1,0 +1,1 @@
+A BerZerk clone.  You are trapped in a maze and enemy robots are all over! Shoot them down with your laser gun, but watch out for their counterattack: They are armed too! Be careful: Walls are electrified.   Game for 1 player.

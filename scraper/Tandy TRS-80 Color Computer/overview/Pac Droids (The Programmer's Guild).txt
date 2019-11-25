@@ -1,0 +1,1 @@
+A Pac-Man game with a sci-fi twist, Pac Droids has you piloting a space ship in a maze patrolled by flying saucers. As in the real Pac-Man, you gobble up dots while avoiding the saucers, clearing the level by eating all dots. Also, you have power-pills wh

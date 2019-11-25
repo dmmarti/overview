@@ -1,0 +1,5 @@
+In Shark Hunter the player controls an Eskimo protecting fish stocks from the attack of sharks. 
+ 
+The Eskimo starts standing on a small island in the middle of the river. He must kill the sharks in the water by throwing harpoons at them. He can swim to the banks or to ice floes above and below the island. The sharks can eat the ice floes so it isn't safe for the Eskimo to stand on them for much time, or else he'll be eaten too. 
+ 
+The fish are held by six rows of nets. The sharks will eat those nets to get the fish, and if an entire row is destroyed, more sharks will come from the sea. The Eskimo can repair the nets by swimming to the place where they were destroyed. The more nets destroyed, the less fish is kept. A stage will end when all sharks are killed. At the end of each stage the remaining fish will be counted and added to the player's score. As the game progresses, sharks become more abundant and destroy the nets faster. The game ends when the Eskimo gets eaten by a shark. 

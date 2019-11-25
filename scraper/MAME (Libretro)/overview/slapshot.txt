@@ -1,0 +1,1 @@
+An air-hockey type game from Taito. Hit the puck into your opponent's goal to win. You can also use a special shot for a better chance of scoring.

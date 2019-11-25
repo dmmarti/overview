@@ -1,0 +1,1 @@
+Tetris Kiwamemichi is a Tetris games made by Success, heavily influenced by Arika's "Tetris - The Grand Master" series.

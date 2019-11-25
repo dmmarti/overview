@@ -1,0 +1,3 @@
+Fever is a pachinko simulator. Pachinko is a Japanese  cross between a pinball case and a slot machine. This game supplies the player with a number of different pachinko machines, with rotating slot numbers. These can be either in a classic form of rotating wheels or an interactive digital screen. As the balls pop around the pachinko machine they'll land in different areas and effect your earnings. The player can always choose the speed at which balls are being launched onto the field which will change how they land. 
+ 
+This simulator also has a collection hall where the player can use his pachinko earnings to buy gambling machines and related memorabilia. These can be viewed along with information about their history. 

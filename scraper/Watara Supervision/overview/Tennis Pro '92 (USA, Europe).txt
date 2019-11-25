@@ -1,0 +1,1 @@
+Tennis Pro '92 is a no-frills tennis game for one player. The game offers singles play only against a computer opponent at three different levels of difficulty. The player can serve, swing at the ball, and run freely around the court during play. An animated scoreboard keeps track of game progress.

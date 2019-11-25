@@ -1,0 +1,6 @@
+Alpha Waves is a 3D game viewed from third-person perspective. The player pilots a "Mobile", a craft which bounces off of the platforms that fill the rooms. The player can rotate the craft left and right, thrust it forward, and move the camera up and down for optimal viewing. The game contains 256 rooms, which the player explores while in search of 16 crystals and 16 cubes. The Mobile bounces from platform to platform, making its way around the room to the doors that lead into other rooms. On the way, the player encounters many other creatures and vehicles, as well as surprises, such as rooms with reversed gravity.
+
+There are two modes of play: Emotion and Action.
+
+    In Action, players start in the central room, and work their way around with a time limit. Players gain time when going into a room they haven't been in before, and when crystal or cube power-ups are picked up. When time runs out, the Mobile explodes and the game ends.
+    In Emotion, players can choose to start in any of the 12 regions into which the 256 rooms are grouped. The regions are arranged in the context of different areas of the human brain. While there is no timer, players also can't explore beyond the region that is chosen

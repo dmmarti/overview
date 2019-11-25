@@ -1,0 +1,1 @@
+Simple side-scrolling game, where you play a skater who has to pass a set of obstacles in order to reach the end of the level. You can skate up or down in the screen, or even jump, to be safe from the pipes you encounter on the way. As the game progresses, obstacles are more frequent and more challenging, but the essence is the same. Timing is everything in this game.

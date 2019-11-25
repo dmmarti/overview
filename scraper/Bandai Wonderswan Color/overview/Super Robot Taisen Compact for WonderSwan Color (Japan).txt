@@ -1,0 +1,1 @@
+During battle, the player chooses a unit and takes an action by the commands available, such as movement, attacking, forming squads an 

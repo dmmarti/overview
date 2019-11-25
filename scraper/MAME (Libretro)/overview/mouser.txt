@@ -1,0 +1,1 @@
+Mouser (c) 1983 UPL.  - TECHNICAL -  Game ID : UPL-83001  Main CPU : Z80 (@ 4 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : (2x) AY8910 (@ 2 Mhz)  Players : 2 Control : 8-way joystick Buttons : 1  - TRIVIA -  Mouser was released in February 1983 by UPL. It

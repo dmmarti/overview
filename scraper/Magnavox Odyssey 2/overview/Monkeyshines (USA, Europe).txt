@@ -1,0 +1,1 @@
+In Monkeyshines one or two players will try to tag as many monkeys as they can while avoiding being tagged back. The players can move and jump over platforms where the monkeys are hanging and moving around. If a player catches a monkey, he has to press th 

@@ -1,0 +1,1 @@
+Blackjack/Poker/Acey-Deucey is a game compilation, that features 3 card games.     Blackjack and Acey-Deucey can be played 1 or more players, while Poker doesn't feature single-player.

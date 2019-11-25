@@ -1,0 +1,1 @@
+Jouez une équipe parmi celles de la NFL et de l'AFL, en choisissant des modèles offensifs et défensifs. Alternez entre les phases d'attaque et de défense à chaque turnover. Le lancer est singulier en tirant la commande vers l'arrière et s'enclenche lorsqu'elle est relâchée.

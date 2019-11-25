@@ -1,0 +1,5 @@
+The evil and mad Dr. Ragnova currently visits the planet Borobodur in order to construct a machine which has the power to destroy all technology and trigger a new dark age. Fortunately for the universe, Special Agent Johnson is on the way to set things right.
+
+Borobodur: The Planet of Doom is a genre-mix. The majority of levels is spent in side-scrolling platform levels. The goal is to find a number of hidden objects in order to open the exit to the next level. However, there are two major obstacles on the way: puzzles (mostly switch related) and enemies which try to kill Johnson. The latter problem is solved by shooting them and collecting power-ups which, for example, restore life energy or improve the gun.
+
+In other levels, the game becomes more focused on driving. The player controls a space ship (the camera is behind the vehicle) and has to survive until the end is reached. There are enemy ships to shoot as well as a boost function. There is also a third kind of level where the player moves blocks over a board in order to recreate a given pattern within a time limit.

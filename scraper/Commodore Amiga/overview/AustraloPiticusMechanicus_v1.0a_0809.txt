@@ -1,0 +1,5 @@
+Australo Piticus Mechanicus is a platform game exclusively published on the Amiga. The player has to guide the protagonist named Androids van Laptop on his journey to rescue his lost maiden.
+
+The game itself flips screens, no scrolling is involved. In melee combat you can hit with your sword (if you have one), or throw stones if you want to stay at distance. Weapons can be purchased at shops, which are placed frequently on the platforms. During your way, you collect money and gems to stock up for better weapons. You can jump, take objects (especially keys), use objects, and often ladders have to be climbed. The game character has two attributes: hit points, representing the health, and strength, which defines how much damage the player's character is doing to enemies and is defined by the equipment and weapon the character is carrying.
+
+There are eight levels. Beside the platform game, there is a futuristic gag: directly after loading the game you can decide not to enter the game, but the "system". The system is a text-based Unix-like console, in which by typing commands a Space Invaders game and some pictures of the developers can be found.

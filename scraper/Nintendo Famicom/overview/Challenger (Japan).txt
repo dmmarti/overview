@@ -1,0 +1,5 @@
+One of Hudson Soft's earliest NES titles, Challenger is an arcade-style game that combines side scrolling, run 'n jump action with overhead, exploratory gameplay. The game consists of two parts. 
+ 
+The first level (or "scene") has you racing the clock to get to the front of a train, where a purple-faced villain is holding your significant other (or, perhaps just some anonymous princess). You have at your disposal a trusty throwing knife to take care of enemies. You will also have to dodge obstacles and jump gaps in the train. This section is taken from the earlier Hudson game, Stop the Express. 
+ 
+Scene 2 places you in an overhead, maze-like environment, where you once again have to fight the clock. This time though, you have to navigate your way through the area, in search of all the different "keywords", which are placed in different caves. Once you have cleared all the caves, the path will be open to the boss' final lair. 

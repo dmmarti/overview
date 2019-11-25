@@ -1,0 +1,1 @@
+Bowling!: one to four players take turns in this game. The alley is shown from a top down view and the ball moves back and forth at the foul line. The players have to press the action button to release the ball and can add an effect to it by pressing left 

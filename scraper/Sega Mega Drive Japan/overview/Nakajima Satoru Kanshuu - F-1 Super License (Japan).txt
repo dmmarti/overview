@@ -1,0 +1,4 @@
+F1 Super License is the third and final Satoru Nakajima F1 game for the Mega Drive. Eschewing the cockpit view of F-1 Hero MD, this release returns to the top-down view of the earlier F1 Grand Prix. It features an official FOCA license and represents the 1992 season. 
+ 
+There are three modes available: GP mode, which lets the player play a 16-race season as their preferred driver; Spot mode, where the player can play a custom race against a full field; and Test mode, where the player can practice to build their skills. The player can adjust their vehicle's engine, tires, brakes, suspension, and spoiler to their tastes between races, and can also play a free run before competing. The game has three GP mode save files, and will also record the best times for each course. 
+ 

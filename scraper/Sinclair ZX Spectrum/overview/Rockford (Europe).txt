@@ -1,0 +1,1 @@
+This is a rocks'n'diamonds style game. Play in six different worlds (as a explorer, cook, doctor, etc.) of increasing difficulty, and grab the coins/apples/hearts while avoiding the boulders. And there are enemies to make your life (even more) difficult.

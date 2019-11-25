@@ -1,0 +1,5 @@
+Zan: Yasha Enbukyoku is a turn-based strategy game set in feudal Japan. 
+ 
+The background for the game's events is the ongoing battle between noble warriors, known as yasha, and demons. Between the two stand the "middle people", i.e. other Japanese generals and rulers. The player can choose to play as either yasha, demonic, or "middle" army.  
+ 
+The player has to manage his army, deploying units for protection and attack, as well as negotiating with other rulers. Events such as earthquakes, plagues, etc. occur randomly. Diplomacy doesn't always work, so battles against enemy armies occupy a large portion of the game. The battles are somewhat similar to those of turn-based RPGs (though the game has no RPG elements): the player chooses commands from a menu, such as attack, use magic, use special technique, use a battle formation, etc. There is no active movement during the battles. The outcome of the battle depends on the chosen commands as well as on the strength of the units. 

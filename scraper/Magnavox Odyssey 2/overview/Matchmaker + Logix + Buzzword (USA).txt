@@ -1,0 +1,1 @@
+Matchmaker! (selected by pressing "1") is a regular Memory game. A matrix with 20 letters appears on the screen and the player has to find pairs of symbols hidden by the letters. Two counters will be display 

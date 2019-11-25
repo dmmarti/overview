@@ -1,0 +1,1 @@
+A semi-realistic helicopter battle game, viewed from behind. Allied bases must be protected from air and land attacks, and soldiers transported between them. The Combat Lynx is equipped with various weapons, including mines and heat-seeking missiles. A map enables the player to keep track of enemy forces. Includes various difficulty levels.

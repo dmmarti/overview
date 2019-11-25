@@ -1,0 +1,1 @@
+A four-stage space shoot-em-up where the player faces off against four different types of enemies. Certain enemies drop "space soldiers" down to the bottom of the screen, where they can attack the player's ship from behind. After completing a stage, the game warps the player's ship to the next stage.

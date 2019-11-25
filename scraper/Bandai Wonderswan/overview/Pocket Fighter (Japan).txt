@@ -1,0 +1,14 @@
+Pocket Fighter is a crossover fighting game that takes characters from the Street Fighter, Darkstalkers, and Red Earth fighting series, and presents them in a cute shrunken chibi form with ridiculous moves and costumes. The games fights take place in various Capcom locations. 
+ 
+At the top of the screen is your, and your opponents, health bar. Below that is a meter showing how many gems you've collected. Gems are produced from a character when they are hit by a kick or a punch, these gems will then lie on the ground until someone picks them up. Filling up your gem gauge will increase your special attack meters on the bottom of the screen. Ideally one aims to achieve a special attack level of 9 by picking up gems, however, battle will often having you using these up before you reach that lofty number. 
+ 
+The main difference between the Sega Saturn and PlayStation version of Pocket Fighter is a card battle mode.  
+ 
+In the card battle mode you will be presented with a set of three to six cards to choose from to form an attack, after which you'll view the combat and get new cards to pick from until one player is K.O.'ed 
+ 
+The cards will have a attack power and a defense power. By combing cards you'll get an attack, defense, and counter value 
+which determine an overall power value. The player who has selected the higher power value will attack that turn, unless your foe has picked a guard card, an evasion card, or a high enough counter value. Other cards include recovery cards and special move cards. 
+ 
+"Collectible Cards", cards featuring various graphics of the game's characters, can be obtained by playing the games various modes, such as "Arcade", and traded via the Communication Cable 
+ 
+The game also featured an online high score board through the WonderGate. 

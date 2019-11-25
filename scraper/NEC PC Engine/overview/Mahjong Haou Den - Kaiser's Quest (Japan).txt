@@ -1,0 +1,1 @@
+ Adventure mahjong game where you travel around a kingdom playing matches against various people.			

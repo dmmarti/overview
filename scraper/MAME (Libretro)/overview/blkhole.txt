@@ -1,0 +1,1 @@
+Black Hole is a space-themed shoot'em up. The point of the game is to shoot all of the terrain, go through the "point ships" for extra points, and finally shoot the moving figure on top of everything.

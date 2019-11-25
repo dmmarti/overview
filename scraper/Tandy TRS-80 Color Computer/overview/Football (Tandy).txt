@@ -1,0 +1,1 @@
+Welcome to Football. Football is a simulation game with five men per team. Two people play the game, each using a joystick to control his team. One player's team is red, the other is blue.

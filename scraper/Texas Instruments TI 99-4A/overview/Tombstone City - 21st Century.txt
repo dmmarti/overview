@@ -1,0 +1,3 @@
+Aliens called "Morgs" are invading the old west. You must destroy them by shooting them from your "schooner". When you kill them, they turn into cactuses which create obstacles on the map. But if you kill a Morg while it is adjacent to an existing cactus, the Morg and the cactus are both eliminated from the map.
+
+TI released the source code to this game as part of its Editor/Assembler package.

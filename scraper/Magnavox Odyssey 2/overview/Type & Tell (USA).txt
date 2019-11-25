@@ -1,0 +1,1 @@
+Type &amp; Tell! lets the player type in a word or a message and then have the words spoken back to them by utilizing the Odyssey 2's voice module.The instruction manual suggests the following games that can be played:Garble! - Players take turns typing in on 

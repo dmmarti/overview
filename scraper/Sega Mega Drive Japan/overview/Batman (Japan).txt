@@ -1,0 +1,8 @@
+The Genesis version of Batman: The Video Game follows closely the plot from the 1989 movie. 
+ 
+The game consists in six stages, four of side-scrolling platform action and two side-scrolling shooter ones, in the following order: Gotham City Street, Axis Chemical Factory, Flugelheim Museum, Gotham City Street (with the Batmobile and after that on foot), In the Sky over Gotham City (with the Batwing) and the Cathedral, where Batman finally faces the Joker. 
+ 
+Batman can beat his enemies by punching them, slide kicking (by pressing down and the B button) or throwing his Batarang. By holding down the B button, Batman will block projectile-based attacks. He can also use his double jump (pressing the C button a second time while ascending) to leap greater distances or attack his enemies. To reach higher platforms, Batman can use his Grappling Hook (by pressing up and C to shoot, C again to climb). While piloting the Batmobile or the Batwing, Batman can shoot the Twin Vulcan Cannons (B button) or Twin Homing Missiles (A button). 
+ 
+Through the levels, Batman will collect Batman emblems (which will give him Batarangs or Twin Homing Missiles, depending on the stage played), Hearts (which give him health) and Batman heads (which give him an extra life). 
+ 

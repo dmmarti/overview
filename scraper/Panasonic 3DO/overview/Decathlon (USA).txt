@@ -1,0 +1,1 @@
+ As you would expect, all ten events are represented in 3DO's Decathlon: 100-meter dash, 400-meter dash, long jump, shot put, high jump, 110-meter hurdles, discus, pole vault, javelin, and 1500-meter run. Each event has smooth motion-capture graphics, and most have configurable camera angles.

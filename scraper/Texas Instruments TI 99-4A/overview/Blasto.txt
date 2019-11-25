@@ -1,0 +1,1 @@
+1 or 2 players each control a tank in this top-down game. The object is to clear as many mines and obstacles as you can before the timer runs out. But watch out! If you're too close to a mine when you shoot it, you'll blow up your own tank! And in a two-player game, you also have to be careful not to run into the other tank -- or get into its line of fire!nn

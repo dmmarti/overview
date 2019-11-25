@@ -1,0 +1,1 @@
+The goal of the game is to complete a meal of the player's choice. The player cooks in steps, for example, if making sushi, the player will cut the fish in one step, and do the rice in another. Every time a meal is finished, other meals are unlocked, and so are other characters, family and friends.

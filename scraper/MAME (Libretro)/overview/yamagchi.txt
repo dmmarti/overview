@@ -1,0 +1,1 @@
+In Go Go Mr. Yamaguchi - Jungle Survival, you control a jungle explorer named Mr. Yamaguchi who shoots at natives and other enemies.

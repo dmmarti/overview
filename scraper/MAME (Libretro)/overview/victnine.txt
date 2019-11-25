@@ -1,0 +1,1 @@
+Victorious Nine (c) 1984 Taito.  - TECHNICAL -  Main CPU : Z80 (@ 4 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : AY8910 (@ 2 Mhz), MSM5232 (@ 2 Mhz), DAC  Players : 2 Control : 8-way joystick Buttons : 6  - TRIVIA -  Released in May 1984.  - SOURCES -  Ga

@@ -1,0 +1,1 @@
+Shoot Out (c) 1985 Data East.  - TECHNICAL -  Main CPU : M6502 (@ 2 Mhz) Sound CPU : M6502 (@ 1.5 Mhz) Sound Chips : YM2203 (@ 1.5 Mhz)  Screen orientation : Horizontal Video resolution : 256 x 240 pixels Screen refresh : 60.00 Hz Palette Colors : 256  Pl

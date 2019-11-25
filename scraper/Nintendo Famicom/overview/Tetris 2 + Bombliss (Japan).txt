@@ -1,0 +1,7 @@
+Tetris 2 + BomBliss is one of the many versions of the famous soviet puzzle game. There are, naturally, two variations featured on this cartridge: regular Tetris with several modes, as well as a new game called BomBliss. Also included is a two-player battle version of regular Tetris. 
+ 
+Tetris mode includes three game types. First is A-Type, which is a standard endless mode that continually increases pace until the player loses. Next is B-Type, which is a race to 25 lines under increasingly tough conditions. Last is C-Type, which is similar to A-Type, but adds a continually-rising stack of garbage appearing from the bottom of the well. 
+ 
+BomBliss is slightly different from regular Tetris. In each stage, the well is filled with a preset pattern of blocks and bombs. Completing a line will, unlike Tetris, not clear it. It will, however, activate any bombs within the completed line, which can then destroy the blocks. The goal is to clear the entire well of blocks. 
+ 
+BomBliss also includes three different modes of play. Contest mode tasks the player with clearing out a preset field in as few blocks as possible; the top three scores for each stage are saved. Puzzle mode tasks the player with clearing a preset field with a preset sequence of pieces. Last, there is Construction mode, which allows the player to build their own puzzle stages. 

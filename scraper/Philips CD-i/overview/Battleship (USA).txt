@@ -1,0 +1,1 @@
+Battleship is a conversion of the classic board game for the CD-i. The game plays exactly like the original board game. You take turns to fire on certain coordinates in the hope of hitting enemy ships. On the side of the screen there's a little window that shows short naval archive footage whenever you are firing or get hit. You can play against the computer or against a friend.

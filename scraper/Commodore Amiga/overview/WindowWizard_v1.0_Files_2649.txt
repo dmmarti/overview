@@ -1,0 +1,3 @@
+In Window Wizard the player takes the role of Willy, the window cleaner. Willy has a big job: cleaning the windows of a house with multiple floors. The goal of each level is to clean every window while avoiding death. Cleaning a window takes a few seconds.
+
+But he can only work on windows which are closed and the residents like to look out of the window - in this case Willy uses a horn to chase them away. He also needs to look out for and dodge objects or people which fall out of higher windows. A bird likes to use cleaned windows as toilet and a special cleaner has to be used to deal with this. But it needs to be used with caution because it destroys regular windows.

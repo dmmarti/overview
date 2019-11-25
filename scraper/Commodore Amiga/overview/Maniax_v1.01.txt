@@ -1,0 +1,3 @@
+Maniax is a Qix variant. The basic playing principle: the player controls a dot which can draw lines on the screen and when a closed figure is drawn, the colour of the area changes. Additionally there are enemies, either confined to the uncoloured or coloured areas, which cause the player sprite to die if touched. The goal is to colour 75% of the screen.
+
+This variant reveals background images taken from 16 cities instead of just changing the screen colour. There are also various extras to pick up which give advantages like extra lives, frozen enemies or extra points. Triangles show negative effects when picked up, e.g. instant death or deceleration.

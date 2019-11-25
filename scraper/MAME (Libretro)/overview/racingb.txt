@@ -1,0 +1,1 @@
+Racing Beat (c) 1991 Taito.  - TECHNICAL -  Taito Z System hardware  Main CPU : (2x) 68000 (@ 16 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM2610 (@ 8 Mhz)  Players : 1 Control : Stick Buttons : 6  - TRIVIA -  Released in April 1991.  - SOURCES -  Game

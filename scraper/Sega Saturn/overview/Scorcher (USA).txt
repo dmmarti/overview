@@ -1,0 +1,1 @@
+Scorcher is a futuristic racing game by Scavenger. In dark post-war-looking decors, you race against a couple of opponents driving in a spherical racer. You can pick up special triangles to gain speed powerups.  The graphics support resolutions up to 640x480.

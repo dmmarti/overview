@@ -1,0 +1,1 @@
+In this straightforward shooter you control gun and you have to shoot as many eggs as possible. There are two types of eggs with different colors. If you shoot the white eggs they will break, but if you try to shoot the purple eggs they will not break. The latter shoot be avoided. There are no levels in this game. 

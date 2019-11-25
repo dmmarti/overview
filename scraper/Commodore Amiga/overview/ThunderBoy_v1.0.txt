@@ -1,0 +1,3 @@
+In Thunder Boy the player takes the role of Julian, whose girlfriend Jane was kidnapped by the fire dragon Drago. The reason: They rebelled when Drago took over their homeland. Julian's goal is to rescue Jane.
+
+This game is a side-scrolling platformer similar to Wonder Boy. The player walks from left to right while evading the enemies. Touching those drains Julian's life energy (reaching zero results in a life loss) - but so does starving. He has to pick up fruits to avoid this happening. Initially Julian can't attack the enemies, but after a while he finds an axe. The game features 20 levels.

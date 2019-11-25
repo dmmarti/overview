@@ -1,0 +1,41 @@
+Ganso JaJaMaru-kun is a remake of the NES platformer Ninja JaJaMaru-kun. It includes new levels and bosses that stretch the gameplay in novel ways. 
+ 
+Lord Namazu Dayuu has kidnapped JaJaMaru-kun's beloved Princess Sakura. This piratical lord is no laughing matter, despite his sadistically gleeful disposition, he possess an army of creatures drawn from Japanese folklore to prevent you from reuniting with your princess ever again. 
+ 
+The game is quite simple and plays, for the most part, much like its predecessor. Jajamaru-kun begins on the bottom of a three tiered horizontal field. On each level of this field there are two enemies on each tier. The tiers have weak brick points in that Jajamaru-kun can break by hitting them with his head while, a common trait for arcade heroes. Once a passage is made Jajamaru-kun can move through them as can enemies. To clear a level all enemies must be defeated, most enemies can be killed by having a shuriken thrown at them, the only weapon available without a power-up, some need to be stunned either by falling through a hole in a tier or by being jumped on. Enemy projectiles can also be canceled out by the shuriken. Being touched by an enemy projectile, or in a few cases an enemies body, will instantly kill Jajamaru-kun. After an enemy has been killed its spirit will ascend, you can grab this for extra points. 
+ 
+Each of these stages has a leader who will posses some special attribute and present a new sprite. After the level in which the leader appears he/she/it will show up in the following levels as a standard level enemy often a bit weaker. Each stage gives you two minutes to complete it, except bosses and special stages. When about one minute remains Lord Namazu will send an orb of fire onto the stage that will slowly home after Jajamaru-kun. 
+ 
+You start the game with two extra lives and three continues. More lives can be found in the game, or by accruing points.  
+ 
+There are four levels in each game area, village, graveyard, castle and town, seaside and ship, and the hidden island. However it is not enough to kill all the enemies in a stage to progress to the next area. Each level has its a cherry blossom that will descend from the top of the screen at a certain point. If you should kill all the enemies before the blossom arrives or the blossom floats of the bottom of the screen you'll go onto the next level but have to return to get it later, in this case all the enemies will have returned. Collecting all four cherry blossoms will allow you to go onto a special stage and the area boss. 
+ 
+Each game area has one special stage. These stages use the familiar tiers but now they scroll upwards and are littered with traps and hazards; such as, wheels of fire, falling logs, spikes, conveyor belts, etc.. As the scrolling is automatic should Jajamaru-kun not keep up and fall off the bottom of the screen he will die, touching any deadly hazard will also dispatch our hero. Should the player reach the top of the tiers he will be confronted with a gate that his shuriken will open, this leads to a boss. 
+ 
+Each area boss is attacked in a unique boxed in area, sometimes with platforms. The final boss is the only area where Jajamaru-kun may throw his shuriken vertically. There are no power-ups in boss rooms. 
+ 
+The power-ups that can be found in the bricks between tiers wear out after a certain amount of time, with the exception of the frog. They will appear on the upper right hand corner of the screen so you know which ones you've picked up recently, getting the frog clears this list. 
+ 
+1. Invisibility potion: an invisible ninja is an unstoppable ninja. Once a ninja takes the potion you'll become an ninja outline and can go through enemies. Nothing can harm you, but that doesn't limit your ability to dispatch foes. 
+ 
+2. Ninja Cart: this is a small velocoped for ninja, one in this cart you'll be able to kill enemies by barreling into them, even though it doesn't make physical sense you can still jump in this cart. 
+ 
+3. Big Shuriken: this will make your ninja stars about as big as you are, easily defeating evasive enemies 
+ 
+4. Long Distance: this weapon upgrade will make your attacks go across the entire screen. 
+ 
+5. Katana: a fearsome sword, the katana can do away with any foe, regardless of if they have armor or are to low to hit with your normal attack. The katana also destroys incoming projectiles, however, this blade has a very limited range so be careful. 
+ 
+6. Boomerang: causes your shuriken to fly back at you, it wont harm you, but it is great for picking off foes that are weak from behind. 
+ 
+7. Speed increase: this spherical power-up increases Jajamaru-kun speed to the the peril of his enemies, and himself. 
+ 
+8. Watch: this item will give you more time. 
+ 
+9. Extra Ninja: this item will grant you an extra life, very rare! They do not count as a collected item. 
+ 
+10. Inscribed Coin: these coins available in white and black are worth varying amounts of points. They do not count as a collected item. 
+ 
+11. Bombs: these items look like two speed boost orbs, or the wheels of the cart, however, they are a trap. Jumping into these means instant death for Jajamaru-kun 
+ 
+12. Trusty Frog: Jajamaru-kun's noble steed, a humongous man-eating frog. Should you collect four power-ups instead of receiving the power of the fourth you will get to ride on your gigantic frog and eat all the enemies on the stage. This can be dangerous though if you have not yet gotten the stages petal as once on the frog it won't show up. There is no time limit on how long the frog stays, unless of course the time runs out entirely before you gobble up all the enemies. Once a stage ends you will have to repeat the item collection process to ride the frog again. Items in your collection carry over between stages so you can strategically pick a fourth on a stage where you need the frog. 

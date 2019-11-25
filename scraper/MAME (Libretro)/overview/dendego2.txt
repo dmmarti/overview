@@ -1,0 +1,1 @@
+Densha De Go! 2 Kosoku-hen is a train simulator where the player assumes the role of an engineer who must take passengers to the station within a certain time limit.

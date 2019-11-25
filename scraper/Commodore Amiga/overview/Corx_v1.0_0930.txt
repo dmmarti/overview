@@ -1,0 +1,3 @@
+Corx is a straight light-cycling race variant (with cars instead of cycles), known from the movie TRON. Two players race against each other on a plain and each vehicle leaves behind a trail which is deadly by touch. The goal is to trap the opponent; obviously the surviving party has won the battle. The screen is split into three parts: the upper and lower ones show a 3D view of the plain with the camera fixed on one of the two players and in the middle is a radar view.
+
+The variants to this known principle are a limited amount of jumps, the ability to control the speed of the own vehicle and two AI difficulty levels. Regarding multiplayer, there can be only two vehicles on the field at the same time. However, more participants can start a tournament with knockout rules.

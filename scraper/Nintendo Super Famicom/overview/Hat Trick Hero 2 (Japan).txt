@@ -1,0 +1,5 @@
+Hat Trick Hero 2 is the follow up to Hat Trick Hero, and it is loosely based on the arcade game Hat Trick Hero '93. One or two players can play in a exhibition game (one single match) or in a world league. The game scrolls horizontally uses mode 7 graphics to give the playing field some perspective. 
+ 
+There are 18 countries to select from, each with different running, kicking and technical abilities. You can use 5 different formations, which are 4-4-2, 4-3-3, 3-5-2, WM and libero. You also select a team captain from 8 different characters. 
+ 
+You can perform a foul tackle on the opponent, but when the referee is close enough to notice it you risk getting a yellow or red card. By holding down a direction after shooting the players can shoot the ball with curve effect. During the game a power-up bar is charged which can be used for special abilities. Holding down R allows you to run faster, but this slowly drains the power-up bar. With a fully charged power-up bar you can perform an unstoppable hyper shoot by pressing a special combination, and this drains the power-up bar entirely. 

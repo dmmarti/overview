@@ -1,0 +1,1 @@
+Taisen Tanto-R - Sasi-Su!! (c) 1996 Sega.  - TECHNICAL -  Sega Titan Video hardware (STV)  Main CPU : (2x) SH-2 (@ 28.6364 Mhz), 68000 (@ 11.45456 Mhz) Sound Chips : SCSP (@ 11.45456 Mhz)  Screen orientation : Horizontal Video resolution : 704 x 513 pixel

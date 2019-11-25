@@ -1,0 +1,6 @@
+Press Game A button to play game A (easy). Press Game B button to play game B (hard). Press Game A + Game B buttons to play game A+B (different). 
+boxart cartart gamelist.xml marquee mb_convert.sh snap temp.xml wheel Instructions (games A and B): 
+Your ship has landed on a hostile planet. Enemy ships attack your ship by shooting homing missiles against it. Move your ship's energy shield to destroy enemy missiles. Misses: one miss is scored per each enemy missile that hits your ship. If your mothership (the large one on top of screen) is on screen while missile hits your ship, half a miss is scored; miss marks blinks. If your mothership is not on screen while missile hits your ship, a full miss is scored; miss marks appears. 1 point per destroyed enemy missile. 
+boxart cartart gamelist.xml marquee mb_convert.sh snap temp.xml wheel Instructions (game A + B): 
+Shoot missiles from the screen corners to the ship in the center of the screen. Computer controls the ship's energy shield. You have 300 missiles available. 1 point per missile hitting the ship. 
+At 200 and 500 points, if there are one or more misses, fanfare sounds play and all misses are canceled (games A and B only). Maximum displayed score is 999 points. 

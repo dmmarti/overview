@@ -1,0 +1,1 @@
+Siren City is a single player driving game. The player takes the role of a rookie cop in a patrol car. The object of the game is to drive around the city, avoiding other traffic which will try to crash into the patrol car, catching bad guys. There are three main bad guys to catch in this game, Slit-throat Steve, Dune Buggy Jon, and Dr J Davies the criminal mastermind.

@@ -1,0 +1,2 @@
+This game is a conversion of the arcade game Tank Battalion. The player controls a tank and battles with enemy tanks that pursue and attack in maze like constructed levels. 
+All you have to do is shoot all (blue) enemy tanks and your off to the next level. Occasionally a red tank appears, shoot it for bonus points. 

@@ -1,0 +1,1 @@
+A one or two player maze game published and developed by Technos in 1983. The player must run around a maze kicking Eggs into walls to break them open, revealing chicks. Chicks then must be kicked off the screen.

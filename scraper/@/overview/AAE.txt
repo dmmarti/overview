@@ -1,0 +1,1 @@
+AAE (Another Arcade Emulator) is an arcade game emulator for Windows, developed by Tim. It runs various vector-based games, including those for Sega G80 hardware, and has graphical effects (such as bloom) which set it apart from MAME.

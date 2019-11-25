@@ -1,0 +1,5 @@
+Barrage is a variant of Missile Command where the player has to prevent the fiendish Draks from dropping acid balls on a planet. The player is in command of two laser gun towers located at the side of the screen and moves a crosshair to aim and destroy the small balls as they appear from the top of the screen. On the ground are various military vehicles and buildings that have to be protected.
+
+Each attack consists of a number of waves that gets increasingly larger and faster. Starting from the second attack acid balls that can change their course will appear and from the third the fast moving hydrazine meteors will appear. The two guns have limited ammo so it is necessary to shoot sparingly. At the start of a new attack the guns are rebuilt and restocked.
+
+In addition to the single player mode there are both cooperative and competitive two player modes.

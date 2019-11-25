@@ -1,0 +1,1 @@
+1942 Mission is an award-winning text adventure game by Tom Frost. You play as a secret agent during World War II who must parachute into a German military base to steal plans for a new recipe for rocket fuel. You control the secret agent using a simple text parser. 

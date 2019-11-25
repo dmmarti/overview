@@ -1,0 +1,1 @@
+Springer (c) 1982 Orca.  - TECHNICAL -  Main CPU : Z80 (@ 3.072 Mhz) Sound Chips : AY8910 (@ 1.5 Mhz)  Screen orientation : Vertical Video resolution : 224 x 256 pixels Screen refresh : 60.00 Hz Palette colors : 256  Players : 2 Control : 8-way joystick B

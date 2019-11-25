@@ -1,0 +1,3 @@
+The Atari Jaguar CD or Jag CD is a CD-ROM peripheral for the Atari Jaguar video game console.
+
+Atari announced a CD-ROM drive for the Jaguar before the console's November 1993 launch.Code-named the Jaguar II during development, the Jaguar CD was released on September 21, 1995, and retailed for $149.95. It suffered from multiple delays, having been originally intended for launch during the 1994 holiday shopping season. The device sits atop the Jaguar console, fitting into the ROM cartridge slot. The drive has its own cartridge slot to allow cartridge games to be played without removing the CD drive, and to run software which used cartridge and CD in tandem. There was a separate "Memory Track" cartridge for storing saved game position and high scores.

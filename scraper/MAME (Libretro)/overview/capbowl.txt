@@ -1,0 +1,1 @@
+This top-down view bowling game allows up to four players to compete. The trackball controls the aim and power of your throw and two buttons control the left and right hook respectively. There are graphic displays of turkeys, splits, gutters etc. and the game keeps track of scoring and high scores.

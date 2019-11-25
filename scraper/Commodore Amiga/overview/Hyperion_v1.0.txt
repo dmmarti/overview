@@ -1,0 +1,3 @@
+Hyperion is an action game with similarities to Zarch (better known as Virus). The player's home planet was overrun by enemy forces and there is only one chance to take it back. To ensure the army's progress, a single space ship has to solve ten special missions to take out the enemy's key structures.
+
+Each mission has a different goal, e.g. destroying a radar unit or a transporter. The camera is positioned near the space ship and the planet is shown in 3D vector graphics. Of course the most important part of staying alive is shooting enemies, e.g. space ships. The player also has to watch the fuel meter.

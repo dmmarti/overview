@@ -1,0 +1,1 @@
+Monkeys continuously climb the trees to steal coconuts. You should try your best to avoid the coconuts being stolen. When a monkey successfully reaches a coconut, a missed is scored. Five misses and game ends. 1 point is scored each time a monkey is hit. Maximum displayed score is 9999. 

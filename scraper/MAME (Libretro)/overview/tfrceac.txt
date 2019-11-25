@@ -1,0 +1,1 @@
+This game is a port of the Sega Mega Drive game "Thunder Force III". The main changes from the home console version are:  -No stage select screen  -Stages are shorter.  -Slightly different enemy layout.  -Some graphics are changed, including title screen.  -Many voice tracks added.

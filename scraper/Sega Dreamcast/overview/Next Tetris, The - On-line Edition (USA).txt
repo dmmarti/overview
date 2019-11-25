@@ -1,0 +1,1 @@
+ This is a new version of The Next Tetris with online play over SegaNet.  It includes the original Tetris along with The Next Tetris, which involves color combinations and cascades.  This game features a new look and new electronica music.

@@ -1,0 +1,1 @@
+Vandyke (c) 1990 UPL.  - TECHNICAL -  Game ID : UPL-90064  Main CPU : 68000 (@ 10 Mhz) Sound Chips : YM2203 (@ 1.5 Mhz), (2x) OKI6295 (@ 24.242 Khz)  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Released in February 1991.  Also licensed t

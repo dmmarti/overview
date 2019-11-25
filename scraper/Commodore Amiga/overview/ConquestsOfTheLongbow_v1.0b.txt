@@ -1,0 +1,1 @@
+ This game is set in medieval England.  You play as Robin Hood.  Your objective is to free King Richard from the French by raising money for his ransome.  There are many different endings depending on the score you get.  The game uses a mouse interface.  There are arcade sequences built into the story, but their difficulty can be adjusted, or they can be completely turned off.

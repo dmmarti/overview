@@ -1,0 +1,3 @@
+2043. Dr. Clayborn and his army have gained control of New York and Commissioner Gordon made one last plea for help and called three of the finest city sweepers: Matt, an ex-professional football player; Rosa, a former female vigilante and Miss America pageant; and Zan, an ex-karate master and a retired philosophy teacher. They must fight every lackey and vanquish Dr. Clayborn in order to restore law and order to the city.  
+ 
+Go through the game's five stages, defeating enemies along the way and destroying the end-of-level boss before proceeding to the next stage. Along the way, weapons such as fish, rocks, i-beams, cars, and more can be used. 

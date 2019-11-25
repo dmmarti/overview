@@ -1,0 +1,1 @@
+Le jeu est vu de côté en 3D isométrique. Vous avez le choix entre 8 équipes internationales (France, Angleterre, Pays-Bas, Allemagne, Italie, Brésil, Argentine et Colombie). Vous pouvez avant le match et après chaque but, choisir votre formation d'équipe (3-5-2, 4-3-3, 4-2-4 et 4-4-2). En cas d'égalité à la fin du temps, vous aurez les classiques tirs au but pour vous départager.

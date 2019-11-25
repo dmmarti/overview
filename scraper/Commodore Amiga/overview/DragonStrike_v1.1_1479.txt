@@ -1,0 +1,1 @@
+ A dragon flight simulator set in the ADandD world of Dragonlance. Fly dragons through the War of the Lance. When you successfully complete a mission, you can advance in rank, gain magical items and hit points or get a better dragon. The 20 missions include intercepting enemy dragons, destroying enemy ships and protecting the forces of good.

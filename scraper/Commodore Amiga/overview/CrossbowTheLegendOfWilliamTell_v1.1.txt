@@ -1,0 +1,5 @@
+The Legend of William Tell is based on the TV series Crossbow which in turn is based on the Swiss national hero William Tell. The player takes the role of Tell who tries to end the reign of the evil duke Gessler.
+
+This is an action game with puzzle elements in which Tell explores the environment, talks to people and collects everything he finds. The objects are either used to solve puzzles, are a good bribe or go into Tell's equipment. This is because the forest is no friendly environment: wild animals and Gessler's black knights want to eat/arrest him. In this case Tell has to fight his way out without losing too much life energy. It can be restored by using found provisions.
+
+Controls are almost completely icon driven. So for example for walking right, the player needs to click the "go right" icon, to pick something up the "pick up" icon needs to be pressed and so on. This includes the fights in which first the used weapon is chosen and the combat moves are performed when clicking on the appropriate icon. The only exception is the crossbow: when using it, a first-person view replaces the icon bar in which the crossbow is aimed.

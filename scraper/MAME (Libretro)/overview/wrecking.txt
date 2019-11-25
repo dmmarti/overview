@@ -1,0 +1,1 @@
+An arcade game for the Nintendo Vs. System. A notable difference from the original is the addition of simultaneous two player mode.

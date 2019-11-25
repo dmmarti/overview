@@ -1,0 +1,1 @@
+Two players (Pussycat and Hounddog) take turns dropping colored (red or green) discs in an eight-column six-row grid. The object is to place 4 discs in a row, either vertically, horizontally or diagonally. 

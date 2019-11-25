@@ -1,0 +1,1 @@
+A sort of "Clowns" game, for one player vs. computer or two players. You both have a spring board which works the same way as Clowns. On the left hand side of the screen, Player 1's board is higher than Player 2's. On the righ

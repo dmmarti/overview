@@ -1,0 +1,5 @@
+Elevator Fight is an original arcade platform game in a style similar, but not identical, to Elevator Action.
+
+Arin, your space suit-clad hero, must travel downwards in shaft of 31 floors populated by dangerous robots, space mice and aliens and filled with traps, in order to destroy the central computer of the Gashim empire on the bottom floor. The shaft is divided in a multitude of floors, connected by lifts. Both you and your enemies may use the lifts, using them both to advance, to escape and to ambush. The enemies have different behaviours, with some rushing toward you and some shooting. Traps include grappling claws and lasers in the ceilings and electrical floors. For defence, you have a gun.
+
+While your character can jump across gaps in the floor, he is not an invincible platform hero and will die from falling through the floor. One way to cross a wider gap in the floor is to use a transport rail in the ceiling, something which requires precision. In order to complete a section of the shaft, you must collect the necessary keys, so you cannot rush through a section, thereby avoiding enemy contact.

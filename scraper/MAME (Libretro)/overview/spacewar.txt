@@ -1,0 +1,1 @@
+Two players controlled different ships. One button rotated the ship left, another rotated the ship right, one engaged thrust, one fired a shell, and one entered hyperspace (which causes the ship to disappear and reappear elsewhere on the playfield at random).

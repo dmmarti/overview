@@ -1,0 +1,9 @@
+In Nightmare the player controls a visitor to a haunted mansion. The goal is to escape from it through a constantly moving hatch in the attic. His job will be made harder by the ghosts who are still lingering around the house. The player has to climb three floors to reach the attic, and there is one ghost for each floor. 
+ 
+The ghosts become invisible as they cross the house's walls. While invisible they are harmless, so they have to make themselves visible to catch the visitor. They'll become invisible again if they cross the house walls again. If they catch the visitor, he'll lose one of his lives. But once the visitor has past the ghost's floor, the ghost will be paralyzed and can be caught by the visitor. 
+ 
+Besides the ghosts, other dangers threaten the visitor. A thunderstorm is breaking out and flashes of lightning hit the mansion, creating lightning balls which will roll through the floor the visitor is in. The flashes will also make the invisible ghosts visible while the lightnings strike. Besides, the visitor can't be standing still for too long or a trap door will open and he'll fall through it, losing a life. To make things even more difficult, there will be also a randomly placed obstacle blocking the visitor's way. 
+ 
+The player starts with three lives and gains one each time he escapes the mansion. As the player grows on points from reaching the attic or capturing the ghosts, the game gets more difficult. The number of obstacles increase and the exit becomes invisible unless the player captures a ghost. In higher difficulty levels catching a ghost won't be enough, as the player will have to also get the house's ground plan, which appears on a chest after he captures a ghost. 
+ 
+The game can be played by 2 players, one of them controlling the ghosts in the house. 

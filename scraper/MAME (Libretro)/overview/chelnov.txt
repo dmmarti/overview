@@ -1,0 +1,1 @@
+A horizontally scrolling platform shoot-em-up in which the player controls Chelnov, a former coal miner caught up in a Chernobyl-like nuclear accident. Now possessing superior phys

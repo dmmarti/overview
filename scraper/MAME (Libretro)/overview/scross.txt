@@ -1,0 +1,1 @@
+Stadium Cross (c) 1992 Sega.  - TECHNICAL -  Sega System Multi 32 hardware  Main CPU : V70 (@ 20 Mhz), Z80 (@ 8.053975 Mhz) Sound Chips : YM3438 (@ 8.053975 Mhz), MultiPCM (@ 8.053975 Mhz)  Players : 2 Control : paddle Buttons : 3  - TRIVIA -  Released in

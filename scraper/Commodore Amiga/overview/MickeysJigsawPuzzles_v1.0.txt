@@ -1,0 +1,3 @@
+Mickey’s Jigsaw Puzzles is a simple, early child development, shape-learning game for young kids. It allows the player to select from among 15 different pictures of Mickey and friends. Players can select how many pieces should the jigsaw puzzle have to allow for many different skill levels of children.
+
+Once the puzzle is complete, the child is rewarded with some simple animation of the picture. Pictures can also be printed out to create a coloring book. 

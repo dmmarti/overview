@@ -1,0 +1,1 @@
+ Elf is a platform game which almost crosses into the adventure genre.  You play an elf who is out to destroy Necrilous the Not-Very-Nice. It's resonably non-linear areas in that you can go back and forth between areas.  You collect items during play and get access to different spells and attacks.

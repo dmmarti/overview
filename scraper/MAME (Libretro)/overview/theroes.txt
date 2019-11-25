@@ -1,0 +1,1 @@
+Thunder Heroes (c) 2001 Primetec Investments.  - TECHNICAL -  CAVE 1st Generation hardware  Main CPU : 68000 (@ 16 Mhz) Sound Chips : YMZ280B (@ 16.9344 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4 =&gt; [A] Punch, [B] Kick, [C] Jump, [D] Special  

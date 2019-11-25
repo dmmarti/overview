@@ -1,0 +1,1 @@
+Tank 8 (c) 1976 Atari.  - TECHNICAL -  Main CPU : M6800 (@ 1.1055 Mhz) Sound : Discrete circuitry.  Players : 8 Control : Double 2-way joysticks (vertical) Buttons : 1  - TRIVIA -  Tank 8 was released in September 1976. It is one of the first games at Ata

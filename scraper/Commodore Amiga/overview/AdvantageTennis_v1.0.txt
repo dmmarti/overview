@@ -1,0 +1,1 @@
+ A lifelike tennis simulation. The game is played with 2d characters in a 3d simulated court. The camera zooms and pans in to follow the action and give a virtual reality like movement. There are training, season and exhibition modes. The season mode is quite detailed, where you get to play a variety of competitors and in different courts around the world.

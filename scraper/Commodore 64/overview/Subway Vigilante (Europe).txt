@@ -1,0 +1,1 @@
+A fighting game which pits you as beret-wearing Guardian Angel-style vigilante against criminals in the London Underground subway system. Using the subway map to locate trouble hotspots, you then travel by train to confront the violent criminals in the stations. Once a station is cleared of bad guys move on to another location to do your vigilante duty.

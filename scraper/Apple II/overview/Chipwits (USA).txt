@@ -1,0 +1,1 @@
+ChipWits est un jeu de simulation de robot.  Le joueur utilise un langage de programmation iconique pour apprendre à un robot virtuel à naviguer dans divers labyrinthes de difficulté variable.

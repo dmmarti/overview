@@ -1,0 +1,1 @@
+ A scrolling beat 'em up along the lines of the Streets of Rage series. Our hero is armed with a sword. He must progress through lots of tough levels in order to save the princess. He has various ways of slashing at opponents with his sword. The game features large characters with animation indicating clumsy lumbering movement.

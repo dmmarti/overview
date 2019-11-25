@@ -1,0 +1,12 @@
+The 1998 sequel of the popular Japanese train driving game by Taito has once again been ported to various home systems. For the first time on the PlayStation, it is possible to drive through the snow, and take a seat in the cockpit of a Shinkansen bullet train. 
+ 
+The gameplay is more arcade than simulation. The focus is on stopping at the stations at the perfect moment and position, keeping up with the schedule, obeying signals and speed limits, and ensuring the safety and comfort of the passengers. Mistakes result in points being deducted from a counter. If it reaches 0, the game is over. 
+ 
+The following routes are available: 
+ 
+1. Hokuhoku Line from Naoetsu to Uragawara 
+2. Tohoku Shinkansen from Morioka to Shin-Hanamaki 
+3. Akita Shinkansen from Akita to Omagari 
+4. Keihin-Tohoku Line from Shinagawa to Ueno 
+5. Osaka Loop Line from Osaka to Tennoji (not in the Arcade original) 
+6. Kagoshima Main Line from Hakata to Kokura (only in PlayStation and Windows versions) 

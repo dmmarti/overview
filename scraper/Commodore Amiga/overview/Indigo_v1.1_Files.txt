@@ -1,0 +1,1 @@
+Indigo is a platformer in which you need to collect all the keys on a level to open the level exit but you must do this before the time runs out.

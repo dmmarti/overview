@@ -1,0 +1,1 @@
+Agent USA is a geography enhancement game that centers around a character that travels by train to different U.S. cities.  The object of the game is to find the "FuzzBomb" which turns ordinary people into "FuzzBodies".  You plant crystals which regenerate into newer crystals, and when you build up 100 of them and touch the FuzzBomb, the nation is saved!

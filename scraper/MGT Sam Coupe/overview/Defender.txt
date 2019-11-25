@@ -1,0 +1,1 @@
+In this retro-style side-scrolling shooting game the player controls a spaceship while flying over terrain of an unknown planet. Objective is to destroy invading alien ships and save astronauts from abduction. Watch the minimap to find invading enemy ships.
