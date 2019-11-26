@@ -1,0 +1,5 @@
+The Commodore 128 version of The Last V8 takes place in the same post-apocalyptic landscape as the more basic original. You must drive your car back to your base in time while avoiding collisions with dangerous objects.
+
+The C128 version, making use of its larger memory size and more capacious floppy disk, contains more levels with a slightly more open layout and more advanced mission objectives. The first mission, for instance, revolves around picking up fuel canisters inside a secret base, instead of the original version's plain objectives of survival and punctualness.
+
+The steering method of Last V8 is not the usual Sprint one where you pull left or right to steer left or right; instead you simply pull the joystick in whichever direction you want to go, pulling it in the opposite direction in case you need to decelerate.

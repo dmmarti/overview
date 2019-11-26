@@ -1,0 +1,1 @@
+An educational game consisting of two different mini games. The game modes included are:Decimal Multiplication - Players control a spaceship in a side-scrolling shooter. Blasting enemy ships earns the player points. At certain intervals, the ship will lan

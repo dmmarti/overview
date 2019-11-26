@@ -1,0 +1,1 @@
+The game features single-player and two-player modes for singles and doubles matches, with either competitive or cooperative gameplay. A computerized opponent's artificial intelligence can be set to one of five difficulty levels. Mario referees the matches.

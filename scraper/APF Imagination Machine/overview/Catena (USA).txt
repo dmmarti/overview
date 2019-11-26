@@ -1,0 +1,1 @@
+A game of skill and challenge designed for the whole family to play. Play ends when every square is occupied. The winner is the one with the majority of squares in his color. The game board is constructed of 64 squares. After the board is laid out, each player than takes a turn, making one move for each turn.

@@ -1,0 +1,5 @@
+Bureaucracy is an interactive fiction video game released by Infocom in 1987, scripted by comic science fiction author Douglas Adams. It is Infocom's twenty-fourth game.
+
+The player is challenged to confront a long and complicated series of bureaucratic hurdles resulting from a recent change of address. Mail isn't being delivered, bank accounts are inaccessible, and nothing is as it should be. The game includes a measure of simulated blood pressure which rises when "frustrating" events happen and lowers after a period of no annoying events. Once a certain blood pressure level is reached, the player suffers an aneurysm and the game ends.
+
+While undertaking the seemingly simple task of retrieving misdirected mail, the player encounters a number of bizarre characters, including an antisocial hacker, a paranoid weapons enthusiast, and a tribe of Zalagasan cannibals. At the same time, they must deal with impersonal corporations, counterintuitive airport logic, and a hungry llama.

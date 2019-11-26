@@ -1,0 +1,1 @@
+Players are armed with a red and blue sonar. Each stage has a number of stacked cubes, visually they all look alike, but using the sonar players can find out whether the cube is red, blue, white, Core, or Jammer. To clear the stage one has to find the ?Core' cube and eliminate it.

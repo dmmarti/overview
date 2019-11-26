@@ -1,0 +1,5 @@
+Nord and Bert Couldn't Make Head or Tail of It is an interactive fiction computer game written by Jeff O'Neill and published by Infocom in 1987. It was released simultaneously for several popular computer platforms of the time, such as the PC and Commodore 64. Nord and Bert was unique among Infocom games in that it used the game engine to present wordplay puzzles rather than an adventure story. It was Infocom's twenty-seventh game.
+
+Each chapter of Nord and Bert is dedicated to a different style of wordplay. The first seven chapters can be played in any order, since each exists as an independent "short story" unrelated to the other chapters; to begin the eighth, however, the player must provide seven "passwords" provided by completing each of the other sections.
+
+The only effort made to interlink the separate parts of the game is as follows: reality has somehow been altered around the town of Punster. Idioms and clichés are suddenly manifesting themselves quite literally, and it falls to the player, as it always does, to sort things out.

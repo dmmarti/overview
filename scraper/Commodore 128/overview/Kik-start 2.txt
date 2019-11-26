@@ -1,0 +1,5 @@
+Between the original Kikstart and its more well-known follow-up came an expanded version of the game, only for Commodore's still-new C128 computer. The new version made use of the larger RAM capacity by tripling the range of levels in the game.
+
+Whereas the first Kikstart only has 8 levels to choose from, Kikstart 128 has three sets of 8 levels. You can choose to play three levels in one go, or select the "grand slam" mode to challenge an entire set of eight at once.
+
+The gameplay is the same, in that you have to ride your off-road motorbike across a range of obstacles without falling off, which will cost you time. The game is a split-screen affair for one or two players. The construction kit function of the later Kikstart 2 is missing from this C128-only affair, despite the games sharing the same name on the title screen.

@@ -1,0 +1,7 @@
+Sorcerer is an interactive fiction computer game written by Steve Meretzky and released by Infocom in 1984. It is the second game in the magic-themed "Enchanter trilogy", preceded by Enchanter and followed by Spellbreaker. It is Infocom's eleventh game.
+
+Following the unlikely defeat of Krill in Enchanter, the player's character has progressed from an Apprentice Enchanter to earning a coveted seat in the Circle of Enchanters. Belboz the Necromancer, the leader of the Circle, has become not only a mentor but a close friend as well. Lately, though, Belboz has seemed different. He's always distracted, even talking to himself at length. Whatever he's dealing with, Belboz doesn't see fit to confide in anyone. Surely he knows what he's doing.
+
+But then, Belboz suddenly disappears. If he is under the influence of some evil power, the results could be disastrous — Belboz is one of the most powerful Enchanters in the land. Someone must uncover what has happened to him, and naturally that task falls to the player's character.
+
+Sorcerer has 70 ways for the player to die,[2] the most of any Infocom game as of early 1985.[3] It features several memorable puzzles, including an invisible but deadly glass maze and a toxic coal mine where the player must engage in short-term time travel. In addition to the spell-casting system introduced in Enchanter, there are also several magic potions to be found. Potions, naturally, are used by drinking them and each can only be used once.

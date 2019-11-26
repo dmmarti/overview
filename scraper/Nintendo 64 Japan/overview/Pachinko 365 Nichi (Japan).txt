@@ -1,0 +1,1 @@
+Pachinko 365 Nichi is a simulation of Gambling game based on popular Pachinko machines.

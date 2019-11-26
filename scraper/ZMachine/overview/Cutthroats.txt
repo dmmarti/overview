@@ -1,0 +1,9 @@
+Cutthroats is an interactive fiction computer game written by Michael Berlyn and Jerry Wolper and was published by Infocom in 1984. It was released for the Amiga, Apple II, Atari 8-bit family, Atari ST, Commodore 64, MS-DOS, TRS-80, TI-99/4A, and Macintosh. It is Infocom's thirteenth game.
+
+The game takes place in and around the fictional Hardscrabble Island. For centuries, Hardscrabble was a thriving seaport, but the local fishing industry died out in the 1920s. Most of the area's remaining population is an assortment of hard-luck types and people of questionable ethics.
+
+The player's character is a skilled diver scraping to make ends meet. One night, an old shipmate named Hevlin barges in with a map indicating the locations of two previously undiscovered shipwrecks. Flashing between excitement and paranoia, Hevlin abruptly leaves, asking the player to safekeep the map. Naturally, the old sailor is murdered as he practically steps from the doorway; someone obviously wants this map quite badly.
+
+As the player attempts to mount a perilous dive for sunken treasure, several characters offer their help. Some of them can be trusted and some can not. Failure to tell the difference between the two can result in an "untimely accident". Successfully making positive contact with the right characters is the only way the player can advance to the actual shipwrecks. Once the dive begins the player must locate and retrieve the treasure from that wreck to complete the game.
+
+Each time the game is played, either the São Vera or the Leviathan is randomly chosen as the wreck to be explored. The other two locations contain no treasure and are red herrings.

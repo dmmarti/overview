@@ -1,0 +1,1 @@
+A puzzle game in which you must control a potato character and navigate mazes by pushing blocks and solving puzzles to rescue his vegetable friends in a deep labyrinth.

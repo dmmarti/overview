@@ -1,0 +1,14 @@
+Deadline is an interactive fiction computer game published by Infocom in 1982. Written by Marc Blank, it was Infocom's third game. It was released for the Amstrad CPC, Apple II, Atari 8-bit family, Commodore 64, IBM PC (as a booter), Osborne 1, TRS-80, and later for the Amiga and Atari ST.
+
+Deadline was a game of many "firsts" for Infocom: their first mystery game, their first non-Zork game, and the game that started their tradition of feelies. The number of NPCs, the independence of their behavior from the player's actions, and the parser's complexity were also considered revolutionary at the time of the game's release.
+
+The player's character in Deadline is an unnamed police detective, summoned to a sprawling Connecticut estate to investigate the apparent suicide of wealthy industrialist Marshall Robner. At first, it seems a very straightforward case: the body was discovered in the library, which had been locked from the inside, and the cause of death was an overdose of his prescribed antidepressants. But something just doesn't feel right. Could someone have killed Robner for his money? Did he make an enemy through his business dealings? Or was there some other motive? With the able assistance of level-headed Sgt. Duffy, the player has twelve hours to solve the case before it is closed forever.
+
+The suspects, who walk around the estate pursuing their own agendas during your investigation, are:
+
+Leslie Robner, the victim's wife
+George Robner, the victim's son
+Mr. McNabb, the gardener
+Mrs. Rourke, the housekeeper
+Mr. Baxter, Robner's business partner
+Ms. Dunbar, Robner's secretary

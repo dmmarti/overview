@@ -1,0 +1,1 @@
+Boxing is a recreation of the sport viewed from a side view perspective. The player can move the boxer forward and backward, throw punches and block the opponent's punches. The objective is to knock out the opponent (by managing five hits in a row) or win the most number of rounds.

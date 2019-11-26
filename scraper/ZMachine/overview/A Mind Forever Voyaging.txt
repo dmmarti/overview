@@ -1,0 +1,8 @@
+A Mind Forever Voyaging (AMFV) is a 1985 interactive fiction game designed and implemented by Steve Meretzky and published by Infocom. The name is taken from book three of The Prelude by William Wordsworth:
+
+The antechapel where the statue stood
+Of Newton with his prism and silent face,
+The marble index of a mind for ever
+Voyaging through strange seas of Thought, alone.
+
+AMFV is not a conventional Infocom adventure, having only a single puzzle near the end of the game. Unlike most other Infocom titles, particularly those written by Steve Meretzky, the game has a serious tone and a political theme, attributes which the company would revisit with the following year's Trinity. The game is among Infocom's most respected titles, although it was not a commercial success. It is also the first of the "Interactive Fiction Plus" line, meaning that AMFV has greater memory requirements, unlike earlier Infocom games that use a less advanced version of the company's Z-machine interpreter. It is Infocom's seventeenth game. The game is explicitly intended as a polemical critique of Ronald Reagan's political policies.

@@ -1,0 +1,5 @@
+Seastalker is an interactive fiction game written by Stu Galley and Jim Lawrence and published by Infocom in 1984. It was released simultaneously for several popular computer platforms of the time, such as the Commodore 64, Apple II, and IBM PC compatibles (as a self-booting disk). The game was marketed as an introduction to interactive fiction for preteen players, having difficulty rating of "Junior." It was the only game to ever use this rating, which was replaced by the "Introductory" label given to games such as Wishbringer. It is Infocom's twelfth game.
+
+The player's character is a young inventor and marine scientist. A research facility called the Aquadome issues a call for help, indicating that the undersea structure is being attacked by a sea monster. With helpful assistant Tip, the player must navigate to the Aquadome in the new untested two-person submarine Scimitar and investigate the problem. But that isn't all... it looks like there may be a saboteur within the Aquadome as well.
+
+The game has 30 locations.

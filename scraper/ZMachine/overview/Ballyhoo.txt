@@ -1,0 +1,9 @@
+Ballyhoo is an interactive fiction computer game designed by Jeff O'Neill and published by Infocom in 1985. It was released for ten different 8 and 16-bit platforms, including MS-DOS, Atari ST, and Commodore 64. It is Infocom's nineteenth game.
+
+With a circus-themed plot, the game's tagline was "Big-time suspense under the Big Top!"
+
+The player's character is bedazzled by the spectacle of the circus and the mystery of the performer's life. After attending a show of Tomas Munrab's "The Travelling Circus That Time Forgot", the player loiters near the tents instead of rushing through the exit. Maybe some clowns will practice a new act, or perhaps at least one of the trapeze artists will trip...
+
+Instead, the player overhears a strange conversation. The circus' owner has hired a drunken, inept detective to find his daughter Chelsea, who has been kidnapped. Munrab is convinced that it was an outside job; surely his loyal employees would never betray him like this!
+
+As the player begins to investigate the abduction, it soon becomes clear that the circus workers don't appreciate the intrusion. Their reactions range from indifference to hostility to attempted murder. In order to unravel the mystery, the player engages in a series of actions straight out of a circus fan's dream: dressing up as a clown, walking the high wire, and taming lions.
