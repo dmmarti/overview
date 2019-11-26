@@ -1,0 +1,1 @@
+A Kyle Hodgetts game, Sega Rally Pro Drivin was an unofficial hack where the celica is now red, all three tracks are reversed and a turbo button has been added. It also suffers from issues such as in practice mode the cpu car still goes the original route forward causing a head on collision if you don't avoid it.

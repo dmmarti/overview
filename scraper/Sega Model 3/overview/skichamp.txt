@@ -1,0 +1,1 @@
+A skiing simulator where the players hangs on to the safety bar and uses their body to move the platform left or right to steer. This game is the sequel of Sega Ski Super G.   This version is more of a cross country longer courses. Players can see their progress on the left hand side map.

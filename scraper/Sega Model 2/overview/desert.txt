@@ -1,0 +1,1 @@
+Desert Tank is 3D arcade simulator of tank.The player has a tank, and destroys every opponent on battlefield. He has tank cannon and machine gun. Gameplay is very "arcade" - tank is very fast, good armoured, and powerful. The player needs to hurry - the game has a time limit.

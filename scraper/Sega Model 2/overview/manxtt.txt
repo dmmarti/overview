@@ -1,0 +1,1 @@
+Race motorcycles in this arcade port based on the real-life Isle of Man Trophy Race. There are two courses to race with the usual reversed and mirrored variations on the tracks. Also provided is a short and long version of the main course. Play modes include arcade (standard tracks), PC mode (added variations), time trial, and network games with up to eight people.
