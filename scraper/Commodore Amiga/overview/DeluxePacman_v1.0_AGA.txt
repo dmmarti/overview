@@ -1,0 +1,7 @@
+Deluxe Pacman is a Pacman with a lot of topping. While the basic concept is the same – Pacman eating dots in a maze populated by four ghosts, the special items are not just bonus fruit, but also upgrades and weapons.
+
+Amongst the upgrades are a speedup, a shield, a gun to shoot the ghosts, dynamite to make them explode, glue to slow them down and a freezer to make them stop in their tracks. Other upgrades transport you to a random level or one of the bonus levels.
+
+Similar to Deluxe Galaga, collecting all five of the letters E, X, T, R, A grants an extra life, and there are point multipliers of different values.
+
+An updated version, now called Deluxe PocMon to avoid legal troubles, has been released for Mac and PC.

@@ -1,0 +1,3 @@
+Roketz is a 360 degree scrolling shoot 'em up. It features gravity environment and thrust-and-turn gameplay similar to the likes of Thrust, Virus, and SubSpace.
+
+Selectable game modes are the usual deathmatch combat mode and a racing mode where the players have to pass given checkpoints as fast as possible.
