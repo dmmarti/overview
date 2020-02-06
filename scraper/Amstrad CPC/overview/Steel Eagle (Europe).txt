@@ -1,0 +1,1 @@
+Steeel Eagle is 2D side-scrolling shooter game without real story. The player controls a jetfighter, he fights against enemies and bosses - he has normal shoot and more powerful, charged laser. He can find other weapons by shooting enemies. The game has 4 levels.

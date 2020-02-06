@@ -1,0 +1,9 @@
+Year of release 1983  
+Publisher PSS (UK)  
+Re-released by Kryptronic (UK)  
+Author(s) Chris Wood  
+Inspired by Universal (USA) (arcade coin-op: Space Panic)  
+Machine type ZX Spectrum 48K  
+Number of players 1  
+Controls Cursor and Keyboard  
+Type Arcade: Platform

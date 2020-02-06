@@ -1,0 +1,1 @@
+Radius is a horizontal scrolling space shoot-em-up in the style of C64 classic Delta. Play a starpilot and take control of the Hunter Killer Fighter craft on a mission to regain control of the 'Radius', an important hyperspace transport route, which has been captured by alien forces. Blast your way past attacking waves of aliens through a changing space backdrop.

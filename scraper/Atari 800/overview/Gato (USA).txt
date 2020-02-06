@@ -1,0 +1,1 @@
+GATO is a submarine simulator originally released for several personal computers, such as the Apple II, Atari 8-bit, and Commodore 64. Atari had plans to port GATO to the Atari 7800 and even put together a simple demo, but it doesn't appear the game ever got beyond that stage.

@@ -1,0 +1,5 @@
+The player takes the role of a diamond thief named Fingers Lonegan. The game starts at Lonegan's car in the top left hand corner of the opening screen. The player must make their way to the Acme Diamond Company building at the bottom of the screen by negotiating the garden maze. Police appear from the Police station (at the top right of the screen) and will home in on and arrest Lonegan. To avoid being arrested, the player must shoot the police. Bullets are limited but can be replenished by going back to the car. The player may also enter the mine or the police station (not all versions) from this opening screen.
+
+There are many diamonds to collect which are on many levels of the Acme Diamond Company building as well as the mine. Police enter the building but not the mine where the only enemies are ghosts. The player may also enter the police station (on some versions) and free fellow robbers.
+
+There are basic puzzles such as collecting keys, TNT, torches (some rooms are dark so the walls of the maze cannot be seen without the torch) and the code for the safe to advance in the game.

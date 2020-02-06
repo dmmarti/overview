@@ -1,0 +1,1 @@
+A naval combat wargame recreating the hunt for the Bismarck, fit onto the Apple ][ platform. The entire North Atlantic was displayed in garish HiRes color. The computer played the elusive German battleship, while the human player deployed forces to locate, pursue, and destroy it.

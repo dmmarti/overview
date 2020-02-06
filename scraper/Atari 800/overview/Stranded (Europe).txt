@@ -1,0 +1,5 @@
+You wake from cryostasis to find your ship lying crippled on an uncharted planet; shards of platinum-iridium alloy puncture the shimmering alien sand, the wind passes quietly over dead hydrocolliders. It isn't known how long the ruined vessel has sat here, or even what caused the crash, but one thing is clear: Time is rapidly running out. 
+
+Stranded is a minimalist adventure game that foregoes dialogue and puzzles to focus on atmosphere, mystery, and exploration; it is both a love letter to classic point & click adventures, and an experiment with the fundamentals of the genre. 
+
+Assume the role of the astronaut, and explore the mysterious, sun-blasted wasteland to uncover something... anything, that might lead to your survival

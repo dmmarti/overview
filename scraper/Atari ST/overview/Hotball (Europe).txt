@@ -1,0 +1,1 @@
+Hotball is a soccer game which is played from a top-down perspective on a vertically scrolling field. A team consists of two athletes: a goalkeeper and a field player. The player can set the skill level, the athletes' names, the match duration and the used joystick. There are no throw-ins or corner balls. 

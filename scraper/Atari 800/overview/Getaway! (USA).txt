@@ -1,0 +1,7 @@
+A basic pinball game. If you've never played pinball, you hit 
+a ball with flippers to try to get points. This game isn't a good replica 
+because the physics are all wrong. The screen and ball scroll too slowly, 
+the dynamics are way off (the ball it too heavy when falling and too light 
+when rising), and even the 'lights' are a little off. These problems, along 
+with the shoddy board, make it so that there is very little to enjoy 
+about this game.

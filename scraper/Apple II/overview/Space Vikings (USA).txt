@@ -1,0 +1,1 @@
+In Space Vikings the player flies a space craft with the ability to shoot at other ships. The goal of the game is to take over a planet so you can loot it to get things to sell for credits which can be used to buy troops, tanks, missiles, transports, and fighters.

@@ -1,0 +1,1 @@
+You are at the helm of a submarine equipped with radar, sonar, depth charge indicators, torpedoes, and fuel and temperature gauges.  As commander of the submarine, you must sink the enemy ships before running out of fuel.  Once your fuel level reaches 0, the game is over.

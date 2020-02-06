@@ -1,0 +1,1 @@
+Futuristic top-down scrolling racing game. The track has no curves, but narrows and widens. There are potholes, breaks in the roads and islands that must be swerved around or jumped over. Plenty of other cars abound, which try to run you off the road (and can be bumped off the track also).

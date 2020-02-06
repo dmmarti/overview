@@ -1,0 +1,1 @@
+In spite of what the name might imply, Dominos is not an adaptation of the tile-laying game Dominoes, but in fact a multi-player Snake game. One player can take it up against the computer or play against another player. The snakes continuously increase in length, causing the screen to slowly fill up. The goal is to make the opponent run into something, which scores a point.

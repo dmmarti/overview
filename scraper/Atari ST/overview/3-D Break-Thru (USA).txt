@@ -1,0 +1,5 @@
+This is a racquetball-like game that is best described as a 3D variation of Breakout.
+
+You are at the end on a rectangular room. On the other end is a wall made of bricks or blocks. The ball travels down to the wall and knocks out a brick. It then returns to your end where you must use a squarish paddle to send the ball back to the wall. If the ball gets past the paddle, you lose a ball.
+
+In the computer version, you must knock out all the bricks of the wall to advance. Each level has more bricks per wall. You begin with 5 balls. In the console version, you must knock out 57 of the 72 bricks to advance. Each level has 72 bricks but the number of balls will lower in later levels. Level 1 starts with 99 balls.

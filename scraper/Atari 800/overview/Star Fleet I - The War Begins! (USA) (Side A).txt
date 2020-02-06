@@ -1,0 +1,3 @@
+In Star Fleet I: The War Begins, you are a cadet fresh out of Starfleet Academy and have assigned to command your first U.G.A.S. Starship! The Federation is currently at war with Krellans and Zaldrons, so choose your first ship from the Federation starport and prepare for your first mission!
+
+The graphics of the PC version of Star Fleet I: The War Begins are represented by ASCII characters. Everything from your starship, the mainframe to torpedoes are all ASCII characters.

@@ -1,0 +1,1 @@
+Demoniak is an interactive fiction adventure in which the player guides four superheroes in an attempt to stop the evil Demoniak entering our dimension and doing dastardly things by sealing his gateway.  The player may 'become' another character at any time and give that character instructions, objects, such as weapons, may be passed from one character to another. 

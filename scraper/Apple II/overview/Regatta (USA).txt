@@ -1,0 +1,1 @@
+Regatta is a boat racing game. Four players play on a single PLATO terminal and race their boat along three numbered buoys in numerical order. The first who crosses the finish line wins the race.

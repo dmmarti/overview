@@ -1,0 +1,7 @@
+[Unfinished 1982] You're piloting a biplane through enemy territory. Drop bombs on factories and ammunition depots. Engage enemy planes in dogfights to the death!
+
+Due to the popularity (especially with APh and Mattel programmers) of the Biplanes game in the Triple Action cartridge, APh proposed this one-player version. A prototype was shown to Mattel with scrolling mountain terrain and targets that could be bombed. The plane graphics, sound effects and flight control were lifted directly from Biplanes. (Enemy planes, which would have presented an artificial intelligence-programming challenge, were not included in the prototype but promised for the finished game.)
+
+Marketing (not as crazy about Biplanes as the programmers) chose not to release the game and it went unfinished.
+
+FUN FACT: A nice touch is that the second you lose control and smash into the side of a mountain, another biplane flies on-screen, cheerfully circling the crash site, trailing a banner displaying your score.

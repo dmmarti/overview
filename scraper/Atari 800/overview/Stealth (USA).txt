@@ -1,0 +1,5 @@
+In Stealth, the player takes control of a squad of six U.S. Army soldiers in Vietnam during the Vietnam War. Gameplay is turn-based on a platoon's level,[5] each squad member has the option to move, attack, wait, and in the case of the radio operator call in air or artillery support.
+
+The majority of the enemy Viet Cong troops hide in the jungles and appear on the computers turn to shoot at one of your characters if they are in range. Objectives that are given out in each level are to travel to a designated site and destroy a number of missiles guarded by a few visible and fortified Viet Cong soldiers. Viet Cong soldiers wear the same uniform in the game as they did in real life. Their outfit consists of a floppy jungle hat, rubber sandals, and green fatigues without insignia. This was to make them virtually blend in with the civilian population that happened to live in the villages (many of them were affected by the Vietnam War in a negative way).
+
+Each weapon has a different range (for its ammunition) and different a weight value (for the person who is carrying it).

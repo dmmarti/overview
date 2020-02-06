@@ -1,0 +1,1 @@
+Miami Dice is a computer version of the casino classic Craps. Here two dice are thrown and people bet on the outcome of the next throw. There are many bets that can be used. The table is viewed from the side of the table showing you and up to three other friends and the croupier. After the dice are thrown you can bring up an option screen allowing you to place your bets.

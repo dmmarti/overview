@@ -1,0 +1,1 @@
+	Vertically scrolling action game with monochromatic graphics. Control your skating kid along zig-zagging paths, avoiding obstacles, jumping ramps, etc. Jump over the letters S, K, A, T and E to collect sections of bronze, silver and gold skateboards. Collect litter for extra points. Eventually you come head to head with another skater, whom you must race to the finish.

@@ -1,0 +1,1 @@
+The gameplay of Bombastic is similar to its predecessor, Devil Dice. Players control a family of small devil called Aqui that runs across a grid full of dice. Players can walk on the grid, pushing dice around, or walk on the dice, rolling them as the character walks. The objective and how dice are cleared vary between modes.
