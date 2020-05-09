@@ -1,0 +1,15 @@
+TwinBee is a vertical scrolling shooter. The players control cartoon-like spacecrafts with anthropomorphic arms, player one being TwinBee and player two being WinBee. The spacecrafts can be moved in all 8 directions, with one button for regular shooting flying enemies and one button for dropping ground bombs.
+
+Power-ups in the form of bells can be collected by shooting clouds. The color of the bell will change if it is shot by the player, assuming one of the possible colors:
+
+    Yellow: grants bonus points;
+    White: upgrades player's guns to a twin cannon;
+    Blue: increases player's speed (up to five levels);
+    Green: creates image copies of the craft for more firepower;
+    Red: provides a shield to sustain damage.
+
+The green and red bells cannot be combined. Alternate power ups can be collected from the ground, such as an alternate bell which upgrades the craft with a three way gun and a star which destroys all enemies on screen.
+
+One shot in the middle section of the craft will destroy it. Shots which hit one of the craft's arms will destroy only the arm. If both arms are lost, the craft won't be able to shoot bombs anymore and will have to be repaired by an ambulance.
+
+In the two-player mode, TwinBee (cyan craft) and WinBee (red craft) have the same speed and they can join "hand-to-hand" and fire a super blast. Also in two player mode, if one craft is hit by the other from behind, it will fire four multi-directional shots.

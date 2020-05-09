@@ -1,0 +1,1 @@
+Players control pigs that throw bombs at other pigs.

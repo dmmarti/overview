@@ -1,0 +1,11 @@
+The game takes place inside a tall, rectangular playing area, as in Tetris. Columns of three different symbols (such as differently-colored jewels) appear, one at a time, at the top of the well and fall to the bottom, landing either on the floor or on top of previously-fallen "Columns".
+
+While a column is falling, the player can move it left and right, and can also cycle the positions of the symbols within it.
+
+If, after a column has fallen, there are three or more of the same symbols connected in a straight line horizontally, vertically, or diagonally, those symbols disappear. The pile of columns then settles under gravity. If this causes three or more other symbols to become aligned, they also disappear and the pile settles again. This process repeats as many times as necessary. It is not uncommon for this to happen three or four times in a row - it often happens by accident when the well is becoming crowded. If the well fills beyond the top of the screen, the game ends.
+
+Occasionally, a special column called the Magic Jewel appears. The Magic Jewel flashes with different colors and when it lands, it destroys all the jewels with the same color as the one underneath it.
+
+Like Tetris, the columns fall at a faster rate as the player progresses. The goal of the game is to play for as long as possible before the well fills up with symbols.
+
+Some ports of the game offer alternate game modes as well. "Flash columns" involves mining their way through a set number of lines to get to a flashing jewel at the bottom. "Doubles" allows two players work together in the same well. "Time trial" involves racking up as many points as possible within the time limit.

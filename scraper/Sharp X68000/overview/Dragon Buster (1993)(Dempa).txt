@@ -1,0 +1,5 @@
+A 1984 arcade platformer with action RPG elements, Dragon Buster is notable as the first game to feature a double jump. It was also one of the first games to include a life meter (along with Flash Boy and Punch-Out), known as vitality in this game. The game featured side-scrolling platform gameplay and a hub "world view" map similar to the later Super Mario Bros. series. It also featured hack & slash combat, like the later Tritorn and Legend of Zelda series.
+
+Dragon Buster was developed and published by Namco. The game is a side-scrolling dungeon crawler, where the goal of the game is for the hero, Clovis, to rescue Princess Celia. Dragon Buster was later ported to a variety of home consoles, notably the Nintendo Entertainment System and the MSX.
+
+It runs on Namco Pac-Land hardware, modified to support vertical scrolling

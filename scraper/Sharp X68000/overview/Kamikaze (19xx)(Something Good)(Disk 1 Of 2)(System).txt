@@ -1,0 +1,1 @@
+Using buttons to move left, right and fire, you attempt to ward off invading aliens and their flying saucers. The aliens are dropped off from a saucer and stored in multiple columns until a column is full, then the aliens in that column descend, one by one, and attack. Also, the saucers sometimes descend to attack; if they are not destroyed, one ship is lost.

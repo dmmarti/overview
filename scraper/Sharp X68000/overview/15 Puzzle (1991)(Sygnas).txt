@@ -1,0 +1,1 @@
+15 Puzzle is a simple slider puzzle game which features five different puzzles, each with it's own difficulty ranging from easy to expert mode. All the puzzles have a tropical and beach theme.

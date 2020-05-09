@@ -1,0 +1,1 @@
+Blue Wings 2 - Blue Knights is a shoot'em up on 5 levels with increasing difficulty. At the start of the game, you can choose between 3 types of ships with different properties. During the game, you can alternate between 3 types of weapons that you can improve by picking up powerups.

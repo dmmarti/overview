@@ -1,0 +1,1 @@
+This version of Street Fighter II is similar in most aspects to the original, save that all 12 characters are selectable from the get-go (the boss characters were originally locked), and the game engine has been revamped.

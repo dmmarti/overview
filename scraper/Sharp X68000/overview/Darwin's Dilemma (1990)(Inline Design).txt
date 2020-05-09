@@ -1,0 +1,1 @@
+Darwin?s Dilemma is a puzzle game, the goal is to push matching creatures together. Make enough matches, and the creatures evolve in to new ones, which must then be further matched to evolve into a more advanced creature up the evolutionary chain, and so on. There's also a limited amount of swaps which allow you to change creature place with Darwin.

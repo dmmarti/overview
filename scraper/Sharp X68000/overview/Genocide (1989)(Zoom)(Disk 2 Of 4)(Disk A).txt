@@ -1,0 +1,1 @@
+Genocide is a turn-based Scorched Earth style artillery game in 3D where you are fighting against others using your artillery. You choose a weapon, the bearing, power and height of your shot and  fire. The last player alive wins.  The 3D grid landscape is viewable from various angles, easily controlled by the camera controls.

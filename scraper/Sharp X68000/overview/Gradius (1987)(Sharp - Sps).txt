@@ -1,0 +1,1 @@
+One of the defining characteristics of the Gradius series is the use of a "power meter." The power meter is powered by a power-up item, whose purpose, when collected, is to move a highlight to the next power-up on the power meter. When a power-up that the player wants becomes highlighted, he or she may activate it, also causing the highlight to reset.

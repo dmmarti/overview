@@ -1,0 +1,1 @@
+The game is based on the anime Nadia: The Secret of Blue Water. It features 50 different battle fields in which the players employ one character per turn. The characters can either move, use a skill/item, or enter a RPG-like round based close combat. For beating an enemy the characters will gain experience points and level up which will be kept for further sessions.

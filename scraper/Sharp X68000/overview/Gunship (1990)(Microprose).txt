@@ -1,0 +1,3 @@
+Gunship is a combat flight simulator video game developed and published by MicroProse in 1986. In the game, controlling a simulated AH-64 Apache helicopter, players navigate through missions to attack enemy targets and protect friendly forces. Commercially and critically successful, Gunship was followed by Gunship 2000 and Gunship!.
+
+After selection of region, style, and enemies, the pilot is assigned a primary mission and a secondary mission. These could include such objectives as "Destroy enemy headquarters" or "Support friendly troops" (i.e. destroy targets near friendly forces). The latter would be an easier mission, because the battle would be fought closer to friendly lines.

@@ -1,0 +1,1 @@
+The player controls a helicopter using guns and missiles to destroy enemy tanks, helicopters, etc, to save his home country. Levels are in both a top-down or third-person perspective view. The boss levels are in the top-down view.

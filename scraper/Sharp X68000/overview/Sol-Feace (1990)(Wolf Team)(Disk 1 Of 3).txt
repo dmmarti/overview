@@ -1,0 +1,1 @@
+Sol-Feace is a typical 2D shooter with weapon powerups. The game features six levels: Sirius, Enemy Arsenal, ArtifiStar, Pluto Base, Almathea, and Final Battle.

@@ -1,0 +1,1 @@
+Galaxian expanded on the formula pioneered by Space Invaders. As in the earlier game, Galaxian featured a horde of attacking aliens that exchanged shots with the player. In contrast to Space Invaders, Galaxian added an element of drama by having the aliens periodically make kamikaze-like dives at the player's ship, the Galaxip.

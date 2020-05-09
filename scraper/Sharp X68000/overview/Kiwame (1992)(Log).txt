@@ -1,0 +1,1 @@
+Kiwame is a computer adaptation of sh?gi ("Japanese chess"). The player may compete against four different computer AI levels. It is possible to undo moves as well as let the AI make a move for the player for learning purposes.  
