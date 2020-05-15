@@ -1,0 +1,3 @@
+The Gamate  is a handheld game console manufactured by Bit Corporation in the early 1990s, and released in Australia, some parts of Europe (partly the UK, Italy, Germany, Switzerland, Sweden and Finland) and Asia (Taiwan and China), Argentina, the United States, and possibly other regions including South Africa.
+
+It never sold in numbers comparable to the Game Boy or even the Watara Supervision, and as a result information on the console and its games remains scarce. The only emulator that supports it is MESS. Over 70 games, not all dumped, are known to have been produced for the system.
