@@ -1,0 +1,1 @@
+Arcadia is a Space Invaders style fixed shooter that also takes elements of Gorf and Galaxian to create a simple fast action game. The player controls a space ship as aliens scroll and moved freely down the screen. The game consists of 12 different levels of descending aliens.

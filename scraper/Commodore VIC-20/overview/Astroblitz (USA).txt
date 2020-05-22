@@ -1,0 +1,1 @@
+A Defender clone, except for the fact that you don't have to rescue anyone ... just shoot everything on screen and you will automatically be warped to the next level.

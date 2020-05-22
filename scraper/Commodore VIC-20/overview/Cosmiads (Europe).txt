@@ -1,0 +1,1 @@
+COSMIADS. BUG-BYTE. The object of the game is to shoot all the attacking cosmiads using your space laser and dodging the swooping aliens, if you successfully clear a whole screen of cosmiads a new more ferocious pack appear and so your fight continues.

@@ -1,0 +1,1 @@
+A multi-level game that requires joystick. Collect all hearts and avoid colliding with red objects.

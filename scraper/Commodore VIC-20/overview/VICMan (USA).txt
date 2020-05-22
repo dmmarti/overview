@@ -1,0 +1,1 @@
+VIC-Man is a Pac-Man clone. Eat all the dots and collect symbols, objects and fruits for bonus points. Eat red dots to eat the ghosts for a short period of time.

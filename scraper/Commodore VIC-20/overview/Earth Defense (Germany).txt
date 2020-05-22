@@ -1,0 +1,1 @@
+Aliens try to invade earth. Stop them by shooting them down!    If one alien manages to get to the bottom of the screen the game is over.    The game becomes faster later on.
