@@ -1,0 +1,3 @@
+Bosconian is a space shooter. It's your job to destroy enormous enemy battle stations scattered throughout the galaxy, which is filled with meteors and space mines. You can either do this by destroying one by one their outer structures or with a single shot in their core. They are heavily defended however by guns, fighters and (in later levels) missiles. Destroying all battle stations, with the help of your radar, will bring you to the next level. 
+
+Often the enemy will try to destroy you by launching attack waves. Keep your eyes out for the enemy spy ship, if it escapes your fire, you are really in for it.

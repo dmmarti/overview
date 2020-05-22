@@ -1,0 +1,1 @@
+Real Tennis is a simplistic computer game conversion of the sport. The game can be played as one player vs the computer or two players competing against each other. The game follows standard tennis rules.
