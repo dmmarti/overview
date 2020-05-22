@@ -1,0 +1,1 @@
+Country Cottages is a pretty simplistic strategy game where you and another player must buy, improve and lease out country homes until one of you is the first to reach a predetermined level of profit and so is declared the winner.

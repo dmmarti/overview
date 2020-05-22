@@ -1,0 +1,5 @@
+Olympiad is a multi-sport event game based on eight track and field events, all viewed from the side where waggling the joystick left to right or pressing two keys as fast as you can is the name of the game. The track events are 100m, 200m, 400m and 800m, the field events are Javelin, Long Jump, Shot-Put and Hammer. Before each event starts you are shown the World Record and you select whether you are male or female.
+
+The field events allows you to see the computers distance before you input an angle between 20 and 60 degrees. You waggle/press as fast as you can watching a gauge increase before it changes colour, the computer is now controlling your speed. When you reach a line or are standing in the correct position you press fire and the object is thrown or you jump. After you receive your distance or fail in your attempt you can then chose another event.
+
+The track events has you competing against the computer where you just waggle/press as fast as you can for the selected distance in an attempt to win. After your race you can then choose another event.

@@ -1,0 +1,3 @@
+This horizontally scrolling shoot 'em up with 32 levels is something of a predecessor to Armalyte. It's set in the Delta region of space, in which the Hsiffan Khanate species have a powerful presence, using their technology to steal and analyze Terran ships.
+
+The 32 levels each feature different static hazards, as well as the actual Hsiffan forces, which come at you in programmed attack patterns. Your default ship isn't strong enough to survive half of these, so in time-honored tradition power-ups are available via a credit system. The more credits you have, the more blue tokens (offering weapons) are offered - if you don't have many, fatal-to-touch grey tokens are unleashed.

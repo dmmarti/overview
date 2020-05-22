@@ -1,0 +1,5 @@
+Once the player gets past the title screen, the game will begin. The movement of Godzilla is in three dimensions, and Godzilla's only weapon is his atomic breath, which can be aimed. Godzilla has four lives, which are depleted by either the enemies touching Godzilla, hitting Godzilla with their attacks, or Godzilla falling into a hole.
+
+Megalon will dig holes in the ground and come up to the surface to get Godzilla. After defeating Megalon, Kumongas will come up from the holes and fire at Godzilla with one of two weapons; a string shot or a color-changing projectile. After defeating several Kumongas, King Ghidorah appears and Godzilla has to defend Minilla. King Ghidorah shoots his gravity beams near himself, and if Minilla touches King Ghidorah, Godzilla loses a life. After defeating Ghidorah, the game restarts.
+
+The 2-Player mode is the same as the one player mode except that two players can alternate between each life, each with their own lives and score meters. (godzilla.wikia.com)

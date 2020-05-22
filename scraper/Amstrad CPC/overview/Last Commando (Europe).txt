@@ -1,0 +1,7 @@
+In the year 2046, the Industry of Intelligent Androids (MOXAT) has created the DERGON system, a revolutionary artificial intelligence standard based on human thoughts.
+
+Contrary to what was expected, the new system is going to be a catastrophe for mankind: those intelligent machines spread throughout the entire confederation of planets XATOR sowing death and desolation.
+
+The only way to stop them is to destroy the planets in which they are located. With this purpose, MOXAT has been placing high-powered explosive charges for more than two years in the affected planets, and now it is time for you to detonate them.
+
+"Comando Tracer" is an arcade game in which we control a spaceship that is able to wear weapons and ionic piles, which we will need to detonate the explosives of each planet, before we arrive to the transport platform in order to go to the next planet/level.

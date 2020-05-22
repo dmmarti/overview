@@ -1,0 +1,1 @@
+A simple but funny game where you control a little character running on complicated structures. Two policemen try to catch you, so you must escape by climbing ladders and trapping them with glue.

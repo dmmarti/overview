@@ -1,0 +1,11 @@
+Pogostick Olympics is a multi-event game where you have to attempt five events on a pogo stick, with each event viewed from the side with the screen scrolling constantly from right to left. Each event has a score that decreases and completing various tasks increases the score and to move to the next event you have to get a certain score. The five events are:
+
+Balloon Popping: You have to keep pooping balloons above you at certain heights.
+
+110m Hurdles: You have to reach the end of the course jumping over hurdles.
+
+Triple Jump: You have to first pop a balloon, jump over a hurdle before jumping as far as you can into a sandpit.
+
+Target Practice: You must keep shooting as many circles that move up and down as you can with darts.
+
+Obstacle Course: Get to the end of the course avoiding or using obstacles as you bounce.

@@ -1,0 +1,7 @@
+Both the first golf and the first sports game released on the CPC, Amsgolf is as basic as they come but thanks to its chunky colourful graphics and 'unique' control system it's one that will linger in the memory.
+
+This exciting new computer simulation of an 18 hole golf course will enable you to improve your skill level of the game, in otehr words, lower your handicap.
+
+The main object of the game is to play the course of 18 holes in as few strokes as possible thus improving your handicap. The game assumes a right handed player. A stroke is played each time the ball is hit.
+
+The course is set in woodland and deep grass called 'rough'. The smoother grass is called the 'fairway' Hazards are put in your way to make your game more difficult.

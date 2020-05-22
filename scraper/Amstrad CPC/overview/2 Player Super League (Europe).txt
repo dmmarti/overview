@@ -1,0 +1,1 @@
+This game is one for die-hard football management fans only. It relies on text and statistics that display your team's welfare, ability, skill and position in the league. Matches can be played  alone or rather, a text table informs you of the score at half time and full time.

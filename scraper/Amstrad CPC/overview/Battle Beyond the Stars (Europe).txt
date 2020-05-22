@@ -1,0 +1,1 @@
+This is another Galaxian clone, but it's really fast. Each level has five waves, and you can choose to start on any of levels 1 to 5. Each wave of aliens moves differently, and you'll need to learn their moves in order to destroy all of them. You'll also need exceptionally quick reflexes to dodge the missiles that the aliens fire at you.

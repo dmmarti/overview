@@ -1,0 +1,1 @@
+Drive a buggy across the desert, avoiding all the hazards and searching continually for fuel. The desert is strewn with barrels to dodge and rivers to cross. Your aim is to find two white poles and drive between them; if you succeed, your buggy will be refuelled. A pair of green arrows on the panel at the bottom of the screen indicates if you are on course or not.

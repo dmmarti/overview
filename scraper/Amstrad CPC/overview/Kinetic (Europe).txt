@@ -1,0 +1,5 @@
+Kinetik is an arcade adventure which features gravity, inertia and other real physics heavily. You control a round spaceship, which must be guided through the 44+ screens. Collect the letters P,A and X in that order and reach the end to win.
+
+There are foes to avoid or shoot – some take objects you have but most merely drain some of your energy. Some walls can also be shot out. Some rooms have white spots which affect gravity and drag you inwards.
+
+Avoid contact with red walls as these drain energy; all others are harmless. There are teleporters to help you navigate the game, and power-ups which remove the complex physics.

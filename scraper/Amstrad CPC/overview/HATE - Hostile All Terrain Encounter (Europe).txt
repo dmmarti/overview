@@ -1,0 +1,5 @@
+Hostile All-Terrain Encounters await in this shoot 'em up notable for it's unusual diagonal scroll, which is similar to Costa Panayi's previous Highway Encounter series. As nobody is qualified to take the enemy on, your task is to complete the 30 levels of training (the actual war could've been the basis for a sequel, although this never happened).
+
+The levels alternate between controlling a Star Fighter plane and a Ground Assault Vehicle; the latter is faster but is confined to ground motion. The plane can move up and down to make dodging the simulated enemy fire easier. This generally comes at you in waves, although there are also ground installations.
+
+Central to the game is to shoot at the cases of plasma crystals, and then fly over these so as to carry them to the end of the level. Dying loses you one of these crystals if you have at least one, or a life if you do not. Completing a level with at least 2 crystals is effectively a restart point as well, as when you die you are sent back to a level in which you collected at least 2.

@@ -1,0 +1,1 @@
+It's a platform game. On each screen, there are several beacons to collect, but you have to collect each beacon in a particular order.

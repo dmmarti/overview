@@ -1,0 +1,3 @@
+Ishido is a single-player, mouse controlled, strategy game. It is an implementation of Ishid?: The Way of Stones, a Macintosh game from the 1990's.
+
+This game is played on an 8x12 board. The player is presented with a series of coloured tiles, there are thirty-six pairs in total, each carrying a symbol. Tiles must be placed on the board such that they match their neighbours by colour and/or shape. Points are scored for the number and complexity of the matches made. The game ends when all tiles have been played or when the next tile presented cannot be placed on the board. There are three levels of difficulty and three tile sets.

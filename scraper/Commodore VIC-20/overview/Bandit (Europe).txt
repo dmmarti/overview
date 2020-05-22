@@ -1,0 +1,1 @@
+In this Galaga clone hostile space ships attack your moon base in endless waves and try to steal your provisions. Your goal is to prevent just that.

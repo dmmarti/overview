@@ -1,0 +1,1 @@
+This one's a Pac-Man clone set in a hedge maze, where you, as the gardener, have to pick up all the coins left in the maze. The power pills are replaced by axes, and they don't last very long.

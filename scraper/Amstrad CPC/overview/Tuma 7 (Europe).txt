@@ -1,0 +1,1 @@
+Tuma-7 is a run-and-gun platformer split into two parts. The first part sees you riding a motorbike at breakneck speeds in an alien-type world combatting various different creatures in a platform environment. In the second part, you lose the motorbike and you take on more human-like enemies face to face, again in a platform environment.

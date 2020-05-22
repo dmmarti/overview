@@ -1,0 +1,1 @@
+In this board game, the aim is to be the person with the highest score at the end of each round. Each player takes it in turn to choose a number from the grid and when a tile is removed, part of the background picture is revealed. The round finishes when there are no more numbers that can be taken and the person with the highest score wins.

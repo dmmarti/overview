@@ -1,0 +1,1 @@
+This is a clone of Pac-Man, except that you're a snake, and as you eat pills, you grow longer and longer. The trick is to eat all the pills without becoming stuck in the maze and crashing into yourself!

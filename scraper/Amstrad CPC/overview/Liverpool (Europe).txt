@@ -1,0 +1,5 @@
+The Amstrad CPC appears to be the only released version of Grandslam's original vision of a licensed Liverpool FC game (a Striker-style forced perspective 3D game surfaced for 16-bit systems in 1992, and a slightly simplified top-view version for C64 a year later). A human player must represent Liverpool, and can play either single 1 or 2 player matches or a full league. The second team always wears white. The English Division 1 teams of the time are included, with their 11 first-choice players named. Attendances are calculated, and goalscorers are recorded.
+
+The action is viewed side-on, and uses a power bar to affect the strength of passes and shots -  two bars move along the bottom of the screen in sequence, and must be stopped as close together as possible to produce a good contact with the ball. 
+
+The ball sticks to a player's foot. Players appear to occasionally freeze, and sometimes two players will get jammed together, and need a third to move the ball. The view is very close-up, but a scanner of the whole pitch is provided, as well as a running clock.

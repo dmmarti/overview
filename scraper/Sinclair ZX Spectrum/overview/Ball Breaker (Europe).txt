@@ -1,0 +1,3 @@
+Ball Breaker is Breakout variant. The player controls a paddle which is fixed on the right side of the screen and is only able to move vertically. With this paddle, a ball is both bounced into the playfield and prevented from falling out of the screen. The goal is to vaporize all blocks on the playfield by hitting them with the ball. A limited amount of missiles can be used to destroy blocks or aliens directly. The latter appear on higher levels and should not be touched with the paddle.
+
+The speciality of this variant is the use of an isometric perspective. While the ball and paddle itself do not leave the lower plane, the blocks are stacked up. The higher blocks fall down when the blocks below them are gone.

@@ -1,0 +1,3 @@
+Relive Tolkien's The Hobbit as Bilbo Baggins.  A piece of  Interactive fiction (with graphics to illustrate locations), you follow the plot of Tolkien's book (before the Lord of the Rings trilogy), starting with an encounter with Gandalf and Thorin.
+
+The implementation is rich enough that you can play entirely without pictures if you wish.  Also, gameplay happens in realtime, uncommon for interactive fiction.

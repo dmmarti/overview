@@ -1,0 +1,1 @@
+A action game written by Tony Ngo that was published for various 8-bit platforms. The player controls Sam who must climb to the top of a 48 story building and collect a suitcase full of money while avoiding being knocked off the building by a variety of creepy creatures or falling objects.

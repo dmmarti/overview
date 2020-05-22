@@ -1,0 +1,1 @@
+Take control of Penggy as he tries to push the three diamonds in each level together while avoiding the green monsters that roam around the screen pursuing him. Penggy can push the ice cubes on the screen towards the monsters, which kills them, but some of the ice cubes contain eggs which allow more monsters to be generated.

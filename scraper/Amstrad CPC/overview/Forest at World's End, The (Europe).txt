@@ -1,0 +1,5 @@
+Forest at World's End is a traditional text adventure with some static graphics.
+
+Princess Mara, the heir to the throne has been kidnapped by the henchmen of the evil wizard Zarn. They have brought her to the wizard's stronghold and your mission is to rescue her and bring her back to the Great Valley.
+
+The game was noted for its graphics at the time, and the parser is of the classic verb / noun kind.

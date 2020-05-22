@@ -1,0 +1,1 @@
+Spacebike is a horizontal shooter in which, on board a flying bike, the player will have the task of avoiding and destroying every object that comes to him.

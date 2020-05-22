@@ -1,0 +1,1 @@
+Play a game of volleyball with another player or against the computer. You can only score points when you are serving, and the first team to reach 15 points wins the game.

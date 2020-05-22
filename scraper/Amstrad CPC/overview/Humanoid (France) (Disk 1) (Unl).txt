@@ -1,0 +1,3 @@
+Humanoid is a side-scrolling shooter. After the discovery of a new civilization terrestrials sent emissaries to the peace talks. After landing on an alien planet emissaries were imprisoned. Only an old ship called Humanoid has not been captured. Now space vehicle has to break through alien defenses and send a warning on Earth.
+
+Humanoid can move up, down, forward and backward. Subsequent levels differ mainly in colors. Among each level the player fights with the mother ship. In addition to alien breed spaceships appear various obstacles, such as electrical or ground barriers.

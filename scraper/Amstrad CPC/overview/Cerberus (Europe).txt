@@ -1,0 +1,3 @@
+Cerberus is the flagship of a pirate fleet - and the player is its captain. Unfortunately the crew sold it out to the Starfleet Police which now has its hold over the player. In return for freedom, the new goal is to annihilate the former comrades.
+
+This is a traditional vertically scrolling shooter (the background is pitch black with a few white points representing stars). The player can move the space ship over the screen and shoot its weapon in order to kill enemies. Said enemies fly in fixed patterns and kill Cerberus by crashing into the ship or hitting it with bullets. Kills reward points for the high score list.

@@ -1,0 +1,1 @@
+Classic Muncher is a Pac-Man clone with identical gameplay and rules with ghosts and power pills. The only differences are the level design (six areas, repeated one after the other but at a faster speed) and an additional option; players can catch the letters of the word EXTRA or BONUS that appear randomly to gain an additional life or bonus points.

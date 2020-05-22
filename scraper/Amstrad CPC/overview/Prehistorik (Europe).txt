@@ -1,0 +1,5 @@
+Prehistorik is a side-view platform game with a superficial similarity to Chuck Rock. You control a neanderthal who must march through hostile pre-historic environments seeking food and keeping himself safe. Some food can be found in caves, but it mainly exists in living animal forms.
+
+These include fire-breathing Pyro-Tax dragons, the Turtosaurus, and the Bad Bat. Each of these must be clubbed to death, some taking up to 5 hits, and then walked over. Some other enemies are indestructible, with the monkeys who throw coconuts at you particularly fiendish.
+
+You will have to complete the level within the time limit, and avoid contact with these foes. However, bombs and improved weapons can be collected, as can extra lives, time bonuses and an improved jump.

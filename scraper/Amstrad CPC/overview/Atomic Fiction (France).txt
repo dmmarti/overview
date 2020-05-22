@@ -1,0 +1,1 @@
+Atomic Fiction is a pleasant little game based on Oil's Well, which in turn is quite similar to Pac-Man. Here you have a small maze filled with dots that must be collected by a grabber. The grabber comes from above ground and is extended downwards by a pipeline. Within the maze are nasties that move along the screen horizontally. If they hit your pipeline, you lose a life.

@@ -1,0 +1,1 @@
+You control a red spaceship and must fly over several large mother ships, blasting aliens as you go. However, your spaceship has a very limited supply of oxygen, but it can be refuelled by collecting boxes left behind by the aliens when you shoot them. The only problem is that you cannot fire bullets until the box is collected!

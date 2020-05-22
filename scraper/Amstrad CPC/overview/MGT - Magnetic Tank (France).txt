@@ -1,0 +1,3 @@
+This is an immersive isometric game where you start by having no clue about your mission. You drive a tank which moves under heavy inertia via directional controls, and bumps into walls and can only shoot.  
+
+Gameplay resembles titles such as Alien 8 and Sweevo's World. Some blocks can be pushed, some move after you shoot them, while some can be used for lifts. Most rooms have multiple exits, but some are locked and others aren't on the same vertical level. Avoid lasers and blocks, solve puzzles by pushing or triggering blocks, and finally solve your quest.

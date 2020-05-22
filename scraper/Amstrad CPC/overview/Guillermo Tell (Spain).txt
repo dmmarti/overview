@@ -1,0 +1,3 @@
+Guillermo Tell is a shooting game made exclusively for use with a Spanish lightgun called Gunstick.
+
+The game is similar to Crossbow. Like in that title, the main character walks automatically (he must rescue his beloved) and the player has the mission (more or less in the role of a gunman bodyguard) to protect Guillermo from the attacks of archers, trolls, birds and also from the impact of objects like stones or bows.

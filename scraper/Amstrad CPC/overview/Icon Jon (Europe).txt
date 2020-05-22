@@ -1,0 +1,3 @@
+Icon Jon is a game with a unique premise: the player controls Icon Jon who is a programme inside an CPC computer. Unfortunately it is going to shut off soon, which means Icon Jon will be purged from the active RAM. So he needs to escape!
+
+So Icon Jon travels through the various non-scrolling screens in side-view and solves puzzles, e.g. collecting and using items or working on terminals. The game is completely icon-driven; for every action the player needs to choose one of the ten icons. After that another windows opens in which the action is further specified. Another important part is talking to Andy Capacitor and Charlie Chiplin, two other programmes. The time limit is 30 minutes.

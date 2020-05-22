@@ -1,0 +1,5 @@
+12 Lost Souls is an Adventure game, developed and published by Len Townsend, which was released in Europe in 1987.
+
+In the world of Albion only magic can be used by people with The Talent and controlled by the Order of Leofric. There is a cloud of Doom as you Nathan, an inquisitor go to investigate Lord Talent of Dinham who is attempting to open a portal into the Thirteenth Realm which brings chaos and disorder. You must find him and stop him bringing a Realm Of Chaos to Albion.
+
+Realm of Chaos: Village of Lost Souls is a text only adventure where text on the screen describes your surroundings as you enter commands using the keyboard to complete your adventure.

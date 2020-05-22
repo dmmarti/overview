@@ -1,0 +1,3 @@
+Boggy '84 is one of those games of which countless numbers were made in the early eighties during the homecomputer boom. It is slightly similar to Mappy or Space Panic but without the refinements of said games.
+
+You are a man who must collect a set of keys on a level with several floors. You can jump between floors using springboards, which gives you an advantage over your enemies, who must use the ladders to climb between floors. You must also use those in order to descend to a lower floor, mind you. Later levels add touches such as a a ski slope which you must ascend while avoiding the baddies. Hitting them from below will put them out of action, though.

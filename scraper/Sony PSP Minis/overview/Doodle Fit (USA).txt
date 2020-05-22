@@ -1,0 +1,1 @@
+Puzzle game addiction meets doodle-style graphics! Your task is simple: fit the given sets of blocks into given shapes. Drag the blocks inside and outside in search for the layout that covers the whole shape. A level is complete when all blocks have been used and there's no more space free in the shape.

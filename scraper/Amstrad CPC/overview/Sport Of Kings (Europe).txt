@@ -1,0 +1,3 @@
+Sport of Kings is a horse racing simulation. The procedure is simple: the player sets a bet, the game calculates the race results (the graphical representation is side-scrolling) and, depending on the result, the winnings are paid out. If less then eight horses participate (the number can be freely set up to 75), only the 1st and 2nd place count. 
+
+Of course it is recommended to consult the statistics of the horse and jockey before setting a bet. However, the statistics of each horse are determined randomly, so the form is only available after a few races. The game allows to calculate a few automatic races in the beginning to circumvent this.

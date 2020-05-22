@@ -1,0 +1,13 @@
+The control panel consists of a trackball and two buttons with different functions depending on the event. The game can be played against a CPU-controlled opponent or a second player. Player 1 takes control of Nick, a brown-haired recruit in an orange shirt, while Player 2 is Joe, a blond-haired recruit in a blue shirt. The game system is similar to Konami's Track & Field series.
+
+The game is composed of seven training events whom the player must complete. Upon a near-success failure to complete an event (failing too severely results in game over), the player must do a set number of chin ups as punishment (this chance is given only once) in order to continue into the succeeding events, or it's game over. The events are as followed:
+
+    Obstacle Course ? Set in a side-scrolling segment, the player must reach the end of the stage under the allotted time before his opponent while climbing walls and clearing bars. Losing to the CPU or to one another does not mean Game Over as long as the players cross the finish line within the allotted time.
+    Shooting Range No. 1 ? The player must shoot as many targets as possible under the allotted time. If played against a second player, then the one who shoots the most targets win.
+    Iron Man Race ? Similar to the obstacle course, but set in a top view angle. The player must reach the goal while avoiding mines and other obstacles. Eventually the player must cross a lake by either swimming or rowing a boat. Losing to the CPU or to one another does not mean Game Over as long as the players cross the finish line within the allotted time.
+    Shooting Range No. 2 ? Same as the first one, but now with moving targets.
+    Arm Wrestling ? The two recruits are pitted against each other in a match of strength and stamina. This is more like a bonus stage than an actual course: the player is not penalized for losing.
+    Shooting Range No. 3 ? The third and final shooting range stage features penalty targets.
+    Fighting ? The player faces against his instructor in hand-to-hand combat in the final event. There is no make-up punishment in this event. If a player loses this event, it is game over no matter what. If played with a second player, then the two players must fight each other. Only the victor is allowed to graduate.
+
+After all seven events are cleared, the player graduates from basic training only to be sent on a mission (the 8th and the final stage) to rescue the U.S. President from armed terrorists. The final stage c

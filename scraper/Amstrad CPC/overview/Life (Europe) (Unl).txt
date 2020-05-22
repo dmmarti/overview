@@ -1,0 +1,6 @@
+Life is a simulation of Conway's Game of Life. They player can draw his or her own patterns and watch how they evolve based on the simple rules of Conway's Game of Life. 
+Any live cell with fewer than two live neighbours dies, as if caused by under-population.
+Any live cell with two or three live neighbours lives on to the next generation.
+Any live cell with more than three live neighbours dies, as if by overcrowding.
+Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
+The player can let the simulation play out, pause, reset, place cells and clear the screen.

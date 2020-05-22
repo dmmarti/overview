@@ -1,0 +1,3 @@
+What can you add to Battleship over the pencil and paper version? A computerized opponent, fairly obviously, as well as the chance to play without using up the earth's limited paper and pen resources. The possibility of cheating is removed as well.
+
+Elite go beyond this by changing the shapes of the ships to be more Tetris style, and allowing these to be placed at each of the 4 main angles. A ?Salvo Fire' mode sees each player fire a succession of shots (each of your six ships gets four shots a turn until it's sunk), meaning that strategic play involves firing on a wide range initially in the hope of finding a ship, before homing in on the area in the next turn. Finally, there's an animated sequence for each go, which is depicted as an air strike.

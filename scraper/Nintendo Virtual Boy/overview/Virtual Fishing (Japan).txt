@@ -1,0 +1,2 @@
+Virtual Fishing aims to replicate the fishing experience, pitting you against six opponents as you compete in several competitions.
+Upon starting the game you are presented with a 3D map screen with five locations on for you to compete at, as well as a training area where you can get used to the controls, which are pretty straightforward.

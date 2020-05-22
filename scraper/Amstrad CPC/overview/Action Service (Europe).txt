@@ -1,0 +1,7 @@
+Lace up those boots soldier, and get ready for five levels of challenging action in this boot camp simulator. As make your way through various levels you'll be given points for doing the right thing and deducted points for any missteps. You can record your attempts and review them, to spot your mistakes and learn from them.
+
+Level one is the Physical course, which requires you to jump over walls, jump trenches and crawl under barbwire. Level two is the Risk course. This one will have you planting dynamite and throwing grenades.
+
+Level three has the player going hand-to-hand in the Combat course. The fourth level combines the previous three levels into one, and finally, the fifth level is a custom "Cobra" course that throws random elements from all the courses at the player.
+
+To give the game replay value, there is a course construction set so that you can make your own levels. The Atari ST and Amiga versions contain digitized sound.

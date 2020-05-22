@@ -1,0 +1,3 @@
+Konami software published in 1986 and with which we can play with PSG records to create music.
+
+This cartridge was originally accompanied by a cassette tape with different samples to load them into the program. You will find more information in Generation MSX.

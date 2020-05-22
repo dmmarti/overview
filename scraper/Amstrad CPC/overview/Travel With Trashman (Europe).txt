@@ -1,0 +1,1 @@
+You are a garbage collector. You walk the streets and remove the garbage as quickly as possible. Time is allotted to you, so you have to hurry and do it as soon as possible. However, a time bonus is allocated to you for each waste collected.

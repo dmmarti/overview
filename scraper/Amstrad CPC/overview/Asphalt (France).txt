@@ -1,0 +1,5 @@
+In the world of Asphalt, roads and highways have become a playground for violent criminals. Only heavily armed vehicles dare travel between cities. It is your job as a truck driver to deliver your cargo despite all dangers.
+
+Asphalt is a top-down shooter, you don't have to worry about driving (the road is as straight as it can be), all you have to do is shoot your opponents before they have a chance to do too much damage to your vehicle. You have a machine gun turret with unlimited ammunition, a flamethrower and some mines, as well as a damage display to see what part of the truck needs to be protected.
+
+The difficulty is rather progressive, each new level bringing new, better armed opponents, requiring new tactics to defeat them without damaging your vehicle too much. You can also grab some bonuses like extra ammo, instant repair or bonus points.

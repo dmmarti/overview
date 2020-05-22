@@ -1,0 +1,19 @@
+Dicing Knight. follows the journey of a nameless knight fighting through a series of randomly generated dungeons.  The game will start on the floor of a dungeon, your goal being to find the floors key to progress to the next floor. Eventually you will reach a dungeon boss, after you beat it you’ll be allowed access to a new more difficult dungeon. Dungeons are timed by a “Food Gauge” which when depleted will force you to exit the dungeon.
+
+The dungeons are named:
+
+1. Lindwurm - German term for dragon, meant to establish the mythic setting. This dungeon has a heavenly aura.
+2. Shootingstar - A fiery land that will start to test your knowledge of the controls from Lindwurm.
+3. Jabberwock - A whimsical land that is bathed in night. When the night shall end is unknown.
+4. Quetzalcoatl - The area named for the Aztec sky god and creator. The entire map can no longer be seen.
+5. Jörmungandr - The serpent that shall kill Thor. This stage is a mythic earthy setting.
+
+The A button swings your sword and the B rings up your shield, the key items of any knight. Slashing your foes with your sword and devouring projectiles with your shield will increase your special meter, which when filled will allow you to perform a deadly special attack “Shining Sword” or "Blazing Sword".
+
+One interesting features of Dicing Knight is the “dicing” every time you attack an enemy dice will pop out of it and roll, you’ll deal damage to the foe based on the rolls you get. Likewise when you are hit dice also roll to determine you’re damaged. 
+
+The Y buttons will be mapped to four different items, which can be found inside your foes. A variety of items are included in the game such as an item that will predict or alter dice rolls, a variety of stat altering potions, invincibility items,  and a drill that will let you progress through dungeon wall to avoid monster filled rooms. Various orbs are also obtainable, via a lottery system, which will improve your abilities. 
+
+After you beat the game on “Knight Mode” you’ll obtain a, “Fortuner Mode”, which will alter the game play, keeping the dungeon crawling style but giving you the ability to shoot to you and more of the monsters. The A button will be transformed into a double pistol, and the B will lob grenades. As well as two new specials that allow you to absorb enemy bullets or do a powerful shock attack. A new stage with a fitting title will also appear:
+
+1. Ouroboros - The snake eating its own tail, an alchemical

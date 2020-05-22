@@ -1,0 +1,1 @@
+This is a Tron clone where you can play against either a friend or the computer. Like all games of its kind, the aim is to stay alive for as long as possible without crashing into the walls or the trails left behind by you and your opponent.

@@ -1,0 +1,7 @@
+Gatecrasher is a puzzle game where the player has to roll barrels through a maze into the right baskets. The maze is viewed from the side and the player controls a character on top of it. Beneath the maze are nine boxes and the player has to guide a barrel into each box. The maze consists of tunnels and a number of gates, each which alters the direction of the barrels. The player has to study the maze to find the right route through the maze and then drop the barrels in right entry hole at the top. The player can also change the maze layout by moving it up and down. There's also an earthquake option which rattles all the gates at random. The game goes on until all 20 barrels have been used or all boxes are occupied. If two barrels are placed in the same box, both will be removed.
+
+Levels have different objectives, as follows:
+ Level 1-4: one barrel has to be placed in each box
+  Level 5-6: numbers have to be sorted into order. Each box has a number and when a barrel is dropped into it, it will switch its contents with the box to the right
+  Level 7: one barrel has to be placed in each box
+  Level 8: a sequence has to be repeated

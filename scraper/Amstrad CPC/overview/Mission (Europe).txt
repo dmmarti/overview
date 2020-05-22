@@ -1,0 +1,5 @@
+In this isometric action game you are an agent in combining suit with laser helmet, descended to a factory to find and kill another agent Halox, who stole the formula for the bomb MEGATRON and who wanted to sell it to enemies. 
+
+You should explore 80 rooms, walking from one room to another. Each room has one entrance and one exit, and it is filled with mechanical enemies and different useful mechanisms such as elevators, teleports, directional platforms, etc. You should move in four directions to avoid the enemies, or you may shoot them to break them for some period of time. One of 5 kinds of combining suits and helmets are available in certain rooms to increase your health energy, which may be decreased by collision with enemies.
+
+The highest score will be saved.

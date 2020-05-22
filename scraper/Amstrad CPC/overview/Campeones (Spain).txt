@@ -1,0 +1,1 @@
+Campeones is a 2D racing game set along several courses. Your little red racing car waits for the flag before setting off along the race track. Pressing left or right rotates your car while pressing up accelerates it. Along the way, four other competitors need to be beaten in order to qualify for the next race.

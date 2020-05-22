@@ -1,0 +1,12 @@
+The game is an enhanced remake of the original Paraplane for Amstrad CPC.
+
+Different stages of player's skills allow you to play a different types of games. 
+While Practicing you may complete the exercises to train yourself in main gameplay actions such as taking off, landing, flowing using air currents, etc. 
+While Strolling you may explore the flags/balloons positions and relief of the four places of the world (Arabic Desert, Green Alps, Snow Mountains, and American Canyon), where paragliding events are set.
+While Competition you may, choosing one of eight nations of players (Japanese, English, American, Spanish, Russian, French, German, and Italian), to make a score, collecting the flags and balloons and taking into account the time flowing.
+While Championship you with up to 4 players may challenge each other completing one after another the different events such as speed, precision, technique, etc. 
+High scores are saved in the Hi-Score Table.
+
+The gameplay includes enjoying the intro music, taking off, paragliding using air currents and clouds, avoiding the static and dynamic obstacles, collecting the flags and balloons, and landing.
+
+The game was made in French/English/German/Spanish.

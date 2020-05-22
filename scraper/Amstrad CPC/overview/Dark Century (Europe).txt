@@ -1,0 +1,5 @@
+You control a squad of high-tech tanks and you have to destroy the enemy squad.
+The tanks can move quickly, make sharp turns or fire in all the directions.
+
+The graphics in 3D are very well done for a 1990 game.
+Even if the game has a rather simplistic plot it can get quickly very addictive.

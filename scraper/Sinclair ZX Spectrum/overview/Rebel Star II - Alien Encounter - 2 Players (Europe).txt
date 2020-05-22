@@ -1,0 +1,5 @@
+A turn-based, tactical squad combat game from Julian Gollop, creator of the X-COM series.
+
+An alien race is threatening the galaxy. It is up to the Rebelstar Raiders to infiltrate the aliens' home base on the planet Thray 6. They have to get in, steal some alien eggs for research purposes, then get out - fast. There is only a limited time until the rescue ship must leave the planet, and the Raiders had better be on board.
+
+Rebelstar II features a dangerous scenario on a hostile world. Slash through jungles, wade through deadly swamps and enter the alien base, where the Queen sits, guarding her eggs.

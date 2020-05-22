@@ -1,0 +1,7 @@
+Zox 2099 describes a rescue mission of an intergalactic hero on his way to set free four hostages of the planet Hullm from clutches of Zox asteroid. 
+
+The game combines two modes of gameplay. One of them is a spacecraft shooting arcade, and another is a labyrinth crawler. First of all, the player should fight in the space, destroy all encountered enemy ships, and finally arrive on the huge asteroid. It is achieved with a shooting at the ships and their missiles while showing the direction for each shot. Numerous damages of the player's ship lead to the game over.
+
+After the asteroid is reached, the player enters its labyrinth fortress with 20 rooms. Here the player should move from room to room, searching for transition spots. In each room the walls should be examined to find the secret passages with attempts to move the fragments of these walls. Also some switches can be toggled to open the doors or remove the electric barriers. Enemies are guarding the corridors, and they should be avoided or neutralized for a limited time with a gun. If enemy guard will reach the player, the player is moved to the starting point of the labyrinth. There are four hostages to find.
+
+Once all the hostages are found, the player should flight back to his home planet in the same spacecraft shooting arcade.

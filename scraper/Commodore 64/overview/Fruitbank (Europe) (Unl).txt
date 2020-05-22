@@ -1,0 +1,1 @@
+Super Nudge 2000 is a fruit machine simulator for one player. The game allows the player 10, 20 or 30 credits to start and when all credits have been used the player can, if their winnings are high enough, enter their name on a high-score table.

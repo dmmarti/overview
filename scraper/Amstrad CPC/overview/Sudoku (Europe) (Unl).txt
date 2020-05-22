@@ -1,0 +1,1 @@
+Sudoku arrives on the CPC thanks to Kevin Thacker. In this puzzle game, the objective is to fill a 9×9 grid with digits so that each column and row, and each of the nine 3×3 sub-grids that compose the grid, contain all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which typically has a unique solution.

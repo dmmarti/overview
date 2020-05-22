@@ -1,0 +1,5 @@
+Loom was the fourth game to use the SCUMM scripting language. The game follows Bobbin Threadbare as he learns how to use his magical powers through his distaff and as he eventually saves the world from the Lord of Chaos, who was unraveling the Loom (the source of power for the members of the weaver's guild).
+
+Loom is an adventure game that sets itself apart from other titles in the genre through its unique gameplay system: the player character does not carry items around, but rather manipulates objects through the use of spells (called "drafts" in the game). The drafts themselves are woven by playing magical notes on a special instrument called "distaff". All the puzzles in the game are solved by learning and correctly applying these drafts. 
+
+The CD DOS version of the game has enhanced 256-color graphics, audio tracks, and full voice acting. However, it also removes a few close-up scenes and conversations.

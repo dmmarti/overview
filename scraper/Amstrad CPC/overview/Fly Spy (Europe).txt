@@ -1,0 +1,3 @@
+A voice digitization can be heard during the intro screen.
+This game uses both vertical and horizontal hard-scrolling to pass from one screen to another.
+It also uses a Multi-Mode technique that allows you to mix graphic modes. The color palette can be changed by using the renders between the two areas.

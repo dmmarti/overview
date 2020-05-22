@@ -1,0 +1,1 @@
+The objective of Bob en el polo is quite simple: eat a certain number of eggs in each of the 10 levels of the game, avoiding the enemies, in a limited amount of time. The player can also move the blocks on the screen, like in Pengo, but without the possibility to kill enemies. Blocks can only be moved for defensive purposes. The start level can be selected from the main menu.

@@ -1,0 +1,3 @@
+Infection is a public domain Ataxx-type game. Starting in the corners, players take it in turns to place a marker of their colour on the grid. An existing marker can be moved two places away, or a new marker can be created within one space of a player's existing marker. If the marker is placed directly next to an opponent's marker, it will take over that marker's position. The game finishes either when the board is full (the player with the most markers wins) or there is only one player with markers left on the board (having taken over all other markers). 
+
+Up to four players can take part, and they can either be human controlled or CPU controlled. There are nine different board layouts, some featuring barriers dividing parts of the board.

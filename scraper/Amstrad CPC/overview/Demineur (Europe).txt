@@ -1,0 +1,3 @@
+French demogroup Eclipse takes on Minesweeper with its own variation on the theme. The 8x8 game grid hides an adjustable number of mines - 10 by default. Each square can be uncovered to reveal its contents, or flagged as containing a mine. If an uncovered square turns up empty, the number of adjacent mines will be shown; if a mine is uncovered, it will promptly detonate, losing the game (and ripping an appropriately large hole through the screen).  The goal is to strategically clear the field by locating and flagging the mines, without causing an explosion.
+
+Version 2.0 of Demineur expands the game with the addition of music, a different color scheme, and a facility for multiple game modes (which apparently remained unused).

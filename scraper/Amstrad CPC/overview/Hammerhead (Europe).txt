@@ -1,0 +1,3 @@
+Hammer-Head is a horizontal-scrolling platform game. We take the role of Top, a secret agent, and we must to advance around the levels striking our enemies with the head.
+
+During the development of the phases we will be able to take a number of items, that on having finished every level we will be able to change for energy, time, lives extra or a " mini companion " controlled by the computer.

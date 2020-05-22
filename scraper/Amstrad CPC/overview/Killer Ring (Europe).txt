@@ -1,0 +1,1 @@
+It's a Galaxian clone. There are only six waves of aliens before you face the Supreme Starfighter, who you must kill by first blasting through his spaceship, and then aiming at his heart.

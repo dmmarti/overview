@@ -1,0 +1,1 @@
+Play against the computer on twelve different levels. During the game you can take back a move, save and load the game status, set up or change of position, change level or even switch sides! The moves of the computer become more complex with each level.

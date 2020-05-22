@@ -1,0 +1,5 @@
+The basic idea behind this one comes from Pengo, with a maze containing various arrangements of blocks as well as several baddies, who are all one square in size. You kill them by firing blocks at them, which carry on moving until they hit a bad guy (in which case both are destroyed and you get some points) or another block (in which case it comes to a stop). The way the level layouts change as you play allows you to potentially box in some enemies, so you can deal with them gradually.
+
+There are also exploding bad guys (drawn as Lemmings), so watch out for the warning as they prepare. Some blocks are icy, meaning that they can?t be pushed, and they destroy any block that hits them. Collectible power ups include a short-term baddy-freeze and short-term invincibility. There?s a co-operative 2-player mode, in which you can, unusually, harm your team-mate.
+
+An extremely sophisticated editor was tucked away in the game, allowing you to not only design a maze and position the baddies (including regenerating ones, set to come in at any interval), but also change their speed and how frequently they fire hazards out

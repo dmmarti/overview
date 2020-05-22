@@ -1,0 +1,2 @@
+A boxing game with a couple of moves, with the standard jabs complimented by body punches and the ability to dodge, duck or raise your guard.
+Each punch weakens your opponent's strength, although going long enough without being hit can see this begin to recover. A rain of blows can produce a quick knockout, but in general you must hit him many times, and then with a knockout blow, to see him go down. There is a referee. The game has a two player option.

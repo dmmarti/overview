@@ -1,0 +1,1 @@
+Nakamoto is an old school platform game in which you're tasked with collecting all of the objects scattered around the screen. A unique feature not seen in many games of this genre is the ability to jump and cling to overhead rails. You can use these to overcome tricky areas of the screen.

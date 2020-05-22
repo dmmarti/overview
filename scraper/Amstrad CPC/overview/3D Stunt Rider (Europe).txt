@@ -1,0 +1,9 @@
+3D Stunt Rider is a single player game. The objective in this game is to jump a motorcycle over a number of double decker London buses in an attempt to set a world record.
+
+The player has one minute to make their jump. In that minute they must complete the following stages of the jump:
+The Approach - which involves accelerating through the gears and steer towards the middle of the ramp. This becomes more difficult at higher levels when side winds blow the bike off course
+In the Air - the flight is viewed from a side-on perspective and the player can alter their flight by 'leaning' forwards or backwards
+Landing - the final phase, success here depends upon the angle of approach
+Points for a successful jump are awarded with a 1000 bonus for a successful landing.
+
+The game is controlled via the keyboard or via the joystick

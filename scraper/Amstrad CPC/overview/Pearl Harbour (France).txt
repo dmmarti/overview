@@ -1,0 +1,3 @@
+Historically, attack of Japanese Forces on the U.S. base at Pearl Harbour in 7 December, 1941 involved the U.S. in the World War II.
+
+The game represents the well-known Battleship board game, but now with historical content. You have to sink all enemy ships of the opponent on the matrix table 15x15 saying the coordinates of the matrix item, for example, 'a01' means the upper left coordinate of the battlefield and 'o15' means the lower right coordinate of the battlefield. Five kinds of ships (1-5 items in line) and the radar are present to easy the job of the ships detection. Accurate hits increase your score.

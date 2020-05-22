@@ -1,0 +1,3 @@
+Parabola is an isometric action game where Bouncing Bruce, a springy service droid has become lost and in order to find his way home he needs to complete a series of challenges on the Cosmic Energy Grid.
+
+Each square, or level on the grid consists of a 3D landscape that has to be navigated in order to pick up any rotating energy discs along the way. Once all discs have been collected, Bruce can go for the exit of the level. Obstacles along the way come in the form of direction changing blocks, round ejection discs and moving guards. If delicate Bruce falls too far he will shatter on impact, so special care must be made to keep his bounce to a minimum.

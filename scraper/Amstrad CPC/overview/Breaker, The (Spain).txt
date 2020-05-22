@@ -1,0 +1,5 @@
+Brick Breaker is a Breakout variant consisting of a Classic Mode and a Dual Paddle Mode.
+
+The Classic Mode contains fifty different levels to play through. Players bounce a ball off a paddle trying to get the ball to destroy all the bricks on a level. Sometimes a destroyed brick will drop a power-up. Power-ups include things such as a rocket launcher, glue that stick the ball to the paddle, multi-balls, and hearts that give the player an extra life.
+
+The Dual Paddle Mode consists of twelve levels and features similar gameplay of the Classic Mode. The only difference is now the player controls two paddles (one at the top of the screen, the other at the bottom) that mirror each others movements,

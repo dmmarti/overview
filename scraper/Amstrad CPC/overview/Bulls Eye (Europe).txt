@@ -1,0 +1,9 @@
+A computer game version of a famed TV quiz show based around the game of darts. The computer version features 2 players, both human-controlled - on TV there were 3 teams of 2 (one amateur darts player and one to answer questions)
+
+The first round uses a custom board which is split both inwards (4 separate grades representing 30,50,100 and 200 points respectively) and around (10 sections lettered A-K, representing a different subject each). The first player must choose a category to aim at, and shoot a dart at it. If they hit one of the sections for that letter, they get that score and are asked the question. If they hit another category they get no bonus but are asked that question - if it's still there. Each players gets 3 goes at this, with increasingly tough questions worth 30,50,100 points.
+
+Round 2 involves each player throwing 3 darts at a standard board, with the player who scores the most getting asked a question, with the value of the darts on offer. If they get it wrong, the other player gets a chance, for the points THEY scored. This is repeated 3 times.
+
+After these 2 rounds, the player who is in front gets to aim at a board with 8 black segments, 8 red ones and the bullseye. The bully scores 50 points, the others reds score a randomly-selected value between 15 and 45, the blacks score zero, and hitting a red for the second time loses you that prize - hence the presenter's catchphrase "keep out of the black and into the red, nothing in this game for 2 in a bed".
+
+Once the player has finished the round, they choose whether to gamble their score against the final Prize Board. 101 points must be scored in 4 darts (in the TV show it was 6 - 3 for each player)

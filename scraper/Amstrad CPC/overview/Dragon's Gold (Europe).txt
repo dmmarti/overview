@@ -1,0 +1,1 @@
+A wealth of treasure is guarded by a dragon in a castle, and you aim to claim some of this treasure. The castle consists of six rooms which contain different hazards. You have to survive until the doorway to the next room opens; how long you need to survive depends on which of the three difficulty levels you have selected.

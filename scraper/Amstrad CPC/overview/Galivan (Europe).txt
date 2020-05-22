@@ -1,0 +1,5 @@
+In Galivan the player takes the role of the last remaining member of the Cosmo Police. His comrades died while trying to free the planet Cynep from the evil roaming on it. Now the player is the last hope.
+
+This game is a mix between a shooter and a platformer: the player walks through the caves, jumps over obstacles and shoots everything in sight. Well, at least if he has a weapon: at the beginning he is unarmed and can only kick or punch. He has to find pyramids which were dropped by his dead colleagues (also sometimes from killed aliens): those grant an armor, more life energy and a weapon. When the player find even another pyramid, the weapon gets upgraded for a limited amount of time. 
+
+However, every hit decreases the life energy and if it goes down too far, the armor and weapon are lost. Reaching zero results in death. At the end of every level, the player has to defeat a big boss alien.

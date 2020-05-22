@@ -1,0 +1,5 @@
+The team of three Robots (XOR, RHO and SAM) are landed on the unknown planet to get the Axium B52 resource. 
+
+Combining different functions of robots you as a distant manager have to explore the underground tunnels of the planet, to avoid falling destroying items, shoot the creatures, which take your energy out, and to find the important resource.
+
+Every robot can fly to bypass the planet's gravitation, but the surface of the planet is looks like a mixed fractal. No surface, but many obstacles formed a labyrinth with big gaps to move in. Some creatures want to taste robots, it leads to loss of robot's energy, so you have to shoot them in horizontal plane. Also unique features of robots allow you as pilot-manager to use robots as a team. XOR collects the resources, SAM repairs other robots but not itself if they break-down, and RHO transmits communications from the other two robots back to you.

@@ -1,0 +1,4 @@
+A game of soccer proposing you 4 different teams (Great Britain, France, Germany and Italy). There are no differences between these teams apart from the color of their jerseys. You can select the level of each of your players (levels from 0 to 20) as well as that of the opposing players.
+
+Released in 1985 in French under the name "Marius Tresor Foot" and in English under the name "Foot".
+Reissued in 1986 in English under the name "Soccer 86".

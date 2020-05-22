@@ -1,0 +1,1 @@
+This is a French game that is an adaptation of Space Invaders. An original, catchy tune plays throughout, while a cloud at the top of the screen releases alien fighters into holding bays. When a column is filled, the first fighter in that column will fall towards you.

@@ -1,0 +1,5 @@
+Battle Ships is an unofficial port of Battleship by Elite Systems Ltd.. Like the original, it is a computer version of the pen-and-paper Battleship game. There are five ships for each player; they can be rotated between eight angles (horizontal, vertical and 45-degree diagonal), and some of the ships have a slightly more complex shape than just a line. 
+
+Also like in the original, in each turn the player, instead of firing at one square, gets to choose a number of squares to fire at (the more ships the player has left, the more squares they can attack each turn). An animated sequence at the end of the turn shows the shots being fired. 
+
+A two-player competitive mode is also available.

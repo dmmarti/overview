@@ -1,0 +1,15 @@
+Play a would-be hero in the city of Hillsfar, where action and adventure await the daring adventurer. Join the local guild and complete missions from the guild master in a quest for glory and gold!
+
+Hillsfar is a "single-hero" role playing game (in comparison to other Advanced Dungeons & Dragons RPGs, where the player usually controls a group of characters). A combination of 1st person perspective (when traveling in the city of Hillsfar) and 3rd person perspective (usually in some action-style mini-quests) viewpoints.
+
+As a would-be-hero, four classes are available in a randomly generated mission-based plot: Thief, Mage, Fighter or Cleric. Each class, to a certain extent, has a different approach for completing quests.
+
+In Hillsfar, gameplay usually consists of various "mini-games" that are needed to complete the quests or missions provided at the local guild by the guild master. These mini-games include, but are not limited to:
+
+1. Fighting at the Arena (3rd Person Perspective)
+Competing at the Archery Range (1st Person Perspective)
+Exploring buildings or mazes (Top-down Perspective)
+Riding a horse while avoiding obstacles (3rd Person Perspective/Side-Scrolling)
+Locking picking doors and chests (1st Person Perspective)
+
+Unlike most RPGs, there isn't any "randomly generated monster combat" in Hillsfar. RPG combat only occurs in the Arena.

@@ -1,0 +1,13 @@
+BB4CPC (shorthand for "Bubble Bobble for CPC") is a retro remake of "Bubble Bobble", Taito's unforgettable 1986 arcade game hit, for the Amstrad CPC 8-bit home computer series. It was developed with the purpose of running on any CPC machine, regardless of RAM size or CRTC model, while staying as faithful to the original game as it could be done in 48 kB of code and data.
+
+BB4CPC was developed by me, "CNGSOFT". BB4CPC is freeware; it is provided "as is" with no warranty. Being a fan work, the copyright of the original arcade game belongs to Taito; I just hold rights over this remake.
+
+The gameplay
+
+The player assumes the role of a cute baby dragon whose single weapon is his bubble breath: he can defeat his enemies by blowing bubbles at them, then popping these before they break free of their soap prison and strike back.
+
+The game is made of 100 stages plagued by monsters whose contact is lethal to the player; by defeating all monsters in a stage, the player can move on to the next stage. But beware, time is limited: at the first warning, monsters will turn red, faster and more aggressive; the second warning will spawn an invulnerable monster who hunts the player!
+
+Fortunately, the game provides items that boost the player's score and supply him with power-ups, and two players can play at once and cooperate in their quest through the cave of monsters. And the bubbles themselves can be very useful for reaching far or high locations too!
+
+The default controls are both joysticks (FIRE1: shoot bubbles, FIRE2: jump) but players can redefine them if needed. The key P pauses and unpauses the game, and ESCAPE aborts it and returns to the title screen.

@@ -1,0 +1,5 @@
+Shogun is a conversion of the board game by German game company Ravensburger. It is a variant of chess, played on a 8x8 board. Each player has a shogun and seven pawns. The goal is to capture the shogun of the opponent player or decimate the pawns until a player only has a single pawn left.
+
+Moving is quite different from chess: each figure has a number printed on it which represents the amount of fields this figure must pass if moved. A figure can move horizontally, up and down and it is possible to change the direction once in a move (e.g. a pawn with number "3" is allowed move two fields up and one field to the right, but two changes of the direction like one right, one up, one right are forbidden). After moving a figure on the board, it randomly gets a new number between 1 and 4. Each figure can hit any other if the move ends on the field of the opponent figure.
+
+Shogun can only be played with two human players. The game prevents the players from making illegal moves. The figures can be moved with the mouse simply by dragging them to the destination spot.

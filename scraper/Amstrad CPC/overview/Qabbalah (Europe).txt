@@ -1,0 +1,8 @@
+Qabbalah is a single person arcade adventure game.
+
+Qabbalah is an ancient Hebrew doctrine that explains the relationship between that which is unchanging and eternal and that which is mortal and finite. Part of this teaching is a belief that by tracing the paths of the Tree Of Life it is possible to once again become one with the Godhead.
+
+That belief is used as the basis for this game. The player controls a character, or acolyte, who is sending their spirit out to follow pathways along the Tree Of Life. 
+The ultimate objective of the game is to guide the acolyte along a predetermined path through ten spheres of existence to achieve Godhead. Along the way there are objects that must be collected before the acolyte can pass from one sphere to the next. There are also demons, creatures of the dark side, who will sap the acolyte's energy.
+
+There are three levels of difficulty and the game keeps track of the highest score of the session. The game is entirely keyboard controlled.

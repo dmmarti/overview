@@ -1,0 +1,1 @@
+This is a bog-standard shoot-'em-up in which you are flying above the surface of the planet Orac and shooting aliens. Some of them leave gold stars behind which you can pick up, and collecting them allows you to select from a list of power-ups, which you can decide to make use of at any time.

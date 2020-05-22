@@ -1,0 +1,5 @@
+Space Invaders have taken on a 3-Dimensional effect, so you can now step into the future with this exciting arcade game of 3-D Invaders.
+
+Your task is to prevent the encroaching aliens from bombing your laser base.
+
+Use the cursor keys or joystick to move your base. Make sure you are positioned on a horizontal line directly underneath your target before using the space bar or joystick to fire. You are able to move in two directions at once while firing, but remember, there are 8 colour invader screens of increasing difficulty, so go on, test your skill.

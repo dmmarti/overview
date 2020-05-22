@@ -1,0 +1,5 @@
+The Phantom Club is a collection of super heroes that has been infiltrated by the evil overlord Zarg. Most members have been turned evil and the role of the player as Plutus is to rise from a lowly rank within the brotherhood to a status where he can take on the evil overlord and return the club to its former state.
+
+This is an arcade adventure in a classic isometric style, and the follow up to the critically acclaimed game title Movie.
+
+The player will have to complete missions that can only be achieved if the rank held is high enough. Missions involve defeating a rival super hero that has been turned evil.

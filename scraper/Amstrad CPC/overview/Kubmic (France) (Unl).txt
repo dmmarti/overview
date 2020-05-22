@@ -1,0 +1,1 @@
+Kubmic is a puzzle game where you have to slide coloured tiles on a 5×5 grid to recreate the pattern shown. It is an interesting idea and it is quite popular on many websites.

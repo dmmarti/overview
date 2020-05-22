@@ -1,0 +1,1 @@
+Jungle Warfare is 2D rail shooter, clone of Operation Wolf. The player is a commando, who must traverse through enemy jungle territory - and destroy everything! The player directs the cursor and shoots at enemies. Stronger enemies can withstand a few shots. The enemies are trying to kill the player's character - he can (for example) shoot down missiles. Game supports lightgun.

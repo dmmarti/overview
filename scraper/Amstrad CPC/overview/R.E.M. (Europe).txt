@@ -1,0 +1,1 @@
+A Remote Excavation Module has been sent into some underground caverns, to collect radioactive deposits, the sort of task which is certainly not recommended for humans. However, the caverns contain lots of boulders which are lying on unstable soil, so be careful where you move the robot.

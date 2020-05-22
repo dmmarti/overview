@@ -1,0 +1,1 @@
+The game is entirely written in BASIC with the Sprites Alive BASIC extensions. It took him about 6 months to complete it. Your objective is to find 10 parts of the light over the map.

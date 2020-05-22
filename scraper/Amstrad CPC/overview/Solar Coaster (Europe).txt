@@ -1,0 +1,1 @@
+Yet another Galaxian clone. This one has only four levels; three of these feature a formation of aliens hurling laser beams at you, while the fourth sees you fighting against the aliens' mothership.

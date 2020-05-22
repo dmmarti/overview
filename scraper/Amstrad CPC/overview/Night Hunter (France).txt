@@ -1,0 +1,5 @@
+NightHunter is a Dracula based action/adventure in which you actually get to play as Count Dracula. Dracula will have the ability to transform into a bat and a werewolf.  Your goal is to locate holy medallions in order to create total chaos on Earth.  Of course, Van Helsing and his band of vampire hunters are on your trail, so they must be avoided so you don't get dusted.  Enemies encountered include priests with holy water, vultures, and even the police.
+
+NightHunter is a traditional side scrolling platform game that is made up of 30 levels.  Each level has 20 screens.  To advance to the next level 8 objects must be collected; 3 parchments and 5 keys.  Every 5th level you obtain one of the medallions.
+
+Beware of daybreak! You will die if you don't locate a crypt to protect yourself from the sunlight.

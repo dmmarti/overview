@@ -1,0 +1,3 @@
+The first thing the player/players of Gutter must do is inserting credits, using them to access the ball. In turns, each of you have to guide a ball down a gutter surrounded by a patchwork 3D effect. This is done by steering it left and right to give it angular acceleration.
+
+You can hit the jesters, kings, queens, and chalices for points and bonuses. Avoid the axemen and monks - the axeman takes your life, and monk returns you to the start of the game/ Different royal members, including monks, increase your score. As such, hitting monks can be a good move if you are confident. On the right of the screen you may see your career progress in the gutter (D/1/2/3/0/S).

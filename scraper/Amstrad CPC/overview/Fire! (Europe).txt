@@ -1,0 +1,3 @@
+Fire! is a firefighting simulation in which the player is in control of a helicopter and must douse the fire that takes a grip on one (or more if you don't watch out) flats.
+
+The player can move the helicopter in four directions and also hover in place. Using the water cannon the player can douse flames. Water is in limited supply, but one of the rooftops allows the player to replenish the water supply. The fire, like a real fire, will slowly and erratically expand in all directions. The player wins when the fire is put out, but loses if unsuccessful within three minutes.

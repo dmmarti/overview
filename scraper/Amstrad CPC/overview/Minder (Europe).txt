@@ -1,0 +1,13 @@
+Minder can be seen as a training game for your short-term memory.
+
+The playfield consists of a circle, which is split into 4 quarters, a red, a blue, a yellow, and a green one.
+
+When you now start a game, the computer will play a sequence of one color, and your job is to repeat this sequence. You have all the time you want for this, but the faster you repeat the sequence, the more bonus points you earn.
+
+A sequence of one color? Yes, but only in level 1, level 2 has 2 colors, while level 20 will have 20 colors, and so on...
+
+If you fail to repeat the correct color sequence, you will have a miss. After three misses, it's game over. However, after earning each 20,000 points, a miss is removed.
+
+While the game itself uses random color sequences, so each complete game will be different, one game will have one continuous color sequence (like green -> green-red -> green-red-green, etc.). So you can concentrate on improving your memory on one increasing sequence and don't have to re-learn every level.
+
+Finally, the game uses both a local highscore and an internet highscore.

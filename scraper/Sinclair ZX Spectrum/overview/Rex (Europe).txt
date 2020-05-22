@@ -1,0 +1,5 @@
+Rex the dinosaur is fed up of the environmental damage being done by a nearby nuclear plant. As a result, he takes to the heavily-guarded tunnels that lead to it, with the intention of ridding the world of nuclear power forever.
+
+The game is viewed from the side in a flick-screen format. Rex jumps and shoots, staking out various walking and flying enemies. Walking on to a Beam Pad means that upon losing a life, you will resume from the screen on which you died. As enemies are dying, keep shooting at them to keep increasing your score.
+
+There are power-ups to collect, through energy bubbles. Each weapon has 5 possible energy levels, and can only be used if you have enough. Collect a bubble when you weapon is at the top level and you will collect an improved weapon.

@@ -1,0 +1,5 @@
+Philosopher's Quest is a single player text adventure.
+
+The story starts with the player mooching around a junk shop. Somewhere in the back of the shop is an old wand. Its just lying there and, well, what harm could come from giving it a little wave - especially if the shop keeper's back is turned. So that's what happens, the wand gets waved and the player is transported to another shop somewhere inside a cave system. Though alone in the cave the player hears a voice telling them to go and explore, to seek treasure and bring it back to the shop in payment for misuse of the wand.
+
+So begins the adventure that will see the player encounter the serpent in the Garden of Eden, the Ancient Mariner, an invalid old lady, a whale and many other strange characters and places.

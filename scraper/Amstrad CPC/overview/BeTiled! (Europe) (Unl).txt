@@ -1,0 +1,26 @@
+Help the evil Dr. Cirilus through his research and try to rule over the world.
+
+Extract the energy from the videogames esential crystals, assemble it wisely and the universe will be yours, do it quickly, these blends are too unstable. If you don't get it at time all will explode in your face. Anyway, don't worry, you are not alone: Cirilus assistants will try to make it easy, though...they don't get all their aims.
+HISTORY
+
+From years of research, Dr. Cirilus discovered the way to extract the energy from the Videogames essential crystals.
+
+In his Lab, he developed the technology to stabilize these crystals and storage the energy as it is produced.
+
+In his effort, he relies on his faithfull but incompetent servant, Loppo Noroccidental, who is entrusted to provide stabilizer elements to the blend.
+
+But the mad Scientific has found several unexpected handicaps: In spite of this improved technique, the crystals become unstable by the contact with oxigen: Handle the crystals as fast as possible to avoid explosions in the laboratory facilities. In the other hand, more crystal purity needs more links among them. Any other way will not get the required energy.
+
+His initial research success caught the attention of the Galaxy X-32 where they will not hesitate to send the best agent and hinder the evil Cirilus's plans.
+THE GAME
+
+Your goal is joining crystals in order to release their energy. To do that, crystals must be aligned in rows or columns of at least three. When that happens, they will disappear leaving space which will be inmediately taken by crystals above them.
+
+Fetch which crystal to move with the blinking cursor, then select and move it. The crystal will exchange positions with a contiguous one (depending on which direction you moved it). If the result of your move doesn't make three or more crystals of the same kind align, it will be undone and the crystals will return to their original position.
+
+The amount of energy you need to release from each kind of crystals is displayed on screen. Once you've gathered enough energy, you'll get to the next level.
+GAME MODES
+
+- Arcade: Main game mode. Follow the story of Cirilo and help him in his endeavour to rule the world. A different set of crystals awaits each five levels. Besides, from the sixth level onwards, in addition to coloured crystals to join and destroy you'll find special crystals, some of which are extremely useful - but some of them are quite dangerous.
+
+- Normal mode: Choose a graphic set and try

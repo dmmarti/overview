@@ -1,0 +1,1 @@
+In 2075, the Strategic Defence Initiative has become reality, and the first satellite is being developed. The designers of the satellite need to test it, however, and they have built a very, very small robot which can explore inside the computer. You control this robot, which has to activate all the switches in the computer.

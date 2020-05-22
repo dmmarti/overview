@@ -1,0 +1,3 @@
+Glass is a 3D arcade shooter where the player controls a starfighter simulator and has to clear 14 levels of action to achieve Game Lord status.
+
+Your planet has been invaded by aliens and they have built three citadels that act as a base for further expansion.The objective is to acquire the skills to become a starfighter pilot to fight the alien invaders. Before you reach the citadels you have to fight numerous robots with your twin lasers and avoid getting hit which reduces your shields. Once you reach one of the cities a nuclear warhead is launched and you get to sit back and watch the end of the citadel.

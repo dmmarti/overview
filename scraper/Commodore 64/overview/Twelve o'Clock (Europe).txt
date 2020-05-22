@@ -1,0 +1,1 @@
+The goal of this puzzle game is to align 9 clock faces on 12 o'clock.

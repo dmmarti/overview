@@ -1,0 +1,1 @@
+Guide the little man from the bottom of the screen to the top-right corner marked 'HOME' while avoiding the astro spiders and collecting the sole object on the screen. The screen consists of six platforms in which gaps open up and move randomly. The spiders also fall through these gaps and block your way, and it's not possible to jump over them.

@@ -1,0 +1,5 @@
+A simple adventure game for young players where you play Snoopy as the main character solving various puzzles in the area.
+
+The basic idea is manipulating objects by picking them up and dropping them at certain areas, which will result in a new sequence to the plot. 
+
+You can use either a keyboard or joystick to play the game and there are only 5 actions you can perform: Move left, Move right, Jump, Pickup/Drop and Object Information.

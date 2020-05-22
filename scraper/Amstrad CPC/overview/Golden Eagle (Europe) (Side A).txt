@@ -1,0 +1,5 @@
+The plot of Golden Eagle is a basic one: the evil priest Nahmur stole the Golden Eagle, severed it into five parts and hid them in the city. The player controls a special agent with the order (the employees are mutants) to find said parts.
+
+So the player walks through the levels while shooting all opposition. There are also some basic puzzles to solve (collecting an item at one place and using it at another or switch puzzles) and safes to open (either with found codes or by using special equipment) in order to find the eagle parts. There are also some traps to avoid.
+
+Besides walking and moving, the protagonist can jump and duck. All other actions like crawling can only be performed in certain places. Using terminals reveal useful information in the form of messages or a map for easier orientation. Other terminals offer the possibility to play a completely optional game of Reversi.

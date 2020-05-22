@@ -1,0 +1,1 @@
+Kamyzol is a puzzle game where you have to move a red brick outside the screen to progress to the next level.

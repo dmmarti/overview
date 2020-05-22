@@ -1,0 +1,7 @@
+Delta is a horizontally scrolling shooter computer game originally released for the Commodore 64 by Thalamus Ltd in 1987. It was programmed by Stavros Fasoulas and the music was written by Rob Hubbard. The menu-music is based on the theme of Koyaanisqatsi by Philip Glass and the in-game-music is based on Pink Floyd's On the Run. The game was also released for the ZX Spectrum in 1990 as Delta Charge.
+
+The game was released as Delta Patrol in the United States by Electronic Arts for its Amazing Software line of action-oriented software programs, in 1987 on the Commodore 64.[1]
+
+The player controls a spaceship and gains power-up points by destroying formations of enemies. Some enemy formations instead subtract power-up points for the player, so the player must take note of which formations to destroy. Periodically blocks containing the power-ups (higher speed, faster rate of fire) appear and the player can pick one of them up: The more points the player has collected, the more powerful are the power-ups that can be chosen. Unavailable power-ups are gray and kill the player if he flies into them, making them part of the obstacles in the game. The effects of the power-ups are lost over time and must therefore be regained. The player gets a choice between in-game music or in-game sound effects. There is also a high score table but no way to save it when the game is turned off.
+
+The game title music was covered by Desert Planet in their 2003 album Joystick Pop.

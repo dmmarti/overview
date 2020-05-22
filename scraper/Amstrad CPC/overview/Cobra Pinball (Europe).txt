@@ -1,0 +1,1 @@
+This is Cobra Soft's attempt at simulating a pinball machine on your CPC. From the moment the game loads up, you're presented with a very odd-looking display. Visually, the tiny table looks crude, dated and not at all entertaining.

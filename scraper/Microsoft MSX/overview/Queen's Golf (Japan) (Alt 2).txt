@@ -1,0 +1,3 @@
+Queen's Golf is a standard 18-hole golf game, played from a top-down perspective. The player can compete in stroke play or match play against a friend or the computer.
+
+The player can select a golf club type, the course of the ball, and the power to hit the ball.

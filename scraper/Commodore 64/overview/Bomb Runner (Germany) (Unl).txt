@@ -1,0 +1,1 @@
+Simplified clone of BombJack where the player must collect bombs scattered on the screen while avoiding obstacles and collecting bonuses.

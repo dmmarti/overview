@@ -1,0 +1,1 @@
+Subbuteo recreates the famous table football game, which makes for something very different from Sensible/Kick Off/FIFA style games. It's effectively a turn-based strategy game of sorts, as each player has 30 seconds to make their move (within a 30 minute

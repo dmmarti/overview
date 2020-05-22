@@ -1,0 +1,15 @@
+TT Racer is a motorcycle game motor cycle racing simulation.
+
+This game is all about racing bikes around grand prix circuits. There are twelve circuits to choose from and each can be tackled on a variety of class of bike and difficulty settings. Races can be a full season, in which case the game will take the player through all tracks in the correct order, or a single race in which case the player(s) select the track they want. Each race consists of up to 15 other bikes and as this is a simulation, pit stops for refuelling and tyre changing is catered for as well.
+
+Features 
+Twelve circuits : Jarama, Monza, Nürburgring, Salzburgring, Rijeka, Assen, Spa Francorchamps, Paul Ricard, Silverstone, Anderstorp, Misano, and Hockenheim
+Four classes of bike : 80cc, 125cc, 250cc and 500cc
+Four types of competition : Club, National, European, Grand Prix
+
+This sets the level of difficulty and the speed of the computer controlled riders.
+Seven race lengths : 1 lap, 3, 5, 10, 50 or 99 laps or the full GP distance
+Instruments can be enabled or disabled
+Gears can be automatic or manual
+The game documentation claims that it is possible to race against as many as seven friends 'with networking', though this may be platform dependent.
+Race against other players : on the Amstrad this is a one or two player game, on the Spectrum the game documentation claims that the player can race against up to seven friends on a network.

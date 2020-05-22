@@ -1,0 +1,1 @@
+Hypsys is a top down, scrolling shooter split into two parts. The first part involves you piloting a hovercraft with one weapon ? a gun turret located to the right of the craft ? while in the second part, you pilot a helicopter.

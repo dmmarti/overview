@@ -1,0 +1,1 @@
+The simplest games aren't always the best as far as I'm concerned. This game sees you controlling a spaceship and flying it around a maze, firing at enemy spaceships and watching out for laser beams that pop up randomly to block your path. Once you destroy all the enemies, you're faced with the same thing all over again.

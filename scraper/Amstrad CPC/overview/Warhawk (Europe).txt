@@ -1,0 +1,1 @@
+Warhawk is a vertical-scrolling shooter set in space (its authors were inspired by coin-op arcade game Star Force). The player pilots a laser-armed starfighter flying into an asteroid belt, fighting against enemy starbases and waves of fighters, avoiding mines and meteor showers depleting ship's shields, while hunting for precious power-ups.

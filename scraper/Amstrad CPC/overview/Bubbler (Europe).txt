@@ -1,0 +1,5 @@
+The wizard tyrant Vadra has enslaved the inhabitants of the ancient city of Irkon and made them into immobile blobs.
+To further strengthen his grip of the city, he has created giant bottles that spew magical bubbles that create mutant enemies that enforce his control. 
+His former assistant Kintor has given you the ability to move and created magical corks that can be used to close the bottles to lessen Vadra's grip. Your task is to cork the bottles and overthrow the evil wizard.
+
+The player controls a blob or bubble that can roll, jump, use chutes and elevators to move around a 3D system of platforms, towers and slopes. Enemies can be shot with mini bubbles, crabs spawn from generators and bubbles come from the bottles, five of which have to be corked on each level allowing the player to exit it. Since the player bubble has no features, a directional gauge is used to determine the facing of the bubble to show movement direction.

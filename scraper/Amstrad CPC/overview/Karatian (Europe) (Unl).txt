@@ -1,0 +1,1 @@
+Karatian is a beat-'em-up that combines elements of three CPC games ? IK+, Barbarian and Beyond the Ice Palace. It features Beyond the Ice Palace's loading screen, music and scrolling introduction, two different backdrops from Barbarian and gameplay and sprites from IK+.

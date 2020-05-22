@@ -1,0 +1,5 @@
+Classic Invaders is a variant of Space Invaders: accelerated and in colour. 
+
+The game elements and goals are the same as in the original: a lone laser cannon must fend off hordes of alien invaders, who move rhythmically towards the bottom of the screen. As the game progresses, the invading hordes become faster and more aggressive.
+
+The best scores are stored in the "Killer Kings" high score table.

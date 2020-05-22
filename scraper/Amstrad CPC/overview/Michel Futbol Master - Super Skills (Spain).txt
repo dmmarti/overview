@@ -1,0 +1,5 @@
+In 1989 arrived at our screens a game of the world of soccer: Michel Futbol Master + Super Skills, carried out by the ex-player of Real Madrid, Michel. As habitual on Dinamic games, this game consists of two loads clearly differentiated:
+
+-Load 1: Super Skills (tests), This load has the objective to initiate you  on the game play, it consists of 5 tests, starting with cones dribbling, ball control (you must obtain that the ball will not touch the ground with a frontal viewing), passing (you must assist your companion to score), shooting (the inverse of the previous) and penalty shoot out (with frontal view again, you must calculate your shoot). 
+
+-Load 2: Michel Futbol Master (Championship), in this load we will play the 88's EuroCup celebrated in Germany, and we will be able to choose between 8 European teams: Italy, Denmark, Germany, Spain, URSS, Holland, England and Ireland. The simulator has cenital view, in game you can calculate the shot's power and height, and also, the simulator allows you to see and listen (with digital sound) the real names of all players.

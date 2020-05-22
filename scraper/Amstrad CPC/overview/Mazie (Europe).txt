@@ -1,0 +1,1 @@
+This Breakout clone was actually written by the same guy who wrote Masters of Space and Star Driver for the Radical software house several years later. It is different from other games like it; there are 36 levels arranged in a 9×4 grid, and at the start of each game, you can choose which direction you want to go along the grid

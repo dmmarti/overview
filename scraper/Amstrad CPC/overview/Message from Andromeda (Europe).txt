@@ -1,0 +1,4 @@
+You are the captain of the space patrol cruiser Galaxy. While on routine patrol, you receive a distress signal originating from a previously unknown planet. Your mission is to investigate the source of the signal.
+A word of warning though; your mission is fraught with danger and things may not be all they seem. Be prepared for the unexpected.
+
+Message from Andromeda is a graphical text adventure game. Players assume the role of the adventurer who responds to the distress call.

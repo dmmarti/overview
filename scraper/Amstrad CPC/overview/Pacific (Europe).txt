@@ -1,0 +1,4 @@
+As a diver you explore the calm waters of the Pacific in a search of hidden treasures. Starting at the waves you dive deeper and deeper to the reefs, which form a labyrinth and block your way. During the diving you should move left/right, swim up or passively fall down on the screen until you reach its boundary, when you progress from one screen to another.
+Underwater inhabitants such as crabs or skates are harmful to your diving-suit so you have to shoot them with your pistol. You also have to push the dynamite to the seabed, find the doors, follow the passages, and collect the treasures. Encountering the depth sensors in the reefs you may check your position on the map. Your oxygen supply is exhausting during a diving so you have to top it up regularly.
+
+Game may be played in turns by 1 or 2 players of the same or different sex.

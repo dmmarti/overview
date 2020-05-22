@@ -1,0 +1,1 @@
+The 2D Adventures of Rotating Octopus Character is a twitchy, fast paced platform game which you control with just two buttons. Rotating Octopus Character can’t stop spinning, and he sticks to everything, but he can change direction, and he can jump.

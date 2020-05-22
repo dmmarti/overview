@@ -1,0 +1,1 @@
+Blue Star is a game for the unexpanded VIC-20 in a similar vein to other open-ended platform games like Metroid, the newer Castlevania games or Cave Story. Infiltrate the alien base and take out the CPU! Find equipment along the way to add to your abilities; a jet pack to let you double jump, a rocket launcher to let you launch rockets, and more.

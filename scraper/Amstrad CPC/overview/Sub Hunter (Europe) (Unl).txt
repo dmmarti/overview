@@ -1,0 +1,3 @@
+A government experiment has gone horribly wrong and, now, fish have mutated. You must save swimmers trapped by the mutant fish and avoid agent subs that will do anything to keep this under wraps.
+
+Sub Hunter is a side-scrolling shooter. You stay on one screen while enemies scroll from left to right. Use your torpedoes to shoot enemy fish and subs. You can move anywhere on the screen you like but if you are to the left, the enemies come at you sooner. Be aware, however, that you slowly sink unless you push up so watch that you don't bump an enemy from below.

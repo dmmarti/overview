@@ -1,0 +1,3 @@
+To save planet Nonterraqueous from a malfunctioning evil computer, its people have built a robot to attack the super-computer. Cunningly, it was designed with such tortured feelings that it can only be happy in successful death, so you must take it to the computer to blow itself up.
+
+The game is a succession of 256 platform-based screens, each of which has many obstacles and hazards. There are 5 levels of jump intensity, and the correct one must be used to clear each hazard and reach the next jump. The maze is split into 3 sections, with the computer in the last of these, and these can only be reached via a teleport.

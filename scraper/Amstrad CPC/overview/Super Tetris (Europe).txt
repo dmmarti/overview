@@ -1,0 +1,1 @@
+Super Tetris is a Tetris variant. It contains additional features such as different types of gameplay (two player cooperative and competitive) as well as new block types (lightning bolts that eliminate an entire row, and bombs that eliminate from 2 to 16 blocks).  The Moscow Circus in shown in the background.

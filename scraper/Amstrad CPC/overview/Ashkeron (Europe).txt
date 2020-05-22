@@ -1,0 +1,5 @@
+Ashkeron! is a graphic adventure where your goal is to recover the five treasures that were stolen by an evil wizard before the local princess is crowned. The quest has to be completed within a time limit. 
+
+The presentation is mixed in nature, offering text passages accompanied by graphical representations on the top half of the screen. The scenes represent encounter locations as they happen, with no interaction. The parser is simple, and you can input commands to explore and investigate your surroundings while encounters with NPCs are basically dialog sequences, providing hints on your quest.
+
+All in all, a straight forward graphic adventure with a very specific goal and linear progress.

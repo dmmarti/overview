@@ -1,0 +1,5 @@
+High Noon is a simple text-only Western gunfight duel simulation and was originally created as a BASIC game as early as 1970.
+
+You have been challenged to a showdown by Black Bart, one of the meanest desperadoes west of the Allegheny mountains. 
+
+The game starts with both of you 100 paces apart; you and Bart both have four shells in their gun. In each turn, you can either advance (thereby increasing hit chances for both), fire, jump behind a trough, run or give up.

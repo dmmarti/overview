@@ -1,0 +1,3 @@
+In The Sentinel, the player takes the role of a Synthoid , a telepathic robot who has to take control of a number of surreal, checkered landscapes of hills and valleys, by climbing from the lowest spot, where the hunt begins, to the highest platform, over which the Sentinel looms.
+
+The Synthoid itself cannot move across the level; instead it can look around, accumulate energy by absorbing the objects that are scattered across the landscape, create stacks of boulders, generate inert Synthoid shells and transfer its consciousness from one of these clones to another.

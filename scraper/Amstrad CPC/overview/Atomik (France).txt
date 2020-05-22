@@ -1,0 +1,1 @@
+An extremely ugly-looking Breakout clone ? so ugly that one can be forgiven for thinking that it's written in BASIC. It isn't, by the way; if it was a BASIC listing in a magazine, it would be reasonably good, but as a full-blown commercial game, it is appallingly bad.

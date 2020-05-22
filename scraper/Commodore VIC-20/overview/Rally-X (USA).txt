@@ -1,0 +1,3 @@
+Rally-X is a maze & driving arcade game, that was released by Namco in 1980 and licensed to Midway Games for US manufacture and distribution in 1981. 
+ 
+It was ported to the SG-1000 in Taiwan.

@@ -1,0 +1,5 @@
+As rebel forces close in on the space station Gallion, you launch strikes against enemy-controlled planets in the most sophisticated techno-toy available to mankind, the space fighter Thunder Cloud II. 
+
+The game is a blend of action sequences in an Afterburner-esque pseudo-3D view. These sequences vary between ground combat, aerial combat and space combat, with different motion physics and enemy craft. There is also a strategic battle choices on a galactic map invaded in real-time.
+
+The PC version uses speaker tweaks to recreate the game's tune on theoretically-inferior hardware.

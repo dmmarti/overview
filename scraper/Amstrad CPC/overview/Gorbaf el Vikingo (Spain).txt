@@ -1,0 +1,1 @@
+This is a fun, if a little simple, game where you progress from screen to screen solving the puzzles presented on each one. You move in four directions collecting artefacts to increase your score. Certain paths are blocked by all-seeing eyes which lead to death if touched. Finding the correct switch will remove them, often leading to a bonus such as an extra life.

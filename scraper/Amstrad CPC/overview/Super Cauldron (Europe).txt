@@ -1,0 +1,3 @@
+Cauldron and Cauldron II were successful in the 8-bit days, and this moved the series forward. You play a witch (although the character looks decidedly masculine, for no apparent reason), and have to negotiate four worlds, each split into bite-size chunks. 
+
+The levels are populated with bats, trolls and snakes, which have programmed attack patterns and follow you off the screen. You can collect and cast up to 12 spells, which are accessed using the cursor or function keys (the manual amusingly refers to Amigas having F11 and F12 keys, which they don't). These include upgraded weapons (the default one isn't especially powerful), and help such as magic staircases and a metal melter. Some sections of water kill you, other identical ones take you to different sections.

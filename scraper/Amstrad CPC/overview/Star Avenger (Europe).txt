@@ -1,0 +1,1 @@
+Remember Scramble? That game where you pilot a spaceship through caverns collecting fuel and dropping bombs, etc.? Well, this is an early attempt at bringing the game to the CPC.

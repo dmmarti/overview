@@ -1,0 +1,3 @@
+Special agent Sam Short is tasked with going around the world defusing bomb detonators planted by  his archenemy Boris.
+
+Bombscare is a pretty straightforward fixed-screen platform fare. Sam jumps around platforms chasing the detonators with 9 seconds to collect each and every one. Once a detonator is defused, the timer resets to 9 seconds. If the timer reaches 0, a life is lost. When all detonators have been defused, the level is cleared and play proceeds to the next one.

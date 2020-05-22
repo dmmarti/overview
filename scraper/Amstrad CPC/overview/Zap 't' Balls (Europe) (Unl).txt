@@ -1,0 +1,3 @@
+Zap't'Balls is most notable for its technical novelties. Amstrad experts would think it was running on a Plus, as what appear to be hardware sprites are moving smoothly at full speed. However, this was accomplished on a stock CPC by forming a stack within video RAM itself, a technique achieved by disabling interrupts.
+
+The game itself is similar to Pang. One or two players have 80 screens of balls to clear, by firing a rope vertically such that a ball will hit it. Upon doing this it splits into two balls of half the size, unless it is at the smallest size, when it will disappear. Each screen must be cleared within a time limit. Contact with a ball costs the player a life.

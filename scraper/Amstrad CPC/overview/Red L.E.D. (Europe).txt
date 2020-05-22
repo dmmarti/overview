@@ -1,0 +1,1 @@
+Three ZMX battle-droids must explore dozens of isometric landscapes which are arranged on a grid in the form of a hexagon. Your aim is to create a link from the left side of the hexagon to the right, by collecting all of the energy pods on certain landscapes.

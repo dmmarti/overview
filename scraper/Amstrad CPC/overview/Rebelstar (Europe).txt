@@ -1,0 +1,5 @@
+A turn-based, tactical squad combat game for one or two players, from the creator of the later X-COM series.
+
+Moonbase Delta may look like an unassuming mining colony, but in fact, it is the secret location of the ISAAC super-computer, used by the Empire to break the Rebels' secret codes. The Rebelstar Raiders' mission is to break in, get past the patrolling robot guards and destroy the computer. It won't be easy.
+
+Your Raiders each have a specific number of action points per move, which can be allocated to movement, firing and object manipulation. Keys, medical kits and repair droids are among the available objects. Shots can be precise, point-blank (less points used, but less prospect of success), wide-range, or opportunist.

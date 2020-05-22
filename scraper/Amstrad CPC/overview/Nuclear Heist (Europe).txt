@@ -1,0 +1,5 @@
+Nuclear Heist is a single player shoot-'em up game.
+
+Mankind has abandoned the surface of his polluted planet and now lives beneath the surface in great underground cities. These cities depend upon nuclear power plants. Unfortunately for mankind an alien race, the Taroid, want our uranium.
+
+The player takes the role of a helicopter pilot equipped with hyperdrive. It is the player's responsibility to defend earth from the invading aliens in a battle where losing means the end of mankind. Thus starts a single player, side scrolling shooting game in which the player must destroy alien ships and avoid being shot in return. Once sufficient aliens have been destroyed the player must fly their helicopter through hyperspace to the next level. There are seven levels in all and the player has three helicopters with which to complete them.

@@ -1,0 +1,10 @@
+Action game in which you change to different areas at set time intervals. Each area has a default character with different capabilities. After your time in an area is over you switch to the next area automatically. After cycling through all four areas you start again with the first one. The goal of the game is to get through all stages to the end.
+
+The characters and abilities are (in order);
+Ape, can jump forwards and hit objects (like stones statues) and enemies
+Miner, can jump high straight upwards, and shoot
+Gargoyle, can fly for short distances and shoot 
+Pilot, can jump and will come down slowly with a parachute, and can shoot
+When you're in one of the four areas, you can change to a different character while staying in the same area. This gives you the ability to get around certain challenges. An example is a stone cross in the Gargoyle area of the game which can only be destroyed by the ape.
+
+Switching between characters is done with the keys 1 through 4, and you can see how many lives each character has left in the four corners of the screen. Getting hit or being touched by enemies will drain the life of the character, and the picture in the corner of the screen will change into a skull, once it has changed completely into a skull you lose a life. Losing a character will not result in a game over, but may limit your abilities to progress in the game.

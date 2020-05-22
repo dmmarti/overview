@@ -1,0 +1,5 @@
+This is based on the Hanna-Barbera cartoon and was one of a number of Hanna-Barbera licensed games released by Hi-Tec Software.
+
+Players take control of Atom Ant who must save the city from destruction.  The mayor of the city has received a ransom from ?Mad Dog? Jackson and he has threatened to blow up the city if the ransom isn?t paid.  He has set up numerous bombs over some the city?s buildings and you must fly around the building to collect the bombs and de-fuse them with the atomiser, which is located at the top of the building.  You can only collect one bomb at a time, so once you have de-fused a bomb you can collect another.  
+
+Each building has eight bombs planted and you have four minutes to clear each building.  The buildings also have a set of enemies, such as wasps and helicopters, that need avoided.  Contact with these enemies costs you one life and loss of all your lives ends your game.  Failure to de-fuse all the bombs in the level within the time limit ends the game regardless of how many lives you have left.  Certain bonuses to increase time and earn an extra life can also be collected.

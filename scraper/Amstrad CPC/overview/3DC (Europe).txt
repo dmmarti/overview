@@ -1,0 +1,3 @@
+3DC is an isometric action adventure where the player is stranded on the bottom of the ocean with the objective of finding parts of a submarine, then constructing it in order to escape.
+
+Oxygen is of limited supply and various objects are strewn about to be used to solve the various puzzles. Eric the eel can be called to your aid and controlled to be able to fit into crevices too small for the diver's bulk, but watch out for the octopuses who will steal your oxygen tanks.

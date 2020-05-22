@@ -1,0 +1,3 @@
+Pigseye Peers is a newly-qualified surgeon sent to join the mobile military hospital unit in Korea - the Strangest Mobile Army Surgical Hospital East of Detroit, or S*M*A*S*H*E*D for short. Thus, the game is a clear spoof of the very popular TV series, M*A*S*H*. It is an adventure using text inputs with occasional graphics.
+
+Your job is to get a still back, but you have no idea where it is nor how to get it - the supplied instructions offer little more than a command list. Usually, you will get a description of the room, as well as a listing of items, vehicles, and possible exits. To go in another direction, all you need to do is just enter the first letter of the direction that you want to go (eg: N for north).

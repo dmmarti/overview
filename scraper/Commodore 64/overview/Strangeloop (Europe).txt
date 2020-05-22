@@ -1,0 +1,8 @@
+Strange Loop is a arcade adventure game with 240 different rooms and each room is filled with a dangerous swarf.
+
+You, in a space suit and with a laser gun, have to regain control of a factory located in Outer Space. The factory, where robots are produced, has been taken over by aliens and they are reprogramming the robots to take over planet Earth.
+To take over control of the factory you have to reach the central Control Room but to get there you have to overcome many obstacles and collect several objects.
+These objects can be used to perform several tasks of which some must be done before you take over the computer by stopping it.
+Fuel and patches for your suit can be picked up and retrieve items such as rings and spanners, which are given out by robots or just left around on the floor.
+
+Strange Loop has an option to save and load the current game status.

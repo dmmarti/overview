@@ -1,0 +1,6 @@
+Life in the chip factory is tough, Ted Blewitt needs a holiday vacation in Spain.
+
+In this pixel-perfect platform Jet Set Willy lookalike, the objective is to find Ted's camera with a 36 picture exposure film. Then take it to Spain and use it to take some snapshots before developing the film at the chemist. Ted can hold up to 8 objects at a time, some objects will help, whilst others may hinder. Some characters you meet along the way will assist, while some are hostile.
+The game starts in July 1985 and the leave from the chip factory ends on August 10th, the correct photos have to be developed by that time.
+
+Losing a life will reduce an energy bar, once it's depleted it's game over.

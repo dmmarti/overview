@@ -1,0 +1,1 @@
+You are a hungry snake and set out to eat apples which appear on the screen. After each devoured apple your snake grows longer. Having eaten ten apples a door to the next level appears. The difficulty of the game lies within the fact that you are not to touch any obstacles within the levels or any part of your ever growing body.

@@ -1,0 +1,5 @@
+Skateboard Joust takes place in the far future where skateboarding has become the main sport.
+
+The player controls a human shooting about on his skateboard. The objective is to dispose of your enemies on the stage, or chamber filled by various obstacles by sending your skateboard flying at them. Once all enemies have been disposed of and there are two waves of two enemies in each chamber, you are teleported to the next chamber.
+
+There are special coins to be collected that give you powers like stunning all the enemies or a score bonus.

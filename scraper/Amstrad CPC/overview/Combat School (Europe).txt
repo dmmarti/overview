@@ -1,0 +1,3 @@
+The control panel consists of a trackball and two buttons with different functions depending on the event. The game can be played against a CPU-controlled opponent or a second player. Player 1 takes control of Nick, a brown-haired recruit in an orange shirt, while Player 2 is Joe, a blond-haired recruit in a blue shirt. The game system is similar to Konami's Track & Field series.
+
+The game is composed of seven training events whom the player must complete. Upon a near-success failure to complete an event(failing too severely results in game over), the player must do a set number of chin ups as punishment(this chance is given only once) in order to continue into the succeeding events, or it's game over.

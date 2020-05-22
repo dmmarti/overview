@@ -1,0 +1,1 @@
+This game is written in BASIC and looks like it's been ported from a Spectrum version (although it wasn't actually released for that machine). It's got a great title for a game but sadly there's not much going for it. It's a karate-style beat-'em-up that lacks some decent sprites and graphics, or any proper playability.

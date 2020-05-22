@@ -1,0 +1,1 @@
+This is a clone of the classic arcade game Pengo, in which a penguin pushes blocks of ice to kill the enemies, while trying to push parts of a diamond together. As well as throwing ice at the Sno-Bees (the enemies), you can also shake the boundary wall to stun them.

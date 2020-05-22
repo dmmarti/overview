@@ -1,0 +1,12 @@
+Taking its title from the English word "adventure" and the squeak of a mouse; "chu", Adven'chuta is an old school adventure game, not far from Atari's old Adventure.
+
+As a mouse, you must get around a dungeon populated by dangerous frogs and spiders. There are jars which may contain both treasures and danger, and which block the way. You have an inventory, but it can only contain one item at any time. Take care in what you pick up and leave behind. Juggling the inventory becomes a basic skill since items will block the narrow passages of the dungeon. Basic items are keys, for opening the door to the next dungeon, as well as cheese, which is good for the adventuring mouse's stamina. The dungeon must be completed within a set time or it's game over.
+
+Control the mouse with the cursor keys, and use the following keys to issue commands:
+
+B: Crush jar
+T: Take item
+O: Open door
+P: Leave item behind
+E: Eat cheese
+K: Kick frog

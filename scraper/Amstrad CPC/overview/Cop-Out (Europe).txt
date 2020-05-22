@@ -1,0 +1,3 @@
+Cop-Out is a crosshair shooting game. The player controls a prohibition-era policeman who must shoot his way through 10 levels of criminals, jeeps and bi-planes, as well as birds and bottles. If the player survives long enough they will advance to the next level.
+
+The player can walk left and right at the bottom of the screen, while at the same time moving a crosshair to shoot at the targets. When shooting, the bullets take a while to get to the crosshair point so the player must shoot a little ahead of the targets. Walking is necessary to avoid the bullets and molotov cocktails that the enemies shoot or throw down the screen.

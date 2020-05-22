@@ -1,0 +1,1 @@
+In Merlin, you are tasked with collecting all the sacred objects that have been scattered among various screens. Each screen is essentially a small, maze-like layout that contains a few of these items.

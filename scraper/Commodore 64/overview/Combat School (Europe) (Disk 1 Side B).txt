@@ -1,0 +1,9 @@
+The game is composed of seven training events whom the player must complete. Upon failure to complete an event, the player must do a set number of chin ups as punishment in order to continue into the succeeding events, or it's game over. The events are as followed:
+
+1.Obstacle Course ? Set in a side-scrolling segment, the player must reach the end of the stage under the alloted time before his opponent while climbing walls and clearing bars.
+2.Shooting Range No. 1 ? The player must shoot as many targets as possible under the allotted time. If played against a second player, then the one who shoots the most targets win.
+3.Iron Man Race ? Similar to the obstacle course, but set in a top view angle. The player must reach the goal while avoiding mines and other obstacles. Eventually the player must cross a lake by rowing a boat
+4.Shooting Range No. 2 ? Same as the first one, but now with moving targets.
+5.Arm Wrestling ? The two recruits are pitted against each other in a match of strength and stamina.
+6.Shooting Range No. 3 ? The third and final shooting range stage features penalty targets.
+7.Fighting ? The player faces against his instructor in hand-to-hand combat in the final event. If played with a second player, then the two players must fight each other.

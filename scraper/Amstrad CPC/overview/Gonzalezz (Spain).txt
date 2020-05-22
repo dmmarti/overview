@@ -1,0 +1,5 @@
+Gonzzalezz is a side-scrolling platform game from Spain. The main protagonist is a Mexican stereotype (complete with sombrero and huge mustache), that has an obsession with the traditional siesta. The game is divided in two loads:
+
+? In the first one, Gonzalez must escape his own nightmare. He moves by executing precise jumps in one big level divided in seven sections, a surreal landscape littered with dangerous objects like flying vacuum-cleaners, disembodied hands, etc. The Q key is the jump button, while the O and P move him left and right respectively.
+
+ ? In the second load, Gonzalez must find his hammock while avoiding the dangers of a stereotypical Mexican landscape (Indian tribes, wild animals, etc). Weapons and ammunition are scattered in one large level divided in sections. He can collect or drop these by crouching with the A key and can use them with the SPACE bar.

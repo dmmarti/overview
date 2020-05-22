@@ -1,0 +1,1 @@
+This is a Galaxian clone, with the usual storyline of "Aliens have invaded Earth and you are the only hope for humanity."

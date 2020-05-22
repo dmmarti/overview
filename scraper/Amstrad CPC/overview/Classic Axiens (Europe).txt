@@ -1,0 +1,1 @@
+Space Invaders takes a slight twist, as rather than staying in formation, the aliens can now swoop down on you, making life that bit more difficult. Unfortunately, several of them have a go at the same time, leaving you with little room to manoeuvre out of a hail of bullets.

@@ -1,0 +1,1 @@
+Zaxx is a clone of the isometric scrolling shoot-'em-up Zaxxon. Your spaceship flies over enemy terrain blasting defences, installations and alien craft. You also have to navigate your way through barriers, which is where your height above ground comes into play.

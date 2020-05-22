@@ -1,0 +1,5 @@
+Hunter Killer is a submarine simulation game set in the North Sea off the German / Danish Helegoland coast during the Second World War. You are the commander of a British 'S' type submarine on a mission to find an enemy submarine in the area and sink it. The coast is heavily mined, so sailing in too close, may result in hitting a mine or running aground. Going outside the area will expose you to destroyers that are hunting for you. Aircraft patrol the area, so staying on the surface can be fatal.
+
+The game has three views, Control Room, Periscope and Chart Room. In the control room the player operates the submarine's engines and ballast, the periscope is used to find enemy vessels and the chart room to navigate. Once an the enemy sub is in range and dead ahead, it is time to launch a torpedo for the kill.
+
+The game has five levels of difficulty. Once the enemy sub has been dispatched, the game moves to the next target. If you are sunk, it is game over.

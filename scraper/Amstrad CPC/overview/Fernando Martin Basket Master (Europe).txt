@@ -1,0 +1,5 @@
+"Basket Master" is a one-on-one basketball game from premier Spanish developer Dinamic Soft, dedicated to NBA player Fernando MartÃ­n, the first Spanish (and first European non-student in a US university) to play in the NBA, who tragically died 3 years later in a traffic accident at the age of 28. 
+
+The focus is on pure, unadulterated action here: just choose one- or two-player game, and presto-- you'll be out on a CGA court trying to score. Although difficulty level can be toggled ("amateur" or "NBA").
+
+Basket Master was originally for 8 bits computers, platforms for which appeared December of 1986 after several delays.

@@ -1,0 +1,1 @@
+A simple shoot-'em-up in which you control a submarine and must fire missiles at planes, helicopters, boats and other submarines. The submarine can only shoot upwards, though, and while you're trying to aim your missiles correctly, the enemy craft are firing ammunition of their own at you.

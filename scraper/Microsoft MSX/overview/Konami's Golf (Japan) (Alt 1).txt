@@ -1,0 +1,3 @@
+Konami's Golf features a challenging 18 hole course and allows you to choose your club, adjust your stance and control your swing, applying hook and slice if desired (or inadvertently added). Wind and ball lie must be taken into account. 
+
+The game features a split screen with two views, one an overhead view of the entire hole, and the other a 3-D view from your balls current location. The gameplay options include 1 player stroke play, 2 player stroke play, or 2 player match play.

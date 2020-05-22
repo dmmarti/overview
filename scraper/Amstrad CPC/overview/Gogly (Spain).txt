@@ -1,0 +1,1 @@
+A strange creature called Gogly needs to collect keys in order to unlock doors. This moves him to the next screen. Each screen becomes more maze-like, while bouncing projectiles aim to hinder your progress.

@@ -1,0 +1,7 @@
+The Hermitage is a single player text adventure with graphics.
+
+The player takes the role of Ambrose, a monk in the middle ages, who's peaceful and tranquil existence is shattered when the archbishop orders you to go forth and kill a hermit who is believed to be a reincarnation of the devil. With a head full of misgivings you start out on your quest when, for no apparent reason, a great pain explodes inside your head and screaming you fall to your knees and lose consciousness.
+
+The game starts later that night when you awake on the roadside a short distance from the monastery, it's very quiet and you know that something is very, very wrong. In the course of your journey you will save souls, encounter scenarios that some reviews describe as being quite gory while battling vampires, demons and ghosts. 
+
+This game was developed using Professional Adventure Writer. It supports the standard shortcuts such as N/S/E/W for North/South/East/West, I for Inventory and R for REDESCRIBE. There are multiple versions of this game for the Spectrum, some have a full backstory while others do not, the different versions also have differences in vocabulary with some allowing X for EXAMINE while others do not.

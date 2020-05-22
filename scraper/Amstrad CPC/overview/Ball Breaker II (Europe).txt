@@ -1,0 +1,3 @@
+Ball Breaker II is a Breakout variant. This means the player controls a paddle, fixed on the right side of the screen and only able to move vertically, which is used to bounce a ball into the playfield or keeping it from falling out of the screen, respectively. On said playfield there are a number of blocks which vaporize when hit by the ball. The goal is to clear out all blocks.
+
+The speciality of this variant is the use of an isometric perspective. While the ball and paddle itself do not leave the lower plane, the blocks are stacked up. The higher blocks fall down when the blocks below then are gone. The only significant difference to the predecessor are 30 new levels.

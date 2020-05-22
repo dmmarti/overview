@@ -1,0 +1,1 @@
+A French game where you play the role of an underwater diver armed with a spear gun. Your objective is to score points by killing seven different waves of underwater species (seahorses, clams, piranhas, sharks, stingrays, swordfish and turtles). Each wave has different score values; the first wave is worth ten points each, the next wave twenty points, and so on.

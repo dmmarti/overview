@@ -1,0 +1,7 @@
+International Karate is a simple one on one beat 'em up. The characters are shown from the side, the aim is to beat your opponent using the different karate moves.
+Depending on the move, the player will get a full or half-point. You need two full points to beat your opponent, or at least have more points when time runs out.
+
+On your journey you'll visit 8 different places spread all over the world, like Sydney, Egypt or New York.
+At the end of each stage you'll get to play little bonus games.
+
+While beating enemies the player will increase in belts, starting from the white belt.

@@ -1,0 +1,15 @@
+TUJAD is a Sci-Fi collecting, platform, shooting game with elements of the Cyberpunk genre.
+
+The story starts in the year of 2093, when a major fault occurs on a geostationary reactor named UCF Nº 14C, endangering it of being destroyed in approximately 800 Intergalactic Boson Measures.
+
+TUJAD (Josephson Junction Supercomputer), the Supercomputer which was controlling the reactor, developed a fault in its Emotion Damper Systems (EDS) which were meant for defensive purposes, making them unable to distinguish defending droids from attacking aliens. 
+
+As consequence, the EDS recognition system now considers every moving object to be an hostility and triggers defensive mechanisms against them. The first of the direct consequences resulting from this disaster was a radiation leak inside the reactor accelerating the need for a special intervention.
+
+This urgency demanded for military extreme measures, and so the Combat Droid Development unit was contacted to answer for this type of emergency. 
+
+Gen 19, an untested droid prototype developed by the same military entity, gathers all the requirements needed to succeed on this difficult mission ahead. 
+
+Playing as the combat droid, the player has to gather all the necessary pieces of a new EDS and insert it at the main processor. He carries distinct weapons for distinct hostilities, namely Cyberfreeze discs, Remote Controlled Autodrones and Deuteron Grenades. Their respective ammunition is limited except for the 23MW blast laser which has infinite laser charges. His energy is constantly diminishing even without having hostile contact, although blocks of massive energy can be punctually found during the gameplay. Additional supplies of ammunition can also be found scattered inside the maze.
+
+Gen 19 uses a levitation device allowing him to move by air and ground. He also can travel through teleporting portals.

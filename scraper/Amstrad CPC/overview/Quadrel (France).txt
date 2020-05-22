@@ -1,0 +1,5 @@
+Quadrel is a puzzle game in which you must fill each piece of the selected layout with different colored paints, without painting two adjacent pieces the same color.
+
+At the beginning of a game, you can select the desired image or layout, as well as whether you wish to play with unlimited time or not. You can also select the "Imposed" game mode, in which the game points which piece you must fill next. Each layout has a set amount of paint available for use, in four different colors: red, green, blue and yellow. The amount of brush stokes left for each color is indicated on your palette. Some layouts have a large amount of a particular color and a very small amount of another, while other layouts have a more even amount of each color. The goal is to plan well from the start, so as to avoid running out of a particular color that will be needed to finish the layout.
+
+The game can be played in solitaire mode, against the computer, or against another human player on the same screen. There are no sound effects during gameplay, only music. If you manage to finish a layout, you can enter your name in a high score table.

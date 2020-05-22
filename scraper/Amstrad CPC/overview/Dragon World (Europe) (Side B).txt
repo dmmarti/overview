@@ -1,0 +1,1 @@
+Dragon World is a 2D puzzle game, based on Mahjong, but with slightly different rules. When you select a given tile, it moves down the a rack on the bottom of the screen; three matching tiles are removed. The game ends if you fill up the rack. After completing a level, a picture of a girl is shown as a reward.

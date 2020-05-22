@@ -1,0 +1,1 @@
+You control a skimmer which you use to collide atoms and molecules together so they annihilate each other, but if you run out of time, the atoms will reach critical mass and you'll lose a life. Also, if two atoms of different colours come together, a new atom will be produced.

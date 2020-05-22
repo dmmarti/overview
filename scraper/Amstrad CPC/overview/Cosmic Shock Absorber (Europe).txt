@@ -1,0 +1,11 @@
+It's a bit of a novelty to find a shoot-em-up where you not only have to blast away at lots of aliens but repair your equipment along the way as well This gives you two distinct game sections: a 3D shoot-em-up and a race-against-the-clock-puzzle replacing pieces on a circuit board.
+
+The 3D blasting puts you up against wave after wave of alien craft of different shapes and sizes You start off with just circles flying at you, followed by tie fighters (remember Star Wars?), flying birds (reminiscent of Starglider) and spinning flying saucers They don't vary much in their behaviour, just flying straight at you.
+
+You can move your ship around to try to centre the aliens. But there aren't any sights, and being accurate with the sporadic laser fire isn't easy This means you just wander around screen, blasting away and hitting aliens fairly randomly. All the time your laser energy and shield power will be falling under the pressure of the attack.
+
+You have to destroy a set number of ships on each wave to move onto the next. The number increases for each succesive wave.
+
+While all this blasting mayhem is going on you may notice an icon flashing to indicate a part of the ship has failed You have to access a repair screen where there's a circuit diagram. You're given five seconds to study it and then one or more of the components is removed. You have to replace it with the right colour-coded component within a time limit. If you fail, the game ends.
+
+Apart from the repairing I found the whole thing rather bonng, not helped by a bug which made terminal crashes quite frequent. The zapping seems to require little skill, although the graphics have been nicely programmed Looks to have suffered badly in conversion.

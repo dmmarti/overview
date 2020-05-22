@@ -1,0 +1,1 @@
+This game is a version of the Sega classic Columns with a distinctly Egyptian theme. Columns of three blocks, each engraved with a symbol, fall from the top of the screen, and you must create horizontal, vertical or diagonal lines of three or more matching symbols.

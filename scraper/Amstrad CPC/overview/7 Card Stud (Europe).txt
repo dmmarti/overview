@@ -1,0 +1,8 @@
+This poker game is played, as the name suggests, with seven cards visible. It is a variant of 5 Card Stud Poker, which is only played with 5 cards. However, at 7 Card Stud Poker, the cards are dealt progressively by the dealer, to raise the stakes. A game of 7 Card Stud Poker takes place as follows:
+
+First, the dealer deals two face-down cards and one face-up card to each player. The player with the highest face-up card chooses the bet and places it first.
+
+Then the other players have several possibilities. As always in poker, it is a matter of getting an idea of the game of others according to their insurance and the height of the bets they have placed. Players can take turns to:
+- call (i.e. place the same bet on the table)
+- give up (leave the game)
+- raise (place a higher bet on the table than that placed by the previous player).

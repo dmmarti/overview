@@ -1,0 +1,6 @@
+Mystery text adventure in which you play a disillusioned circus goer who decides to help find the owner's kidnapped daughter.
+
+"Standard" difficulty level.
+
+Original C=64 Grey Box Contents:
+The Traveling Circus That Time Forgot Inc. Official Souvenir Program, Circus Ticket (Sec.24 Row AA Seat 4), Purple Circus Balloon, Advertising Card for Dr. Nostrum's Wondrous Curative.
