@@ -1,0 +1,1 @@
+This is a game for two players. The winner is the person who scores most points. There are eight different colours of balls on the table and their points are assigned as follows: Red-1, Yellow-2, Green-3, Brown-4, Blue-5, Pink-6, Black-7 and the white cue ball.

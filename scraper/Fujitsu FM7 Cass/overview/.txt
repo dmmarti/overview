@@ -1,6 +1,0 @@
-<provider>
-<System>FM-7</System>
-<software>Skraper</software>
-<database>ScreenScraper.fr</database>
-<web>http://www.screenscraper.fr</web>
-</provider>
