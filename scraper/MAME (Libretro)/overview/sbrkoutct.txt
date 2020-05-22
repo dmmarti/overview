@@ -1,0 +1,1 @@
+ Super Breakout allows the player(s) to select any one of 3 different action-packed Super Breakout games by turning the game select knob on the control panel to the desired game. The 3 available Super Breakout modes are the following :[-LF-]* Double Breako

@@ -1,0 +1,1 @@
+ Barrier is a maze arcade game using vector graphics released by Vectorbeam in 1979. In this very basic game, players move a small triangle around on the grid, while attempting to avoid the diamonds that are also moving around on the grid. Reaching the end

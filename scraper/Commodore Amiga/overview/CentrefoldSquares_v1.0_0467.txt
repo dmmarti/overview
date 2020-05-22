@@ -1,0 +1,1 @@
+An adult puzzle game. Players compete against the computer with the goal of occupying the squares covering a digitized picture of a centerfold. When you acquire a square, it disappears, revealing more of the picture. Includes a large variety of pictures, with numerous difficulty levels.

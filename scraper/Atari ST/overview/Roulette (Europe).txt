@@ -1,0 +1,1 @@
+Roulette is a one player roulette game written in Laser C. You start with a bank roll of $10K and you have five different markers to place bets with: $1,$5, $25, $100 and $500. There is no goal or high score and when you run out of money, there is no way to continue so you have to restart the computer. 

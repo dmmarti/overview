@@ -1,0 +1,1 @@
+You are performing Skeet shooting in the Alps. Ten clay disk-shaped pigeons are flying from bottom to the top in different angular directions one after another. When clay disk starts to fly, the aim of your shotgun is in bottom position. You should mark the flying clay disk with the aim and shoot it. Shoot as much clay disks as you can.

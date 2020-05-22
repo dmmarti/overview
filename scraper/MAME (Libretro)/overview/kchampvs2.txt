@@ -1,0 +1,1 @@
+ Single players compete against a computer opponent while two players fight each other in this Karate game. Players each use two joysticks which allow for a variety of different moves. The best two matches, out of three, wins.

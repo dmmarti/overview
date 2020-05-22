@@ -1,0 +1,1 @@
+Lions of the Universe is a side-scrolling shoot 'em up set in space, with a feel resembling Armalyte in many ways. Players battle through a mazey territory, collecting tokens (which are left in the open, rather than collected form shot enemies) to improve weaponry. Enemies come towards you in waves and individually.

@@ -1,0 +1,1 @@
+ The player controls a coordinated attack from four star ships at the corners of the screen. The primary target of the attack are enemy bases on a rotating planet in the center of the screen. The trackball is used to move a cross-shaped cursor. The fire bu

@@ -1,0 +1,1 @@
+ A sideways scrolling beat-em-up for 1 to 4 players; chosing from Spider-Man, Black-Cat, Hawkeye or Sub-Mariner. The heroes must fight their way through four levels of Dr. Doom's villains; including Venom, The Scorpion, The Lizard, The Green Goblin, The Sa

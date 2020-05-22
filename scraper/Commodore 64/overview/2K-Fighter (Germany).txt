@@ -1,0 +1,1 @@
+2K-Fighter is a vertical shoot-em-up where you scroll up the screen to blast a wave of baddies. Once the wave is destroyed, you then scroll up the screen to face the next wave of baddies. If you are hit then you go back to the first wave. The joystick is used to control your ship. The game was given away free with the December 92 issue of 64'er.

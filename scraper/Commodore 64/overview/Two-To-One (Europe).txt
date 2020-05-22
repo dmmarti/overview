@@ -1,0 +1,1 @@
+In Two to One, the player controls a magic wand which has to find its way through 20 mazes. The goal is to collect clocks, tied to a time bomb, within the time limit. However, the main challenge is avoiding to ram against obstacles. The wand can be turned in all directions and when playing in two-player-mode, each player controls one end of the wand.

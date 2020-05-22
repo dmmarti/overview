@@ -1,0 +1,2 @@
+A version of the classic game "Memory". From a deck of 20 face-down cards, players flip two cards at a time and if a match is found, those cards are removed. A level is complete when no more cards remain. 
+The game uses a 20-card deck that contains one wild card (a dog). There are monsters that pursuit you. 

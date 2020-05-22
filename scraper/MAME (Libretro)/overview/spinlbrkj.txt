@@ -1,0 +1,1 @@
+ This game is a shooter almost like Cabal, except that your characters are huge and the screen continually scrolls to the right. The object of the game is to help rid the Earth of aliens.

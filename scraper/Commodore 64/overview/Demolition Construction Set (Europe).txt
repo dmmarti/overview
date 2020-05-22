@@ -1,0 +1,1 @@
+WCS lets you design and play turn-based strategic battles. You can create scenarios in many different time periods including modern day, ancient times, 1800's, and in the future. You have complete control over all the units, and can customize their firepower, movement points, strength, aggressiveness, etc. Supports 1 or 2 players. Comes with 8 pre-made scenarios.

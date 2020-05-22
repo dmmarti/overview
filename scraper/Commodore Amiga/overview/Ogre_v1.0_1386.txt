@@ -1,0 +1,1 @@
+ A direct computer conversion of Steve Jackson's board game of supertanks going against superinfantry with superhowitzers. Plays exactly like the board game.

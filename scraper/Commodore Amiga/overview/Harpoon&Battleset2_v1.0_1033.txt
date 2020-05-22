@@ -1,0 +1,1 @@
+ This release of Harpoon includes the original game and its 'Showdown In the North Atlantic' Battleset, as well as the second Battleset, 'The North Atlantic Convoys'. The program disk itself is updated to support additional Battlesets at least 2 more exist: Battleset 3: The Mediterranean Conflict and The Indian Ocean / Persia Gulf. It also now supports the the Scenario Editor.

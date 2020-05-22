@@ -1,0 +1,1 @@
+Fast Food is similar to Pac-Man or Boulder Dash, but not quite. The objective is to collect all fast food on the screen: that means, food that is moving fast. While doing so, you will have to avoid the monsters, otherwise you'll get killed. There are 30 levels, increasing in difficulty from very easy to extremely difficult.

@@ -1,0 +1,1 @@
+In this game, become a gambler in Donald Trump's casino-hotel Trump Castle. The six casino games are available: BlackJack, Craps, Keno, Poker, Roulette, and Slots.  The game bet limits are set at $10,000 by default, but this can be changed. Players can also increase or decrease bets at each table. Experienced gamblers may be enlisted in High Scores Table. 

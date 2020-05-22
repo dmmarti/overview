@@ -1,0 +1,1 @@
+In Mars the player is stranded with his or her spaceship on the planet Mars. The player must recover the items required to fix the spaceship and get off the planet again. The game plays like a typical collect the right items text-adventure of the early home computer era.

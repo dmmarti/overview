@@ -1,0 +1,1 @@
+ATF II is an arcade action flight game, where you fly the ATF (Advanced Tactical Fighter) on various missions around the world. Missions include destroying enemy submarines, radars, aircraft, bases etc. In the game you watch your ATF from behind with an very simplified instrument panel at the bottom of the screen.

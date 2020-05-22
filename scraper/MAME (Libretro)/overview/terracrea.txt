@@ -1,0 +1,1 @@
+ Terra Cresta is a vertically scrolling shoot 'em up. The player controls a ship, initially with limited firepower. Numbered pods appear containing further parts of the ship that will increase firepower. These additional parts combine with the player's shi

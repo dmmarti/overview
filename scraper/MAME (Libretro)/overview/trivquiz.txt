@@ -1,0 +1,1 @@
+ Each player begins with 10000 points. First the player sees the question. He then decides how many points he wants to play on that question. After he has wagered his points three answers will appear. The player now tries to select the correct answer. Each

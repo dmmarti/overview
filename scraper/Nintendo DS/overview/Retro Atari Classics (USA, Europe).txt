@@ -1,0 +1,1 @@
+A collection of 10 old Atari games updated for the DS: Asteroids, Breakout, Centipede, Gravitar, Lunar Lander, Missile Command, Pong, Sprint, Tempest, and Warlords. The games have been updated for control with a touchscreen (though the D-pad is usually also available), optional new graphics, and networked play for Pong, Sprint, and Warlords.

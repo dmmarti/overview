@@ -1,0 +1,1 @@
+A graphical treasure hunt for children. The first (and only) game in the Kingdom of Myrrh series. Designed to be an educational adventure game, it covers reading, problem solving, map skills and decision making. You write down clues in your quest to find King Olin of Myrrh, kidnapped by the evil sorcerer Vargor. Anara the wise woman will guide you along on your search.

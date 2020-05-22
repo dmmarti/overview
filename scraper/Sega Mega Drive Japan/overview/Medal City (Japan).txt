@@ -1,0 +1,1 @@
+Medal City is a simple casino game collection that offers three different games: Poker, Black Jack, and Slots. Each game is for one player only, and is a basic reproduction of the real-life game. The player starts with 30 chips, and can freely choose between each game betting as they see fit. Winnings can be saved via password. 

@@ -1,0 +1,1 @@
+The object of 3D Desert Patrol is to reach the safety of a road some distance ahead (depending on difficulty level).    The player is behind the controls of a tank and can drive forward, steer left and right and fire. Mine fields must be successfully navigated with the aid of a sensor and enemy tanks can be avoided or destroyed. There are five levels of difficulty.

@@ -1,0 +1,1 @@
+ A 3-D racing game from Sega in which the player must pass a set number of rival racers (usually 30) before the time limit expires. Success would see the player progress to the next stage. Turbo's gameplay was unique in that centered ENTIRELY on the passin

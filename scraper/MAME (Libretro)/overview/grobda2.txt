@@ -1,0 +1,1 @@
+ The player must take control of Grobda, a tank trapped in an arena filled with numerous indestructible obstacles and several enemy tanks. When an enemy tank is killed, it will cause an explosion, and any other enemies that happen to be in the blast radius

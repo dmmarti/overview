@@ -1,0 +1,2 @@
+A baker tries to bake and deliver bread while fighting raccoons. 
+Pieces of bread are moving along a factory line. The raccoons try to eat your bread and also try to switch off your machines. You have to keep your machinery running and also scaring away the raccoons. If you do that your delivery truck will be loaded with bread and drive off. 

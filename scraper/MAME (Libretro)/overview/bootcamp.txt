@@ -1,0 +1,1 @@
+ A one or two player multi-event combat game, similar in gameplay style to Konami's "Track and Field" series.* In the obstacle course, you must repeatedly press the fire button to run as fast as possible. Press the jump button in order to clear or mount hu

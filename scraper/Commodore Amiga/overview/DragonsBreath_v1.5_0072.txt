@@ -1,0 +1,19 @@
+Play one of the three evil wizards all competing to find the magical talisman. To do so, the player must hatch, raise, breed dragons, and use them to spread terror and power across the land! Use these dragons and spells to conquer or help numerous villages and cities across the land while devastating the other wizards also seeking control of the land.
+
+Dragon Lord introduces different levels of gameplay, which may be categorized as the following:
+
+    Alchemy
+    The game introduces a complex process of alchemy. Different ingredients have positive and negative results in combination of different types of Magick equipment used for it. Use alchemy to strengthen (or even weaken) own dragons or use them to cast spells at surrounding villages and cities (as well as some alchemical spells for the player's own benefit). Creating a too powerful spell in the Magick Laboratory may introduce an unpleasant explosion in the lab. Ingredients may be obtained through villager tribute or purchase from traveling merchants.
+
+    Note: The game is almost impossible to play without the Alchemical Table of Ingredients.
+
+    Dragon Breeding
+    The player may breed several individual dragons in the castle. Each require nurturing and patience before they can hatch and even more so after they hatch! Use alchemy spells to help strengthen the dragon eggs (or they may not hatch at all!).
+
+    Dragon Missions and Political Map
+    This feature gives a top-down perspective of the political map around the land. Send dragons to wreck havoc and terror to the surrounding villages and cities, or use them to explore the region and even protect villages and cities from enemy dragons! Attacking villages and cities may prompt them to surrender themselves under the player's control, providing the damage done is sufficient enough. This is also where the player may control the taxation of villages and cities (under player control) as well as any other information regarding them.
+
+    Dragon Combat!
+    Though optional, the player may enter manual combat (as to automatic combat) and enter a top-down, side-scrolling (vertical) arcade combat when attacking villages or cities. Here the player basically uses a dragon to burn anything that remotely looks like a structure.
+
+    Note: If there is an enemy dragon near the area, the enemy dragon will come to the defense of that village or city! 

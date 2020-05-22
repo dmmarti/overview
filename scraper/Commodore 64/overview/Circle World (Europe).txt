@@ -1,0 +1,1 @@
+Circle World is a simple text adventure game in the style of Zork or Adventureland without much story elements. The player starts in an empty field and must start exploring in any direction in the hope of finding something. Once in a while a cat-like kzin will rob the player of his or her items. The player is required to collect various items in order to solve puzzles.

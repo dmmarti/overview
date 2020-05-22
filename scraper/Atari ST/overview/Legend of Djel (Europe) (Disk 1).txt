@@ -1,0 +1,1 @@
+Point-and-Click adventure (without mouse support on the DOS version). You play the role of a gnome named Djel. You have three basic missions: Find the daughter of Azeulisses, brew a magic potion for Theros and try to obtain a certain amount of Gold for the starving members of Kal's tribe. In the beginning these persons give you some items to support you on your quest. 

@@ -1,0 +1,1 @@
+ This game is a vertical scrolling shoot 'em up where the player controls a character that has to climb a tree and shoot bug-like enemies. The story is that the princess has been kidnapped by the villains of the Insect World, and Zippy Bug has to rescue he

@@ -1,0 +1,1 @@
+ The game is a vertical scrolling shooter where the player controls a helicopter taking on hordes of enemies which include tanks, battleships, and artillery. It is interesting to note that, besides some airplanes taking off, there are no flying enemies in

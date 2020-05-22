@@ -1,0 +1,3 @@
+This game plays like traditional Bomberman games except with an experience system. The player must navigate the map on each planet to locate the dungeon and then the boss. Along the way they must defeat enemies and destroy soft blocks with bombs. Every time an enemy is defeated it will display the experience that was earned by the player. After enough experience is obtained, they will level up and gain a new skill like increased number of bombs or fire power.
+
+There are also various types of bombs that can be obtained that have different functions. They are kept in a specific quantity and more can be found from inside soft blocks or defeated monsters.

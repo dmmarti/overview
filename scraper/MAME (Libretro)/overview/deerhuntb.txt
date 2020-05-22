@@ -1,0 +1,1 @@
+ An interactive shooting game where players stalk deer in the wilderness during hunting season.[-LF-]You are able to select a wilderness where you want to go hunting. Then you will choose your hunting weapon: rifle, shotgun, power bow, or muzzleloader. Nex

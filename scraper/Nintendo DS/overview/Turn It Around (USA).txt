@@ -1,0 +1,28 @@
+Turn It Around is a compilation game of 24 mini-games, each with their own set of goals.  To complete them, the player must use the stylus on the touch screen to turn a wheel, each will test the players speed, power and technique for each.  The games are:
+
+1. Arkanoid - The classic block and paddle game based on Breakout.
+2. Elevator Action - Turn the wheel left or right to get people to their floor.
+3. Birdman - Turn the wheel in order to make a bird fly..
+4. Robo Crush - Turn the wheel to drop a compact crusher onto a robot.
+5. Golf - Use the touch screen wheel to get the ball onto the green.
+6. Money Grab - Catch money from the sky while avoiding falling bombs.
+7. Fishing - Turn the wheel in order to reel in a big fish.
+8. Skateboard - Try and perform big tricks for a high score.
+9. Sushi - Turn a conveyor belt to serve customers.
+10. Bub Bob - Shoot bubbles at monsters.
+11. Ice Dessert - Make ten snow cones within an allotted time limit.
+12. Pottery - Keep a bar within an allotted range to make three vases.
+13. Takoyaki - Turn the wheel to fry food for customers.
+14. Safe Cracker - A memory game of combinations.
+15. Cameltry - A take on an arcade classic where you turn a map to get your ball to a certain point while avoiding obstacles.
+16. Station Guide - Guide a drunk guy to a train station in an allotted time.
+17. Packed Train - Maintain a balance without getting sick on a train.
+18. Dragonfly Hunt - Turn the wheel to hypnotize dragonflies in order to catch them.
+19. Swan Runner - A side scrolling game where you race and avoid obstacles.
+20. Duck Boat - A racing game where you must be first to make it to the finish line.
+21. Turning Puzzle - Turn the wheel to fit pieces of a puzzle together.
+22. Hammer Throw - Try the throw a hammer the farthest.
+23. Pitch Hitter - Try to hit a home run.
+24. Umbrella Man - A side scroller where you use the wheel to float above obstacles while avoiding a giant.
+
+There is a multiplayer mode as well, letting friends go at it head-to-head. In addition to this, there is a challenge mode and a free play mode where the player can play the games at their own pace.

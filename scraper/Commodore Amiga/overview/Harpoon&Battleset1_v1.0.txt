@@ -1,0 +1,5 @@
+A modern naval battle simulator based on Larry Bond's popular Harpoon board-game from 1980. The game features 13 possible Cold War scenarios, each of which can be affected by multiple factors.
+
+You can choose from an authentic arsenal of over 100 Soviet and NATO weapons. Use sensors, radars and sonar to track enemy ships. Crucial information on capabilities can be checked from the informative database.
+
+The original version of the game contains one main battleset called Greenland/Iceland/United Kingdom Gap (GIUK). Later, several additional battleset data disks and a Scenario editor were released.

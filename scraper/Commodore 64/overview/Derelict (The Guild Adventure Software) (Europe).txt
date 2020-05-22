@@ -1,0 +1,1 @@
+Derelict is a text-adventure in which the player's space ship is caught in a tractor beam and placed inside a space station. It's up to the player to find the required items to be able to escape again. Like with other text-adventures the player can move around through different areas, examine, take and use various items. There are also hazards that can kill the player.

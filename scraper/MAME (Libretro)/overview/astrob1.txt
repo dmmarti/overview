@@ -1,0 +1,1 @@
+ The player controls a ship (bearing a resemblance to the Battlestar Galactica) which can fire and move left or right. The player must continuously monitor the onscreen temperature and fuel gauges; if the ship overheats, its weapon is disabled, and if it i

@@ -1,0 +1,1 @@
+ The player controls a dog who must feed squids in order to make them trap themselves on the several passages of the maze, as they will be too fat to advance. When they are trapped, the dog must go against them and touch them. Immediately after that, a lit

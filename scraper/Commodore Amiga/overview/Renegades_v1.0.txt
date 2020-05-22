@@ -1,0 +1,1 @@
+Renegades is a two-player deatchmatch game seen from above. Two armed men must find and fight each other in a high-tech complex filled with bonuses, corridors and locked doors. Both graphically and layout-wise, it is very inspired by the Alien Breed series. On the technical side, it differs a lot from its graphical inspiration, with a horizontal split screen for each player.

@@ -1,0 +1,1 @@
+ A racing game in which up to eight players (via linked cabinets) compete in a lap-based race around one of three testing courses. After each lap, the slowest car is eliminated and the game continues until only the winner remains. In the single-player game

@@ -1,0 +1,1 @@
+Magical Tree is a platform game where the player's objective is to reach the tree's top, some 2,000 meters above the ground. You play the little indian and you have to avoid several enemies, like bees and owls while climbing towards the top of the tree. Collect fruits and special items as diamonds on your way to the top of the tree. 

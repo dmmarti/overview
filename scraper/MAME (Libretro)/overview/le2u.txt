@@ -1,0 +1,1 @@
+ Western style shooting game featuring digitized characters. The game consists of 5 stages : Bank Robbery Stage Hold-Up, Saloon Showdown, Train Robbery, and Hide-Out.[-LF-]The player begins the game holding the rank of Sheriff, but if too many innocents or

@@ -1,0 +1,5 @@
+In this top view racing game, your are driving around in a town with a maze-like road infrastructure. Your goal is to collect the white flags while you are chased by hostile cars that will try to crash you head-on. A round is completed once three flags have been collected.  
+ 
+When driving you will find several items as money bags and fuel barrels which can be picked up.  
+ 
+To put the picked up fuel barrels to use, and to refill your gas tank you 'll have to drive to the gas station. 

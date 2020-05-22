@@ -1,0 +1,1 @@
+In Autocrash the player competes in a death tournament between "bumper cars". The goal is to dismount the opponent (or opponents) from his car, and hit him before he leaves the game zone.    Along the stages, the enemy's A.I. difficulty level and his number will increase. Additionally, in some stages the enemies must be eliminated in a certain order.

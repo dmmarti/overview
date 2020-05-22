@@ -1,0 +1,9 @@
+Zendoku takes the concept of the puzzle game Sudoku and adds role playing elements to it.
+
+The game replaces the numbers 1 to 9 with nine Martial Arts symbols like a panda or a dragon but the original rules remain in place. This means the player still needs to complete a column, row or 3x3 box were every symbol is only used once. The player can test his skills either in Classic Sudoku or in Zen-Mode where he needs to solve Sudoku puzzles under the pressure of time, but the core of the game is the Quest-Mode. 
+
+At the beginning of the quest the player chooses from eight available characters. Four fight with weapons, four freehand but each one has a different quest, uses different fighting styles and has a different lucky symbol. Kingkage is for example a typical ninja. He uses the Ninjutsu-style, wants to be a legendary fighter and has the panda as his lucky symbol. Once a decision has been made. the player follows the story line of the chosen character on a 2D world map and when a fight occurs, the opponents play a round of Sudoku.
+
+Every time one of the fighters completes a column, row or 3x3 box an attack is launched and obstacles appear on the opponents board while an attack icon travels along a rail towards the attacked. If he now correctly places his lucky symbol on the board, the attack will be reversed back his opponent. Placing a symbol incorrectly will make the player lose health and causes several cells on the opponent's grid to automatically fill in.
+
+The game also features a multiplayer mode for two player in which they can either try to solve a puzzle together or play against each other in a battle.

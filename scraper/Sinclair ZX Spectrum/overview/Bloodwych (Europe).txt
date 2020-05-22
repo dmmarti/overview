@@ -1,0 +1,1 @@
+	Bloodwych is an RPG in the style of Dungeon Master and Eye of the Beholder, being a 3D maze-like game. This games distinguishing feature is the two-player split screen support, allowing simultaneous realtime on the one computer.    Each player controls a party of four to explore a dungeon where you can also interact with some of the others there, instead of just killing them.

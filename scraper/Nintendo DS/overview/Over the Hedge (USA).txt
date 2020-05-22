@@ -1,0 +1,9 @@
+A portable adventure game based on the animated movie of the same name and which chronicled the adventures of a group of animals in their struggle against a recently-built housing development.
+
+Playing as either RJ, Hammy or Verne you'll have to complete several incursions into the human dwellings to steal food, supplies and sabotage further housing developments.
+
+Gameplay-wise the game is a 3rd-person perspective stealth-adventure hybrid in which you must navigate through several houses looking to retrieve your current objective while avoiding the many traps set by the homeowners (as well as the homeowners themselves). To get by you can make use of several unique items that allow you to set up diversions, or create them yourself by blowing into the microphone. Each character has individual strengths and weaknesses and in many missions you'll have to alternate between each character to successfully complete the level. 
+
+As a unique feature the game displays the standard 3rd person perspective on the top screen while the lower screen features a top-down view which allows you to better scan the levels for traps and items, both rendered with fully polygonal graphics.
+
+Features a single player campaign and a wireless multiplayer mode with a two-player mode in which two players compete to clear out a level of food.

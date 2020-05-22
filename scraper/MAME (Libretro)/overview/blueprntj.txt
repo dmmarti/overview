@@ -1,0 +1,1 @@
+ You control a character that must search houses to find pieces of machine. There are a variety of antagonists that impede your progress including monsters and bombs. Once you've assembled the machine according to the blueprint, use it to shoot the monster

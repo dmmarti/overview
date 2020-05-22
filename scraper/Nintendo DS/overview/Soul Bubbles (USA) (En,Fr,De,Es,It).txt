@@ -1,0 +1,7 @@
+Soul Bubbles is very similar to Bubble Ghost and requires the player to save lost Spirits by transporting them in bubbles to the exit of each level.
+
+The player takes over the role of a Spirit Herder who is tasked with ferrying souls to the underworld. To move the Spirits and keep them relatively save, they need to be be enclosed in soup bubbles. The Spirit Herder then can blow those bubbles through the level, deflate them if they are too big and even cut them into two bubbles and rejoin them later when required. If a bubble bursts, the Spirit will slowly suffocate and eventually die if the player can't draw a new bubble around it fast enough.
+
+But the way to the Gateway Cube isn't an easy one and it's not just as simple as blowing the bubbles from start to finish in the 40 levels. Besides the natural dangers in form of rocks, plants or hungry critters that all destroy the bubble, there are also environment puzzles waiting to be solved like activating a switch which requires a big bubble. There is also Star Dust and so-called Calabash waiting to be collected. While the Star Dust will increase the light emitted by the Spirits and can be collected by simply drawing a new bubble around it, the Calabashs are well hidden but once the player found them all, he will unlock the eighth World called Agartha, the Land of the Dead.
+
+To help with the search, the Spirits will change their shape to heart if a Calabash is near or turn into yellow triangles if there is imminent danger.

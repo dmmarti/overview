@@ -1,0 +1,1 @@
+ This game is a vertical shooter where you control Twin Bee (piloted by Light) or Win Bee (piloted by Pastel). Fire at the flying enemies and use bombs to destroy ground enemies. Shoot the clouds to uncover bells which give you bonus points or power-ups li

@@ -1,0 +1,1 @@
+Orbit 2000 is a clone of the classic arcade game Galaga and was released as a budget game on the Amiga.  Controlling a little spaceship at the bottom of the screen, level by level shoot an alien horde that is slowly troddling down from the top of the screen. Quick reflexes are needed as sometimes an alien breaks from the formation, hurling with great speed towards the player. 

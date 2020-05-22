@@ -1,0 +1,1 @@
+ Pole Position II is a 1-player game using a color raster-scan video display. Game action takes place at 4 different raceways - the Fuji Speedway in Japan the Test Track (an oval track like Indy), the Seaside Speedway (with the Long Beach Pike in the backg

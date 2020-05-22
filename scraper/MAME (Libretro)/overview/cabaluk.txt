@@ -1,0 +1,1 @@
+ Cabal offers one player and two-player-simultaneous modes of gameplay. Each player assumes the role of an unnamed commando trying to destroy several enemy military bases. There are 5 stages with 4 screens each. The player starts with a stock of three live

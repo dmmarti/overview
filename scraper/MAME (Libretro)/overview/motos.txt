@@ -1,0 +1,1 @@
+ The object of the game is to bump your enemies - space bugs - off the solar base using Motos, your ship. When you bump all of them off, you move to the next base or round. If Motos is knocked off the base, you lose one life. The game is over when you lose

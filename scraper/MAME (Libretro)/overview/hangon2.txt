@@ -1,0 +1,1 @@
+ Using a behind the motorcycle perspective, the player races a linear race track divided into several stages within a limited time. Reaching a checkpoint at the end of each stage extends the time limit. The game ends if the time runs out.The arcade game co

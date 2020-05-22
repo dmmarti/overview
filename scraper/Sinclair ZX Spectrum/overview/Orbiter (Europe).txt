@@ -1,0 +1,1 @@
+	Orbiter is an adaptation of the classic Defender arcade game. You control a craft that is flying over a rocky terrain. Aliens appear in waves, fly along the terrain and occasionally try and abduct humans. Your role is to protect the humans. There are infinite levels of the game, each progressively harder and harder, each with more challenging aliens for you to combat.

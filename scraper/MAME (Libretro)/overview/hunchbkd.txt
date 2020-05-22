@@ -1,0 +1,1 @@
+ The game is set on a castle wall. The player must cross the screen from left to right avoiding obstacles in order to ring the bell at the far right. Obstacles include pits which must be swung over on a long rope, ramparts which must be jumped (some of whi

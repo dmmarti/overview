@@ -1,0 +1,1 @@
+The player flies a plane through various terrain, either avoiding or shooting projectiles that head toward it. The weapons that are used for shooting are upgraded once the player reaches new terrain. If the plane comes into contact with a projectile, the player loses one of their three lives. The game ends when all lives are lost.

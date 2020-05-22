@@ -1,0 +1,7 @@
+Balance is an educational game. In this game you have to solve different sorts of calculations within a given time limit. 
+ 
+The equations are presented on a unbalanced lever, one arm of the lever contains the equation and the outcome on the other arm. 
+One number in the equations is missing and you 'll have to find the right number and place it in the equation. 
+When the equations are solved correctly the levers will balance.  
+ 
+The time limit is represented by a truck at the top of the screen that drives from right to left over the balanced levers and it will fall down if you are not able to balance the levers in time and you loose a life. 

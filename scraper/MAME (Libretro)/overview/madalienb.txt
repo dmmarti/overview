@@ -1,0 +1,1 @@
+ Mad Alien is kind of a combination of a shooter and a driving game. You drive a car equipped with a gun on a road. The landscape around you shows different settings (cities, country side, tunnels) and scrolls by from the top to the bottom of the screen. Y

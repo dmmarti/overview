@@ -1,0 +1,1 @@
+ In the game, each player controls one of the two Bubble Dragons, Bub and Bob. The player can move along platforms, as well as jump to those above and to the side, similar to most platform games.The player can also blow bubbles. These can trap enemies, who

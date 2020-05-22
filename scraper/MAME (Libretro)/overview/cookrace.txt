@@ -1,0 +1,1 @@
+ The object of the game is to complete a number of hamburgers while avoiding enemy foods.When main protagonist, chef Peter Pepper, the player's character, walks the length of an ingredient (bun, meat patty, tomato, etc.), it falls one level. If it lands at

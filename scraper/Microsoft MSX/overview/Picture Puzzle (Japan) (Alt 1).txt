@@ -1,0 +1,3 @@
+Picture Puzzle is a puzzle game.  The player has to reconstruct an image that is cut out in 16 pieces and one of those pieces is not present. 
+They can only move one piece at the time and only towards the missing piece. The pictures to reconstruct are cartoon style animal pictures such as a crocodile, a cat, a pig, a horse and elephant. 
+It can be played by one or two players. 

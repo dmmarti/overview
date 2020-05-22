@@ -1,0 +1,1 @@
+ Aurail is a scrolling shoot 'em up arcade game developed by Westone and released by Sega in 1990.The player pilots a tank mecha and shoot enemies (fire in 8 directions), collect power-ups to increase shields and operate the remote attack drone, and defeat

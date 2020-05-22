@@ -1,0 +1,1 @@
+Top Fuel Eliminator is a drag racing game. Select your tires, engine, and other stats before the race and try not to crash in the final race. It has both a first person view (at the bottom) and a third person side view (at the top) during the actual race. You are entered into a 16 race bracket, win four races to take the title.

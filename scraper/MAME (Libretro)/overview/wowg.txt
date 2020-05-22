@@ -1,0 +1,1 @@
+ Wizard of Wor is an action game for one or two players. The game takes the form of several maze-like dungeons infested with monsters. The players' characters, called Worriors, must kill all the monsters by shooting them. Player one has yellow Worriors, on

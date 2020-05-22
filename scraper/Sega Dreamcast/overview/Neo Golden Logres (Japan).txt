@@ -1,0 +1,1 @@
+ Golden Logres is another pinball simulator by LittleWing. A sequel to both Tristan and Crystal Caliburn, the game features three tables based on the Arthurian legends: Camelot, Land's End and Fisher King. After completing all the missions on one table, the game moves to the next one. A practice mode is available to test the last two tables and prepare to the full game.

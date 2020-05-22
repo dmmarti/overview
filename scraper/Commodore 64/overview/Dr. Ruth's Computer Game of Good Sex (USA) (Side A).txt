@@ -1,0 +1,1 @@
+A text based quiz game about human sexuality. Dr. Ruth did the questions along with her researchers. It is a time based quiz game where you have multiple choice. These are not obvious and sometimes you have to choose the only true or false answer among the four or five choices. There is a countdown clock and your score also is modified by how fast you answer the questions.

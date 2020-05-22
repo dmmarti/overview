@@ -1,0 +1,9 @@
+The Settlers is a remake of The Settlers II: Veni, Vidi, Vici for the Nintendo DS.
+
+The premise of the game is set to ancient Rome, with you taking control of the Romans in the main campaign, or additionally the Vikings, Nubian and Asian empires in Free Play mode.
+
+The game works very differently from most general strategy games. Your goal is to reach the gateway at the end of each map, usually hidden amidst the enemy lines. You must build military buildings to expand your borders that you can reach the resources that are initially out of your reach. Eventually reaching the gateway to proceed onto the next level. Your city needs roads to optimize the trade routes and allow different buildings to get the resources they need for production.
+
+The game is highly based on gathering resources and optimizing the roads to provide maximal resource gathering. In example, you need a woodcutter to provide a sawmill with logs in order for the builders to build new structures and harbors to build ships for your expeditions.
+
+The game is almost a 1:1 recreation of the original Settlers II game, but it adds few new things to the game such as new music and new GUI to support the stylus.

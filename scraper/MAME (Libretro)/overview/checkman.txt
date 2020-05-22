@@ -1,0 +1,1 @@
+ The screen is broken up into 14 x 13 tiles or checks. When the player passes over the tiles, they disappear so each tile can only be walked over once per level. Some tiles are taken up by skull and crossbones which kill the player if walked into. The skul

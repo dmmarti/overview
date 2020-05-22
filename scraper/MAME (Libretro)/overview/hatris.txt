@@ -1,0 +1,1 @@
+ Hatris is a Tetris-type game where instead of blocks descending, there are hats; top hats, wizard hats, beanines and the like. The game is played by making vertical stacks of hats. When a stack of five hats of the same type and color is created, it disapp

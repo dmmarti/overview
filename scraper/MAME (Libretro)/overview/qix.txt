@@ -1,0 +1,1 @@
+ Draw boxes to claim as much screen as possible without getting in the path of the "Qix" and "Sparx". Draw slower for more points and hope that you have enough coins. Simple but very addicting!

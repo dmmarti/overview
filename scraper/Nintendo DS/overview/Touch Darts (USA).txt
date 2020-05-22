@@ -1,0 +1,3 @@
+Touch Darts is a straight forward simulation of various styles of darts games played by stroking the DS touch screen to "throw" the darts.
+
+Tournament mode builds the players skill by presenting increasingly skilled opponents, while the challenge mode has several challenge games with various rules. These include Pairs, Round the clock and Card 21, where the player has to turn over playing cards by hitting them with the darts. The winner is the closest to 21 with two cards turned.

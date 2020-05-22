@@ -1,0 +1,1 @@
+ Xor involves guiding two characters through 15 complex mazes to collect all the balloons within a move limit. Hazards such as boulders, volatile ducks and teleports make this harder.  In this update, 15 new levels have been added. The characters are now called Herb and Pip. A full level designer is also included.

@@ -1,0 +1,1 @@
+ A puzzle game where you arrange the bricks to make horizontal rows of bricks so an explorer can get to the exit.

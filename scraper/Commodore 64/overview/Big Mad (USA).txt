@@ -1,0 +1,1 @@
+Mad allows the player to construct funny stories by filling in simple input fields. Input fields will ask for verbs, nouns or adjectives. Once all input is filled in the computer will use it to construct a nonsensical story.

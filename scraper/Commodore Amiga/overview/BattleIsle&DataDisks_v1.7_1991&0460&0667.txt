@@ -1,0 +1,1 @@
+ In this turn-based strategy you command military forces, which want to eliminate each other. Moving them on hexagons you have to kill every unit of opponent or conquer his headquarter to win. The plot of the game is fiction. Somewhere on the far planet the AI get control over itself and want to destroy his creators. You must stop it, progressing from easy levels to hard ones.

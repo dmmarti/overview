@@ -1,0 +1,1 @@
+ The objective of Lunar Lander is to pilot a lunar landing module as it prepares to touch down on the moon. The terrain is very jagged and has only a few flat areas appropriate for landing. These areas are highlighted with a flashing bonus multiplier, whic

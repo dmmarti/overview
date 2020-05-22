@@ -1,0 +1,5 @@
+Federation of Free Traders is a space simulation/exploration game that is quite similar to an earlier title, Elite. The player is able to zoom around in space while trading goods, undertake missions, or simply explore the galaxy (which consists of over 8 million planets).
+
+There is a significant amount of playable options in FOFT and a considerable attention is paid to detail. For instance, if the player becomes tired of roaming through outer space they skim a planet or two (which plays in a similar fashion to David Braben's other game, Virus).
+
+During the docking sequence players can create their own programs for automated functions, using a built-in BASIC like language called SIMPLE. 

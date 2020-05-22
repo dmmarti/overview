@@ -1,0 +1,1 @@
+Spheron is a timed platform game in which player controls a bouncing ball. His task is to reach the end of the level while taking a certain amount of diamonds. He has to get through various enemies and obstacles like water, storms etg. The player may found various power ups, such as extra time or additional energy.

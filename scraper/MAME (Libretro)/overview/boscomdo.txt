@@ -1,0 +1,1 @@
+ The object of Bosconian is to score as many points as possible by destroying enemy bases and ships. The player controls a small fighter ship that can move in eight directions and can fire both forward and backward. Each level consists of a number of green

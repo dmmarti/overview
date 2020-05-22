@@ -1,0 +1,1 @@
+ A straightforward racing game. You race for money to upgrade your car and open up new tracks.  Each track can be played at a different time of the day and with different weather conditions.

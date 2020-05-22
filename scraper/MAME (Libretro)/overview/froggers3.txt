@@ -1,0 +1,1 @@
+ Frogger is an arcade game introduced in 1981. It was developed by Konami, and licensed for worldwide distribution by Sega/Gremlin. The object of the game is to direct frogs to their homes one by one. To do this, each frog must avoid cars while crossing a

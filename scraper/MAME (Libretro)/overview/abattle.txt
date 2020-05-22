@@ -1,0 +1,1 @@
+ The game of Astro Fighter consists of 4 waves and a refueling stage, which are then repeated with increasingly higher difficulty. The player's task is to eliminate the four successive waves of different types of attacking craft, while avoiding being hit b

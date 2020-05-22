@@ -1,0 +1,1 @@
+ The player controls a gladiator/knight named Great Guaranos as he walks through a castle. Moving the joystick left and right moves Great Guaranos left and right, and up and down is used to position Great Guaranos's shield. The game's three buttons corresp

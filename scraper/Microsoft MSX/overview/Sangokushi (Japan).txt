@@ -1,0 +1,1 @@
+Turn based strategy game based on events of the Three Kingdoms era in China (3rd century). The MSX version was never released out of Japan. 

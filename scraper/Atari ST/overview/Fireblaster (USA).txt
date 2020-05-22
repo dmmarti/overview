@@ -1,0 +1,1 @@
+Fireblaster is a Space Invaders style shoot'em up with enemies moving in different patterns on each level. The player can move left and right but also forward or backward. On certain levels the player can pick up an extra ship to get double the fire power. 

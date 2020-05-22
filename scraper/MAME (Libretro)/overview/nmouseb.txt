@@ -1,0 +1,1 @@
+ Naughty Mouse, also known as Woodpecker, is a platform arcade game that had been released by Amenip Corporation in 1981; it runs upon Namco's Pac-Man hardware (a Zilog Z80, running at 3.072 MHz), with one of Namco's programmable sound generators running a

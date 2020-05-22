@@ -1,0 +1,1 @@
+Zyrons Escape is a platform game where the screen scrolls when you move, as you try to escape a maze like complex by collecting 39 keys. As you explore the complex there are various obstacles like spikes, pools of liquid and laser beams and when touched lose you one of three lives. Some platforms turn on and off and there are ladders that move in certain directions.

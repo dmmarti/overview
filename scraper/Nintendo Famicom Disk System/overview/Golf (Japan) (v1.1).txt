@@ -1,0 +1,7 @@
+A port of the Nintendo Famicom game to the Famicom Disk System. 
+ 
+Golf is a sports-simulation video game released in 1984. The golfer is a mustached man who resembles Mario. 
+ 
+The player one character wears a white shirt and shoes with blue pants and uses a white ball, while the player two character wears a red shirt and shoes with black pants and uses a red ball. 
+ 
+The user must first decide whether to play single stroke play or the two player selections of doubles stroke play or match play. The user is then placed at the tee of the first hole of eighteen. 

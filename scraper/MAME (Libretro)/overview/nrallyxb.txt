@@ -1,0 +1,1 @@
+ In New Rally-X, the player drives a car around a maze picking up all of the yellow flags, of which there are 10, before the car's fuel runs out. The game-play has a similar feel to another Namco legend, "Pac-Man"; although in New Rally X's mazes are much

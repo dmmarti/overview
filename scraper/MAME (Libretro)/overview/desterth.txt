@@ -1,0 +1,1 @@
+ Lunar Rescue is a combination 2-D simple flight simulator and 2-Dimensional shooter. You start the game by floating within your mother ship. You then either must release your lander or after a pre-determined period of time, the mother ship will forcibly e

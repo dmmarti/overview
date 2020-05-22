@@ -1,0 +1,1 @@
+Las Vegas is a simulation of a three reel slot machine. To increase the chances of winning, it is possible to hold certain reels (skill stop) or to nudge them for a certain number of times when it is allowed; the player may also gamble on an existing win. The goal of the game is to win jackpots. The C64 version also features high-score table and a number feature grid.

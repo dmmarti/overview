@@ -1,0 +1,1 @@
+This Backgammon implementation is straight forward: it offers ten skill levels of the AI, allows demo mode in which the computer plays against itself, a two-player game option, and the loading and saving of a game. The player can take back their last move.  

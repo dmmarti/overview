@@ -1,0 +1,1 @@
+ The player controls a box tied to a floating balloon, which swings left and right continually, within a maze filled with spikes. Any contact with the spikes, either with the balloon or the box, destroys the balloon. Using a four-way joystick, the player m

@@ -1,0 +1,1 @@
+ This is an updated version of Namco's seminal "Pac-Man" featuring forced-perspective 3-D graphics that allow the players to jump over the enemy ghosts; in a similar fashion to Namco's "Pac-Mania", released in 1987. There are secret items and food to be fo

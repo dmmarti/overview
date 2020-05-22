@@ -1,0 +1,1 @@
+ Dark Edge is a 1992 fighting game by Sega for the Sega System 32. It uses sprite scaling to simulate a 3D playfield, meaning it predates Virtua Fighter as a 3D fighter by about a year (though the 3D in Virtua Fighter isn't simulated, but rather true rende

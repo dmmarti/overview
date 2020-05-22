@@ -1,0 +1,3 @@
+In WordJong, the objective is to use letters in the game to create words in a board layout that is based on Mahjong.  There are three different single player modes, one of which is to pick a date on a calender and try to beat the computers high score, another is to play against seven opponents based on the Chinese zodiac in tournament play or play in the Temple Challenge mode and collect rank medals for each level you pass.
+
+There is also a multiplayer mode where the player can connect using local wireless or using Wi-Fi. They can also download a puzzle and give it to someone without a game so they can play it as well. It features a 100,000+ word dictionary.

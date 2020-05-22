@@ -1,0 +1,1 @@
+	This is a straightforward clone of the arcade game Centipede. A long slithering alien being gradually moves down a gridded playing area and must be shot out before it can reach the bottom, with the ability to move your ship in all 4 compass directions. Curiously, it doesn't seem to be possible to get a joystick to work in this, despite the chance to define keys.

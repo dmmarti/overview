@@ -1,0 +1,1 @@
+Starblaze or Star-Blaze, is a 3D Spacial Shoot 'Em Up. You shoot a cannon with crosshairs on a fast ship. Our goal is to become intergalactic warrior destroying hundreds of waves of enemies. It is possible to collect different types of items for help. When the shield of your ship runs out, you die.

@@ -1,0 +1,7 @@
+In this platform game you control a mouse who is a fire fighter and that has to rescue mice out of an burning apartment building. 
+ 
+You have to pick up the mice and bring them safely to the left side of the building where the steel fire escape stairs are located. 
+When all the mice have left the building trough the emergency exit at the bottom-right of the screen it is your turn to leave the building by using the stairs that appear randomly on the lowest platform level. 
+You progress to the next level when you have left the building. 
+ 
+The shape of the platform changes each level and also fire balls will appear making it more difficult to you to rescue the mice. When a fire burns too long on a particular part of floor that floor will disappear and don't get caught by the fire or you'll lose a life. 

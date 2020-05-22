@@ -1,0 +1,1 @@
+ The object of the game is for the player to maneuver his white robot in 1 of 4 directions within a maze, capture a red character robot as they move about the maze, and race to the center to change the 9 white balls located there to red. The player may onl

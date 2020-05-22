@@ -1,0 +1,1 @@
+Color Mania is a computer adaptation of the eponymous board game. The objective of the game is to guess a combination of five tokens within ten trials. After each trial computer shows how many tokens were indicated right (white X) and how many appears in combination, but in a different position (grey X).

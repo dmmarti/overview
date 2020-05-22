@@ -1,0 +1,1 @@
+Fun House is a game based on a children's TV game show. The game's object is to test luck and skill at stunts and trivia questions. Two contestants compete against each other to win the stunt and trivia rounds. Then the winner goes to gather prizes in the maze.

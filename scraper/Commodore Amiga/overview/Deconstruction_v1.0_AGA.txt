@@ -1,0 +1,8 @@
+Deconstruction is very similar to arkanoid.
+[1] Deconstruction was originally developed as InerSex between 1994-1996 but later changed its name to Deconstruction.
+
+[2] Deconstruction was released as a freeware download from the author's site in 2003.
+
+[3] Game includes level editor.
+
+[4] All in-game menus are in English, the level editor menus are in French.

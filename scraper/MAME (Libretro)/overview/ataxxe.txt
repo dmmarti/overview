@@ -1,0 +1,1 @@
+ Ataxx is an abstract strategy board game that involves play by two parties on a seven-by-seven square grid. The object of the game is to make your pieces constitute a majority of the pieces on the board at the end of the game, by converting as many of you

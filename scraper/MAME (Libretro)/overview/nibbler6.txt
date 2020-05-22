@@ -1,0 +1,1 @@
+ The object is to navigate a virtual snake through an enclosed maze, while consuming dots along the way. The length of the snake increases with each object consumed, making the game more difficult. The player must also avoid colliding with walls or obstacl

@@ -1,0 +1,1 @@
+ Bubbles is an action game with puzzle elements where the player controls the protagonist, a soap bubble, from a top-down perspective. The object is to clean a kitchen sink by maneuvering the bubble over ants, crumbs, and grease to absorb them. The bubble

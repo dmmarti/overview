@@ -1,0 +1,1 @@
+ A lightgun controlled shoot-em-up for one or two players with setting ranging from enemy bases to thick jungle.[-LF-]Two commandos find a special weapon hidden deep within an enemy base. Before the commandos can escape to report their findings, they find

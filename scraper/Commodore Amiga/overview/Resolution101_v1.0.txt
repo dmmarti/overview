@@ -1,0 +1,9 @@
+Rwsolution 101 takes place in the year 2050 where enemies known as 'alterants' have taken control of the city by distributing mind controlling drugs. You play with a 3-D view from a hovercraft in an attempt to destroy all alterants and stop the drug runs they make.
+
+The story is slightly different in Resolution 101. This game is set in the USA in the city of Las Envegas. Crime is rife and law enforcement just cannot cope so in 2038 a new law, Resolution 101, was passed which allows convicted felons to be released from jail in return for tracking down and eliminating gangland bosses.
+
+The player takes the role of one of these 'Search and Destroy' criminals. They are given a Theta 4000 ground skimmer armed with a light machine gun and they play their way through a series of increasingly difficult levels. Each level starts with a meeting with the sheriff who names the new target. After that the player is in their skimmer patrolling the streets shooting things, not mind controlled alterants but the drug runner's henchmen and gangland minions (same sprites different names).
+
+The city of Las Envegas is divided into four areas each of which is controlled by a separate drug runner. The during the course of the game's twelve levels the player must defeat each runner three times in order to finally kill them. The runners have minions who will attack the player as they pursue their quest for justice / freedom. As these are destroyed they leave behind cash and drugs that can be collected, the drugs must be collected as evidence.
+
+As a further complication the drug runner only makes a few runs through the city in each level so the player must collect the evidence and shoot them down before the last run is complete, otherwise the sheriff will be displeased and the player will lose a life. Around the city are three shops where the player can upgrade weapons, and repair shields or their skimmer.

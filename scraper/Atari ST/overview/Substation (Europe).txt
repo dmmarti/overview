@@ -1,0 +1,1 @@
+Substation is a first-person shooter. The story focuses on an underwater base taken over by aliens. The player has to enter the game as a marine and investigate what has happened down there. The game also supports multiplayer with multiple Ataris connected via the Midi-port. 

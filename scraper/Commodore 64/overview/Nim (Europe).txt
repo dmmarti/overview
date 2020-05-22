@@ -1,0 +1,1 @@
+Space NIM is a variant on NIM. The player and the computer take turns picking a number of fuel containers. The goal is to be the one to pick the last fuel container. The player may take as many fuel containers as desired from any droid. There are three droids with fuel containers.

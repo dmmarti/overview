@@ -1,0 +1,1 @@
+A chess game from Chris Whittington. Belonging to the Superchess family of games, pit against the computer or human opponent in this classic baord game.

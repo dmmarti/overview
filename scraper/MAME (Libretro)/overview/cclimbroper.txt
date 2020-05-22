@@ -1,0 +1,1 @@
+ In Crazy Climber the player assumes the role of a daredevil who is attempting to climb to the top of four skyscrapers. There are a number of obstacles and dangers to avoid including:Windows that open and close (the most common danger).Bald-headed resident

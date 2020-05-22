@@ -1,0 +1,9 @@
+At the beginning of Pony Friends, the player has the choice to buy a pre-defined pony or create his one from scratch by choosing from a variety of different colors and patterns for each of the four parts (body, legs, face and hair).
+
+Once a pony has been created and named, the player has to care for it by feeding or brushing it in order to keep it's values from decreasing. Depending on how good the values and how well the pony has been treated, it will react differently to the players hand (the stylus). A new pony for example will be afraid at first and will run away when the player makes sudden movements.
+
+Besides caring for your pony, outfitting it with accessories or giving it small treats like apples, you can also do racing events, trail riding or let it perform tricks. While the player can't control the horse itself in the racing events, he needs to cheer it on through the microphone to keep it going. But if the player shouts too loud or not loud enough, the pony will slow down.
+
+During trail riding the player can instead pet the pony or order it to gallop through the forest to train it. While the pony rides on the trail, the player can look around and can each day fulfill a quest by photographing specific animals around the trail by touching them with the stylus. There are also hidden gates which open up additional trails if found and touched.
+
+Tricks are performed by the pony if it's out on the field. Depending on it's condition and on how many awards the player has already earned with the pony, the trick will be more difficult.

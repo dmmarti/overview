@@ -1,0 +1,1 @@
+A clone of Jim Sachs' C64 game SAUCER ATTACK, but with a different scoring system. SAUCER ATTACK forced the player to shoot sparingly as each bullet counted against you, whereas INVASION allows infinite bullets.

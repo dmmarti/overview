@@ -1,0 +1,1 @@
+ Player controls a spaceship that must infiltrate the enemy Scramble system in this side-view shooter/bomber classic. Player must destroy the Base at the end of the system.

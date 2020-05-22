@@ -1,0 +1,1 @@
+ Star Fire is an early color game programmed by David Rolfe with graphics designed by Ted Michon and Susan Ogg. It was released by Exidy in 1979. Star Fire is a first-person space shooter where your mission is to seek out and destroy enemy spacecraft while

@@ -1,0 +1,1 @@
+Your task is to reconstruct a series of pictures by collecting scattered tiles and placing them in the right sequence. It's an apparently simple assignment on the surface, but don't be fooled. You will also have to cope with tile-pinching chess pieces, dissolving tiles and causeways, transporter tiles, and a horrendously tight time limit. 

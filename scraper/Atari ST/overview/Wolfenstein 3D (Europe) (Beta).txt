@@ -1,0 +1,1 @@
+3D-lab is a simplistic 3D labyrinth game. In each level the player must find the exit. For each level the area of the labyrinth expands: The first level is a labyrinth of the size 4x4, the labyrinth on level two is 5x5 and so on. 

@@ -1,0 +1,1 @@
+ This flight simulator puts you in the cockpit of either the F-22 or the fictional F-29.  Choose from four campaigns with increasing difficulty: a training campaign in Arizona plus real war campaigns in the Pacific, the Middle East and in Europe.  Each campaign includes a variety of missions involving both dogfights and air-to-ground attacks.

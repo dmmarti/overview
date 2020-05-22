@@ -1,0 +1,1 @@
+ You control a Q*bert-style character with a machine gun. The object of the game is to shoot all the "hoppers" (small non-moving characters) in room and then move onto the next. Each room has its own unique monster type that attacks you and the room is nam

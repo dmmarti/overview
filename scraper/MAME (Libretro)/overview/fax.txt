@@ -1,0 +1,1 @@
+ Fax is a trivia game which asks questions about a number of topics, including: General Knowledge, Sports, History and Entertainment. This was released by Exidy in 1983 and written by Vic Tolomei and Larry Hutcherson hopeful to play on the Trivial Pursuit

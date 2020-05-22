@@ -1,0 +1,1 @@
+ This is a topdown racing game similar to Micro Machines in which the player gets to control 4x4s, buggies, super sports cars and GP cars etc.  Race around 20 gruelling courses across five different terrains. Featuring super smooth, fast scrolling, excellent colour graphics with 2 player support.

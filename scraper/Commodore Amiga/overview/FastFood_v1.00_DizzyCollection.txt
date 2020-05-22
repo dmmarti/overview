@@ -1,0 +1,1 @@
+ Compilation compiling the first five games in the Dizzy series:Dizzy replaced by Kwik Snax on 16-bit platforms  2. Fast Food 3. Treasure Island Dizzy 4. Fantasy World Dizzy 5. Magicland Dizzy Fast Food is a Pac-Man style game, Kwik Snax is Pengo style, all others are arcade adventures.

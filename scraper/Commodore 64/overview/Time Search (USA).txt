@@ -1,0 +1,1 @@
+In this text adventure you have the opportunity to own and use a Time Machine but the problem is you have to find it first. You must explore the surrounding areas around your village so you can find and use it. The screen has text on it describing your location and any objects to use on it. You type in commands to control your player.

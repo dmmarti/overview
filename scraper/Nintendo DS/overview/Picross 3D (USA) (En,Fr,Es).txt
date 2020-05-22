@@ -1,0 +1,9 @@
+Picross 3D is a pseudo-sequel to Picross DS.  As with the original game, your goal is to uncover the hidden image by using the number clues as your guide.  But unlike Picross DS, where the puzzles were flat, in Picross 3D, each puzzle is encased in a cube of a varying size and shape.  By chipping away and rotating the cube, the player can reveal the hidden picture.
+
+Picross 3D has approximately 350 puzzles, across a variety of different themes. Each puzzle is grouped into a particular theme, such as "Beach", "Sports" or "Fire", and when all the puzzles are found for a theme, a medal is added to the theme to indicate that it is complete. Nearly every puzzle has a possibility for a three star rating. To earn all three stars, the player must:
+
+solve the puzzle
+complete the puzzle within the time limit
+not make any mistakes
+
+As with Picross DS, Picross 3D features a puzzle creator. The user can create their own puzzles, and then, using Nintendo Wi-Fi Connection, send them onto the Internet to trade with friends, as well as receive additional ones.

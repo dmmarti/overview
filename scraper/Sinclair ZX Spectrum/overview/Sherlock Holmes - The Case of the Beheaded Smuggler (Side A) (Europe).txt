@@ -1,0 +1,1 @@
+	A text adventure in which the player takes up the mantle of Sherlock, called upon to investigate into the business of George Wathley. His cousin Victor is suspicious that George has been importing contraband and wants the famous sleuth to turns his skills to discover the truth.

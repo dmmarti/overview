@@ -1,0 +1,1 @@
+Compose and play a musical score using an easy graphical interface and toolkit. Use a pointer to drag notes, sharps, and other music nomenclature directly onto a staff, then play your creation. You can cut, copy, and paste entire sections of music, as well as print your masterpiece. 

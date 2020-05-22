@@ -1,0 +1,1 @@
+ In this game, you attempt to collect bombs whithin the time limit while shooting at terrorists. The faster you complete the level, the better the rank you will have.

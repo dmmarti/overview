@@ -1,0 +1,1 @@
+ A single player runs through a number of futuristically-theme levels, avoiding obstables - Coca-Cola cans, barriers, green floor tiles (which slow the player's progress), holes etc. - and attempt to reach the finish line before the tight time limit expire

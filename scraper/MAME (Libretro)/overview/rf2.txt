@@ -1,0 +1,1 @@
+ The player drives a sports car which must reach various checkpoints without running out of fuel. A turbo mode (activated by the gear shift) increases the car's speed but uses more fuel and puts the player at a higher risk of hitting an obstacle. Fuel powe

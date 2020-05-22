@@ -1,0 +1,5 @@
+A creative turn-based strategy game. Form a team of robots serving different roles and program them to eliminate the enemy from the arena.
+
+You have 5 different types of robots at your disposal, each with it's own weaponry and capabilities. The competition is run in a number of intervals giving you time to reprogram your robots and set them loose to destroy your opponent.
+
+This game includes multiplayer options for both multi-computer setups and hot seat play. There is no luck and reflexes are not a factor. Only the one with the best strategy will prevail.

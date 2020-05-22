@@ -1,0 +1,1 @@
+ A single player vertically scrolling shoot-em-up in which the player pilots a spaceship over series series of islands - drifting in outer-space space - shooting enemy spacecraft and ground-based targets. Special symbols appear at regular intervals and can

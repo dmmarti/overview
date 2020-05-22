@@ -1,0 +1,2 @@
+In this platform game you control a man that collects pine apples and he's being chased by snakes, rodents and bats. 
+When he has collected five pine apples he has to go to the wooden bridge that then will appear. That bridge will lead him to the next level. 

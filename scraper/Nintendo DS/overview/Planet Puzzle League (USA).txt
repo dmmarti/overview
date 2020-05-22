@@ -1,0 +1,14 @@
+Take on the world in Planet Puzzle League, a simple but addictive puzzle game that you may recognize as Tetris Attack, Panel De Pon, or Pokémon Puzzle League.  Colored tiles rise up from a bin, and its your job to arrange them horizontally or vertically in lines of three or more of the same tile.  This causes them to disappear.  Advanced players will be able to arrange tiles so that when they land, they clear additional tiles to stop the tiles from rising and score even more points!
+
+Planet Puzzle League features a wide variety of different game modes to keep even the most dedicated puzzler busy:
+
+1. Endless - Play forever until you fail. The tiles rise faster over time.
+2. Clear - Remove all the blocks down to the 'CLEAR' line, buried deep down.
+3. Garbage Challenge - Garbage blocks rain down on your bin - clear as many as you can!
+4. Vs. COM - Play against the CPU. Try to get their tiles to reach the top of the bin first!
+5. Time Attack - See how many points you can earn in two minutes.
+6. Puzzle - Either clear the preset mind-bending puzzles, or try the various missions that you are given.
+
+Similar to Brain Age, Planet Puzzle League features a 'Daily' Mode. Play these short games once a day to track your skill over a long period of time. Are you getting better? Or worse?
+
+You can also play multiplayer modes of the game, either locally, or over Nintendo Wi-Fi Connection. Modes of play include Birthday Battle (play against people who share your date of birth), Free Play Battle (play an unranked match), and Friend Battle (play against Friends you've traded Friend Codes with).

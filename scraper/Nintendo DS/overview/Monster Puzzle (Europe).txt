@@ -1,0 +1,7 @@
+Fairy Tale World is in trouble!  With less and less children reading fairy tales, people will forget the stories and Fairy Tale World will disappear forever.  The monsters who feature in all of the fairy tale stories don't like this at all, so they take it upon themselves to rescue their world.
+
+Monster Puzzle is a puzzle game similar to Zoo Keeper or Bejeweled. You have a set grid of monsters that can be dragged with the stylus either left and right or up and down (up to a maximum of three spaces). If you match at least three monsters horizontally or vertically, that row of monsters will disappear. If you match up a 2x2 square of monsters, a 4x4 square of monsters will be deleted.
+
+Unlike Zoo Keeper and Bejeweled, the goal is not to just eliminate monsters. Instead, players must 'claim' spaces where the monsters lie, which is done when you clear a set of monsters. In most stages, you will just need to claim the space once (which turns it orange), but in later stages, you will need to claim space twice (which turns orange spaces to red). After a certain percentage of space is claimed, the player moves onto the next stage.
+
+The game can also be played in versus mode with a friend. In this mode, the player who runs out of time first is the loser. Time can be added by continuing to clear monsters. If you clear multiple monsters simultaneously, a rock will appear on the opponent's screen which makes it more difficult for them to clear monsters.

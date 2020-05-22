@@ -1,0 +1,1 @@
+ Joust is an arcade game developed by Williams Electronics and released in 1982. It is a platform game that features two-dimensional (2D) graphics. The player uses a button and joystick to control a knight riding a flying ostrich. The object is to progress

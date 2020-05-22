@@ -1,0 +1,1 @@
+A basic racing game in which you have to finish within the time limit and reach the finish with a given ranking. You 'll start as the last driver in the field and you will have to fight your way forward by over taking your competitors. The number of cars you 'll have to pass will increase each stage. The car has two gears, low and high and tends to slip in curves. 

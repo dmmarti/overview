@@ -1,0 +1,1 @@
+ Sky Kid is a 2-D scrolling shooter type of game. You play as the character Sky Kid. Sky Kid flies around in a bi-plane and is assigned specific targets during the missions. These missions involved bombing specific targets. This would seem easy, however, t

@@ -1,0 +1,1 @@
+ A one-on-one wrestling game from Taito. The player competes against other wrestlers around the world in a tournament. Use special moves such as bouncing off the ropes, jumping off the turnbuckle, and even wrestle outside of the ring.

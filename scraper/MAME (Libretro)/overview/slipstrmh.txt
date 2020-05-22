@@ -1,0 +1,1 @@
+ Slipstream is a sprite-based Formula One racing game featuring four different race tracks; Germany, Japan, Australia and the obligatory Monaco.players can chose to race in any one of eight different F-1 racing cars, with each offering different levels of

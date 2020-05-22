@@ -1,0 +1,1 @@
+ In City Bomber, the player is in pursuit of a gang of criminals. In order to keep the criminals from escaping, the player must reach checkpoints within a specified amount of time. At the start of the game, the player's car can shoot missiles at enemy vehi

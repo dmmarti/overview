@@ -1,0 +1,1 @@
+Soccer King is an action oriented, side-scrolling soccer game. The player can either play a single match against the AI or a human opponent or create a league with up to six teams. Gameplay is action oriented and the controls offer only basic functions like shooting or passing. It is possible to set how many minutes a match plays out. 

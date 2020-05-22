@@ -1,0 +1,1 @@
+ A vertical shoot 'em up developed by Toaplan.The player starts out with an automatic laser rifle that fires in whichever of the eight directions the player is moving. By picking up C icons, the player can switch between this and a more powerful spread gun

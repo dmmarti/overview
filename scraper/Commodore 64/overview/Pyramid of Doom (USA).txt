@@ -1,0 +1,1 @@
+Number 8 in the Scott Adams adventure series. On an Egyptian treasure hunt, you find yourself deep inside a recently discovered pyramid. Find all the treasures and escape alive! This still uses the same simple 2-word parser as the other ones in the series, and is of moderate difficulty.

@@ -1,0 +1,1 @@
+In Sport of Kings up to four human players can manage a successful horse racing stable. Choose which races to enter your horses into, and which jockeys to hire for them. Details of each horse and jockey's form, plus the conditions, should be used to help you make the right choices. After this, races are displayed from a side-view perspective.

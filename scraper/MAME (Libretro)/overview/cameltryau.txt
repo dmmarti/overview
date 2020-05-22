@@ -1,0 +1,1 @@
+ The player must guide a ball through a number of mazes, rotating the maze through 180 degrees to get the ball to move in the desired direction - much like the bonus levels in the Sega Megadrive console title, 'Sonic the Hedgehog'. Each maze must be comple

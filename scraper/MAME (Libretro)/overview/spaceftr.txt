@@ -1,0 +1,1 @@
+ You control a ship that fires at a cannon surrounded by three oppositely rotating energy rings of twelve segments each. When a clear line of fire is open, the cannon fires back at your ship with a big "fuzzball". Three sparks start off on the rings, but e

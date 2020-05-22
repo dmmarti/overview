@@ -1,0 +1,1 @@
+Lazer is an education game in which the player must solve sums. A laser beam will shoot and destroy blocks if the player doesn't answer in time.

@@ -1,0 +1,1 @@
+ The player controls a spaceship battling alien spacecraft. Like other early similar arcade games, it is controlled by four buttons: rotate left, rotate right, thrust and fire. The game was particularly unique in that the player could choose different upgr

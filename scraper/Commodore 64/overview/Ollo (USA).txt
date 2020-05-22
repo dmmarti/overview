@@ -1,0 +1,1 @@
+In this game, players navigate a spaceship, using its built-in laser to destroy enemy ships in the process. Once players destroy enough enemies in a level, they can proceed to the next level where the enemies are much tougher. When the player comes into contact with any of these ships, a life is lost. When all lives have been lost, the game is over.

@@ -1,0 +1,1 @@
+ Unlike in most other shoot 'em ups, there are no power-ups. All weapons are available from the start. Weapons can 'level up', however, becoming more powerful as the player uses them to score points. There are a selection of 7 weapons that can be used at a

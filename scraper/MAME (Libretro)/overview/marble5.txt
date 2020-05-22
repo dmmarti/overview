@@ -1,0 +1,1 @@
+ Marble Madness is an isometric platform game where the player manipulates an onscreen marble from a third-person perspective. The player controls the marble's movements with a trackball, though most home versions use game controllers with directional pads

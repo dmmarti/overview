@@ -1,0 +1,15 @@
+Game no Kanzume Otokuyou is a compilation of Sega Game Toshokan games released for the Sega Mega Drive, a "digest" version of the Mega-CD collections Game no Kanzume Vol.1 and Game no Kanzume Vol.2. It was released exclusively through the Japanese Sega Channel at some unknown time, and the current ROM we know of was presumably found on the disc containing a certain version of the Dreamcast Web Browser; this has yet to be confirmed (TODO). 
+ 
+Games included : 
+- 16t 
+- Flicky 
+- Putter Golf 
+- Hyper Marbles 
+- Shi no Meikyuu 
+- Medal City 
+- Paddle Fighter 
+- Ikazuse! Koi no Doki Doki Penguin Land MD 
+- Pyramid Magic 
+- Robot Battler 
+- Teddy Boy Blues 
+- Aworg 

@@ -1,0 +1,1 @@
+ Your ship moves horizontally at the bottom of the playfield. Shoot at alien ships in the rows at the top and as they dive-bomb you.

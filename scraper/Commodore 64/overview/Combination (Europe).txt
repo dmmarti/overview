@@ -1,0 +1,1 @@
+Combination Wars is an education game in which the player must solve equations under pressure. Torpedoes are moving towards the player with equations on them. They must be destroyed by typing in the answer.

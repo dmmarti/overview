@@ -1,0 +1,1 @@
+ Cyberball is an Atari Games arcade game of 7-man American football, using robotic avatars of different speeds, sizes, and skill sets. The game replaced the standard downs system with an explosive ball that progresses from "cool" to "warm", "hot", and "cri

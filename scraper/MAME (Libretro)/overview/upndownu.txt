@@ -1,0 +1,1 @@
+ Up'n Down is an abstract racing game viewed in a forced third-person perspective.[-LF-]The goal of the game is to collect coloured flags, while avoiding the enemy vehicles and obstacles that litter each course. The flags needed are displayed at the top of

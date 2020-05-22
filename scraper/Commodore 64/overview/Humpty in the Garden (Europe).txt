@@ -1,0 +1,1 @@
+Humpty Dumpty now has his own garden. His task is to make flowers grow before the weeds outgrow them. He does this by running around and turning on water valves to release the water into the pipes. Turning them off blocks the water from proceeding through the pipes. When Humpty waters enough flowers, he proceeds to the next level. The game ends when weeds outgrow the flowers.

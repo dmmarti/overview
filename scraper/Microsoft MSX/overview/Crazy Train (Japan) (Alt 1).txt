@@ -1,0 +1,1 @@
+The player is a lineman for the Crazy Train railroad. The player has to switch the tracks before the train derails or crashes. Further more, the player must avoid enemy trains and try to get them crash head-on. 

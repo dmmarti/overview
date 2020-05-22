@@ -1,0 +1,1 @@
+Trevor Brooking's World Cup Glory is a football managerial game that allows you to take charge of England to win the FIFA World Cup. You can select your squad and train them before moving onto the match. This is shown as lines of commentary with a clock ticking away. The game is text only with no graphics and the keyboard is used to enter your decisions.

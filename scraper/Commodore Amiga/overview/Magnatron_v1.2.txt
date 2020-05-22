@@ -1,0 +1,7 @@
+Magnatron - throw asteroids and spherical objects at alien ships!
+
+You control the artificially intelligent magnatron droid. The magnatron uses 
+electrospacial generators to move around space. The magnatron was principally 
+designed as an asteroid displacement droid and as such doesn't have any real 
+weapons. it does however have a powerful influence device capable of moving 
+quite heavy objects around in space.

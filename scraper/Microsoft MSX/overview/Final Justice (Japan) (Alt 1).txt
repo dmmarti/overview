@@ -1,0 +1,3 @@
+Final Justice is a vertical shoot 'em up game developed by Compile. In Final Justice, you control a space craft that has to defend the earth against an invasion of aliens. You have to navigate your space ship around various obstacles and destroy all sorts of enemies at the same time.  
+ 
+At the end of each round an end boss has to be defeated before you can continue to the next round. 

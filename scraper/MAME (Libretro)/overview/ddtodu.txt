@@ -1,0 +1,1 @@
+ Tower of Doom is a side-scrolling arcade game featuring four different characters (cleric, dwarf, elf, fighter) fighting iconic Dungeons and Dragons monsters. Bosses include a troll that regenerates unless burned, a large black dragon, the dreaded Shadow El

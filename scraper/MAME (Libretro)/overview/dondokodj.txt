@@ -1,0 +1,1 @@
+ The players are bearded dwarves who must defeat various enemies by using a mallet to stun them. Players can pick stunned enemies up and throw them at other enemies to destroy them. Destroyed enemies leave behind fruit which can be collected for points. On

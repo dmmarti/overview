@@ -1,0 +1,1 @@
+ The goal of the game is to shoot at targets, while carefully avoiding running out of bullets. Three rows of targets scroll across the screen in alternating directions; these include rabbits, ducks, owls, and bonus items. If a duck target crosses the botto

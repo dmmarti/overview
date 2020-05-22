@@ -1,0 +1,3 @@
+This turn-based WWII strategy game includes three campaigns involving the German Wehrmacht, the Red Army and the Western Allies.  Players direct their troops, historically accurate tanks, artillery, naval, and aviation units, to engage enemy units, capture cities, and establish supply lines. Hex-maps cover terrain ranging from the deserts of North Africa to the frozen Russian tundra.  
+
+In addition to three single-player campaigns, Panzer Tactics DS also has multiplayer support.

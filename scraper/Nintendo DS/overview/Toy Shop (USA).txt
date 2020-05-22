@@ -1,0 +1,5 @@
+Toy Shop is a simulation game in which you take the role of two siblings, Mel and Mark, who have inherited their grandfather's toy shop. You have 3 years to make it profitable or the shop will be donated to the city.
+
+Mel and Mark are in charge of all aspects of the shop, from building the toys to managing the shop's finances. You can customize your shop by organizing the shelf space or adding seasonal decorations.
+
+The city is available for you to explore it, where you can meet interesting characters who may give you special quests. Through these quests you'll learn how to build new toys which are key for you to expand your toy empire.

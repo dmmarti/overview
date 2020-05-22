@@ -1,0 +1,1 @@
+In this vertical-scrolling shoot-em-up created with the Shoot 'Em Up Construction Kit, players navigate their ship through two stages, using its built-in lasers to destroy incoming enemy ships that fire at them. When players collide with an enemy ship or they have been hit by their fire, a life is lost. The game ends when all lives are lost.

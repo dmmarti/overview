@@ -1,0 +1,1 @@
+ As in Pac-Man, the objective of Pac-Mania is to score as many points as possible. The player controls Pac-Man and attempts to eat all the pellets in a maze, while avoiding being caught by the ghosts who chase him around it. The player can eat power pellet

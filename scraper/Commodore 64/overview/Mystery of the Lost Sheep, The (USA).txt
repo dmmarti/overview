@@ -1,0 +1,1 @@
+You are a farmer and arriving at your field one morning you have discovered all your sheep have disappeared and they all must be found. In this text adventure you read descriptions of each location on the screen and you type in commands with the keyboard to control the farmer and interact with the locations.

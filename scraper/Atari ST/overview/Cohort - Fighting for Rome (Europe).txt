@@ -1,0 +1,1 @@
+Fighting for Rome is a real-time war game of tactical battles between Roman legions. Battles are fought on one of three different terrain maps with armies of selectable size and content. Units available include foot soldiers, archers, and cavalry. Game play can be paused to give orders, and generals may rally troops. 

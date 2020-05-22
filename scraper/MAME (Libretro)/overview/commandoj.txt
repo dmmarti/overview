@@ -1,0 +1,1 @@
+ Commando is a vertically scrolling shooter staring an elite soldier named Super Joe. The object is to help Super Joe blast through enemy lines, destroying compounds and rescuing hostages along the way, over the course of 16 stages. Armed with a machine gu

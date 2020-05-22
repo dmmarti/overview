@@ -1,0 +1,1 @@
+ A fast moving platform game in which the player controls the Indiana Jones-esque and unfortunately named 'Edward Randy'. The levels are an inventive mix of standard platform action and 3-D scrolling levels; the latter usually having the player driving a j

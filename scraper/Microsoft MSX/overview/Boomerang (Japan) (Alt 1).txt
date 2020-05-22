@@ -1,0 +1,1 @@
+You control a boy walking through a platform maze trying to collect items while being chased by enemies. They can be killed by using the  boomerang. The boomerang has a limited range and, if thrown, must always picked up. It will not return to you. 

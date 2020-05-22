@@ -1,0 +1,1 @@
+Fantastic Soccer is a one or two player football game. There are a couple of options to choose from which include how many players, length of game, formation and a choice of 8 teams to choose from. Once you begin the game it is a over-head view of a part of the pitch. The joystick is used to control the players and fire button to pass or shoot.

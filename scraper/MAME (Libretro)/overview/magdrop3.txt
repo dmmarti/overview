@@ -1,0 +1,1 @@
+ Control a clown to pull in and throw back balloons hurled from the top of the screen. If you line up three or more balloons of the same color in a vertical row, they will burst. If you're not quick enough, the balloons will squash the clown and the game i

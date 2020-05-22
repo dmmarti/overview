@@ -1,0 +1,5 @@
+Color Cross is a picture puzzle game similar to Picross, where the objective is to fill all the correct cells in a grid to form a picture. Each row and column has a series of numbers as clues, indicating the groups of continuous cells that must be painted. The player must use logic to discover the remaining spots and complete the figure.
+
+The main difference this time is the addition of multiple colors per picture, instead of the monochromatic approach of other titles. Players can select back and forth between colors by clicking on the palette at the side of the screen. Cells can be painted individually or as a group by clicking and dragging across them with the cursor. In each color option, cells can be marked with an X to point them out as incorrect places. Any mistakes are corrected automatically, affecting the final score.
+
+New levels are unlocked with each completed picture. They are organized by picture theme at the level selection menu. Every time a line or column is completed, the clue numbers become grayed out and a shower of candies, fairies and other theme-related items fall from it to the bottom of the screen.

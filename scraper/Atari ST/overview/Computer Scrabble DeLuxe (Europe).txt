@@ -1,0 +1,1 @@
+Scrabble De Luxe is the computer version of the classic word game Scrabble. It follows the official board game rules. It can be played at 8 different difficulty levels.  The main difference with Computer Scrabble is that the De Luxe version has enhanced graphics, a larger dictionary and a clock timer. 

@@ -1,0 +1,1 @@
+TwinBee is a vertical scrolling shooter. The players control cartoon-like spacecrafts with anthropomorphic arms, player one being TwinBee and player two being WinBee. The spacecrafts can be moved in all 8 directions, with one button for regular shooting flying enemies and one button for dropping ground bombs. 

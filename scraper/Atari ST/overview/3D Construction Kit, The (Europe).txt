@@ -1,0 +1,3 @@
+This package allows users to create their own 3D worlds, using technology related to the Freescape universe seen in games such as Castle Master and Driller / Space Station Oblivion. Pull-down menus allow objects to be created and positioned, with movement loops and simple animation defined. A network of rooms can be created.
+
+A simple BASIC-style language is integrated to allow puzzles and conditions (open a door when a key in placed into it, for example). You can also include enemies which must be shot. At any moment you can enter the gameworld to test it.

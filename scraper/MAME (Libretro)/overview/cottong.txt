@@ -1,0 +1,1 @@
+ Loco-Motion is basically an updated version of a sliding block puzzle game where the player can move pieces horizontally or vertically within a frame to complete a picture. However, the presence of a constantly moving locomotive complicates matters. The p

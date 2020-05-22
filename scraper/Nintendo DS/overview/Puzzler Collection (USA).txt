@@ -1,0 +1,13 @@
+Puzzler Collection is a collection of thousands of puzzles in four categories: Fitword, Crossword, Sudoku and Wordsearch. In Fitword, the words shown must be placed in a grid. In Crossword, clues are given and the player must input the word that matches the description. In Sudoku, numbers are placed in a grid in such a way that no duplicates occur horizontally and vertically. In Wordsearch, the words shown have to be crossed out in a grid of letters. 
+
+There are several game modes and difficulty levels to choose from. The Nintendo DS is held like a book during gameplay, and the player can either play lefthanded or righthanded (which determines on which side the player holds the Touch Screen).
+
+The game has five game modes which include:
+
+1. Simply Puzzle, this lets the player pick any type of puzzle for a quick challenge without keeping score.
+2. Quick Blast, which offers a number of puzzles based on the amount of time the player has. This can be set to show up daily, for instance for a daily bus trip.
+3. Fast &amp; Fun, which adds a timer to increase pressure on the player.
+4. Head to Head, a two-player challenge.
+5. Tournament, in which the player solves a series of puzzles increasing in difficulty from Easy to Pro.
+
+In the European version, all puzzles are localized.

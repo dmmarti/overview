@@ -1,0 +1,1 @@
+ The game is a first person rail shooter that is played with a light gun and a foot pedal. The foot pedal is used to move out from behind cover to begin shooting. While the pedal is released the player is moved behind cover so that he can reload without be

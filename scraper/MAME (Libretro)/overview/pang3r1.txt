@@ -1,0 +1,1 @@
+ Your character is locked inside an art museum and has to avoid bouncing balloons of various sizes, most of which split when hit. The player has the option of "normal" play with stages or "panic" mode in which balloons will appear continuously. In normal m
