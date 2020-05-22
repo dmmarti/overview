@@ -1,0 +1,1 @@
+Paratrooper is a single player shoot-em up game in which the aim is to achieve a high score.

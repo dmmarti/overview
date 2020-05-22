@@ -1,0 +1,1 @@
+Basic game in which you have to drop bombs on a rectangular shaped object that is supposed to be a submarine. 

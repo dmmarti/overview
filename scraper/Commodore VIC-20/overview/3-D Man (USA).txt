@@ -1,0 +1,1 @@
+Here's your chance to play Pac-Man in 3D. You view the action from the eyes of Pac Man in a 3D maze. On the screen as well is your score, lives, an overhead view of the maze and how many pills you have to collect. Be careful what's around the corner. It could be a ghost.

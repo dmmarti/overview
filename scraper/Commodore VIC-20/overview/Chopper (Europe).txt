@@ -1,0 +1,1 @@
+Using the joystick or keyboard, you fly a helicopter over fixed terrain bombing enemies including tanks, missile launchers, and convoys who will try to destroy you mid-air. From time to time, a rocket homes in on your location and you must destroy this rocket before it reaches you. You start out with five lives. Lose all of them and the game is over.

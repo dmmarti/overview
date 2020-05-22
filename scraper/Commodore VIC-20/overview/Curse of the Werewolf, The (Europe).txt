@@ -1,0 +1,1 @@
+Curse of the Werewolf is a basic text adventure from Terminal Software in which an evil werewolf has cursed your town, and it's your job to stop the curse once and for all.

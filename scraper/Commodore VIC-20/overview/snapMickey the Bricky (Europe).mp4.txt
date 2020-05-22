@@ -1,0 +1,1 @@
+Mickey the Bricky is a Donkey Kong inspired platform game The objective is to pick up his lost tools on the building site and get to the top of the screen via ladders, avoiding rolling barrels along the way. Five different level layouts are available as the player advances through the game.

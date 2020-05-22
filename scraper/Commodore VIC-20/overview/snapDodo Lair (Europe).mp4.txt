@@ -1,0 +1,1 @@
+Dodo Lair is a  game that borrows heavily from Defender, but also has it's own gameplay mechanic. The idea is to stop the purple aliens reaching the right edge of the screen. There are also barricades that build up and you must shoot them or avoid running into them

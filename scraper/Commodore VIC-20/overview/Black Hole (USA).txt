@@ -1,0 +1,1 @@
+Black Hole is an action game, with a star-shaped black hole in the middle that tries to suck you in. Try to avoid being sucked in and shoot asteroids for points.

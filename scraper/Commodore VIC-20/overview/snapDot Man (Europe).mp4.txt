@@ -1,0 +1,1 @@
+Dot Man is a Pac-Man clone developed and published by Anirog Software Ltd. in 1983 for the Commodore VIC-20

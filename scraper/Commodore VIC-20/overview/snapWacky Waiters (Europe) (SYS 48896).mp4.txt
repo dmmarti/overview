@@ -1,0 +1,1 @@
+In Wacky Waiters you control a waiter that has to get from one end of the screen to the other to deliver drinks to the beckoning customers waiting there. Each level consists of platforms and elevators and you have to use the elevators to move across the level and up/down platforms.

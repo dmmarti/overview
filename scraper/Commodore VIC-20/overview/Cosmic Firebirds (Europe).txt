@@ -1,0 +1,1 @@
+A Galaxian clone written by John Shay and published for the Commodore VIC-20 by Solar Software

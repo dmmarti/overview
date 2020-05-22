@@ -1,0 +1,1 @@
+Caterpilla is a clone of the arcade game Centipede. A long slithering insect gradually moves down the playfield and must be shot one piece at a time before it reaches the bottom of the screen. The mushrooms dotting the screen can also be shot, and a menacing giant spider appears from time to time and lunges at you.

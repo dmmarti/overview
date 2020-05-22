@@ -1,0 +1,1 @@
+Medieval Joust is a jousting game in which you have to defeat various knights by landing a good hit. The better the knight defends himself, the more points the knight gets and the worse he defends himself the more points you get.

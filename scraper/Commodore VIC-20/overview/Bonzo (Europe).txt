@@ -1,0 +1,1 @@
+The game screen is presented as a series of levels connected by ladders (similar to Apple Panic), however, the player is required to collect boxes by running over them and avoid being captured by monsters.  Once a level is cleared , the value of the boxes increases on the next level.

@@ -1,0 +1,1 @@
+A computerized version of the popular card game bridge developed and published by Swedish software developer Handic Software AB for the Commodore VIC-20 in 1983.

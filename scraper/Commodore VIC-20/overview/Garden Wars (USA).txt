@@ -1,0 +1,1 @@
+Garden Wars is a fast paced, single-screen 8-way maze shooter, in which you play a rodent. Similar to Berzerk and other similar early maze shooters. Your goal? Earn as many points as possible by shooting and collecting stuff in a static, fixed-screen maze.

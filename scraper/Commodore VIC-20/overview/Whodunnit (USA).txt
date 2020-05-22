@@ -1,0 +1,1 @@
+Whodunnit is a murder mystery game for the Commodore VIC-20 which is loosely based on the board game Clue. It was published by Sophisticated Games in 1983.

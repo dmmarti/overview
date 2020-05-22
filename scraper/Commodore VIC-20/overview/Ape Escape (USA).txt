@@ -1,0 +1,1 @@
+Ape Escape was developed my Mike Riedel and Greg Carbonaro and published by Spectravideo in 1982. It is based on the arcade game Cosmic Guerilla, except in this game you have to to prevent terrorists in helicopters  from removing bricks in a building that has a giant gorilla on top of it. If the gorilla reaches the ground, the game is over.

@@ -1,0 +1,1 @@
+Astro-Command is similar to Missile Command, as you have to protect cities from getting destroyed.

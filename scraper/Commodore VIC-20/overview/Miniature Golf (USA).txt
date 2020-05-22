@@ -1,0 +1,1 @@
+A miniature golf game coded entirely in BASIC for the Commodore VIC-20. This was released in Canada as part of a compilation cassette if you purchased your VIC-20 from Canadian Tire.

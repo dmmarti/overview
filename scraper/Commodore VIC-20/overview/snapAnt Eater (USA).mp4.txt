@@ -1,0 +1,1 @@
+You are an ant trying to collect food located near a picnic basket at the top of the screen, and return it to your nest. You can dig tunnels through the ground below the surface. Your ant travels slower when it's digging instead of moving through existing tunnels. If you can trick an anteater into following you, you can dig out a rock and drop it on the anteater, destroying it.

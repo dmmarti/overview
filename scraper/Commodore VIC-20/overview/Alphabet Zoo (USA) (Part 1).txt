@@ -1,0 +1,1 @@
+Alphabet Zoo is a top-view educational game where the player races around a maze. It is up to the player to collect the letters scattered around. The maze also contains two teleporters that warp the player who uses them to a random spot.

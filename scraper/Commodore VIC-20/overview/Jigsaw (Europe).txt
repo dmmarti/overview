@@ -1,0 +1,1 @@
+A jigsaw puzzle game where you have to place the tiles so that they resemble the motive you get by pressing F1.

@@ -1,0 +1,1 @@
+Alien Soccer is a top view single screen paddle game where you must stop a ball that bounces around the screen, from going past your paddle. Your paddle is on the left of the screen and can move up or down and if the ball goes past then you lose one of five lives. Also on the screen are various aliens that are either static or move up or down and they deflect the ball when hit.

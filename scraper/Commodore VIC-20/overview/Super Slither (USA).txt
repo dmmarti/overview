@@ -1,0 +1,1 @@
+Get as many boxes as possible before the time (of 60 seconds) runs out in this variation of the popular Snake game genre. Some boxes will give more points than others.

@@ -1,0 +1,1 @@
+In Seafox, you control a submarine that must kill all hostile ships above and below the water. You have two types of torpedoes: one that fires to the right and one that fires up. You have a limited number of torpedoes and fuel units, so when you are running low be sure to watch for the green supply ship to release the dolphin that brings you fresh supplies.

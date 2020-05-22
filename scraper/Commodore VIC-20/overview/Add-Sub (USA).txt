@@ -1,0 +1,1 @@
+Add/Sub is a simple educational math game which centers around addition and subtraction. This game was developed by Thomas Philip Degnon and published by Boston Education Computing, Inc. in 1983.

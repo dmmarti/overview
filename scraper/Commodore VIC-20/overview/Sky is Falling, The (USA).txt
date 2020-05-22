@@ -1,0 +1,1 @@
+A clone of the 1978 Atari arcade game Avalanche developed and published by CBM for it's VIC-20 computer in 1981 as part of it's "Children's Fun Series". This game requires paddle controllers to play it.

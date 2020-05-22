@@ -1,0 +1,1 @@
+Ski! is a simple skiing game with two buttons that make the skier move left or right on the screen. The goal is to pass through twenty checkpoints on a downhill slope without hitting the flags or the edges of the screen.

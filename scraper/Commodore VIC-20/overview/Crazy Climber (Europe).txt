@@ -1,0 +1,1 @@
+The object of the game is to climb the scaffolding to the top, collecting all the flags along the way, before the time runs out. A part of the scaffolding will drop to the ground and will crush you if you are in the way. There are also balloons that you can grab onto, that will allow you to float down to a platform below you. Movement is by keyboard only. 

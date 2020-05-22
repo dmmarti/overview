@@ -1,0 +1,1 @@
+The game is a simple graphical 1st person maze game. Each move subtracts 1 from the total of your limited oxygen count.

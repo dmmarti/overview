@@ -1,0 +1,1 @@
+Despite its name, Astroiders is NOT a clone of Asteroids, but a rather simplistic fixed screen vertical Space Invaders/Galaxian inspired shooter but with Asteroids falling to the earth, as well as aliens. It was developed in 1984 by Pulsonic.

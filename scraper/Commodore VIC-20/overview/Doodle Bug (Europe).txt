@@ -1,0 +1,1 @@
+Doodle Bug is a clone of the arcade game, Lady Bug, itself a close relative of the original Pac-Man. Just like the yellow pill-eater, you guide your sprite around a maze populated by nasties, and can only escape once you've eaten all the pills in the maze.

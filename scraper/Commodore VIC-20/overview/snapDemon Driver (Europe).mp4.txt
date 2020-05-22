@@ -1,0 +1,1 @@
+In Demon Driver, the object is to race your car along a pre-defined track, running over cats to score points. If you come into contact with either side of the track, or are hit by barriers and boulders, the game ends. There are five skill levels, and movement is by keyboard only.

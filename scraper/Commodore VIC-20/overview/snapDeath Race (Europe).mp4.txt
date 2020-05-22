@@ -1,0 +1,1 @@
+In this racing game you control your racing car through different screens during night and day at high speeds. You must drive your car at fast speeds trying to overtake 70 cars before your 80 seconds are up. You have 3 lives to complete your goal. If you pass the first level the time gets less and less and you have to get quicker and avoid the other cars on the road.

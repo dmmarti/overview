@@ -1,0 +1,1 @@
+Log Run is Commodore VIC-20 game written by Mark Brennand and published in 1983 by Terminal Software. Log Run is a clone of the Century Electronics arcade game Logger, which itself is a version of Donkey Kong with the main character replaced by a bird.

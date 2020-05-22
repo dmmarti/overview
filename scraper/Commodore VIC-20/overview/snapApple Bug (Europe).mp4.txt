@@ -1,0 +1,1 @@
+In Apple Bug, you control a bug who is trapped in a maze with a worm, and the object of the game is to eat all the apples on screen without coming into contact with the worm that chases you around the maze. If the worm catches you, the game is over. Movement is by keyboard only, and there are three skill levels to choose from.

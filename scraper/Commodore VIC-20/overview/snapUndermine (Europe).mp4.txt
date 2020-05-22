@@ -1,0 +1,1 @@
+Undermine is a Breakout clone in which you steer a paddle to destroy as many bricks in a mine above water as possible, before the ball either hits a brick above the water and floods the mine or hits the green top.

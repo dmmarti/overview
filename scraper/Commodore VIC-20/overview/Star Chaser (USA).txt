@@ -1,0 +1,1 @@
+A basic game in which you have to wipe out as many stars as you can in the span of 60 seconds.

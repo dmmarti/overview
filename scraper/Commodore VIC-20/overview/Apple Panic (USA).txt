@@ -1,0 +1,1 @@
+Apple Panic is a platform game based on the arcade game Space Panic (1980, Universal) and ported to the Apple II by Ben Serki. You control a digger, armed with his shovel, and you must kill your opponents - the evil legged apples.

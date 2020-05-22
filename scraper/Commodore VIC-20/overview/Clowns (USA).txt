@@ -1,0 +1,1 @@
+Gameplay in Clowns shares some similarities with Breakout, but this time the bricks has been replaced with balloons that you get points for popping. To reach the balloons at the top of the screen you have to move a seesaw under a jumping clown. This will launch away the clown already standing on the seesaw, hopefully towards the balloons.

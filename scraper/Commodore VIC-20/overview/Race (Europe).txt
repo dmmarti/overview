@@ -1,0 +1,1 @@
+Car-Race is an one-on-one racing game. The goal is to drive 5 laps and win the 5th one.

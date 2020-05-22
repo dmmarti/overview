@@ -1,0 +1,1 @@
+A faithful clone of Namco's arcade hit Pac-Man for the VIC-20. The game however didn't last as it was pulled from the shelves due to a lawsuit from Atari, and was replaced by a lesser clone called Cosmic Cruncher.

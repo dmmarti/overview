@@ -1,0 +1,1 @@
+Alpha Blaster is a vertical shooter. You control a space fighter at the bottom of the screen which can scroll from left to right in order to avoid oncoming bombs and kamikaze attacks from alien invaders and to fire your own missiles to fight back!

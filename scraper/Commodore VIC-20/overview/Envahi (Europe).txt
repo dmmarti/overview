@@ -1,0 +1,1 @@
+Envahi is a side view fixed screen shoot 'em up where the player controls a helicopter and must defend a city that is being attacked by an invasion force. Next to the city is a large dam full of water that also has to be defended. The helicopter can be moved in all directions and shoots bullets upwards.

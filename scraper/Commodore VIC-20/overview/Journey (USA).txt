@@ -1,0 +1,1 @@
+In Journey you fly down a cavern and have to avoid the cavern walls. You also have to collect fuel to not run out of fuel.

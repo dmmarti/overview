@@ -1,0 +1,1 @@
+An action game, where you have to carefully take aim at an alien and shoot it down.

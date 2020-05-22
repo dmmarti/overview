@@ -1,0 +1,1 @@
+A Country Garden is a clone of Centipede.

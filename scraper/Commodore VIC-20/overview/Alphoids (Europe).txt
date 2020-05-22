@@ -1,0 +1,1 @@
+A keyboard only control game that is somewhat like a cross between Space Invaders and Galaxian, with some similarities to Centipiede and it's own gameplay mechanic throw in on top of it.. Produced by Romik Software in 1983. The game plays a rendition of the Star Wars theme while the game is playing.
