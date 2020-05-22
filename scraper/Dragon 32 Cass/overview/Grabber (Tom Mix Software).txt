@@ -1,0 +1,1 @@
+Grabber is a top view single screen maze game where the player moves a creature around the screen collecting treasure in the shape of bones over various levels. The screen has two mazes and the player may switch between either maze with the press of the fire button. The player then has to grab a piece of treasure and take it to the centre of one of the mazes.

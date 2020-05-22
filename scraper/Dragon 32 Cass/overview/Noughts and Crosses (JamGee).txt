@@ -1,0 +1,1 @@
+A three dimensional game of noughts and crosses or one or two players.Also includes a zero player option where the machine plays itself.

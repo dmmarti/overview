@@ -1,0 +1,1 @@
+Time Bandit is a Gauntlet-style arcade game with text adventure elements.

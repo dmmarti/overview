@@ -1,0 +1,1 @@
+Copta Snatch plays much like Konami's Super Cobra, only the helicopter you're controlling actually works a little more like a real helicopter. No more forced scrolling; here you can hover above a target or strafe back and forth above the landscape. Hovering lets you drop bombs, otherwise you fire forwards in the direction you're travelling.

@@ -1,0 +1,1 @@
+Storm is a clone of Atari's arcade hit, Tempest, but whereas that game used sharp vector graphics, this version is rendered in blocky text graphics.

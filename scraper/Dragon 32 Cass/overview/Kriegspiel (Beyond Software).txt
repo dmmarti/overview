@@ -1,0 +1,1 @@
+Kriegspiel is a classic turn based war game played out over a field of hexagons. It can be played by two players, or a single player combating the computer opponent. Each player has an army of infantry, light tanks and heavy tanks. The goal is to capture the enemy capital. Terrain features offers the possibility of planning the war and individual battles to gain an advantage.

@@ -1,0 +1,1 @@
+Strategic Command is a strategy game for two players that is played on a map with five islands. Each player has three bases which produce units: an army base, a naval base and a capital. The army and naval bases can only produce their own kind of units while the capital can produce both. To win the game a player has to take control of the capital of the enemy.
