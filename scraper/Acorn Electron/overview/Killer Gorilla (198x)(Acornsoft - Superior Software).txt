@@ -1,0 +1,9 @@
+Killer Gorilla is a four stage platform game set on a building construction site. Stages consist of girders, ladders, conveyor belts and elevators. The object of stages one, two and three is to reach the top of the screen where your girlfriend is guarded by the eponymous Killer Gorilla. On stage four the objective is to remove the rivets from the girders, causing the top of the building to collapse and the gorilla to fall. On all stages, items belonging to your girlfriend can be collected for extra points. When stage four is completed, play loops back to stage one. Killer Gorilla is a clone of Nintendo's Donkey Kong arcade game.
+
+On stage one, the gorilla rolls barrels down the screen. These can be avoided, jumped over, or smashed with a hammer that can be collected and carried for a short time. If a barrel reaches the flaming barrel at the bottom of the screen, it will sometimes become a fireball that rolls erratically along girders and up and down ladders.
+
+On stage two, conveyor belts that occasionally change direction carry trays of cement that are fatal to the touch. Fireballs appear from a central furnace. Ladders to the top level extend and retract. There is again a hammer that can be used to smash the fireballs and the cement trays.
+
+On stage three, the gorilla throws bouncing I-beams that must be avoided. Constantly moving elevators must be jumped on to progress.
+
+On stage four, eight rivets hold the top of the building together. Running or jumping over each rivet makes it disappear. When all eight rivets have been removed, the stage is complete, and the game loops back to stage one, speeding up and adding barrels and cement trays.
