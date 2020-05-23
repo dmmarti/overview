@@ -1,0 +1,1 @@
+Jogger is a clone of Frogger, where instead of a frog, you play a jogger who has to cross a busy road and a river filled with crocodiles in time. After five joggers are safe at home, the game starts over at a higher pace.

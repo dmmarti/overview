@@ -1,0 +1,5 @@
+4KKong is an Oric port of Nintendo's Donkey Kong Dual Screen handheld game.
+
+The game is all about saving a damsel in distress captured by a giant ape. The player needs to climb up a construction site, avoid metal platforms and barrels thrown by the enemy, and finally activate a crane in order to dislodge some hooks until Donkey Kong falls down.
+
+Technically the game is trying to look exactly like the original LCD screen based game, with fixed position "sprites" instead of smoothly animated elements. The game itself plays like the original, using the arrows keys to move the character around and space to avoid the obstacles.

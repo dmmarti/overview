@@ -1,0 +1,15 @@
+Ultima Zone is an arcade action game that consists of three stages with different gameplay.
+
+Battlezone: The player controls his space craft left and right and has to shoot monsters knows as walkons that appear in front of him. Beneath the player are three cages with bouncing ball-like creatures called brunes. When a walkon is killed it releases a fireball that when hitting a cage releases the brunes. To complete the stage the player has to kill all walkons and brunes while avoiding being hit by the brunes or the projectiles that are dropped. The player can use the 'Radoy Shield' to protect their ship for a limited time. Shield energy is shown by the yellow gauge on top of the screen. Destroying a walkon resets the gauge.
+
+The Trap: The player controls his space craft like before but in front of him he has only one cruiser (which is called henk-class) and three brunes (stationary this time). To kill the brunes the player manipulates the cruiser by shooting at its control panels. The left panel makes it go up, the right down and the central fires the cruiser's lateral maser. This stage must be cleared within a limited amount of time (the timer is the red gauge).
+
+Orbit Runner: Similar to Frogger the player guides a missile through orbital defences with the aim of destroying a walkon spy satellite. The player can move left, right and forward but not shoot.
+
+Once all three stages has been completed the game restarts at a higher level.
+
+The player controls the ship with the following keyboard keys :
+'Ctrl' key : move left.
+'A' key : move right.
+'Return' key : Fire (Stage 1 & 2) or Accelerate (Stage 3).
+'Del' key : Deploy the Radoy Shield (Stage 1).

@@ -1,0 +1,11 @@
+Don Juan challenges the player to reach the fame of the legendary seducer of women. There are five girls to seduce:
+a dynamic redhead;
+a mysterious brunette;
+a night-loving brunette;
+a volcanic brunette;
+a voluptuous blonde.
+The player starts with 1200 pounds (or 9000 francs) of wealth and 0 points on the lovometer. To increase the lovometer's score, the player must enter single keywords (verbs in infinitive). Each word represents an idea, enabling player to tell the lady about himself, pay her compliments, or make suggestions. Which words are successful depends on the girl's character. Several keywords lead to menus to specify the idea more precisely (for example, 5 menu items representing locations with different prices are shown on the word TRIP). The girl's reaction to a keyword is shown through her facial expression (smile, wink, kiss, etc.).
+
+But seducing is not easy, because certain rules are in effect and unforeseen events can occur. The same word cannot be entered more than 3 times if it was used successfully, nor can the player see the sub-menus more than 3 times. An unsuccessful word may become successful later, however. Entering HELP or WORDS gives hints and a list of the game's vocabulary, but a fee must be paid for their use. Among the possible events are the appearance of a rival who steals the player's beloved. In addition, some tragic event may occur with the girl, such as her dog being eaten by bigger one, an acne attack, a toothache, losing her job, etc. In this case, the player should cheer her up with the right keyword.
+
+There are 3 difficulty levels. The player wins if he obtains a score of 500 for level 1, 700 for level 2, and 800 for level 3.

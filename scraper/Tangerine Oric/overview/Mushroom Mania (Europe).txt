@@ -1,0 +1,3 @@
+Mushroom Mania is a shoot 'em up that clones the Centipede game style.
+
+The player must shoot at a giant centipede that moves down the playing field and can win additional points for shooting the mushrooms. The player must have care with the spiders, and with an indestructible enemy, the "hungry Pacperson".

@@ -1,0 +1,9 @@
+Loki is an arcade space shooter, in which the player controls a single spaceship fighting against waves of enemy ships.
+
+The player (named Loki in the introduction) starts out skimming low over a scrolling planet surface, while being attacked by pairs of enemies coming from the horizon. The player ship has dual 'pew-pew' cannons, aiming in the center of the screen without crosshairs, hitting an enemy will destroy it - adding to the current score, but the resulting debris has to be avoided by quickly sliding sideways as the remains pass by. If you miss completely, the enemies fly past the bottom/sides of the screen, but new will appear on the horizon, until the first three waves are over, when the scene is changed.
+
+After the surface skimming on the first planet levels, the next levels are in space, which means more vertical movement is used for aiming. Each type of enemy ship is also accompanied by a unique sound.
+
+Eight waves of enemies are to be fought off, and then a new 'universe' is loaded, with more enemies looking for revenge. The attacks go on as long as you have ships, of which there are 5 in total. (The number for 'universe' has four digits, so it may be up to 9999 levels, if anyone could ever get that high.)
+
+There is no ship HUD, the interface is for score keeping, remaining ships and waves/levels. A highscore is kept from previous games, but no hall-of-fame list.

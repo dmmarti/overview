@@ -1,0 +1,3 @@
+Not to be confused with that other Frogger clone, Road Toad, this is one of the earliest games released by what was to become Ocean Software.
+
+As a Frogger clone, the 16 K Spectrum version has only the bare necessities. There is the road, the cars and the logs in the river to jump on. The 48K Oric version adds (on higher levels) both a snake, turtles and a crocodile, but still no way to jump back once you've jumped forth.
