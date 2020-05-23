@@ -1,0 +1,13 @@
+Description 
+ 
+Commanding of one of Earth Federation's robot-controlled battle cruisers, the player must protect Earth from an invasion of unidentified flying objects. 
+ 
+The ship is equipped with a laser cannon and a force field. The force field energy is drained when the ship's lasers are fired (by pressing the action button). The direction of the lasers is shown by a white dot in the force field, which rotates to aim in the direction the ship is moving. 
+ 
+There are three types of UFO's. The first one drifts randomly in space. The second, the Hunter-Killer, can detect the player's spaceship, linking with another one of the same type when it happens. The third one is a Light-speed Starship armed with computer-guided missiles. 
+ 
+The UFO's can be destroyed by laser blasts or by entering in touch with the force field in the player's ship. If the later happens, the force field energy is also drained. 
+ 
+The ship travels at half-speed when its force field is recharging. It goes from black (when depleted) to blue (when fully charged). The ship is vulnerable until the force field is completely recharged. 
+ 
+The player will earn 1 point for each random drifter destroyed, 3 points for each Hunter-Killer and 10 points for each Light-speed Starship. 

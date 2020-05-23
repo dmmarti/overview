@@ -1,0 +1,1 @@
+A simple maze game in which you have to find your way out of a 3D maze, having been told where the exit is and where you are.

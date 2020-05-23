@@ -1,0 +1,1 @@
+	An Asteroids clone.  You control a spaceship in a planetoid field, trying to avoid hitting them and at the same time break them into smaller pieces with your space gun.  Your spaceship can turn on its axis, thrust forward, and escape from tight situations using the hyperspace.  At times an alien spaceship appears and fires a cluster bomb you must also avoid.

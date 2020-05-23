@@ -1,0 +1,1 @@
+Invaders is a Space Invaders clone: In the game the player controls a gun which can move left and right to hide behind bunkers, then shoot at the advancing ranks of aliens; watch for their mothership. The game includes ten difficulty levels and the player

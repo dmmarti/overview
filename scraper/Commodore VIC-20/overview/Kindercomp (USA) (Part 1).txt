@@ -1,0 +1,1 @@
+An early learning game for kids aged 3-8. This program is a collection of 6 learning games: Draw, Scribble, Names, Sequence, Letters and Match. KinderComp helps children improve their reading and counting skills as well as familiarizing them with the computer keyboard.

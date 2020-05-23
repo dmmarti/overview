@@ -1,0 +1,1 @@
+	A computer conversion of the popular board game, play against the computer with a choice of nine skill levels or against a friend with the computer acting as umpire.    There's a few extra features, including an action replay enabling the player to cycle backwards or forwards through each move, resuming play from any point and the option of setting up custom starting positions.
