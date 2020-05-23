@@ -1,0 +1,5 @@
+Journalist Nicole Rankvist receives a letter from Robert, her archaeologist father, describing the discovery of the key for a powerful artifact called the Crystal Portal. When he goes missing, Nicole must find the scattered pieces of the key around the world.
+
+The Mystery of the Crystal Portal is a hidden object that replaces the traditional list of objects names with a different gameplay mechanic. The player has to click on certain objects in the scenery that open a circle around it with photographs of items that must be found and dragged to it. After picking all the required stuff, some of these container objects disappear to reveal a key item underneath them.
+
+Some of the objects have to be collected in one screen to be used in another place (for example, finding matches outside the house to light a fireplace inside). At the end of each stage/location there's a unique logic puzzle game to be solved, involving some of the objects that the player picked up.

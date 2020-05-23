@@ -1,0 +1,6 @@
+The goal of the game is to move the alien to its destination. The alien is trapped in an array of cubes. The player can move the alien and the cubes. The alien can be moved in all four directions based on empty spaces available around him. Cubes can be moved only in the directions indicated by the arrow marks on the cubes. So the player has to move the alien and the cubes wisely to make path for the alien to collect the spare parts and other interesting elements in the world. 
+
+Features 
+â€¢	Three difficulty mode (Easy, Medium & Hard)
+â€¢	40 levels in each mode 
+â€¢	Totally 120 levels

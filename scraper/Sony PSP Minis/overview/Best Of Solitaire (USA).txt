@@ -1,0 +1,1 @@
+This is a collection of several Solitaire games including Freecell, Spider, Pyramid, and Klondike. Players can choose from a variety of background images (e.g., deserts, beaches, and sunsets) to use during the game.

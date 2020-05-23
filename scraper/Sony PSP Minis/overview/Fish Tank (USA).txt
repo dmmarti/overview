@@ -1,0 +1,2 @@
+Fish Tank is a first "Match-3" game that not only offers lots of fun with finding groups of fishes in the same colors on the grid, but also offers player way to navigate new swimming fishes into desired place on the grid. 
+Because of that you are not only entertained by normal matching game mechanics but also with dynamic, reflex based gameplay!

@@ -1,0 +1,1 @@
+Mecho Wars is a turn-based strategy game, similar to the GBA title Advance Wars.nnThe game sports three gameplay modes: single player (campaign/stage select), a hot seat type multiplayer and multiplayer over Wi-Fi (scheduled to be released in an upcoming update).

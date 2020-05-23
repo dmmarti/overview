@@ -1,0 +1,5 @@
+HISTORY Egypt Engineering Empire allows players to build their own empire from its foundations to the height of its power. Acting as the leader of a territory from the Egyptian Empire, players manage all aspects of its rise, from economic growth to political power, the development of armies, and expansion into other regions by war and diplomacy. 
+
+Empires are controlled from three main views: the Campaign Map shows the entire game world, including mountains, forests, coastlines, oceans, rivers, cites, and armies. The City Map gives players an overview of the structure and role of a city within the empire, and provides a basis for economic decisions. The Battle Map is to be used when diplomacy has run its course or when a city is being attacked, resulting in turn-based combat. 
+
+All nations, cities and armies were carefully researched to ensure historical accuracy. The game is accessible for new users, while offering deeper gameplay for expert players.

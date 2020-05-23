@@ -1,0 +1,11 @@
+Blast Off is an interstellar arcade game featuring gravity fields, lost astronauts and bizarre planetary systems. Use your rocket ship to rescue astronauts and carry them through the warpgate to safety. But be careful! The ever-present force of gravity can help you on your journey, but can also bring you crashing down. 
+
+
+- 45 missions across four difficulty settings
+- Planets and Asteroids gravity attract the ship, allowing players to float around the level
+- Black Holes attract the ship with even more ferocity
+- White Holes have a reverse gravity field, pushing the ship away
+- Mission success is ranked on remaining fuel and air, astronauts collected
+- Awarded Silver, Gold or Brick medals based on final mission outcome 
+
+Good luck, and Blast Off!

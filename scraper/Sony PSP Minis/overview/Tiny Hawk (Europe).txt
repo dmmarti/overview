@@ -1,0 +1,1 @@
+Tiny Hawk is a 2D platform game with simple controls and fast arcade feel, where the player must collect the higher number of soda cans in the shortest possible time. The difficulty comes with the impossibility to stop: player is only able to turn and jump.

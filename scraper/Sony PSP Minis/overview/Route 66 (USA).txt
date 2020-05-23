@@ -1,0 +1,1 @@
+Route 66 is a straightforward hidden object game, where the objective is to find all the items from a list at the bottom of the screen, on picturesque locations around the United States filled with assorted paraphernalia. The hint button is a badge at the bottom-right, that shows the position of one of the required objects when activated.

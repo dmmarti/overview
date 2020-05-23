@@ -1,0 +1,10 @@
+Formerly known as Rocket Racing, Aero Racer is a single-player top-down arcade-like futuristic speed racer entailing a competition between colored neon rocket ships.
+
+The defining challenge of the game lies in controlling the momentum of the racing craft by using rear jet-boosters to grind and thrust off track boundaries, resulting in increased acceleration. Unlike other contemporary racing games, there are no weapons or damage meters; players must maintain a single minded effort to beat opponents to the finishing line.
+
+Players can enjoy the following four different game modes: 
+
+1. Campaign: success in races, challenges, and trials enables players to progress through increasingly difficult tiers.
+2. Grand Prix: a set of interconnected races.
+3. Quick Race: instant pick-up and play mode.
+4. Party Mode: players take turns to compete in single-player challenges.

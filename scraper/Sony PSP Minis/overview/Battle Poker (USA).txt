@@ -1,0 +1,4 @@
+Battle Poker is a puzzle game in which you battling against the CPU and clock to make the best arrangement of five-card hands possible. 
+There are two modes: Shuffle Up â€˜N Deal With It, in which you arrange the five-by-five grid of cards to make ten of the best possible poker hands, and Chain Reaction, where you simply have to make as many five-card poker hands within the time limit by selecting individual adjacent cards with X and then pressing X again to capture the hand.
+
+Battles are played across multiple rounds with points scored for each round based on the quality of the hands.

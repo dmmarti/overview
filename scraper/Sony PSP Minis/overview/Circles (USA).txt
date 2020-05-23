@@ -1,0 +1,10 @@
+The game idea of the circles is inspired from a war strategy called â€œChakraviguaâ€ described in the Indian epic Mahabharata. The Sanskrit word Chakravigua means Circle strategy where a battalion forms a circle around the king to protect him.
+
+Circle puzzle is designed in similar fashion. The playerâ€™s circles (Blue small circles) are distributed in border of big circle where the objective is to move the blue circle toward zero to conquer it. Defending playerâ€™s circles (orange small circles) are distributed around the golden zero where the object is to destroy the all the blue circles. 
+
+Moving the circle around works based on simple logic which described in game mechanics section. The player can destroy the opponent circles using simple math skills like (5+3 =?), (4-2 =?). 
+
+Features
+â€¢	Three difficulty modes (Easy, Medium & Hard). 
+â€¢	40 levels in each mode 
+â€¢	120 total levels
