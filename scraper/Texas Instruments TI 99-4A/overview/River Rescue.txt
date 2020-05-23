@@ -1,0 +1,9 @@
+River Rescue is a 1982 game for the Commodore VIC-20, Commodore 64, ZX Spectrum, and Atari 8-bit family.  It is one of a number of game titles produced by Thorn EMI Computer Software (later known as Creative Sparks) during 1982 and 1983. A TI-99/4A version was announced but never released.
+
+River Rescue is similar in concept and gameplay to the 1981 Orca arcade game River Patrol.
+
+The player guides a boat along a river, which scrolls from right to left across the screen in a top-down view. The boat must avoid colliding with various hazards in the river - these include small islands, crocodiles and logs. The aim is to rescue explorers lost in the jungle.
+
+The boat periodically passes a pair of docks arranged across from each other on either side of the river. If the boat moves to the upper dock, and explorer will run out of the jungle onto the boat. Stopping at the lower dock causes any explorers already on the ship walk back off to safety. Because of the scrolling motion, it is not possible to land at both docks in one go, you must pick up an explorer and then continue along the river until the dock reappears.
+
+Depending on the version and level, between three and five explorers have to be rescued to complete a round. Once the round is complete, the game starts again, faster.

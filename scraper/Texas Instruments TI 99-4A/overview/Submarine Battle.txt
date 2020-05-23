@@ -1,0 +1,1 @@
+Submarine Battle is a poorer version of the Atari Classic Combat but without the variety.  In this game you are a submarine shooting boats and planes as they attempt to locate and destroy your submarine.  Sea material is also found in the water making this even more challenging.

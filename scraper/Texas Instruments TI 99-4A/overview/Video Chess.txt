@@ -1,0 +1,3 @@
+This cartridge was designed with the help of International Chess Master David Levy, and it shows. Video Chess can be quite challenging on higher levels of play and is highly recommended for anyone who wants to take on David Levy in digitized form! After working on this game, David went on to create other versions of Chess on various systems.
+
+There was also a game called Video Chess released on the Atari 2600 in 1979, programmed by Bob Whitehead and Larry Wagner. Even though both the Atari 2600 and TI-99/4A games share the same title and release date, they share no relation beyond both being computer adaptations of Chess.

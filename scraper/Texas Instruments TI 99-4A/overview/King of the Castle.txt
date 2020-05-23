@@ -1,0 +1,7 @@
+You are the king of the castle!
+
+In this epic adventure, you must conquer two unique castles in order to become the ultimate victor!  The two levels are "Stars of Death" and "Pillars of Gloom".
+
+You begin the game as an icon, of a crown, inside a single layer of the castle.  You must navigate throughout the layer to the next portal which will take you to the next layer above or below your current layer.  Watch out though there are hordes of enemies throughout each layer all looking to destroy the king.
+
+Who knew it was so hard to be King!
