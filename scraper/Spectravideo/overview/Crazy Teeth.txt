@@ -1,0 +1,5 @@
+Crazy Teeth is based on Pac-Man, but takes a lot of liberties with the original concept.
+
+The player control a green creature with a big mouth in a labyrinth filled with edible dots. From a door on the right, vicious creatures with sharp teeth enter the maze. The power pills of the original Pac-Man are not present; instead there is a bar on the top of the screen. Eating dots fills up the bar, and when it has reached a certain level, the player may eat the enemy. The maze has a few different items, such as apples and hamburgers. These carry a much higher value than a single dot, allowing the player to greatly increase the power bar at the top. The bar diminishes at all times, forcing the player to eat more in order to stay invincible.
+
+Two other items exist in the maze: A stop sign and a key, both of which can be picked up and carried around. The enemies can't pass the stop sign, which allows you to seal paths and keep the enemy away. The key must be carried to the locked door on the left side of the screen. As you carry items, your speed is slowed to a crawl. Taking the key to the door lets you pass to the next maze.

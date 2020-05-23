@@ -1,0 +1,11 @@
+Armoured Assault is a tank battle game of the orthodox style which is enjoyed to this day. Two players start out in their home bases, with the simple goal of destroying the opposing tank. Each tank can take three hits before it is destroyed. Chasing each other uses up fuel reserves as well, and when the fuel gauge reaches zero, the tank is destroyed. The number of shots available is also limited. The screen is filled with barriers to hide behind, but each barrier has a hole in it which can be passed through both by shots and tanks.
+
+Eight modes of play are available:
+Each tank has two reload zones for fuel and one for bullets.
+The middle of the screen has a first aid zone which repairs the armour of any tank passing over it.
+None of the special features mentioned above.
+All the features of modes 1 and 2 combined.
+Like mode 1, but with four invincible computer-controlled tanks roaming the screen.
+Mode 2 with computer tanks.
+Mode 3 with computer tanks.
+Mode 4 with computer tanks.
