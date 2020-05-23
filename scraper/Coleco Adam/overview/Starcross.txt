@@ -1,0 +1,7 @@
+Starcross is a 1982 interactive fiction game written by Dave Lebling and published by Infocom. It was released for the IBM PC (as a booter), Apple II, Atari 8-bit family, Commodore 64, TRS-80, TI-99/4A, and later the Atari ST and Amiga. The game was Infocom's fifth game and first in the science fiction genre. It takes place in the year 2186, when the player's character is a lone black hole miner exploring an asteroid belt. It sold 90,315 copies.
+
+The player's ship, the Starcross, is fitted with a mass detector to look for "quantum black holes", which are such powerful sources of energy that one could provide a wealth of riches. When the mass detector finally discovers an anomaly, however, it is not a black hole but something else entirely: a massive craft of unknown origin and composition.
+
+The player must dock with the mysterious ship and gain entry to its interior. Once inside, the player discovers a wide variety of alien plant and animal species and an array of unfamiliar technology. Starcross has an appearance in Zork: The Undiscovered Underground.
+
+Starcross has 39 ways to die.

@@ -1,0 +1,7 @@
+Zork III: The Dungeon Master is an interactive fiction video game written by Marc Blank, Dave Lebling, Bruce Daniels, and Tim Anderson and published by Infocom in 1982. Infocom's fourth game, it's the third game in the Zork trilogy. It was released for the Amstrad CPC, Apple II, Atari 8-bit family, Commodore 64, CP/M, IBM PC (as a self-booting disk), MSX, TRS-80, then later for Macintosh, Atari ST, and Amiga.
+
+The player begins at the bottom of the Endless Stair from Zork II.
+
+Zork III is less of a straightforward treasure hunt than previous installments. Instead, the player—in the role of the same "adventurer" played in Zork I and Zork II—must demonstrate worthiness to assume the role of the Dungeon Master.
+
+The player must get past the Guardians of Zork, with the complete garb of the Dungeon Master, and then endure a final test. The player must be wearing the amulet (found at the bottom of the lake), the cloak and hood (received when the player chooses to look under the hood of the vanquished opponent in the Land of Shadow rather than deal the final blow), the staff (received from the man at the Cliff for helping him retrieve the chest of valuables; attacking the man in any way or trying to take the valuables from him inevitably breaks the staff), the strange key (found in the Key Room when the player uses the grue repellent (from Zork II) to get past the dark places), the royal ring (retrieved from the Royal Museum by using the gold machine to travel back to the year 776 GUE), and the black book (found in the Royal Puzzle).

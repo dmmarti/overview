@@ -1,0 +1,7 @@
+Stationfall is an interactive fiction computer game written by Steve Meretzky and released by Infocom in 1987. Like the majority of Infocom's works, it was released simultaneously for several popular computer platforms of the time, such as the Commodore 64, Apple II, and PC. The game is a sequel to Planetfall, one of Infocom's most popular titles. It is Infocom's twenty-fifth game.
+
+Following the events on Resida in Planetfall, the player's character received a promotion from lowly Ensign Seventh Class to Lieutenant First Class. The life of an officer in the Stellar Patrol is no better than that of a humble enlistee, however. Five years after the thrills of saving an entire planet from destruction, the character is stuck in a boring desk job that demands piles of tedious paperwork instead of menial cleaning duties.
+
+A typically boring assignment comes in: accompany a spacetruck to a space station and pick up a load of "Request for Stellar Patrol Issue Regulation Black Form Binders Request Form Forms". To make things even more dull, spacetrucks are fully automated, so it will pilot itself once the proper coordinates are entered.
+
+But the task does authorize the use of a robot assistant, and coincidentally enough, Floyd, a beloved companion revived at the end of Planetfall, is one of the choices.
