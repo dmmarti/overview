@@ -1,0 +1,3 @@
+Crafton the android wants a life of freedom, away from the science experiments he is usually subjected to. Escaping the compound will require a security code, which is split into eight parts. Find the scientists who hold these to escape, in this isometric arcade adventure.
+
+There are obstacles to interact with, and foes to work around. Contact with these drains your energy, but there are Nurse pods to recharge this. There are four types of barrier doors - red, green, blue and grey, each requiring their own keys. You are accompanied by Xunk, who can be used to help with this - he will also warn you of events as they unfold, and automatically follow you to the exit of each screen.

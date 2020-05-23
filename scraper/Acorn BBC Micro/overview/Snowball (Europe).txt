@@ -1,0 +1,3 @@
+Snowball 9 was sent to Colonize Eridani A, with robots sent to prepare the territory around 100 years before human beings arrive, but something went wrong en route. Commander Kim Kimberley became aware of this when she was abruptly awoken from hibernation.
+
+Snowball is an interactive fiction game, which uses compression techniques to provide 7000 rooms in computers of this size. Kim must go from her hibernation chamber to the ship controls, and then work them to guide the ship safely to Eridani. Commands like INVENTORY, EXAMINE, TAKE and USE are available. Objects include a drinks machine, a bed, green foam, Kevlar and a silver tray.

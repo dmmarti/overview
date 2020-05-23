@@ -1,0 +1,1 @@
+	A pinball game for up to four players. The game features one simple pinball table. Lighting up the letters ABC at the top of the table scores 10,000 points. (The letters can be rotated by the player.) Also includes most of the usual pinball features, including bonus multipliers.

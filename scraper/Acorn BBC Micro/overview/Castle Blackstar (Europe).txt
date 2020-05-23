@@ -1,0 +1,1 @@
+Castle Blackstar is a single player text adventure set in a world of magic. The player takes the role of an adventurer who has been dispatched by Lady Artemis into Castle Blackstar to recover an artefact, an orb. Any 'mortal treasure' recovered can be kept. Progress through the game is recorded by points the player accumulates in their travels.

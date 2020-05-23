@@ -1,0 +1,5 @@
+Darts is a (shareware) computer version of the semi-organized darts leagues of America and England, adopting rules often used in those dart leagues.
+
+Players stand back from a circular board and aim to hit one of the 62 sections. It is split into 20 outward rings (each with a score of 1-20 and each with a Double-points zone on the outside and a Triple-points zone in the middle), as well as a Bullseye ring for 50 points in the centre, and an Outer Bull zone for 25. Players take 3 darts in a row and in the standard game the aim is to reduce your score (from 301 in this version) to zero, finishing with either a double or the Bullseye.
+
+This game offers 3 additional game types: Round the Clock, Slider, and Cricket, as well as additional target practice. The game has a maximum of 4 players.

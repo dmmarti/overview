@@ -1,0 +1,7 @@
+Tank Attack requires you to use a board game playing with the computer. It is a fold out map which features a hex map presented in war-gaming style. It is split into four countries with a variety of terrains.
+
+There are four armoured divisions comprising of four armoured cars and eight tanks. Your aim is to destroy the bases of the other players countries by getting into range and blowing up the HQ. 
+
+The computer acts as a moderator deciding the outcomes of fire-fights and keeping track of the status of each force. At the start of a turn the computer rolls a dice to determine how many movement units a player can use. The player can decide where to attack and where to move. 
+
+The winner is the one with his bases still intact and the other players' destroyed.

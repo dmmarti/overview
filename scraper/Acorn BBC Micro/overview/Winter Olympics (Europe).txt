@@ -1,0 +1,13 @@
+Winter Olympics is a multi-sporting event game containing six (five on the Atari 8-bit) winter Olympic sports for one player. The events are:
+
+Speed Skating:  Viewed from the side at an elevated angle, you race the computer along a straight course moving the joystick left to right in a rhythm. 
+
+Ski Jump:  Viewed from the side, you hurtle down the ramp before flying off the edge. You move your skier in the air to keep him in the correct position before landing.
+
+Cresta Run:  Viewed from behind the bobsleigh, you steer the bob round the corners while a map shows your position on the course.
+
+Ski Slalom:  Viewed in front of the skier at an elevated angle, you must steer your skier through the gates without hitting the flags or missing the gates.
+
+Down Hill:  Same as the Ski Slalom but you must avoid trees.
+
+Curling (Not on the Atari 8-bit):   Viewed behind your curler, you move him left or right before holding down the fire button. You release it when your arm is in the correct position. You must try to get as close to a marker at the other end of the ice.

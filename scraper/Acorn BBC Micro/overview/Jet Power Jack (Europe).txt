@@ -1,0 +1,1 @@
+In this platform-action-game based on Jet Pac you have to collect the fuel pods for Jack's flying saucer. To do this you must negotiate the aliens using your jet pack, and then get the fuel pod and put it into your ship. This is not as easy as it seems, as the jet pack is very difficult to control!

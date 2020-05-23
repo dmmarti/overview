@@ -1,0 +1,3 @@
+In Apocalypse, the player takes the role of Trey Kincaird, a nano-physicist with the look and voice of Bruce Willis. He has a simple but challenging goal: defeating the Four Horsemen to avoid the apocalypse and the end of the world. 
+
+The game is a fast-paced, linear third-person shooter. The player spends all his time walking through the various levels and shooting at enemies until they die. The movement and shooting directions are controlled independently. There are four boss battles and a few platforming sections.
