@@ -1,1 +1,1 @@
- 
+Space Manbow is a side scrolling shoot 'em up. Shooting certain enemies will leave a power up pod behind which can be collected to add more power to your ship. Each level features a wide variety of enemies trying to stop you, with a large boss at the end. The levels are maze-like. Gameplay is for one player or two players alternating.

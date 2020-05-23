@@ -1,1 +1,1 @@
- 
+This 3D racing game featuring Formula 1 cars and circuits. Besides F1 grand prix championship racing you can also choose to practice a specific race track. There is a two player mode, called the battle mode. The difficulty level can be set, and the number of laps is variable and you can select the F1 race track you want to race. Cars are custom made (you can select the body of the car, the engine, the tires, the suspension, the brakes, the gear and the wings).

@@ -1,1 +1,1 @@
- 
+Kenpelen Chess is a computer chess game with a top-down view but with a 3D-feel. It includes various boards and play options. You can choose to play at one of the seven different difficulty levels. Chess can be played against the computer or a friend.  All pieces are animated when moved.  

@@ -1,1 +1,1 @@
- 
+Taking the basic concept of Pirate Ship Higemaru, the Arcade game on which it is based, and expandings on it, is an adventure game as expansive and in-depth as the Legend of Zelda.        The goal is to sail around until the player finds a pirate ship (the friendly green merchant ships will simply provide hints) and clear the boss. Doing so will allow the player to collect a port key which allows them to set anchor on one of the titular seven islands. The player must then remove the boss of that island and recover the treasure. At which point, the process must be repeated.

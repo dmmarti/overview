@@ -1,1 +1,1 @@
- 
+Predator is a side-scrolling platformer which uses the imagery and characters from the classic Arnie movie of the same name. The game is not a faithfully conversion of the movie however - your unit has already been killed off when the game starts and you will battle scorpions, enemy soldiers and dodge obstacles etc, before facing the Predator itself a number of times.    The game is a fairly standard run-jump-shoot platformer, except that you start with no weapons at all and must collect them as the game goes on.

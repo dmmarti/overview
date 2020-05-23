@@ -1,0 +1,1 @@
+Gomoku Narabe, is a ancient Japanese game the title of which means "five stones in a row". The goal of the game is to place five tokens of your color (white or black) in a row. Of course your opponent will be trying to block you. The game ends when a player achieves tis penta-worthy task. 

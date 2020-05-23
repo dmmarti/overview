@@ -1,1 +1,1 @@
- 
+Baseball game for one or two players. You can choose one of the 18 teams to play an exhibition match against computer or a friend. Or how about battling it out against five other teams in Pennant Race mode, where you can save your progress with passwords. There is also an edit mode, where you can change the player names and modify their abilities.

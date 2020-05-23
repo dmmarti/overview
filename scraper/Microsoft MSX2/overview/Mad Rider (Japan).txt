@@ -1,1 +1,1 @@
- 
+Racing game against the clock. At the beginning you can select between six courses (Megacity, Plateau, Alps, Island, Egyptian and Canyon). Your driving a red sports car, and need to avoid other drivers and obstacles. You don't race other drivers.. If you hit objects you tend to explode, apart from water, oil and Motor Cyclists!? where you spin out and can regain control. The gameplay is laggy and the graphics for an MSX2 game are very poor.
