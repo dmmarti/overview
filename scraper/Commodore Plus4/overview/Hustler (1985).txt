@@ -1,0 +1,1 @@
+This is a 6-ball pool game which allows you to play in several different ways. There's the normal game, of course, and other games where you must pot the six balls in the right order, or pot the balls in the corresponding numbered pockets, the aim being to pot all the balls in the fewest number of shots.

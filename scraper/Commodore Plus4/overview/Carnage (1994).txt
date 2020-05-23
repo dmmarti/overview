@@ -1,0 +1,1 @@
+In Carnage you race in a top-down view where every car goes with the same speed. And if you want to see the next track you must win your race; if you can't, unfortunately the game is over! In total there are 18 tracks. After every race you earn 800 pounds, and go to a shop where you can buy necessary things for your car like nitros and mines, or equipments for upgrade.

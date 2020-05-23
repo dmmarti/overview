@@ -1,0 +1,1 @@
+ Adventure is an adaptation of the original Colossal Cave classic text adventure by Crowther and Woods. The objective is to explore the titular cave and gather as much treasure as possible in order to get the highest score possible.  This is an enhanced version with added locations, existing location text added upon and the major puzzles reworked.
