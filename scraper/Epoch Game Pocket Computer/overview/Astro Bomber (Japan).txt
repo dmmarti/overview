@@ -1,0 +1,1 @@
+Here's the Pokekon version of Konami's Scramble arcade game. Fly your ship over mountains and through corridors, all the while shooting, bombing, or dodging enemies.

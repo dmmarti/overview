@@ -1,0 +1,1 @@
+The built-in software for the Pokekon doesn't do much, just play a short looping tune and scroll some text while drawing a spiral on-screen. There's also a built-in sliding tiles game and an extremely rudimentary pixel "paint" program.
