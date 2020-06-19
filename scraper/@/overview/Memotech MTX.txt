@@ -1,0 +1,7 @@
+The Memotech MTX500, MTX512 and RS128 are a series of Zilog Z80A processor-based home computers released by Memotech in 1983 and 1984. They were technically similar to MSX computers, but were not compatible.
+
+It uses a dedicated chip for video (Texas Instruments TM 9918 or 9928) and sound (Texas Instruments SN76489A) and has a very nice mechanical keyboard and a nice black aluminum case!
+
+Both models have the same characteristics, but the MTX 500 has only 32 KB RAM and the 512, 64 KB. It had no success and was replaced a short time later by the RS-128.
+
+The MTX512 made a minor cinematic appearance in the film Weird Science as the computer the two lead male characters use to hack into the Pentagon mainframe.
