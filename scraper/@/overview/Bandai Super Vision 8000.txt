@@ -1,0 +1,3 @@
+The Bandai Super Vision 8000 is a home video game console released by Bandai in 1979 belonging to the second generation. The console can be directly connected to a TV.
+
+This console was the last of the Bandai TV Jack console series but was completely different from the other consoles of the series. The Super Vision 8000 had a central CPU. The other consoles belonged to the first generation: they didn't feature a microprocessor, and were based on custom codeless state machine computers consisting of discrete logic circuits comprising each element of the game itself (Pong-style console).

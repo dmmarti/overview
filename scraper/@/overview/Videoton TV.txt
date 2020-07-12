@@ -1,0 +1,9 @@
+The TV-Computer (or TVC in short) is an 8-bit home computer which was manufactured by the Hungarian company Videoton around 1986. The computer was based on the Enterprise (computer) and had a built-in BASIC interpreter. Programs could be loaded via tape[3] or floppy. It had a built-in joystick and a keyboard with Hungarian letters and nine function keys.
+
+There are three different models of the TVC:
+
+32k which has 32 Kb of RAM
+64k which has 64 Kb of RAM
+64k+ which has 64 Kb of RAM and a newer BASIC interpreter (v2.2) and more video RAM (64 Kb instead of 16 Kb)
+
+The TVC has three graphical modes: 128×240/16 colors, 256×240/4 colors, and 512×240/2 colors (black and white). Few programs existed for the computer. Many of these were written by dedicated amateurs and were distributed by mail.
