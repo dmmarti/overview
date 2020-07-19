@@ -1,0 +1,1 @@
+Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items and monsters are rendered as 3D models.

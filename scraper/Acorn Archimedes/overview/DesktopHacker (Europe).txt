@@ -1,0 +1,1 @@
+Desktop Hacker, produced by DoggySoft, allows people to hack memory and change various values in the game like money and life. You can either use Hacker itself to edit the memory each time you play, or use the program to create standalone modules that you can load before the game and activate the cheats by pressing a key combination (usually ALT- ).

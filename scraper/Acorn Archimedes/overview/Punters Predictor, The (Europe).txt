@@ -1,0 +1,1 @@
+Strategy game around the organization of horse racing with integration of the rib of horses and their characteristics.

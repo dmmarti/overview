@@ -1,0 +1,1 @@
+The object of the game is to guide the water from the top of the screen into the collecting vessel at the bottom of the screen, you do this by guiding the water down the screen using blocks, pressure valves and filters.

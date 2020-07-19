@@ -1,0 +1,1 @@
+Superior Golf (aka Superior Golf plus Construction Set) is a golf simulation which allows you to play golf, copy the courses supplied on to another disc or create a courses file.

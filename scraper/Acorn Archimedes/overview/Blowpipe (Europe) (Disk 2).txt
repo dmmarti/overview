@@ -1,0 +1,1 @@
+A horizontally scrolling shooter featuring five levels of alien warfare.</Notes

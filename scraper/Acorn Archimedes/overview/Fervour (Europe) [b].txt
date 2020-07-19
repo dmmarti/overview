@@ -1,0 +1,1 @@
+A game in which you guide a ball down a racing track which scrolls from the screen out towards you, with different coloured tiles having different effects on the ball.</Notes

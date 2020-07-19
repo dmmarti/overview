@@ -1,0 +1,1 @@
+A 3D arcade adventure where you travel upwards through various dungeons in order to escape. You must battle enemies, solve puzzles and collect treasure.</Notes

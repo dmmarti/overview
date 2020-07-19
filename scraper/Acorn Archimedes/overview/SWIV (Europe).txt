@@ -1,0 +1,1 @@
+S.W.I.V. is a vertical scrolling shooter and an unofficial follow-up to Sales Curve's conversion of the side scroller Tecmo arcade game Silkworm.

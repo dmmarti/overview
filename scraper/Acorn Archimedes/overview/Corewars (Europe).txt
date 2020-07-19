@@ -1,0 +1,1 @@
+This is a RISC OS version of the classic 'computer virus' game/simulation, popular in the 1980's. Originally inspired by an article telling about the game called Core War, where hostile programs engage in a battle of bits.
