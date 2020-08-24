@@ -1,0 +1,7 @@
+The Commodore MAX Machine, also known as Ultimax in the United States and Canada and VC-10 in Germany, is a home computer designed and sold by Commodore International in Japan, beginning in early 1982, a predecessor to the popular Commodore 64. The Commodore 64 manual mentions the machine by name, suggesting that Commodore intended to sell the machine internationally; however, it is unclear whether the machine was ever actually sold outside Japan. It is considered a rarity.
+
+Software was loaded from plug-in cartridges and the unit had a membrane keyboard and 2.0 KiB of RAM internally and 0.5 KiB of color RAM (1024 × 4 bits). It used a television set for a display. It used the same chipset and 6510 CPU as the Commodore 64, the same SID sound chip, and compatible ROM cartridge architecture so that MAX cartridges will work in the C-64. The MAX compatibility mode in C-64 was later frequently used for "freezer" cartridges (such as the Action Replay), as a convenient way to take control of the currently running program. It was possible to use a tape drive for storage, but it lacked the serial and user ports necessary to connect a disk drive, printer, or modem.
+
+It was intended to sell for around 200 USD. Although the MAX had better graphics and sound capability, Commodore's own VIC-20, which sold for around the same amount of money, was much more expandable, had a much larger software library, and had a better keyboard—all of which made it more attractive to consumers.
+
+Unlike the C-64, the MAX never sold well and was quickly discontinued.
