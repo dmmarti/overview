@@ -1,0 +1,1 @@
+The Jupiter Ace was a British home computer of the early 1980s, produced by a company set up for the purpose, named Jupiter Cantab. The Ace differed from other microcomputers of the time in that it used Forth instead of the more common BASIC.

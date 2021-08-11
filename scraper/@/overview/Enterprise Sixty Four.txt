@@ -1,0 +1,1 @@
+The Enterprise (aka Elan) is a Zilog Z80-based home computer first produced in 1985. It was developed by British company Intelligent Software and marketed by Enterprise Computers. Its two variants are the Enterprise 64, with 64 kilobytes (kB) of Random Access Memory (RAM), and the Enterprise 128, with 128 kB of RAM.

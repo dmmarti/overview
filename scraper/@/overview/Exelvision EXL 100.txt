@@ -1,0 +1,1 @@
+The EXL 100 of the French brand Exelvision is a microprocessor computer based on the TMS7020 from Texas Instruments. It was original for the time because almost all home computers in France were equipped with microprocessors of the series 6502 of MOS Technology or the Zilog Z80.

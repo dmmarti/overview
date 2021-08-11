@@ -1,0 +1,3 @@
+Vector-06C (Russian: Вектор-06Ц) is a home computer with unique graphics capabilities that was designed and mass-produced in USSR in the late 1980s.
+
+Although Vector-06C was foreshadowed by more mainstream home computers such as BK-0010, ZX Spectrum and its clones, it enjoyed a considerable loyal following of fans. Enthusiasts developed and produced software and hardware extensions for Vector. Among hardware extensions there are RAM-disk, floppy and HDD controllers, sound synthesizers, realtime clocks and others. Both commercial and public developments existed.

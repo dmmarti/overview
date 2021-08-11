@@ -1,0 +1,5 @@
+The Tatung Einstein is an eight-bit home/personal computer produced by Taiwanese corporation Tatung, designed in Bradford, England at Tatung's research laboratories and assembled in Bridgnorth and Telford, England. It was aimed primarily at small businesses.
+
+The Einstein was released in the United Kingdom in the summer of 1984, and 5,000 were exported back to Taipei later that year. A Tatung monitor (monochrome or colour) and dot matrix printer were also available as options, plus external disc drives and an 80 column display card. It was also capable of running ZX Spectrum software with the "Speculator" addon.
+
+More expensive than most of its rivals, the Einstein was popular with contemporary programmers but was commercially unsuccessful.
