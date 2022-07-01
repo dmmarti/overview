@@ -1,0 +1,3 @@
+The Thomson TO7, also called Thomson 9000 is a home computer introduced by Thomson SA in November 1982, with an original retail price of 3750 Franc. By 1983 over 40000 units were produced.
+
+The TO7 is built around a 1 MHz Motorola 6809 processor. ROM cartridges, designed as MEMO7, can be introduced through a memory bay. The user interface uses Microsoft BASIC, included in the kit cartridge. The keyboard features a plastic membrane, and further user input is obtained through a lightpen. Cooling is provided by a rear radiator. A standard television can be used as a monitor using a RGB SCART (Peritel) connector, with a resolution of 320x200 (with 2 colors for each 8x1 pixels).

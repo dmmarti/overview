@@ -1,0 +1,12 @@
+This display contains the full wheel list for all available systems.
+
+Available platforms:
+
+Arcades
+Arcade Systems
+Collections
+Computers
+Consoles
+Handhelds
+Hacks
+Pinball

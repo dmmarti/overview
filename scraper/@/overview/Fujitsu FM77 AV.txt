@@ -1,0 +1,7 @@
+The FM 77 AV was an impressive system in 1985. It's a good example of what was developped in Japan and we never heard of in the rest of the world. 
+
+The system has great audio and video features, hence the AV for "Audio and Video". It can display 640 x 200 pixels in two colors, or 320 x 200 in 4096 colors ! There is even a multipage mode where you can define two 460 x 200 screens with 8 colors each, or six 640 x 200 monochrome screens ! 
+
+There are a lot of graphical symbols already stored in memory (each symbol / letter is composed by 8 x 8 pixels) : 69 alphanumeric symbols, 63 kakatana signs, 63 hiragana signs and 62 graphic symbols. Moreover, the system is capable of displaying 3418 chinese and asiatic characters with a 16 x 16 character matrix (text resolution is thus of 40 x 12). 
+
+There were two models : the AV-1 which has one 3.5" disk-drive (double density) built-in and the AV-2 which is equiped with two of these drives.

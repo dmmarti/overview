@@ -1,0 +1,5 @@
+The PC-8800 series, commonly shortened to PC-88, are a brand of Zilog Z80-based 8-bit home computers released by Nippon Electric Company (NEC) in 1981 and primarily sold in Japan.
+
+The PC-8800 series sold extremely well and became one of the three major Japanese home computers of the 1980s, along with the Fujitsu FM-7 and Sharp X1. It was later eclipsed by NEC's 16-bit PC-9800 series, although it still maintained strong sales up until the early 90s.
+
+NEC's American subsidiary, NEC Home Electronics (USA), marketed variations of the PC-8800 in the United States and Canada.

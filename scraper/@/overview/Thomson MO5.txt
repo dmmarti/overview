@@ -1,0 +1,3 @@
+The Thomson MO5 is a home computer introduced in France in June 1984 to compete against systems such as the ZX Spectrum and Commodore 64. At the same time, Thomson also released the up-market Thomson TO7/70 machine.
+
+The MO5 was not sold in vast quantities outside France and was largely discontinued in favour of the improved Thomson MO6 in 1986. MO5s were used as educational tools in French schools for a period. The computer boots directly to the built-in Microsoft BASIC interpreter (MO5 Basic 1.0).

@@ -1,0 +1,5 @@
+The Zemmix Neo is a console originally created by a team in Korea. It was never commercially released, and only a 100 units were created. The system is based on the design of the One Chip MSX, with the addition of a scanline generator.
+
+The team subsequently created a cost reduced version, the Zemmix Neo Lite, the main difference being the aluminium casing. This version was created in slightly larger numbers and bought by various users outside Korea.
+
+The Zemmix name is a homage to the Daewoo Zemmix game consoles, and means 'It's Fun' in Korean.

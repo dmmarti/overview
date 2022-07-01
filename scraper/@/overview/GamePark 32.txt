@@ -1,0 +1,3 @@
+Originally released on November 23, 2001, the GamePark 32 is a Korean handheld console developed by GamePark. The console was released mostly in Korea, although it can be found in other countries where official distributors are located, such as Spain, Italy, Portugal, the United Kingdom, and Sweden. The GamePark 32 never saw a release in North America.
+
+The GamePark 32 is quite unlike other handheld consoles of the time. Instead of using a proprietary form of media to play games, the GamePark 32 uses SmartMedia cards, which makes the console very accessible from a development standpoint. Additionally, the console has a USB (Universal Serial Bus) port for external peripherals, such as a keyboard.

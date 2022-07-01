@@ -1,0 +1,3 @@
+Galaksija Plus was an improved version of Galaksija, with 256x208 monochrome graphics mode, 3-voice sound based on AY-3-8910 and 48 KiB RAM.
+
+The hardware of Galaksija Plus was created by Nenad Dunjić and software by Milan Tadić in 1985. The goal was to enhance original Galaksija while keeping the original goal of keeping things inexpensive and simple for the constructor. Galaksija Plus featured new software additions: Graphic primitives in BASIC language - commands to draw lines, boxes, circles, other graphic primitives as well as drawing text on graphical screen with different font. Additional firmware (ROM C) also featured Full Screen Source Editor and soft scrolling.

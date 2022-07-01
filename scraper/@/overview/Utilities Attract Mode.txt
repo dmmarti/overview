@@ -1,0 +1,3 @@
+Applications to enhance and tweak Attract Mode and various emulators.
+
+Also contains the Generate Favorites utility to create and update the romlist for the Favorites display.

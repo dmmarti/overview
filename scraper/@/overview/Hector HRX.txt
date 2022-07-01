@@ -1,0 +1,3 @@
+Hector are a series of a microcomputers produced in France in the early 1980s.
+
+The Hector HRX, released in 1983, follows the 2HR, and takes over exactly the same machine, while technically stretching it on certain points. The main evolution comes from the amount of RAM that goes to 64 KB, allowing it to display double the number of colors.

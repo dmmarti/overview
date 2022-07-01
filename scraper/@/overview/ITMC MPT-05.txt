@@ -1,0 +1,5 @@
+The ITMC MPT-05 is another clone of the Interton VC-4000 console.
+
+The MPT-05 was marketed in France by ITMC. What is quite strange is that other systems use the exact same plastic case such as the Intervision 2001 and Intervision 3001, or the Sheen Home Video Centre 2001 (Australia) and the Ormatu Video Spelcomputer 2001 (Netherlands), but they are not compatible with the MPT-05! Indeed the ITMC MPT-05 is an "Interton VC-4000 compatible" system (2650/2636 chipsets combo), whereas the other are "Arcadia 2001 compatible" systems (2650/2637 chipsets combo).
+
+The MPT-05 is equiped with two detachable controllers made of a screwable analog joystick and a 14-buttons keypad (rubber buttons). Small plastic layers were delivered with each game, explaining the different key functions when placed over the keypads.
