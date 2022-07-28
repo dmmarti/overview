@@ -1,0 +1,3 @@
+The Bandai RX-78 is a Japanese 8-bit microcomputer manufactured by Bandai. Its name comes from the RX-78-2 Gundam. It was released in July 1983, and employed a SHARP LH0080A (Zilog Z80A clone) CPU. It ran at a clock speed of 4.1 MHz, and shipped with 30 KB of RAM and 8KB of ROM. It had two joystick ports in a proprietary format using 8-pin DIN connectors.
+
+The RX-78 had a release cost of 59,800 yen, and was sold with a dozen of games and software, including a BASIC interpreter cartridge featuring a cassette tape interface .

@@ -1,0 +1,1 @@
+Spanish clone of the Interton VC 4000. Has a different layout but all the basic elements are there, Like all Interton clones the controllers have a 12 key layout with two red fire buttons, the usual four buttons on the console (Power on/off, reset, select, start.) The only difference here appears to be the built in cartridge holder.
