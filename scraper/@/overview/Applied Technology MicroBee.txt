@@ -1,0 +1,3 @@
+The original Microbee computer was designed in Australia by a team including Owen Hill and Matthew Starr.
+
+The MicroBee's most distinctive features are its user configurable video display (capable of mimicking the displays of other computers and devices including the TRS-80, Sorcerer and SOL20 with later colour and graphic models 40 and 80 column terminals, Super-80, ZX Spectrum, early arcade machines, Amstrad CPC 464) and its battery backed non-volatile RAM and small size allowing it to be powered off, transported, and powered back on and resume activities on the currently loaded program or document.
