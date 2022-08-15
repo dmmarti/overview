@@ -1,0 +1,5 @@
+The IBM PCjr was a home computer produced and marketed by IBM from March 1984 to May 1985, intended as a lower-cost variant of the IBM PC with hardware capabilities better suited for video games, in order to compete more directly with other home computers such as the Apple II and Commodore 64.
+
+It retained the IBM PC's 8088 CPU and BIOS interface, but provided enhanced graphics and sound, ROM cartridge slots, built-in joystick ports, and an infrared wireless keyboard. The PCjr supported expansion via "sidecar" modules, which could be attached to the side of the unit.
+
+Despite widespread anticipation, the PCjr was ultimately unsuccessful in the market. It was only partially IBM compatible, limiting support for IBM's software library, its chiclet keyboard was widely criticized for its poor quality, expandability was limited, and it was initially offered with a maximum of 128 kB of RAM, insufficient for many PC programs.
