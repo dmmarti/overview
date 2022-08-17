@@ -1,0 +1,5 @@
+In 1979, the NEC PC-8001 was an excellent machine, offering 8 colors when most of its competitors were still monochrome. There is even a (low) graphic resolution of 160 x 100 dots. It could display capital and small letters. 
+
+The base system was 32K, but a company in Concord, CA. made a thing called the "WEDGE" that mounted below the Base system and added the needed 32K plus it had analog and digital input ports
+
+The PC-8001 mk2 replaced the PC-8001. The PC-8001 sold over 120,000 within 2 years.
