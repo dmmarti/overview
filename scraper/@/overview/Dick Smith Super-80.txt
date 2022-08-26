@@ -1,0 +1,3 @@
+The Dick Smith Super-80 was a Zilog Z80 based kit computer developed as a joint venture between Electronics Australia magazine and Dick Smith Electronics.
+
+The computer was sold as a "short form" kit for A$ 289.50. For this, the purchaser received the computer PCB, an assembly manual (a copy of the construction articles from Electronics Australia) and basic components, including 16kB of RAM and a 2kB EPROM containing a machine code monitor program. The technical manual and power transformer were sold separately, as were a kit of I.C. sockets, a BASIC interpreter program and from mid-1982 onwards, a metal case to house the computer.

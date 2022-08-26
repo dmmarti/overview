@@ -1,0 +1,1 @@
+The SPC-1000 is a Z80-based personal computer produced by Samsung. It was the first computer created by the brand. Developed in South Korea, it features built-in HuBASIC BASIC written by Hudson Soft in Japan. The computer features a 4 MHz processor and 64 KB of RAM.
