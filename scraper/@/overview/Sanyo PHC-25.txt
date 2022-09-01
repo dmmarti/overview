@@ -1,0 +1,3 @@
+The Sanyo PHC-25 was released in 1982.  PHC stands for "Personal Home Computer".  The Sanyo PHC-25 seems to be a rare machine. Very few were sold, and most of them were apparently distributed in France, hence most of the games found online are in french.
+
+The Sanyo BASIC V1.3 is stored in a 24KB ROM. The computer offers 16KB RAM leaving only 14KB for the user to program in Basic or 8KB if the "SCREEN 2" option is chosen at startup. Indeed at startup a "SCREEN ?" prompt welcome the user. If you enter 1, it means you will just need one screen to be stored in RAM, leaving you almost all the RAM available for Basic programming. If you reply "2" at the SCREEN? prompt, then the computer reserves some RAM for a second virtual screen which could be used by the program.

@@ -1,0 +1,1 @@
+The Orion-128 is a DIY computer designed in Soviet Union. It was featured in the Radio magazine in 1990, other materials for the computer were published until 1996. It was the last Intel 8080-based DIY computer in Russia.
