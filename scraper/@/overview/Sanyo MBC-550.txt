@@ -1,0 +1,2 @@
+The Sanyo MBC-550 is a small and inexpensive personal computer in "pizza-box" style, featuring an Intel 8088 microprocessor and running a version of MS-DOS. Sold by Sanyo, it was the least expensive early IBM PC compatible. The MBC-550 is less PC compatible than the IBM PCjr. Its inability to use much PC software was a significant disadvantage; InfoWorld reported in August 1985 that Sanyo "has initiated a campaign to sell off" of MBC-550 inventory.
+

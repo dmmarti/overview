@@ -1,0 +1,5 @@
+Developed in Elstroj and produced by Tesla Liberec and later Tesla Blatna, the Ondra was a low-cost system intended for computing initiation at home and school. 
+
+It was build around the U880 processor (East-German version of the Z80). It featured 64 KB RAM, 4 KB ROM and had 320 x 255 graphic capabilities. Three peripherals could be connected, a tape recorder, a Parallel printer and a joystick. 
+
+Only 1000 units were ever made. Then Tesla wanted to give the manufacturing to other firm. Unfortunately that never happened.
