@@ -1,0 +1,3 @@
+TeknoParrot is a software package allowing you to run selected PC-based arcade titles on your own hardware, with full support for keyboard and mouse controls, gamepads, steering wheels and joysticks.
+
+TeknoParrot currently supports games for various arcade systems, mapping the proprietary add-on hardware found in these systems to commodity PC peripherals, and fixing any other limitations in the game software that prevents them from running on standard Windows systems.

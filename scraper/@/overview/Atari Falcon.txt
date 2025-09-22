@@ -1,0 +1,3 @@
+The Atari Falcon030 (usually shortened to Atari Falcon), released in 1992, is the final personal computer from Atari Corporation. A high-end model of the Atari ST line, the machine is based on a Motorola 68030 CPU and a Motorola 56001 digital signal processor, which distinguishes it from most other microcomputers of the era. It includes a new VIDEL programmable graphics system which greatly improves graphics capabilities.
+
+The Falcon was discontinued in late 1993–a year after its introduction–as Atari restructured itself to focus completely on the release and support of the Jaguar video game console. The Falcon sold in relatively small numbers, mainly to hobbyists.

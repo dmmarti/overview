@@ -1,4 +1,4 @@
-he TurboDuo is a fourth-generation video game console developed by NEC Home Electronics and Hudson Soft for the North American market. The TurboDuo was test-marketed in Los Angeles in October 1992, before a nationwide rollout in May 1993. It is the North American version of the Japanese PC Engine Duo game console which was released in September 1991.
+The TurboDuo is a fourth-generation video game console developed by NEC Home Electronics and Hudson Soft for the North American market. The TurboDuo was test-marketed in Los Angeles in October 1992, before a nationwide rollout in May 1993. It is the North American version of the Japanese PC Engine Duo game console which was released in September 1991.
 
 The TurboDuo integrates the capabilities of the TurboGrafx-16 and its CD-ROM drive (the TurboGrafx-CD) into a single, redesigned unit with an updated BIOS and 192 KB of additional RAM. TTI also offered the Super System Card via mail order, which provided the original TurboGrafx-CD with the 192 KB RAM upgrade.
 
