@@ -1,0 +1,31 @@
+WELCOME TO VIKING
+
+This game is a simulation of the government of a people Viking in 750. You will have to decide on purchases, sales and taxes next year. All decisions are related. They improve with practice.
+
+
+VIKING LOADING
+
+1. Insert the tape into the cassette, rewind and press PLAY.
+2. Type CLOAD and press ENTER.
+
+The program will load and run automatically.
+
+
+PLAYING VIKING
+
+When starting, the program will prompt you to enter the number of players (1-4) and the level of difficulty (1-9). You also have to enter the name of each player.
+
+The computer decides who starts the game. On each turn, the player is presented with a series of questions to answer.
+
+The success or failure of your people depends on your answers.
+
+In addition to the above problems, there is always the possibility that you suffer a catastrophe, like a plague, a revolution or attack. However, it can be avoided with good management.
+
+The following points may be helpful:
+
+1. The slaves do agricultural work.
+2. Ferrets are employed to kill rats.
+3. an individual tax per person living in the area is paid.
+4. There are seven hierarchical levels up to the king or queen; landowner, knight, baron, count/countess, duke/duchess, prince/princess, king/queen.
+
+It takes a long time to become a knight, but things go faster after that.

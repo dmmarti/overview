@@ -1,0 +1,3 @@
+Battle Pinball is a Japanese-only release where players play competitive pinball against the computer or another player. Players pick between one of four characters, each with their own dedicated pinball table. The game then moves to a split-screen view, where both players play their respective table and try to get a higher score than their opponent.
+
+Other options include a 1-player "story" mode where the player selects a character and battles the other three. Winning here gives a character-specific CG victory movie. Players can also play against multiple opponents in a tournament mode (complete with brackets), though a maximum of two players will be playing at once. As with Real Pinball, the view angle is fixed and cannot be changed.

@@ -1,0 +1,3 @@
+Test your downhill skiing skills on four different pistes, one of which is randomly generated every time you load the game! You might make it across the finishing line after going down Rocky Ridge, but have you got have what it takes to finish Bear Mountain? Ski season is over, the bears are starting to wake up, and collecting the piste flags so they can be reused next year will earn you bonus points.
+
+Connect your joystick to port 2. Move the joystick up/down on the title screen to select a course, and press fire to start. Look out for those bears!

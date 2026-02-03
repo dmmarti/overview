@@ -1,0 +1,1 @@
+3-D Bomberman is the second game ever made in the Bomberman series. It is essentially a remake of the original Bomber Man, but from a first-person perspective. It resembles many early "3D Maze" games that manipulated 2D backdrops and sprites to give the illusion of a 3D environment.</Notes

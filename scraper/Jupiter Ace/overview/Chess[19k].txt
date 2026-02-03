@@ -1,0 +1,1 @@
+A basic but fairly accurate for the time of release version of chess for the Jupiter Ace computer.</Notes

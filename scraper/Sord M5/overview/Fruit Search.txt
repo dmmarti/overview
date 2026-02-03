@@ -1,0 +1,1 @@
+Fruit Search is a Puzzle game based on Mastermind but using fruit instead, developed and published by Takara, which was released in Japan in 1983.</Notes

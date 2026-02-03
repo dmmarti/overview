@@ -1,0 +1,1 @@
+You must stop the balls in the way of same alignment of upper screen balls. If you and the ball are the same color when you shoot a ball, the ball is stops, and if your color is different, the ball is flicked away. Your color changes when shooting a ball.</Notes

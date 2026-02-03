@@ -1,0 +1,1 @@
+In Poker Squares your goal is to place 25 playing cards (from a deck of 52), one at a time, in a 5x5 grid. Your goal is to make the best ten (or twelve) poker hands, five horizontally, five vertically, and optionally the two diagonals, scoring as many points as possible.

@@ -1,0 +1,1 @@
+A scrolling shooter based on Tatsunoko's Time Bokan anime franchise. It's the sequel to Bokan to Ippatsu! Doronbo.

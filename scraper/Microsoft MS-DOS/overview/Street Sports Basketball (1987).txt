@@ -1,0 +1,1 @@
+The game features a 3-a-side basketball match. Each team is made by three players with different skills chosen from the neighbors.

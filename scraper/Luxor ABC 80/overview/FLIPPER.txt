@@ -1,0 +1,40 @@
+The Epic Story
+
+We find our little hero in a hard situation. When he woke up this morning, he discovered his goldfish (called Flipper) is lost! And so the rescue mission to safe Flipper begins!
+
+The Engine
+
+Thanks to our new in-house true 3D voxel engine, we can create worlds that are completely destructible. Which leads to many MANY new gameplay possibilities.
+
+The Game
+
+It’s a 3D puzzle/platform game. You need to lead our hero to the exit. To do this, you need to collect cool powerups that can change the environment so our hero can safely reach his goldfish.
+
+Powerups
+
+You can change the environment with some cool powerups. For example you can pick up powerups that let you blow things up! Or you can use powerups that let you restore blown up holes.
+
+Fun for everyone
+
+Everybody will enjoy this game! There’s NO violence. Yet more than enough action (like blowing up pieces of the environment ). Players can play this game on their own pace. It’s okay to stand still and think your next move over. Because you can blow everything apart, we hide some secret items in the world for the more experience player to find!
+
+Awesome fresh style and look
+
+The game features an awesome comic/8bit style yet it feels totally modern and fresh. Every world has a unique visual theme , to make sure the world never gets boring to look at!
+
+How long will it last?
+
+The game features lots of puzzles divided into multiple worlds. Each world will bring in new powerups that can change the environment in a different way. Because of the engine technology the player can use the powerups on any bit of the environment, this leads to many possible ways to complete a level. This way, the game never gets old.
+
+Touchscreen
+
+Almost all actions/interaction goes through the touch screen. This makes it very easy to play, even for people who normally don’t play much games. For example, you can touch a point on the ground and the player will automatically move to it.
+
+This game is awesome because:
+
+You can blow up any part of the world.
+There are many ways to complete a level.
+There are many fun powerups to collect.
+Uses touch screen for most interaction
+Everyone can play!
+It looks fresh and hip.

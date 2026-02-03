@@ -1,0 +1,4 @@
+The maze displayed on the screen is divided into squares, and the aim of the game is for a Mazeman to collect these squares by passing through them. Each square is worth ten points.
+
+However, also in the maze are found Hobgoblin monsters searching for the Mazeman to gobble him up.
+This game is similar to Pac-man.

@@ -1,0 +1,3 @@
+The game features similar gameplay to that of Atari's Asteroids.
+
+The player command an Earth Federation Cruiser, patrolling an area of space that is teeming with X-shaped UFOs. Some of these will merge and form Hunter-Killer UFOs that go after your ship. Your ship is armed with a laser and a force field that gives you some protection. Occasionally, a Light-Speed Starship will come on the scene, first to blast away at your shield, then to blast away at your ship.

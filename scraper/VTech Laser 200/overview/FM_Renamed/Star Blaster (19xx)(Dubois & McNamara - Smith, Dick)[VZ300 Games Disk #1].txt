@@ -1,0 +1,3 @@
+Star Blaster is an early scrolling shoot-'em-up in which the player attempts to beat back an alien invasion force, dead-set on destroying the Earth (a staple of alien invasion forces everywhere, it would seem). The player's solitary space fighter must blast its way through continuous waves of intruders, and then face off against the dreaded Annihilator.
+
+Rather unusually for a side-scrolling shooter, the ship flies from right to left. Each attack wave features a different type of enemy, and when the final mothership is destroyed, the action loops back to start - each time at an increased difficulty level.

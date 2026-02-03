@@ -1,0 +1,5 @@
+Dragon's Lair is a laserdisc video game published by Cinematronics in 1983 as the first game in the Dragon's Lair series. In the game, the protagonist Dirk the Daring is a knight attempting to rescue Princess Daphne from the evil dragon Singe who has locked the princess in the foul wizard Mordroc's castle. It featured animation by ex-Disney animator Don Bluth.
+
+Most other games of the era represented the character as a sprite, which consisted of a series of pixels displayed in succession. Due to hardware limitations of the era, artists were greatly restricted in the detail they could achieve using that technique; the resolution, framerate and number of frames were severely constrained. Dragon's Lair overcame those limitations by tapping into the vast storage potential of the LaserDisc, but imposed other limitations on the actual gameplay.
+
+The success of the game sparked numerous home ports, sequels and related games. In the 21st century it has been repackaged in a number of formats (such as for the iPhone) as a "retro" or historic game.

@@ -1,0 +1,21 @@
+Defense Command was the last TRS‑80 game written by Bill Hogue. It was very loosely based by the arcade game Defender, which Williams Electronics released in 1980.
+
+There were many Defender clones created for the TRS‑80. Notable examples include Alien Defense by Soft Sector Marketing, Penetrator by Melbourne House, and The Eliminator (the official Defender) by Adventure International.
+
+The goal of Defender is to shoot aliens who are trying to carry away humanoids. Defender features a scrolling horizontal playing field and the player’s spaceship moves in all four directions.
+
+Defense Command features a stationary playing field with fuel cells positioned at the bottom of the screen. You can move only from side to side, but the aliens attack you from above. The aliens drop bombs and try to steal the fuel cells. If an alien manages to take a fuel cell and carry it off the top of the screen, then it is gone forever. However, if you shoot the alien before the fuel cell is gone, then the fuel cell will fall to the ground. If you catch it before it hits the ground, then you have saved it and receive extra points. But if the fuel cell hits the ground before you catch it, then it explodes and is lost for good.
+
+You control the game using the LEFT ARROW and RIGHT ARROW to move, SPACEBAR to shoot, and the number keys to activate an Anti-Matter bomb, a smart bomb that destroys all the aliens on-screen. The game also supports a joystick. Moving the joystick left and right and firing works as expected, but moving the joystick up activates an Anti-Matter bomb. I always find this awkward because it is too easy to accidentally activate an Anti-Matter bomb, and you don’t have any to waste.
+
+Like many arcade-style games, Defense Command plays a sample game if it is left unattended. But unlike most games, the computer plays the game very well (much better than me). You can actually pick up pointers by watching the computer play the game itself.
+
+One other unusual feature of Defense Command occurs at the start of the game. The Flagship and the other aliens escort the player and the fuel cells into place to set up the game. During this process, you can move but not shoot. You can receive many points by using an Anti-Matter bomb to destroy the aliens, but with the unfortunate side-effect of the aliens dropping the fuel cells they were carrying. There is no way to catch all the fuel cells (or even very many) and the game is effectively over. Defense Command is a very versatile game with many different ways to play.
+
+The Flagship appears in Defense Command, but in an uncharacteristically benign role. Occasionally, a “Flagship Alert!” message appears and a Flagship moves slowly across the screen. The Flagship doesn’t shoot, but its appearance is designed to distract you. If you shoot the Flagship, then a group of aliens emerge from it and swarm down at you. You can either shoot as many of these aliens as possible, or use an Anti-Matter bomb to destroy them all.
+
+If the number of fuel cells drops to one, then Slicers starts appearing. Each Slicer rotates as it falls straight down. You can destroy a Slicer with just one shot, but you must be directly underneath it. If a Slicer reaches the bottom of the screen, then it continues moving from side to side destroying everything it touches. It will destroy all the remaining fuel cells and the only thing that can stop it is an Anti-Matter Bomb.
+
+Once all your fuel cells are gone, even if you have remaining lives, the game is over. A line of Solar Wasters descend in a pattern and destroy everything they touch. Nothing can destroy them, not even an Anti-Matter Bomb. At this point, the game is over.
+
+Defense Command has the best and clearest voices of any Big Five Software game. It also has very clever graphics and transitions between different screens. When you get a high score, each letter of the high score screen explodes individually on the screen. In my opinion, Defense Command is the most impressive of the Big Five games for the TRS‑80.

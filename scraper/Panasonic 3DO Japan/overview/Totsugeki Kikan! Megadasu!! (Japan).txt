@@ -1,0 +1,1 @@
+On the field of Megadasu, the player chooses one type of robot out of a selection with their own traits to do battle against other robots. The battle is done in a 3D view requiring the player to shoot and charge the opponent right off the edge of the field. Each round is replayed to summarize the performance of the battle.

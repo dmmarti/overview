@@ -1,0 +1,9 @@
+King's Quest II: Romancing the Stones is a remake of King's Quest II: Romancing the Throne, and a follow-up to AGD Interactive's (formerly Tierra Entertainment) earlier remake of the first game. Like its predecessor, it has VGA graphics reminiscent of Sierra's adventure games of the early 1990's, and a new musical score. The remake retains the general outlines of the original story and the gameplay system, but contains additional locations, expanded dialogue, and new characters. Some of these characters are original, while others are taken from various installments of the series to present a more cohesive view of its overarching story.
+
+In 2009 AGD Interactive released King's Quest II VGA 3.0, which can be considered a remake of their original 2002 remake. It contains the following enhancements:
+
+    Newly enhanced game visuals featuring hand-painted game backgrounds and character dialog portraits
+    Full narrator speech and lip-syncing for all characters
+    Windows Vista support
+    Native Ogg Theora movies, which means in-game cutscenes and movies will now play in Linux and PC emulations under Macs
+    Full digital speech and music tracks are now included as part of the download rather than being separate downloads.

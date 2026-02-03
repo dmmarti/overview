@@ -1,0 +1,5 @@
+Spiders of Mars is a side scrolling shoot 'em up where the player controls a fly. Similar to Defender it is possible to move both left and right but here the objective is simply to destroy a number of creatures in each level. 
+
+There are four different creatures with different behaviour but all lead to death upon contact: bats, dragonflies, wasps and spiders of Mars.
+
+Bats flutter about without shooting while dragonflies leave trails of deadly dust bombs which home in on the player. The wasps appear from the right and fire stings swiftly at the player. The spiders descend from the top and spin webs that prevent the player from moving. If they reach the ground they will start firing new webs upwards. The player has three lives and gets an extra one upon reaching 10,000 points.

@@ -1,0 +1,13 @@
+A clone of one of the world's most cloned games, Scramble, this is another example with the world's most popular name for Scramble clones, namely Skramble.
+
+You fly your spaceship through a cave system split in six sections. Pressing the joystick button will unleash both your front mounted gun and your bombs. Missiles will launch in your path in order to intercept you, and you must not only shoot those down, but also bomb all fuel cisterns you see, or you will run out of fuel.
+
+The second cave section introduces aliens that fly up and down in your path.
+
+In the third section, you are met by fire balls which are immune to your bullets.
+
+The fourth section is played out in a very cramped space, where you have little time to react to the missile launches. Here, the graphical style changes into a more technological one than the natural caves earlier on.
+
+The fifth section is equally cramped, but with steep shafts which must be descended into or ascended from with precision, due to the speed at which you are moving.
+
+Finally, the sixth section is an infinite loop where you must bomb a single enemy construction before you run out of fuel.

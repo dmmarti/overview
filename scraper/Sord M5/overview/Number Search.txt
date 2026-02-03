@@ -1,0 +1,3 @@
+Three Circles - An original version of the classic three circle game. Match your wits against those of the computer, and see who wins!
+
+Number Search - Another brain stumper! The computer chooses a secret number, and you have to figure it out. It gives you hints, but keeps you guessing.

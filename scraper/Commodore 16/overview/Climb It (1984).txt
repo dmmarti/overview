@@ -1,0 +1,3 @@
+Climb-It is based on the arcade game Donkey Kong. As in the original game, the player controls a young man trying to rescue his girlfriend from a giant gorilla.
+
+The game consists of three different screens, with the goal in each being simply to reach the top. The levels are based only loosely on the original game. They consist of platforms, ladders and lifts to help the player upwards. There are various hazards on the route including rolling barrels and invisible fireballs that must be jumped over or avoided - there is no hammer to destroy them as in Donkey Kong. Items can be collected on the way for bonus points. Unlike in other versions, the villainous gorilla is never actually seen.

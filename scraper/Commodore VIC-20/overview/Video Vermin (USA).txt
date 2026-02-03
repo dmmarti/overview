@@ -1,0 +1,1 @@
+Video Vermin is a fast paced Centipede clone for the Commodore VIC-20. It was developed by Mike Wacker and released in North American by United Microware Industries in 1982.</Notes

@@ -1,0 +1,1 @@
+The characters have the ability to pick up objects (generally boxes) and either put them down to stand on them, or throw them at enemies. Each level is a variation on the jumping theme, with the characters finding a necessary attribute (e.g. a guitar) somewhere in the level. The sixth and final level ends on-stage.

@@ -1,0 +1,1 @@
+Galactic Abductor is an action game in which aliens try to abduct humans and you have to stop them. The aliens will drop little robots on wheels that will automatically drive towards you. However, you can shoot left and right to destroy them. Just don't get touched by them or else they will destroy YOU! The game is lost once all humans got abducted or you lost all lives.

@@ -1,0 +1,23 @@
+Once again these fiendish aliens from the Planet ODD are on the
+rampage attacking your home planet. You must fight to the death
+to protect your home.
+
+There are 9 levels of difficulty which you select by inputting
+the level you require.
+
+You may now select 1 or 2 player game.
+The Control Keys are as follows:
+Fire            - SPACE
+Left            - CAPS SHIFT
+Right           - Z
+Abandon Game    - A
+Stop Game       - S Press any key to continue game.
+Points may be scored for destroying each Galaxian.
+Bottom 3 rows = 30 Points.
+      4th row = 40 Points
+      5th row = 50 Points
+      Top row = 60 Points
+Swooping Galaxians score double points!
+This program works with the Kempston and Sinclair Joysticks.
+
+GOOD LUCK

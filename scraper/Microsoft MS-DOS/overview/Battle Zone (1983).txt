@@ -1,0 +1,1 @@
+Battlezone is an arcade game from Atari released in 1980. It displays a wireframe view (using vector graphics rather than raster graphics) on a horizontal black and white (with green and red sectioned color overlay) vector monitor. Due to its novel gameplay and look, this game was very popular for many years.

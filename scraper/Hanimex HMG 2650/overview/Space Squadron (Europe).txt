@@ -1,0 +1,1 @@
+One player game (uses left side controller)  Your mission is to drive your spacefighter and destroy as many mutants and aliens as possible  Also you must avoid the aliens shooting at or colliding with your spacefighter  You have three spacefighters ready 

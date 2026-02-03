@@ -1,0 +1,36 @@
+The Story So Far...
+
+The Goblin Town potato cellars have been invaded by giant potato bugs!
+
+Anyone who gets too close gets bitten, Overseer Snorgle says the bugs went berserk and ate everyone on his SPUD team during an attempt to collect all of the potatoes from storage room 15!
+
+You have...um...been volunteered to investigate further - the heroic goblins who bravely guard the other side of the door have promised to let you back out of the cellar if you are able to salvage most of the potatoes in room 1.
+
+You are not entirely sure you believe them.
+
+
+Controls...
+
+Use a joystick in port 2 to move.
+
+Press fire to jump.
+
+Push up to leave through an open door, up/down to climb ladders.
+
+Good luck, and watch out for bats!
+
+
+
+Credits...
+
+Programming, sound, and graphics by Vanja Utne
+
+Beta testers:
+
+Andreas Gustafsson
+Roy Fielding
+Per Olofsson
+Jimmy Persson
+David Almer
+Vinny Mainolfi
+Andy Zeidler

@@ -1,0 +1,9 @@
+1830: Railroads & Robber Barons is a turn-based game, where the aim is to become the most successful railroad builder in north-east America. It's based on Avalon Hill's board game of the same name.
+
+You start off by choosing a character to play as and setting the difficulty level. There are four difficulty levels, and you can choose to have up to five computer opponents. You then need to decide who owns what - this is done by bidding on the six private companies who own the land. Once these have been divided up, you can start buying shares in the railroad companies. Once you own six shares in a company it can start operating, so make sure you buy enough shares in one company rather than buying one share in every company.
+
+You then move to the first operating round. Here you can lay track hexes onto the map or modify the existing ones. You can also buy trains, bid for private companies you don't own and place stations. Once you have a train the game will automatically assign it to the most profitable route so you don't have to worry about working it out. After the operating round there is a stock round when you return to the stock market to buy and sell shares. This is where you make your own money, so buy and sell carefully. These stock rounds get further apart as the game goes on.
+
+The game ends when a baron or the bank goes bankrupt. At this point everyone counts up their assets and the winner is declared.
+
+1830 is one of the best boardgame conversions I have ever seen. It could keep you entertained for hours. I have heard rumours of ten-hour games of this, though I lose easily within the first hour! I would recommend exploring the multiplayer option as I found it fun on my own, but due to the extremely good AI another human player will probably give you a better chance of a good game, especially when you're new to it.

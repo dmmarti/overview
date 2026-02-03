@@ -1,0 +1,9 @@
+Battle Bugs is a real-time tactics video game developed for MS-DOS and Windows by Epyx and released by Sierra On-Line in 1994. There was also a PlayStation version of the game released in Japan in 1997.
+
+The game details a war of one group of insects battling against another. The battlefields are common household places such as the kitchen floor or the backyard. The player must navigate their bugs, each with special skills, and engage the enemies’ bugs.
+
+The main objective of each battle is to either eradicate all of the enemy bugs or 'capture' every piece of food on the battlefield. This is achieved by positioning your bugs on the food long enough to raise a flag. When all pieces of food bear your team's flag, the battle is won. However, the enemy bugs will attempt to do the same thing and can reclaim captured food.
+
+The game develops the logical skills of the player. Different bugs are stronger and weaker versus other types of bugs so the player must combine different strategies to go to the next mission.
+
+There is also a multiplayer mode that can be played. It involves hot-seating between two players by pressing 'pause' on a virtual stopwatch, similar to the way that competitive chess is played.

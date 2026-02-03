@@ -1,0 +1,1 @@
+This pool game uses the same game engine as the awesome Jimmy White's Whirlwind Snooker. The three different versions offered are 8 ball UK, 8 ball US and 9 ball.

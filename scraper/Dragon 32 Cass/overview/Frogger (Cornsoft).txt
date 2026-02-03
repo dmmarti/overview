@@ -1,1 +1,0 @@
-Programmed by Jim Nunke, Frogger is an adaptation of the popular coin operated arcade game by SEGA.    Safely manoeuvre the frog to its home whitin the time given. Cross the highway without getting run over and cross the river without falling in. Avoid traffic, snakes, crocodiles and diving turtles.

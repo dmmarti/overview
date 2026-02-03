@@ -1,0 +1,5 @@
+The ultimate in Shoot-'em-ups. A remarkable 101 levels that really test the reflexes and coordination of even the most persistent alien blaster. If you fancy a challenge, try to complete all of the 101 levls from scratch. For those of you who wish to cheat though, it is possible to start a new game only a level or two below where you were finally killed in the old game. -From the inside cassette flap info
+
+The game's trippy graphic style and fast paced gameplay borrows somewhat heavily from Jeff Minter.
+
+This game was later ported to the C64.

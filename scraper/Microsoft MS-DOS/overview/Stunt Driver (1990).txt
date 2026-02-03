@@ -1,0 +1,3 @@
+Stunt Driver is a polygonal racing game released for MS-DOS in 1990. It has a feature set similar to Brøderbund's Stunts published the same year, including a track editor, and both games have much in common with Hard Drivin', the Atari Games 3D stunt driving simulator released in February 1989.
+
+Stunt Driver allows the user to create a racetrack from components such as draw-bridges, banked curves, oil slicks, water hazards, and loops, then race on them alone, against computer-controlled opponents, or against another user via a modem or null-modem connection. It allows viewing and editing of replays using different cameras, another feature shared with Stunts.

@@ -1,0 +1,38 @@
+Macmillan Software
+
+When the software has loaded, type in the password
+  MAGIC
+and then press the ENTER key to go on. The password prevents unauthorised
+access to the secrets of your tricks!
+
+Next type in your name. The curtains now open and the magic is waiting for you.
+You have three options: TRICKS, SEQUENCE and SHOW.
+
+TRICKS explains the secrets of the tricks; SEQUENCE allows you to select the
+tricks you wish to feature in your show; SHOW is for your live presentation!
+
+Now look at TRICKS. Choose from the names of the tricks scrolling up in front of you. For each trick, you have three options:
+  THE MAGIC
+  MAGICIAN'S TIPS
+  REHEARSAL
+
+It's best to go through each of these in this order, first to see how the trick
+works, then to see how to present it as part of a show, and finally to practise
+until you are perfect!
+
+When you have rehearsed a number of tricks you will be ready to choose the
+tricks for your show. Select SHOW and these options will appear:
+  SEQUENCE A SHOW
+  REVIEW A SHOW
+
+Use SEQUENCE to choose the tricks and accompanying tunes for your show; REVIEW
+to remind you of the order in which you have chosen them.
+
+To add variety to your show, you can present tricks from the book [the
+accompanying booklet includes a number of tricks] (or elsewhere) in between
+computer tricks. Just leave the computer running - the curtains close after
+each trick, and open again to start a new trick only when you press a key.
+
+Press CAPS SHIFT and A simultaneously to return to the main selection screen at
+any time.
+Press O to switch the sound off or on.

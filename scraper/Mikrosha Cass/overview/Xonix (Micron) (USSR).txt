@@ -1,0 +1,1 @@
+Xonix is a video game in the style of Qix written for DOS by Ilan Raab and Dani Katz. The goal of the game is to fence off sections of a playfield where balls that the player must avoid bounce around.

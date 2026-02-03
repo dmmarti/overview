@@ -1,0 +1,1 @@
+Snappo is a Pac-Man clone. It was written by D Charlton and published by Oxford Data in 1984 for the Memotech MTX.</Notes

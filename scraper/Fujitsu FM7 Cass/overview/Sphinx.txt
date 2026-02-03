@@ -1,1 +1,0 @@
-A vertical shooter game similiar to Galaga or Galaxian.

@@ -1,0 +1,3 @@
+Woodworm Whacker is an arcade-action game, in which you have to shoot evil woodworms while avoiding their shots.
+
+Your weapons is frisbee-like, and it keeps bouncing forth and back/up and down till it hit enough enemies. Be careful, as your weapon can also kill you!

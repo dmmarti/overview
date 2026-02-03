@@ -1,0 +1,1 @@
+A first person shooter that requires you to think things through rather than just attack anything that moves. This game preceded Wolfenstein 3D by a number of years, and while the walls were not ray cast, but solid fill polygons, it was still one of the earliest simulations to tackle a human viewpoint with complete, 360 degree freedom of movement.

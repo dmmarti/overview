@@ -1,0 +1,3 @@
+Drone Databank is a 3D graphic simulation game which takes place inside your computer. You are equipped with an M.K. type datatank, which can accelerate, brake, super thrust, fire dual logic cannons &amp; pulse laser, through an optional on screen sighting system.
+
+Your mission as a free system warrior is to seek out and destroy the evil ROM guardian. Search for him as you race through the countless memory tunnels and grid zones. Avoid the error bugs and defend yourself against attacks from the guardian's drone fleet.

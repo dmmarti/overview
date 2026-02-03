@@ -1,0 +1,3 @@
+A graphical adventure set in Larry Niven's "Known Space" universe. The centerpiece of the Known Space universe is the Ringworld, an artificially created planet that is actually an immense band orbiting a distant star (Halo borrows this idea for its setting). If you aren't familiar with Niven's series, go out and pick up any one of the dozens of Known Space books and you won't be far from having to track down all of them.
+
+In Revenge of the Patriarch, the player must travel to the Ringworld to uncover information which could prevent the alien Kzinti from starting another war with humanity. It follows the standard point and click formula for adventure games.

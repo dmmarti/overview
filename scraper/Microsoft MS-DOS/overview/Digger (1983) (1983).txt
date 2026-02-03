@@ -1,0 +1,5 @@
+Take control of a mechanical digging machine as you tunnel your way through the earth, searching for valuable gems and the even more valuable bags of gold! But watch out for Nobbins and Hobbins, and don't be careless enough to let the bags of gold crush you!
+
+Digger is an arcade game combining elements of the popular arcade games Dig Dug and Mr. Do!. Players control the titular 'Digger' that can tunnel through dirt with ease. The goal of each level is to gather up each of the gems, which allows you to progress to the next stage. However, Nobbins and Hobbins are also lurking within the levels - Nobbins are fairly slow, but transform into Hobbins which are much quicker. The enemies can only chase Digger through the tunnels he creates - they cannot dig through the dirt themselves.
+
+Digger's defenses consist of being able to shoot a single, rechargeable shot in the direction he is facing with F1 (which recharges after about thirty seconds), crushing his foes by digging underneath a gold bag and letting it plummet down, crushing anything in its path, or by collecting the bonus cherry that sometimes appears, causing Digger to become temporarily invincible.

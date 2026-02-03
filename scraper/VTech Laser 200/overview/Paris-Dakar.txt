@@ -1,0 +1,3 @@
+Paris-Dakar is a rally simulator in which the player controls a wide variety of variables, including the state of the car (gasoline, water, damages, gear box...) and the race route (always accessible), among others. If needed, the player can refuel, buy water or whatever else is required from the powerboats in Europe or the tankers in Africa. Prices of these essential materials aren't always very reasonable, given the player's meagre starting wallet, motivating players to earn higher sponsorships through strong performance in the race.
+
+There are three different stages: one in Europe, another one in the desert of the Sahara, and finally a crossing of the Tenere desert before arriving in Dakar.(Moby Games)

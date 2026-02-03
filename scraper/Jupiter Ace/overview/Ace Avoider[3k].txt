@@ -1,0 +1,1 @@
+Avoider is an action game for an unexpanded Jupiter Ace. The idea is to control your craft (0) to intercept the Jewelites (*) while avoiding the mutant asteroids (X) which will destroy your craft on impact. If you capture all the Jewelites, you move onto the next wave. Each wave is denser and more aggressive than the previous one.</Notes

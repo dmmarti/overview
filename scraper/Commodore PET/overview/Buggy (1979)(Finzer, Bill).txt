@@ -1,0 +1,3 @@
+Buggy from Gremlin Interactive is a radio-controlled car simulation. Instead of being placed behind the wheel of a racing car, you control any one of sixteen custom-designed radio-controlled racing buggies over 15 undulating, cartoon-style courses. Some of the buggies are "hidden" and must be found before they can be used.
+
+The courses have plenty of secret power-ups scattered throughout as well as concealed highways and shortcuts to help you defeat your computer-controlled opponents (or your friends, if playing in the game's multiplayer mode). In addition to straight racing around the courses, you can fly for a few seconds, bounce from place to place, and discover the secret sequences and gates that will lead you to extra performance bonuses.

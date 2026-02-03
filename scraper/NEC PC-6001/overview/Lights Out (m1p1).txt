@@ -1,0 +1,1 @@
+The goal of the puzzle is to switch all the lights off, preferably in as few button presses as possible. It was shipped free with the console.

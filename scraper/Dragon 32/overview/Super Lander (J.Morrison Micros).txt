@@ -1,0 +1,1 @@
+Super Lander is your typical moon lander game, of the kind of which every computer must have at least a dozen, especially during its formative years. Your goal is to land your moon lander on a landing pad without crashing into the ground. Your enemies are only gravity and the inertia from your thrusters. Two landing pads are available, depending on your level of expertise.</Notes

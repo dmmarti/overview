@@ -1,0 +1,5 @@
+Cool Croc Twins is a platform game where, as one of the cool crocodile twins Punk and Funk, you try to reach the beautiful crocodile girl. 
+
+To do so, you'll have to complete over 60 levels. Each level is made of a bunch of thin, floating platforms. When you approach the edge of a platform, you do not fall off - rather, you begin walking upside-down on the other side! Instead of jumping, you "reverse the gravity" of your croc, causing him to fall up or down until he lands on a platform. 
+
+You goal on each level is to light up all the bulbs by bumping them with your head. If you hit the bulb three times it will be completely lit up. Some bulbs are invisible on higher levels. There are also foes who want to stop you and who sabotage your efforts by bumping into the bulbs you've lit, turning them off. Your foes can walk on both sides of the platforms just as you and can jump from platform to platform just as you, so watch out!

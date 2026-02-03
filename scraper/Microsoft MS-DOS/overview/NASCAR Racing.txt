@@ -1,0 +1,1 @@
+The game presents three different game modes: Arcade Race, Simulation Race, and Simulation Testing. While the Arcade Race mode let's the player jump right into the fray after choosing their difficulty level (either rookie,veteran, or ace), the Simulation Race mode features a lot more customization options for the player to take into consideration.

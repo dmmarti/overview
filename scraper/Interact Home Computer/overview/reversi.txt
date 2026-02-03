@@ -1,0 +1,3 @@
+A computer version of the board game Reversi.
+Moves are made by placing a disc on the board so that at least one of the opponent's discs is "trapped" in a straight line (horizontally, vertically or diagonally) between the disc just placed and another disc of the same colour already on the board. These "trapped" discs are then changed to the colour of the piece just placed. If no pieces can be captured, then that turn is missed. 
+Play continues until either the board is full or neither side can move. The winner is the player with the most discs on the board at the end of the game.

@@ -1,0 +1,1 @@
+Frog Chase is a clone of Frogger. Try to get the frog in the safe spots on the other side 3 times. While trying to do that avoid trucks and don't fall in the water...your frog can not swim!</Notes

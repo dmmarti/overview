@@ -1,0 +1,1 @@
+The title screen for American Football gives an isometric view of the field, but, when the action actually begins, the viewpoint switches to overhead, with 11 small stick figure players on each team. The field scrolls horizontally and is 100 "yards" in le

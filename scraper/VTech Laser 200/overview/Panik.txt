@@ -1,0 +1,5 @@
+All the excitement of a great arcade classic. Screen after screen of evil looking monsters are out to get you. You're quite strong, you can move fast, and you are armed with a large shovel. But will this be enough? ... I doubt it.
+
+Clear each screen of monsters by digging holes to trap them, them hitting them over the head until the fall to the next level. Purple monsters need only to fall one level to be killed, but the red and green monsters need to be knocked through two and three levels respectively.
+
+Points are scored for each monster killed (depending on its colour) and for oxygen remaining at the end of each screen. The top eight scores are kept.

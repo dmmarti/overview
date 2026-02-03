@@ -1,0 +1,1 @@
+A draughts simulation where you play against the computer, with ten levels of difficulty.</Notes

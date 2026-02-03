@@ -1,0 +1,1 @@
+The game has four modes: World Cup, Tournament, Shoot Competition, and Vs. Mode. The object of the game is the same as in real football; one team must score more goals than the other to win.

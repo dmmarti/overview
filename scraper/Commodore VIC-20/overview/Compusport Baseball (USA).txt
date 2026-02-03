@@ -1,0 +1,1 @@
+Compusport Baseball is a simple baseball game for the Commodore VIC-20 with 8K memory expansion. It was developed and published by K-Tek Software in 1983.</Notes

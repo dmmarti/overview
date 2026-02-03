@@ -1,0 +1,4 @@
+Castle Wolfenstein is a stealth-based action-adventure shooter game set in World War II. 
+The game's main objective is to traverse the levels of the castle to find the secret war plans and escape alive. 
+Progressively higher military ranks are earned upon each successful escape with the war plans, and the game becomes correspondingly more difficult as each higher rank is achieved. 
+There are eight ranks, beginning with Private, culminating at the rank of Field Marshal.

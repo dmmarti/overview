@@ -1,0 +1,9 @@
+Learic and Leanoric are twins and powerful sorcerers who hated each other. One day, Leanoric cast an aging curse on Learic. As Learic, you have only one day in which to defeat Leanoric before dying.
+
+The only real enemy is Leanoric. To achieve your objective, you must collect many herbs scattered across the map and mix them in your cauldron to make offensive and defensive spells. You also have a compass that indicates Leanoric's location. Several of the herbs are found in a garden, tended by a gardener. The gardener, though slow-moving, is also able to inflict damage on Learic.
+
+Leanoric, as a non-player character, has to do the same thing, collecting herbs to mix in his cauldron before hunting you down in order to attack.
+
+The spells varied from fireballs and lightning to invisibility and even turning peaceful villagers into zombies.
+
+A version of the game was translated to Brazilian Portuguese and is known for a bug that causes it to lock up when using the "sprites" spell, translated in this version to "devas".

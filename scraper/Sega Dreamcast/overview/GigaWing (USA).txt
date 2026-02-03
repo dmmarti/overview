@@ -1,0 +1,5 @@
+In the World of Giga Wing, many wars have been fought for the divine stone Medallion. Entire civilizations were destroyed in the struggle for gaining control of the legendary item. Now, in the year 2050, four pilots have set off, each carrying a mysterious stone. The stones are said to be the only way to destroy Medallion once and for all. The player can choose to complete the journey for any of the four pilots.
+
+Giga Wing is a vertical scrolling shoot 'em up. Up to two players must steer their planes around enemy bullets and destroy everything in their path with only a limited amount of lives. When tapping the A button, the main gun is fired. Holding the button activates the Reflect Force. The B button fires a bomb from a limited stock to become temporarily invincible. Power-ups can be collected to increase the bomb and life stock or enhance the main gun's fire power.
+
+Scoring works by using the Reflect Force to repel enemy shots. Once the shots hit an enemy, medals appear in their place. When these are collected, the score multiplier increases.

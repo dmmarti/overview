@@ -1,0 +1,5 @@
+Fortune-telling interactive software that predicts the player's fate with a virtual deck of tarot cards. It was developed and published by Scorpion Soft for the Famicom Disk System in Japan only.
+
+Tarot (sometimes referred to as Tarot Uranai; "Uranai" meaning fortune-telling) is a fortune telling game from Scorpion Soft that was released on the Famicom Disk System towards the end of 1988 in Japan only. It followed a series of other astrological "utility" programs for the platform, including Chuugoku Senseijutsu and '89 Dennou Kyuusei Uranai.
+
+The game focuses, not surprisingly, on the Tarot deck and their supposed clairvoyant properties. The game will randomly shuffle a deck and lay them out in a formation of the player's choosing - each formation is meant to predict a different aspect of the player's life. The game will then reveal cards that the player chooses and decipher the meaning behind them.

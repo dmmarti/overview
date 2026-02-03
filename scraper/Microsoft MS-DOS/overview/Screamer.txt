@@ -1,0 +1,5 @@
+The game shares some graphical and gameplay style with Namco's Ridge Racer. The game features texture mapped polygon-modelled tracks and cars.
+
+Software rendering is used in the game, due to the game's release before the widespread adoption of 3D graphics cards, unlike Screamer's three sequels Screamer 2, Screamer Rally and Screamer 4x4, that all utilized 3D hardware (in the case of Screamer 2, after a patch was released. As a result, Screamer was one of the early games to really require a Pentium processor to run at full speed, particularly in SVGA mode.
+
+The game's music was composed by Allister Brimble.

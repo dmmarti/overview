@@ -1,0 +1,1 @@
+It's your job to keep PAC-MAN as happy as possible. You must guide him around the maze so that he can eat video wafers and power pills. Protect him from the ghosts unless he has the super strength of a power pill. If he does have the super strength, help him chase the ghosts and gobble them up before they gobble him.

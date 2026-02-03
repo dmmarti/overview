@@ -1,0 +1,2 @@
+The object of the game is to amass as much money as possible. Up to six players can play at once and the computer acts as banker. 
+Bets may be up to £100 and a player loses if he runs out of money. All the odds are calculated according to the official rules.

@@ -1,0 +1,1 @@
+Critters is kind of a clone of Galaga or Galaxian. You have to protect your apples from the critters, flying insect-like beings. You can shoot up, left and right.</Notes

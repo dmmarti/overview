@@ -1,0 +1,1 @@
+Two Tanks white and black face off in a maze of blocks. Small X's denote mines. Player with the highest score achieved by blasting the opponent, or him running into mines, after the allotted time, wins.

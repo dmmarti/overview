@@ -1,0 +1,1 @@
+Brain Quiz contains three competently programmed games.  Mind Breaker has players using clues to guess a secret five-digit number. In Maxit, each gamer moves their cursor around a number grid, trying to select the highest numbers possible in order to outs

@@ -1,0 +1,31 @@
+Use the red button on your Joystick Controller to place your
+bet.  You can bet up to five coins each time.  Games 3, 4,
+7, and 8 have a maximum of five paylines.  Each bet of one
+coin increases the chances of adding to your bank.  For
+example, bet three coins and you may win a jackpot on
+either the first, second, or third paylines.
+
+Games 1, 2, 5, and 6 only "pay" on the center line (or
+payline ).  In these games, the more you bet (up to five
+coins) the more you can add to your bank.
+
+After placing your bet, pull back on your Joystick to spin
+the reels of the Slot Machine.  In two-player games, both
+players must do this to spin the reels.  The game ends
+when one player's bank is "broke".  To continue play depress
+the game reset switch once.  This adds 25 coins to each
+player's bank.  (The game may end with one player going
+broke, while the other player has coins remaining.  When
+the game reset switch is depressed once, the player who
+went broke is given 25 coins, while the player with coins
+remaining receives 25 coins plus the amount left when the
+game ended.)
+
+In one-player games, you are competing against the computer.
+The computer makes a random bet for each play.  The game
+ends if you or the computer go broke.  To continue play
+depress the game reset switch once.  This adds 25 coins to
+each bank.  As in two-player games, the player with coins
+remaining when the game ends does not lose those coins when
+the game reset switch is depressed once those coins when the
+game reset switch is depressed once.

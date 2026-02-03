@@ -1,0 +1,1 @@
+Blackjack Academy is a Blackjack, also known as 21, simulation that claims to help improve your game. You can play by yourself or with four other players at the same time, playing multiple table rules just like you would in a casino.

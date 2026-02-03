@@ -1,0 +1,27 @@
+Androids is a top down arcade maze game.
+
+CONTROLS
+Keyboard, Kempston and sinclair joysticks can be used.  The
+keyboard controls are redefineable.
+
+INSTRUCTIONS
+The aim of each level is to find the exit, which will take you
+onto the next level.  The exit to each level is like a square
+flashing vortex which you simply walk into.
+
+You can move around the maze using the keys, and shoot the green
+aliens by using the fire button, causing you to shoot in the
+direction you are currently facing.  You only have limited ammo,
+so you must walk into the coloured squares marked "G" to gain
+more shots.  They are quite common.
+
+You also only have a limited number of shields, which can be
+depleted by walking into or being shot by one of the aliens. 
+This too can be replenshed by walking into the coloured squares
+marked "S".  Both your number of shots and shield level is shown
+at the top of the screen, along with your score.
+
+The cyan coloured squares on the map are doors, and the aliens
+cannot walk through these.  The map also wraps around, so you can
+end up going in circles, and it seems a lot bigger than it
+actually is.

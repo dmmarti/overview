@@ -1,0 +1,9 @@
+Knights of the Sky is a World War I combat flight simulator designed by Jeff Briggs and published by MicroProse in 1990 for MS-DOS and in 1991 for the Amiga and Atari ST.
+
+multiple gameplay options including full World War 1 campaign, single dogfight, head to head and flight training.
+
+The World War 1 campaign mode involved moving through a series of missions. Each mission contained an objective (ex: bomb a specific German airport behind enemy lines) as well as a number of dogfights that would naturally arise in the course of attempting to complete the primary objective. The game would track the number of enemy planes you shot down in total and would rank your character as compared to other famous World War I aces. Iconic World War 1 flying aces like the Red Baron as well as other well-known historic figures were included in the game and would occasionally be encountered in dogfights. As you progressed through the game your mechanic would provide you intel on where you might encounter these aces.
+
+The single Dogfight mode allowed the player to select from a number of historical World War 1 aces with which to engage in a dogfight.
+
+Head to head mode allowed the player to challenge another player, via modem connection, to a dogfight.

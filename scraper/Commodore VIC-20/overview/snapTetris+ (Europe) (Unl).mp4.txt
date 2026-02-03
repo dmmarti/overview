@@ -1,0 +1,1 @@
+Tetris+ is clone of the popular puzzle game Tetris or the Commodore VIC-20 (using a 3K expansion). It was developed  BY NBLA000 and NIPPUR72 and published by VICtalian Software in 2008. 

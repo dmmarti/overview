@@ -1,0 +1,5 @@
+Contains the three Konami Arcade Classics:
+
+- Salamander
+- Salamander 2
+- Life Force

@@ -1,0 +1,5 @@
+BLOX is a clone of Sokoban, a puzzle game where you have to push all boxes in a level onto a goal field. It features 3 difficulty levels with 60 puzzles in total, plus two unlockable bonus stages, passwords and simple sounds and more.
+
+When it was released in 2003, BLOX was the first and only complete homebrew Virtual Boy game. 10 years later, in 2013, it was the first ever Virtual Boy homebrew game to see a physical release through UncleTusker.
+
+A sequel has been released in 2009.

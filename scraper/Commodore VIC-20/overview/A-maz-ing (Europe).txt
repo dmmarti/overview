@@ -1,0 +1,1 @@
+An "escape-the-maze" game for 1-2 players. Optionally you can play against the computer in the 1-player</Notes

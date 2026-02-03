@@ -1,0 +1,3 @@
+Caesar II is set in the time of ancient Rome, and lets you try to be the next Caesar. You start with one province and have to build an efficient city. To do this you'll have to manage the water supply properly, make sure the city is policed well, and provide adequate education, entertainment, baths, and temples (which also hold your money and can be robbed if you don't have enough protection).
+
+At some point, possibly more then once, you'll have to defend your province from invading tribes that don't really want you there. You also have to connect all the little villages in the province with roads and make some industry, like stone mining, grapes, etc. for which you can then create markets in your city.

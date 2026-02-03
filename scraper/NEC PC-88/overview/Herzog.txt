@@ -1,0 +1,7 @@
+The first, obscure instalment in the Herzog series is also one of the early precursors of the modern-day RTS (real-time strategy game) genre that was popularised by Dune 2. Unlike the common RTS game, the playfield is a long vertical stretch instead of the well-known map stretching in both X and Y axes.
+
+Another now unique trait is that there is little emphasis on building up a base to produce units which are then directly commanded into action. Instead, a base is already located at each end of the path, and the player is given control over a hovering battlemech. New units are bought using funds accumulated during play. These units, ranging from single foot soldiers to tanks and AA batteries, advance from the home base towards the enemy base. The player may pick up a single unit (or five soldiers) and move them closer to the enemy base in order to speed up the attack. A radar on the top of the screen gives an overlook of the battlefield.
+
+The opposing faction has got the same resources, and the enemy battlemech will make raids towards your base, forcing you into mech-on-mech battle. This element turns Herzog into a rather unique blend of strategy and shoot'em up.
+
+The game takes place in a balkanised region, where the last war has given birth to a new state, called Ruth. A military coup d'état in the now-independent state leads to a new war, which the peace-loving Mercies must win.

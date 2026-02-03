@@ -1,0 +1,1 @@
+In this driving/maze game, you control a vehicle who must drive through the entire maze to progress. There is another vehicle who tries to stop you so to aid your progress, you must drive through the beach ladies in order to gain power-ups which you can use on the other vehicle.

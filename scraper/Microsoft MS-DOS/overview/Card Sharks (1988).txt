@@ -1,0 +1,2 @@
+Card Sharks is a 1987 Poker game developed and published by Accolade. It was designed by Mike Lorezen.
+Depending the chosen game the user has to select up to three opponents. Besides three fictional characters (Luigi, Lady and Milton), the user can also select Mikhail Gorbachev, Ronald Reagan and Margaret Thatcher. The characters comment the game situation in a humoristic way.

@@ -1,0 +1,3 @@
+The game is a Qix clone, although it has enough unique features to make it interesting – the most significant being that the size of your line is limited by the web power you have available. There are also bonus rounds where you must circle numbers as quickly as possible.
+
+The PCB was found in Spain, and appears to be yet another original Spanish game.

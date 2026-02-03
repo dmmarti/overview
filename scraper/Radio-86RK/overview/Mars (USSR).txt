@@ -1,0 +1,1 @@
+The player pilots a sputnik-shaped spaceship over a leftward scrolling landscape. The machine gun can be fired in eight directions. Destroy the ground based enemies.

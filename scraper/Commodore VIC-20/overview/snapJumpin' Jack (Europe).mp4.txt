@@ -1,0 +1,1 @@
+A Frogger clone from Livewire Software. As usual, your goal is to safely guide the frog across the road, avoiding the cars, jumping on the turtles and tree trunks across the river and land safely in one of the five slots on the other shore.

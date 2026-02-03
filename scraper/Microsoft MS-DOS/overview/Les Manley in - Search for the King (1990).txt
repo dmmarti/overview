@@ -1,0 +1,1 @@
+This is a classic text-parser-with-moving-onscreen-actors adventure game from the early 90's. In this game you are a tech specalist for a company. (Basically Les is the poster child for nerds all over the US.) Your goal is to win the Search for Elvis contest and win the heart of the girl of your dreams. You might even wind up a superstar.

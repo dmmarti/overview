@@ -1,0 +1,1 @@
+Toado is a Frogger clone, developed by Ed Hollingshead and published by Continental Software in 1983 for the Memotech MTX.</Notes

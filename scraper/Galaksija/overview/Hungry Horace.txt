@@ -1,0 +1,5 @@
+“Hungry Horace” offered gameplay based of the popular arcade game “Pac-Man”, it was celebrated as the first arcade game for the Spectrum. It was one of the few Spectrum games that were also available in ROM format. It formed part of the “Horace” series, which included “Horace Goes Skiing” and “Horace and the Spiders” and the unpublished “Horace to the Rescue”.
+
+Horace is apurple blob with arms and legs, who wanders around a maze, eating everything and avoiding the park guards, who are out to capture him. He is able to momentarily scare the guards, making them vulnerable, by ringing a bell in the maze. Once Horace is able to escape capture and leave the maze, he moves to the next, more challenging level.
+
+“Hungry Horace” was programmed by William Tang, but Alfred Milgrom was responsible for the design of the inimitable Horace an artful creation of character using minimum grid available . Through Melbourne House’s relationship with Sinclair, the “Horace” games would come boxed with the ZX Spectrum, making them often the first games that many people played on their home computers.

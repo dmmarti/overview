@@ -1,0 +1,3 @@
+An unreleased prototype conversion of the arcade game Millipede. It was completed but never released due to Atari abandoning the 5200 near it's completion.
+
+The goal is to survive wave after wave of various insects while trying to destroy a Millipede that makes its way down the screen towards your player. While very similar to Centipede it adds quite a few new quirks such as new insects to contend with and DDT bombs that when shot will destroy what is around them.

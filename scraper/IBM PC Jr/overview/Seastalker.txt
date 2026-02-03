@@ -1,0 +1,4 @@
+Seastalker is an interactive fiction computer game designed by Stu Galley and Jim Lawrence and published by Infocom in 1984. Like most of Infocom's works, it was released simultaneously for several popular computer platforms of the time, such as the Commodore 64, Apple II, and IBM PC. The game was marketed as an introduction to interactive fiction for pre-teen players. It is Infocom's twelfth game.
+Galley and Lawrence later wrote Moonmist for Infocom.
+
+The player's character is a young inventor and marine scientist. A research facility called the Aquadome issues a call for help, indicating that the undersea structure is being attacked by a sea monster. With helpful assistant Tip, the player must navigate to the Aquadome in the new untested two-person submarine Scimitar and investigate the problem. But that isn't all... it looks like there may be a saboteur within the Aquadome as well.

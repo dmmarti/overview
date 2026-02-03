@@ -1,0 +1,1 @@
+A simulation of the board game where you play against the computer. There are four levels of difficulty. Features include board, piece and background colour selection, suggest a move and a help page.</Notes

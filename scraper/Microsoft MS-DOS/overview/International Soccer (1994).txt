@@ -1,0 +1,3 @@
+International Soccer is a soccer videogame for Commodore 64. It can be played by two players or one player against an AI opponent. Each team can select one of a number of colored shirts, and the AI opponent is graded into 9 different difficulty levels. The game itself is a relatively simple game of football - there is no offside rule and no possibility to foul opponents.
+
+Each game is divided into two 200-second halves. There are no overtimes or shootouts. There are also six colors a person can chose from for play: red, yellow, blue, grey, white, and orange. The winning team is presented a gold trophy after the game by a girl in a blue dress.

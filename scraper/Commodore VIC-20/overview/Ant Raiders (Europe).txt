@@ -1,0 +1,1 @@
+Ant Raiders is a simple clone of Centipede in which you have to cage ants (just make sure you don't destroy the cages). It was developed by Stuart Hall and published by P.R. Software in 1982.</Notes

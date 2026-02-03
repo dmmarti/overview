@@ -1,0 +1,19 @@
+A video game adaptation of the famous strategic board game. Find the opponent's flag, and watch out for that spy.
+
+Overview:
+Stratego is a board game adaptation that was originally published by Accolade for various home computers in 1990. The game was also localized for a Japanese audience with the PC Engine release, which was published by Victor Entertainment in 1992.
+
+The game closely follows the rules of the classic Stratego board game as conceived by creators Jumbo, which was later licensed by Milton Bradley for North America. The game also offers various different modes, including a campaign mode which involves consecutive maps, as well as the option to change the visual design for the board and the pieces.
+
+Gameplay:
+The standard rules of Stratego are as follows-
+The player must start the game by placing all forty units in the four rows on their side of the board.
+The player can move any of the numbered units or the Spy (S) unit one space. The Flag (F) and Bombs (B) cannot be moved.
+No two units can occupy the same space. If an enemy unit and a player's unit meet, the one with the highest number (which correlates to a lower rank) is removed. The winning unit then moves into the empty space. If they have the same number, both are removed.
+If a unit touches the enemy's flag, they win the game.
+There are special rules governing a few of the units:
+
+The Spy unit will be removed if attacked by anyone. However, they are the only unit that can defeat the highest ranked unit - the Marshall, or #1. They can only do so if they are the attacker, not the defender.
+If any unit touches a Bomb, they are removed from the board. The Bomb does not move into the empty space.
+The Miner (#8) is the only unit that can destroy a Bomb.
+The Scout (#9) can move any number of spaces horizontally and vertically.

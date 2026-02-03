@@ -1,0 +1,7 @@
+Gameplay allows for players to choose from either the centre or goalie positions, a 2 player option allows for head to head play or co-operative play where one player is the centre and the other the goalie. Coaching decisions such as line changes and strategy choices can be made during a game between whistles. Player creation, development and trades all take place before and after games.
+
+Gameplay as a centre was limited due to only having one action button, this meant that when playing as a centre, pressing the "fire" button would cause the player to swing his stick. If the player had possession of the puck this would result in a shot. Swinging the stick with or without the puck also had the potential to knock other players down depending on their proximity to the swinging stick, often resulting in a penalty, if no penalty is called the player knocked down would spin for several seconds before getting back up (if you as the centre were knocked down you were effectively out of the play until you regained your feet).
+
+The game was notable for its player creation and development system, the game used "trade points" as a measure of value when creating new players, trading players and running team practices. The more points spent on an activity, in general the better the result. Players also aged and their skills declined, the most noticeable being speed.
+
+http://en.wikipedia.org/wiki/Superstar_Ice_Hockey

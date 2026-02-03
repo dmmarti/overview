@@ -1,0 +1,4 @@
+3D Tachyon Fighter is a video game published by Continental Software and released on the Memotech MTX in 1984.
+It was created by Andy Key.
+
+3D Tachyon Fighter is a chase view shooter that is directly based on the arcade game Buck Rogers: Planet of Zoom. As such it is played from a third person perspective where the player's craft is automatically moving forward while the player can move left and right as well as up and down. Like the arcade game it is based on, the game is split into different sections with different screen layouts.

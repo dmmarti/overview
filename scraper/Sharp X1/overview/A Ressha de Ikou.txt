@@ -1,0 +1,3 @@
+A Ressha de Ikou is the first in the long-running transport network simulation series mostly known as A-Train.
+
+The player controls a railroad company CEO in the end of the nineteenth century, who was entrusted by the president of an unnamed country to build a railroad that reaches its Western coast. The game is played in real time, with a day/night cycle and a game world that changes regardless of the player's actions. Compared to its more widely known sequels, A Ressha de Ikou has a rather simple gameplay that is confined to building tracks for just one train line, the titular A-train. A report is generated that shows how well the player is doing in his/her competition against other networks.

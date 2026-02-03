@@ -1,0 +1,1 @@
+Monty Python's Flying Circus is an arcade style game based on the UK television series of the same name. Players control one of the "Mr. Gumbies" and maneuver him through multiple screens, throwing fish at flying feet and similarly surreal enemies. Periodically the game cuts away to a non-sequitur aside, such as a lesson on "the larch," or a quick game of breakout.

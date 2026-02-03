@@ -1,0 +1,1 @@
+Maxima is a Space Invaders type game, written by D Ritchie and published by PSS (Personal Software Services) for the Memotech MTX home computer in 1984.</Notes

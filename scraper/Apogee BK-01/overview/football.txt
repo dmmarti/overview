@@ -1,0 +1,11 @@
+GAME 1: 
+After programming your play, use the Joystick to control your players.  The offensive player controls only the ball carrier and the flight of the pass or punt.  The defensive player controls his lineman or, by holding the red controller button down, the defensive
+back.
+
+The players will randomly follow the play as programmed when not controlled by your Joystick.
+
+GAME 2: 
+In this game, when your players are not controlled by the Joystick, they will follow the play exactly as programmed.  Use more strategy and try to outguess your opponent's plays.
+
+GAME 3: 
+Program in your offensive and defensive plays and watch the computer run them out.  Neither player can control the players movements, but the offense can pass or punt the ball by pushing the red controller button.

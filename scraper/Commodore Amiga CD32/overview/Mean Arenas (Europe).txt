@@ -1,0 +1,1 @@
+Mean Arenas is a 2D top-down maze game that plays very similar to Pac-Man, but with some added features like bombs, teleporters, etc. The presentation is that of a Game Show inspired by American Gladiator, The Running Man, and other futuristic type Game Shows.

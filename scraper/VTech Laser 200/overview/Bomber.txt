@@ -1,0 +1,4 @@
+From the book "The Commodore 64 Program Book". As the pilot of a plane you are faced with a desperate fuel shortage. You are circling down towards a city which has been cleared of its population, for your landing. Now you have one last chance. Can you bomb away the buildings and clear an emergency runway before it's too late? 
+
+Release your bombs by pressing the space bar. Buildings will be destroyed more quickly if hit at their base, so accuracy is more important than speed. 
+If you manage to land your plane successfully, you will be faced with a second city with even higher buildings.

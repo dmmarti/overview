@@ -1,0 +1,1 @@
+Astro Nell is a multi-platform adventure game. Your goal is to collect items which are shaped like stars.</Notes

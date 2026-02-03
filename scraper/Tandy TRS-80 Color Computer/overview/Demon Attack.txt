@@ -1,0 +1,3 @@
+Demon Attack is a 1982 Intellivision fixed shooter video game developed and released by Imagic in the USA on October 10, 1982.
+
+You control a laser canon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your canon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.

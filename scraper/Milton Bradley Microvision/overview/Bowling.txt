@@ -1,0 +1,9 @@
+Your objective is to roll as high a score as possible, whether you're playing a one-player or a two-player game.  There are ten "pins" to knock down.  You have two tries (or rolls) to knock down the pins each time you're up.  Each game consists of ten "frames" (or turns).
+
+If you succeed in knocking down all the pins on your first roll, it's called a "strike".  A strike is marked with an "x" on the TV screen.
+
+If you leave pins standing, but "pick them up" on your second try, it's called a "spare".  Spares are marked with a "/" on the screen.
+
+An "open frame" occurs when you fail to knock down all then pins in two rolls.  Open frames are indicated with a straight horizontal line (-) on the screen.
+
+The ultimate goal in BOWLING is to roll 12 consecutive strikes for a "perfect" score of 300.

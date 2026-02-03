@@ -1,0 +1,1 @@
+Despite the title, 3D Bowling has two-dimensional graphics. However, it does employ a pseudo-3D effect similar to Basketball for the Atari 2600. When the game begins, players are shown an angled/ overhead view of the pins (which look like plus signs and s

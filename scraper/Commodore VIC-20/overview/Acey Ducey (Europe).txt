@@ -1,0 +1,1 @@
+Acey Ducey is very simple computerized version of the popular card game of the same name. It was published by Titan Programs on their "Games Tape One" compilation pack in 1982.</Notes

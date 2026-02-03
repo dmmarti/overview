@@ -1,0 +1,1 @@
+Jigsaw is an interactive fiction (IF) game, written by Graham Nelson in 1995.</Notes

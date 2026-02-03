@@ -1,0 +1,5 @@
+Circus was one of the first games produced by Exidy that used a CPU (6502) to control the game logic instead of hand-crafted hard-coded logic circuits. It ran on a black &amp; white monitor with a color overlay that gave each row of balloons at the top of the screen a different color. It was designed and programmed by Edward Valeau and Howell Ivey of Exidy in 1977.
+
+Circus came in an upright dedicated cabinet, and may have also been available in a cocktail configuration as well. Circus machines had white sides with red painted sideart of several balloons in flight. The front of the machine was decorated with a large ornate monitor bezel that also doubled as a marquee (or nameplate). This bezel showed several clowns in a circus scene and had the game title spelled out with multicolored balloons. The control panel was unadorned, save for an analog spinner and a start button. The whole machine was finished off in black T-molding.
+
+At least 13,000 units, possibly as many as 20,000, were produced.

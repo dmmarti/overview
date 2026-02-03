@@ -1,0 +1,7 @@
+Worry is an adventure game in Japanese where the objective is to find treasure in a mansion. Several items can be found around the mansion that can be collected and need to be used in order to proceed.
+
+There are no room descriptions and the text commands are in very simple English. This has to be done in a two-stage input. You have to type a verb first, then press RETURN and then enter the noun. Example: Open - RETURN - Door. Movements can be done with typing forward, back, left, right, up and down or using the cursor keys.
+
+There are several differences between the versions. In the Sharp X1 version there is also the option to use a joystick instead of the cursor keys or text commands. The text commands can be either typed in a two-stage input or in full sentences and in English, Japanese or a combination of both. The text commands in the MSX version needs to be in full sentences and is ONLY in Japanese. There are some room descriptions as well. Also the solution differs from versions.
+
+The game was initially published under the name of Mystery House, that included Mystery House II and its predecessor, but this was quickly discontinued in the later versions.

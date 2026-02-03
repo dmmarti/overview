@@ -1,0 +1,5 @@
+In this boxing game you can choose from dozens of boxers with different attributes in skill areas such as Power, Defense and Punishment. You can play a single match or an entire championship.
+
+Each match is presented by an announcer and a good looking girl, as in real matches. The boxers are represented with realistic graphics for the epoch as large on-screen characters. Realistic scoring is awarded for each round.
+
+There is only one type of punch available, although a 3D ring view results in realistic movement, and head-lock situations can occur.

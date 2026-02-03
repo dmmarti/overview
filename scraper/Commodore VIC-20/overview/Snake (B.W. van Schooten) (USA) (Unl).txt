@@ -1,0 +1,1 @@
+Another Snake variation for the VIC-20. This one is by Arctic Computing Ltd. It's a fairly basic version.</Notes

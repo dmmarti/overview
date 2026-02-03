@@ -1,0 +1,5 @@
+Innocent Until Caught is a graphic adventure game with an icon-based point-and-click interface.
+
+Jack T. Ladd is a thief, his hunting-ground is the whole galaxy, and at the moment, he's in big trouble. He's got 28 days to pay his taxes - or else the interstellar tax agency will hunt him down. Termination is a viable punishment for tax offenders in these days, you know. Stranded blank on the barren, run-down planet Tayte, Jack decides that he has to make some cash. Quick.
+
+Innocent Until Caught is pretty standard in terms of design but introduces some innovations when it comes to the interface. It features a mini-window at the bottom left of the screen which is alternately a mini-map of the area (showing all exits) and a looking glass for detecting small items. The inventory is a box-window in which objects can be placed wherever player wants (even on top of others). Also, the plot is illustrated by a few rendered sequences, some of the first used in adventure games.

@@ -1,0 +1,1 @@
+A board game simulation game for the Super Famicom. It features modes for shogi, mahjong, gomoku and reversi.

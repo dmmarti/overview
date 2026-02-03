@@ -1,0 +1,5 @@
+Tetris 4D (テトリス フォーディー) is a Sega Dreamcast game developed and published by Bullet Proof Software. It is an entry in the Tetris series, and was released only in Japan.
+
+Being an early Dreamcast game, Tetris 4D does not deviate much from its predecessors. There is a classic mode (which acts as a normal game of Tetris) and a "battle" mode (which allows up to four players to compete against each other). The game has an industrial/urban theme, unlike most other entries in the series which usually have a classical architecture or Russian theme.
+
+There are no AI players in the game and no VMU support for high-score saving. Both Sega Tetris and The Next Tetris: On-Line Edition (both also released for the Dreamcast) are seen as better games as a result.

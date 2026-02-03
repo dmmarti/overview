@@ -1,0 +1,3 @@
+PlayChoice-10 is an arcade machine that can consist of as many as 10 different games previously available only on the Nintendo Entertainment System (NES) home console. The games for this system are in the modular form of circuit boards that are plugged into one of the ten open slots on the PlayChoice-10's motherboard.
+
+Baseball is a game where the player can pitch, hit, field, and run just like in a real baseball game. The player can choose between USA and Japan modes, two different teams, and among a line-up of unique players. In the 1-player game, the player is against the computer, and the in the 2-player game, their friend is their opponent.

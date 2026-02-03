@@ -1,0 +1,1 @@
+Jelda is a third-person shooter with 3-D wireframe graphics. The player's ship can attack with missiles and bombs, with gameplay similar to Xevious. Each enemy has a unique name and attack pattern. The enemy names are TESRA, ABILUS, MOZAM, JEMIL DER, PIRAM, HEXA, SPARDA, TOBLA, WALKER, TOWER, TORIPIRAM and PIMEL.</Notes

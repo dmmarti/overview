@@ -1,0 +1,4 @@
+It is the year 6502 and Earth is being attacked by the vicious Grydlocks, which are being commanded by the Draknoids.
+
+You are the last drone robot on the innershield defense of Earth. 
+Your goal is to destroy as many of the enemies as possible and hopefully save Earth!

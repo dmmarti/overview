@@ -1,0 +1,1 @@
+Kikstart is a motorcycle trials racing game it allowed 2-player simultaneous (via a split-screen facility) or 1-player, vs-computer play. The basic premise of the game is to control a bike using acceleration, braking, "hopping" and "wheelies" to navigate across a course of various obstacles, from ramps and gates to telephone boxes and tires.

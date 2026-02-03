@@ -1,0 +1,1 @@
+You take control of a spaceship that must make its way across a landscape. As it progresses, its fuel supply will decrease, and you must either dock it or destroy the fuel bases on the surface. The game ends when the fuel supply runs out or if you collide with an object. Points are awarded when you fire at these objects, and you control the ship with the keyboard only.</Notes

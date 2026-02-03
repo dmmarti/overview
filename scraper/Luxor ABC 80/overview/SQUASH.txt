@@ -1,0 +1,3 @@
+Squash was produced by Gaelco in 1992.
+
+A really nice "Racket Sport games" : play Squash match!

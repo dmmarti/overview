@@ -1,0 +1,46 @@
+Press any number on the numeric section of the Odyssey2 keyboard. Each number will generate a different playing field.
+
+The screen will display Pick Axe Pete in one of the caverns of the famous Misty Mountain Mine. Three doors leading to deeper parts of the mine are also displayed. Gold bearing rocks will burst through the doors at random intervals.
+
+Pick Axe Pete is activated by the left hand control.
+
+Move the joystick of the left hand control to the left to make Pick Axe Pete walk to the left. Move the joystick to the right to make Pick Axe Pete walk to the right.
+
+Ladders will appear at random times during play. Push the joystick forward and Pick Axe Pete will climb a ladder. Pull the joystick towards you and he can descend it if he has not climbed off at the next level.
+
+If Pick Axe Pete comes to a break in one of the horizontal cavern lines, he will fall downward.
+
+Pick Axe Pete strikes gold every time he hits one of the boulders with his pick. The more points he scores, the more boulders come through the doors of the mine.
+
+The catch! Pick Axe Pete is so strong the picks keep breaking every once in a while - and if Pick Axe Pete gets bowled over by a boulder, the game is over. That's it! There are (more or less) safe places to stay on each of the playfields. The trick is to find them.
+
+Pick Axe Pete can dodge the boulders if you move the joystick and then press the action button. When you move the joystick, the position of Pick Axe Pete's hands will indicate the move he will make when you press the action button.
+
+When two boulders collide, they might uncover another pick which remains onscreen (very temporarily) until it disappears in the turmoil.
+
+Another "get rich quick" opportunity. Keys to deeper regions of the mines will be seen flying through the air. If Pick Axe Pete captures one before it disappears, he starts flashing and can unlock any door at any time.
+
+When Pete goes through a door, the playing field changes ... the tempo of the game slows and then rebuilds as he makes new gold strikes.
+
+(NOTE: The color of the new playing field will be the same as the color of the door.)
+
+If Pete tries going through a door without a key, he can get good and stuck and will be at the mercy of the next boulder to roll along. Hint for when a ladder leads directly to a door and Pick Axe Pete is without a key: climb halfway up the ladder - move the joystick to make a short jog along the next grid line, then push it forward and use the action button to jump up. You'll be on the next level. Takes some practice but the added maneuverability makes it worthwhile!
+
+Scoring:
+EVADING A BOULDER - 1 POINT
+STRIKING GOLD WITH A PICK - 3 POINTS
+GETTING A NEW PICK - 5 POINTS
+GETTING A KEY - 10 POINTS
+GOING THROUGH DOOR WITH KEY - 20 POINTS
+
+The winner is the player who scores the highest number of points over a predetermined number of turns or after a predetermined length of time.
+
+The score of the game in progress is shown at the lower right corner of the screen.
+
+The highest score in a series of games is displayed at the lower left corner of the screen.
+
+Six question marks at the lower center of the screen ask for the name of the high player. The high scoring player enters his or her name through the keyboard. The computer will accept any name up to six letters. If the name is shorter than six letters, press SPACE to erase the remaining question marks. The high score and high scoring player's name will remain on the screen until a higher score is achieved in a succeeding game.
+
+A new game starts automatically every time Pick Axe Pete is bowled over.
+
+To start a completely new scoring cycle, press RESET and then press any number on the keyboard.

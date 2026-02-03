@@ -1,0 +1,5 @@
+The updated Sensible World of Soccer, with more up-to-date-teams and less of the bugs from the previous version.
+
+SWOS is a top down football/management game, with either quick game or 20-year career player-manager options. The games are set to last 3 minutes, but the 20-year career can suck in your entire life for a few months. The graphics are kept very small so the player can orientate themselves on the pitch without need for a radar. The controls are simple, easy to get used to and very effective. In the full career mode you can jump from club-to-club buying any of the game's 29000+ players, as well as play around with team tactics.
+
+And you can choose from 1400 teams over the five continents.

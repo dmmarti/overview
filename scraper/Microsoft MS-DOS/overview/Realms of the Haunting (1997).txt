@@ -1,0 +1,1 @@
+Realms of the Haunting is a first-person adventure/shooter game developed by Gremlin Interactive. The 3D engine used in this game was borrowed from Gremlin's own Normality.

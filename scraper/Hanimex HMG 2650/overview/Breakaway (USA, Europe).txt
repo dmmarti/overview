@@ -1,0 +1,1 @@
+Breakaway is a Breakout clone, but it's not as good as the arcade or Atari 2600 versions of Breakout because the Arcadia 2001 lacks a rotary controller. Making up for this shortcoming to a small degree is a keypad button that speeds up the paddle. Also, t

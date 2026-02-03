@@ -1,0 +1,3 @@
+Phantom Attack is a fixed screen shooter for the Commodore VIC-20, in which you have to shoot, well, phantoms.
+
+They always chase at you in different attack patterns, so no game will be the same.

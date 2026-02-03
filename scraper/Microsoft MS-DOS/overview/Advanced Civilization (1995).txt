@@ -1,0 +1,41 @@
+Ages ago there was only Avalon Hill's Civilization. It was one of the best strategy boardgames - if not the best strategy boardgame. And it still is, because it has it all - enough complexity, strategy, war, trade, unpredictable situations etc. - and yet, it manages not to "overdo" any of them. They are all in perfect balance. And a historically correct background never hurt any strategy boardgame, especially not when the game covers the whole early history of mankind. Quite a remarkable boardgame, I daresay... 
+
+After the first Civilization, two different subspecies of the game evolved. There was a certain Sid Meier who played the boardgame, and needless to say he liked it. A lot. In 1991, he released his own version: Sid Meier´s Civilization. A game whose triumph would last for years to come. 
+
+The other game which evolved was Advanced Civilization, an expansion to Avalon Hill´s original Civilization. It made a few improvements and formed the basis for the game reviewed here. The game happened to be published almost at the same time as the second part of Sid Meier´s Civilization series. Guess which one sold and which one was left on the shelves of stores to collect dust... 
+
+Advanced Civilization was published for PC in 1996 as a faithful conversion of the boardgame. It managed to stay true to the original and capture its mood while adding playing variants and included the possibility of playing against the computer. The AI was created to be extremely advanced. 
+
+Phases: The game was rounds-based. Each round consisted of thirteen phases, which were all linked to each other. That way, each of them could affect the possibilities of actions in the coming phases. The following may serve as a guide for beginners (reading the manual is nevertheless recommended). 
+
+Taxes: Cities require taxes from the locals. After taxation, the taxes will be put into the treasury for later use. 
+
+Expansion: The increase of population is represented through tokens. The number of tokens added to a given province during this phase depends on the number of tokens already in the province. 
+
+Census: In a census, the population of the civilizations is counted. The result of the census fixes the order in which civilizations may move across the map: civilizations with a high population get to move first. 
+
+Ships: The ships of a civilization can be built and maintained by the treasury or by using tokens on the ship-building sector. The maintenance of ships is not mandatory; you can simply abort it in any given round. 
+
+Movement: The order in which the tokens and ships move is determined by the census. 
+
+Conflict: In this phase you need to resolve conflicts caused by a city being attacked or by the overpopulation of a province inhabited by several different civilizations 
+
+Cities: You build cities by placing six tokens on a province with a "city mark", or by placing twelve tokens on a province without one. 
+
+Overpopulation: If the number of tokens in a square is higher than it should be, it needs to be reduced. Also, reducing of unsupported cities will be carried out in this phase (a city needs two tokens to be supported). 
+
+Acquiring trade cards: There is one card per city, going from less valuable to more valuable goods. You may also buy gold in this phase. 
+
+Trade: Some cards will increase the value of the others, and there is also the possibility of bluffing and trading of certain calamity cards. 
+
+Calamities: Apart from the acquired goods, each of the nine piles of cards also contains calamity cards. In this phase calamities (piracy, erupting volcano, famine etc.) will take effect. 
+
+Civilization cards: In this phase you acquire civilization cards, which give different benefits to the civilization and which add credits to its advancement level. You need a certain number of cards and a certain advancement level in order to advance to a new era. 
+
+Succession markers: Advancement to new eras will take place at this phase. 
+
+The game's main objective differs from that of most strategy games: it is about advancement, not about conquest. Within the game's world, invasions would be pointless and bound to fail. You can only win by alternating between trade, advancement and the securing of homelands; and it's not at all easy to win. 
+
+The game is excellent in every respect: the trading process is complex, battles are simple, and there are such things as advancement, population growth etc. You might even call the game's graphics beautiful. But the game's true excellence lies not in any of those minor features but in its strict rules and the principle of uncertainty: your empire may fall within a single turn, but it may rise again from the ashes in another turn. You need to anticipate it and be prepared. 
+
+Some may call it unnecessarily difficult; I call it perfection.

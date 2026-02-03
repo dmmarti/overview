@@ -1,0 +1,1 @@
+This game is a simple slot machine simulation, with beautiful girls awaiting the winner.

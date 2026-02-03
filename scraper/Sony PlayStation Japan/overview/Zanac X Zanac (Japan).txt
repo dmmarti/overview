@@ -1,0 +1,41 @@
+The Celebration of a Classic Compile'd in a New Way.
+
+In 2001 veteran "shmup" and puzzle game developer Compile, released Zanac X Zanac to the Japanesse market for play on the Sony Playstation. It came out on the 15th anniversary of the original Zanac.
+
+Zanac X Zanac consists of two separate games; the original Zanac(in various iterations) and the debut of Zanac Neo. It can best be described as part classic compilation, part updated re-imagining of the original.
+
+Zanac
+Zanac is a top down, 2D, vertical scrolling, space shooter. Gameplay consists of frantic scrambles between dodging bullets, shooting down enemies, and powering-up your spacecraft. The original Zanac game released in Japan in 1986 for the MSX home computer and the Family Computer Disk System(Famicom Disk System). Zanac proved to be one of Compile's more popular titles thanks to it's eventual US release on the Nintendo Entertainment System that same year.
+
+There are two things that may stand-out to Zanac players; it's frantic pace, and it's ever-changing playfield. Rarely are two games of Zanac identical. This is due to the games innovative use of the company coined "A.I." system. The game was programmed in a manner that gives a slightly different experience with each play. Things such as enemy type, enemy speed, and enemy placement are adjusted in real-time based on the players skill level, number of lives, and power-up configuration(similar to "rank" systems found in shooters such as Battle Garegga many years later). Many shooters at the time relied on pattern memorization. Zanac demands a player to be ever mindful of the dynamic play-field.
+
+Weapon Power-Ups
+
+At the start of a game, or a new life, the player may feel terribly under-powered. However, Zanac has a robust power-up system that allows your spacecraft to become very powerful. A rapid and constant cycle between the player feeling under-powered one second then awesomely overpowered the next is typical throughout a game of Zanac. The player starts with a standard rapid-fire shot(pea shooter), and a "0" level sub-weapon.
+
+The sub-weapon can be changed or upgraded several times depending on the players tastes/gameplay situation. This is done through collecting floating power-ups during gameplay which are numbered ranging from "0" to "7". Each number represents a different type of sub-weapon with a unique form of attack. By collecting different numbers, the player will switch sub-weapons. By collecting the same number the players current sub-weapon is upgraded to become more powerful, up to 3 times.
+
+The players standard rapid-fire shot can also be upgraded by collecting a different type of power-up in the form of yellow "orbs". The orbs are only found within blue blocks that scroll down from the top of the screen. The blocks must be shot apart to reveal the possible orb within. Some blocks do not house orbs, and instead treat the player to a scatter-shot of deadly bullets. Other than powering-up the standard rapid-fire shot, another key component of the orbs are that when they're collected they provide momentary invulnerability. This is a key strategic maneuver if you plan to last through the difficult levels of Zanac.
+
+Included versions of Zanac
+
+Zanac X Zanac contains two classic iterations of the the original Zanac as well as two exclusive modes:
+
+- "Disk Version"(Family Computer Disk System version)
+
+- "Rom Version"(Nintendo Entertainment System version)
+
+- "Special Version"(enhanced graphics/sound, exclusive mode)
+
+- "Score Trial"(single level score attack, exclusive mode, also in Neo)
+
+Each version includes a "save" and "load" feature. This allows for recoding of high-scores and the ability to continue from the level previously reached. Continues are unlimited however, your score will reset upon "Game Over". These features are also included in Zanac Neo.
+
+Zanac Neo
+Zanac Neo is a top down, 2D, vertically scrolling space shooter. The game shares nearly the same gameplay as the original Zanac. The signature "0" - "7" numbered power-up system makes a return, as well as the yellow orbs that augment your standard shot and provide momentary invulnerability. The graphics, music, and sound effects have all been updated. More detailed and interesting backgrounds were added to the levels, and music from the original game returns in remix form.
+
+One of the major additions to "Neo" is being able to select from 3 different ships upon starting the game. Each ship has slightly different movement/shooting properties and each have slightly different sub-weapon implementation. In the spirit of the original game, there are still 8 different sub-weapons that can be picked-up and upgraded during play, allowing for a variety of unique weapon combinations for each ship.
+
+Another addition comes in the form of a new type of "power-shot". As enemies are destroyed a bar fills at the bottom of the screen allowing for the player to unleash a powerful beam shot. When the bar is completely filled a bomb can also be fired that can clear enemies and/or set-off a chain reaction of orb-block explosions.
+
+Zanac Neo supports two player simultaneous play, a first in Zanac history.

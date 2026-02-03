@@ -1,0 +1,3 @@
+The ancient game of strategy can now be played on your television screen with the release of Atari's Video Chess. The goal is still the same: capture your opponent's king while protecting your own. Video Chess is a one-player game that offers eight different skill levels, including a special children's level that is appropriate for those still learning how to play.
+
+Each player begins with sixteen pieces on opposite sides of a checkered game board: eight pawns, two bishops, two knights, two rooks, one queen and one king. One side plays with black, the other with white. Depending on the rank (with the pawn being the lowest and king highest), each piece can move across the board a certain number of spaces or in a specific direction.

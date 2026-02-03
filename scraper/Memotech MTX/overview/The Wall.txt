@@ -1,0 +1,1 @@
+The Wall is a Breakout type game, published for the Memotech MTX home computer by Syntaxsoft.</Notes

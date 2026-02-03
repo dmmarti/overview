@@ -1,0 +1,5 @@
+The player's goal is to raise up 12 frog eggs into adulthood, and ultimately produce their own offspring. These tadpoles must east algae to get larger and turn into frogs. These frogs can then lay their own eggs in turn. One of these eggs will be a prince egg, which will grow up into a frog prince. The player controls the direction of the tadpole swarm, and whether they scatter or congregate. When a tadpole reaches adulthood, the player can also control their tongue and choose when to lay their own eggs.
+
+There are a number of dangers facing these young amphibians. There are orange creepies which can eat your tadpoles, but can be eaten themselves by a full grown frog. There are also large fish, which can not be defeated, and must be avoided.
+
+The player starts with 3 dozen eggs, but an addition dozen can be obtained by raising a frog prince. The player advances to a higher level of play by eating all the algae in a pond or eating all the orange creepies. There are a total of 64 levels, and the player advances the number of levels based upon the tadpoles still living when a level is completed. It's game over when all eggs are lost.

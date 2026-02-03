@@ -1,0 +1,1 @@
+This is a minesweeper type game developed by Ed Hollingshead and published by Continental Software for the Memotech MTX.</Notes

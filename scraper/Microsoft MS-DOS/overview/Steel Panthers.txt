@@ -1,0 +1,5 @@
+Steel Panthers is a series of computer wargames, developed and published by several different companies, with various games covering battles from 1930 to 2020. The first game was released in 1995, and the most recent was released in 2006 and is still updated regularly. In 1996, Computer Gaming World magazine named it their Wargame of the Year.[1]
+
+Players control individual tanks and vehicles from a top-down perspective, on a map with a hexagonal overlay. Infantry are mostly in squad/section (8-12 men) sized units, but some units, like snipers, can be controlled individually. The whole force under a players control would typically be Battalion sized, but may be as small as a Platoon or Company, or as large as a Regiment/Brigade.
+
+The games are turn-based and are played against the AI or other humans via email or hotseat.

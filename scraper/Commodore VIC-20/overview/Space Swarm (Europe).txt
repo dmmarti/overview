@@ -1,0 +1,3 @@
+Game description:
+
+Space Swarm is a fixed screen shooter in which you control a green spaceship, and you have to survive waves of enemies which all have different move and attack patterns.

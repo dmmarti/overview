@@ -1,3 +1,3 @@
 Access and quickly play your favorite games across the entire library.
 
-After tagging a game as a favorite, run the Generate Favorites script located in the Utility Options menu.
+After tagging a game as a favorite, you'll find them listed here.

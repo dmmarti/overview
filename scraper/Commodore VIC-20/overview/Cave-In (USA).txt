@@ -1,0 +1,7 @@
+Game description:
+
+Cave In is an "eat'em" game in which you play a mole. The goal is to eat yummy (at least for the mole, which for whatever reason looks like a piranha) food in each screen while avoiding other animals (which look like a monster).
+
+You can "cave in", which means deleting your path which the enemies usually follow.
+
+While this game does borrow some aspects from games like Pac-Man and Snake, the game has no levels and, like in Berzerk, you can move freely around the screens.

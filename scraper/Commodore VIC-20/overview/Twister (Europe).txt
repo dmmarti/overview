@@ -1,0 +1,1 @@
+Twister is a puzzle game for the VIC-20. It was developed by Ian Stewart and published by Applied Systems Knowledge.</Notes

@@ -1,0 +1,1 @@
+Meteor Racer is a side view horizontal shooter where your ship is on the right of the screen and must shoot or avoid meteors that appear on the left of the screen. You can move your ship up or down and if you hit a meteor then you lose one of three lives.</Notes

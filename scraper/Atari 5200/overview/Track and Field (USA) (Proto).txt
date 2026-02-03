@@ -1,0 +1,17 @@
+An unreleased prototype game for the Atari 5200 based on the popular arcade game. While it went unreleased it was ported and released for the Atari 8-Bit computers. Players take part in 6 events.
+
+100 Meter Dash – Running by quickly alternating button presses.
+
+Long jump – Running by alternating button press and correct timing for jump. Hold jump button to set angle (42 degrees is optimal).
+
+Javelin throw – Running by alternating button presses and then using action button correct timing for angle (43 degrees is optimal).
+
+110 Meter Hurdles – Running by alternating button presses and using action button to time hurdles
+
+Hammer throw – Spinning initiated by pressing a run button once and then correctly timed press of action button to choose angle (45 is optimal).
+
+High jump – Running (speed set by computer) and then action button must be held down to determine angle of jump. Once in the air, the run button can be rapidly pressed for additional height.
+
+Gameplay screenshot of the long jump event.
+
+In each event, there is a qualifying time or level that the player must achieve to advance to the next event; failing to qualify (in one heat for running events or three tries in the other events) will reduce the player's number of lives by one, but if none are present in his/her disposal, the game will end.

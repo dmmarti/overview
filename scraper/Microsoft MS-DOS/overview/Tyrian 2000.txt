@@ -1,0 +1,9 @@
+Re-Release of "Tyrian" (http://thegamesdb.net/game/6566/)
+
+In 1999, Tyrian was re-released as Tyrian 2000, which includes an additional fifth episode and bug fixes.
+
+Additional ships include Phoenix II, Storm, Red Dragon, Pretzel Pete Truck (from the Pretzel Pete video game published by XSIV Games). Datacube TRANSMISSION SOURCE: Epic Megagames game and was renamed to TRANSMISSION SOURCE: XSIV Games with Pretzel Pete game ad (however, other references to Epic Megagames titles remain).
+
+Although it claims Windows compatibility, this is achieved using a .PIF file, not by building a native Windows application.
+
+(from: http://en.wikipedia.org/wiki/Tyrian_%28video_game%29)

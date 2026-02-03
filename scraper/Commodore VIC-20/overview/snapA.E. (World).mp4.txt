@@ -1,0 +1,1 @@
+A.E. is a Space Invaders inspired game with a 3D view. In A.E. the earth is under attack by swarms of aliens who drop bomb after bomb and it's your job to defend planet Earth.

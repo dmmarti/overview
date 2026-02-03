@@ -1,0 +1,3 @@
+Mission Mercury is a clone of the arcade game Lunar Rescue, in which you have to rescue scientists stranded on the planet Mercury. As soon as you press the fire button to release the lander from the mothership, you have to steer very carefully through an asteroid belt to land on three pads so that the scientist can get on board. You then have to make your way back to the mothership while dodging the asteroids again. You can press the fire button to increase speed on the way back. Getting hit by one of the asteroids or touching the edges of the mothership will send you crashing to the surface and you lose one of your three lives. Run out of them and the game is over.
+
+Source: https://www.mobygames.com/game/vic-20/mission-mercury

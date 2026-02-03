@@ -1,0 +1,1 @@
+Sea Dragon is a horizontally scrolling shooter for the TRS-80 computer, written by Wayne Westmoreland and Terry Gilman, and released in 1982 by Adventure International. Its success on the TRS-80 led to ports to the Apple II, Atari 8-bit family, Commodore 64, IBM PC, and the TRS-80 Color Computer. The gameplay is similar to the Scramble arcade game.</Notes

@@ -1,0 +1,1 @@
+King Flappy is the sequel to Flappy, featuring more difficult puzzles aimed at anyone who managed to clear the original 200 levels. Gameplay remains the same: you need to push a blue stone onto its blue tile destination in each level. Each 5 levels a password is displayed so you can resume where you left off.</Notes

@@ -1,0 +1,3 @@
+Armageddon is an action game created to tie into the 1996 animated movie of the same name. You can switch between first and third-person viewpoints while piloting a space craft with the goal to drive back the invaders. The ship goes forward automatically and needs to avoid obstacles and destroy enemies in space.
+
+In first-person mode, you move the ship to line-up the reticule and shoot incoming objects such as asteroids or enemies. In third-person view, you have a bit more control as you can move the reticule. Occasionally power-ups will appear giving numerous abilities like electro bombs.

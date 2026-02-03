@@ -1,0 +1,1 @@
+Parsec is a computer game for the Texas Instruments TI-99/4A. Perhaps the best-remembered of all TI-99/4A games, it is a side-scrolling shooter, programmed in 1982 by Jim Dramis (who also programmed the popular TI-99/4A games Car Wars and Munch Man) and Paul Urbanus.</Notes

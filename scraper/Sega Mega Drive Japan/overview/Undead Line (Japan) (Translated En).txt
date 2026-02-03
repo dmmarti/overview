@@ -1,0 +1,1 @@
+A forward-scrolling action game featuring medieval fantasy characters and enemies battling in gameplay somewhat like a shoot-em-up.

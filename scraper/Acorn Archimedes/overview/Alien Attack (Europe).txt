@@ -1,0 +1,3 @@
+Alien Attack is a Space Invaders clone. In this version you need to destroy aliens attacking Earth in 10 waves. You have 3 lives through all 10 waves.
+
+Your spaceship may fire again when the shot hits the target or it passes the play area. You may fire two shots at one time. Of course, the aliens will shoot back. Starting from wave "E" aliens will fire heat seeking bullets, so be careful.. They will try to crash one of their spaceships into yours.

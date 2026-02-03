@@ -1,0 +1,5 @@
+Doodle Bug is a clone of the arcade game, Lady Bug, itself a close relative of the original Pac-Man. Just like the yellow pill-eater, you guide your sprite around a maze populated by nasties, and can only escape once you've eaten all the pills in the maze. A baddie in the centre of the screen will spawn a new baddie every time the running meter on the score panel has reached zero.
+
+The powerup system does not work like Pac-Man, though. No invincibility pills are available, instead, there are a number of letters from the words "special" and "extra" displayed at the top of the screen. When the letters are the same colour as the words they belong to, you begin to spell out those words, granting you either a "special" round or an "extra" life. Additionally, the heart bonuses act as score multipliers for your pills.
+
+Without any power pills, your bug is quite vulnerable. Therefore, the environment must be used to its advantage. Many walls in the Doddle Bug maze function like revolving doors which, when passed, will rotate to block the path of a baddie that could otherwise hunt you down.

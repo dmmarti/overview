@@ -1,0 +1,1 @@
+Game description: In Bricks it is your goal to get to the top by climbing up bricks. You can also push bricks to create stairs. Don't get smashed by bricks though, as they will kill you!</Notes

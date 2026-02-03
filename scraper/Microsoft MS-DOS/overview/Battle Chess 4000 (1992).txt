@@ -1,0 +1,3 @@
+The Battle Chess series took the basic game of chess and added animations for each battle between pieces, bringing the game to a wider audience, with no intention of providing something for Kasparov to spar with. This edition follows the same premise, but with a futuristic science-fiction feel. Pieces are animated from clay models, with a new range of animations. The game can be played in 2D mode as an alternative.
+
+The game's artificial intelligence learns your strategies and game plan as it plays with you, and there are over 30,000 distinct moves in the library of openings.

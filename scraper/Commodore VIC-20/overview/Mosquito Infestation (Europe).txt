@@ -1,0 +1,3 @@
+In Mosquito Infestation you have to keep mosquitos away from an arm and a hand by spraying them. The spray might get empty at the time, but you can refill it at the middle of the top. 
+
+You lose the game once the blood pressure goes to 0.

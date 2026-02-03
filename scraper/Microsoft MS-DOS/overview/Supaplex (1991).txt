@@ -1,0 +1,1 @@
+A puzzle game with nice graphics and sound. Reminiscent of Boulder Dash; find the exit while collecting all Infotrons and avoiding the Zonks that can kill you.

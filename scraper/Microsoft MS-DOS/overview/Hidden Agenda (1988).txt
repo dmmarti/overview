@@ -1,0 +1,6 @@
+Hidden Agenda is a computer strategy game with menu-driven interface and early, black and white graphics whose scenario was designed and written in 1988 by Jim Gasperini, with input from project consultant Eric Ehrmann. While the scenario was implemented in text form, the game made use of an innovative graphical interface, with naturalistic characters, settings, and digital video interstitials. The narrative simulation system was designed and implemented by Greg Guerin and Ron Martinez (who also produced the game). Ron Martinez also designed and implemented the front end user experience, in the process inventing one of the first implementations of digital video with frames grabbed from a hacked four-head VCR. The game was intended to simulate the conditions of a post-revolutionary Central American country. It is considered a forerunner of the Games for Change movement, alongside other early Macintosh games including Chris Crawford's Balance of Power.
+
+The game is set in the fictional country Chimerica which has been recently liberated from the rule of the corrupt dictator Farsante and his ruling clique. The player takes the part of the newly elected president of Chimerica.
+
+from:
+http://en.wikipedia.org/wiki/Hidden_Agenda_(video_game)

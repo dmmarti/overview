@@ -1,0 +1,2 @@
+Super Methane Brothers is a 1993 platform arcade game released for Amiga by Apache Software Ltd.. The gameplay is similar to Taito's Bubble Bobble.
+Puff and Blow each have a Methane Gas Gun which fires a cloud of immobilising gas. If this comes into contact with a bad guy he will be absorbed into the gas and then float around the screen for a limited time. Bad guys are harmless in this state. Puff and Blow must suck the floating gas clouds into their guns and blast them out against a vertical surface. Bad guys then turn into bonuses which can be collected.

@@ -1,0 +1,1 @@
+"Steel Thunder" is a simulation of the tanks M60A3, M1A1, M3 and M48A5. Each of the three additional members of the crew of the tank can be chosen anew for each mission. All members have their peculiarities and special amenities.

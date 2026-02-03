@@ -1,0 +1,3 @@
+Tough Guy is a fighting game similar to Street Fighter. Choose one fighter and travel all over the world to choose and challenge a wide variety of fighters.
+
+A unique feature of Tough Guy is that fighters have the ability to refill their health if they are injured. They also have super moves which can inflict a lot of damage on their opponent.

@@ -1,0 +1,1 @@
+A business simulator which puts you in control of a Silicon Valley software firm: you've invested $100,000 in cash in the business, and now you get to call the shots. Your goal is to expand your share of the computer software market while striving against a competing company (run by the computer or by another human player).

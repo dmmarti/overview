@@ -1,0 +1,7 @@
+Zusar Vasar (ズサーヴァサー) is a Sega Dreamcast racing game released exclusively in Japan.
+
+In Zusar Vasar, players control "chariots" pulled by mechanical animals either on land, water or in the air while racing against five other players. Two modes are available: a standard "championship" mode in which you simply race around a track, and a "battle" mode which adds weapons into the mix.
+
+On the land and water races, R accelerates and L breaks, with the analogue stick turning the chariot. In the air, the controls are altered, with L and R now controlling the left and right movements. There is otherwise little to distinguish the three types of races - water races apply some very basic water physics to the race (though the result is far simpler than games such as Hydro Thunder) and there is no up or down movement when flying.
+
+A split-screen two-player mode is also supported.

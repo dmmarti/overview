@@ -1,0 +1,5 @@
+The game is based on the board game Borderlands by Eon Productions (best known for their highly acclaimed board game, Cosmic Encounter), and was marketed with the slogan "Better than Risk!" to identify it as a global conquest game similar to Risk. It proved to be one of EA's best-selling titles of 1986. GameSpy awarded Lords of Conquest a "Gotcha" award as one of the top games of its era.
+
+You and your opponent start by selecting countries in turn from a map. This can be randomly generated based on requested numbers of countries and volumes of water, chosen from one of the 19 predefined ones, or created using the built-in editor.
+
+Your army possesses infantry, cavalry and a water fleet. Natural or produced resources such as gold and iron are identified - countries containing these might be the best ones to invade.You can play at 4 skill levels, and decide how big a factor luck is. With calculations settled by the computer, players can concentrate on the power games.

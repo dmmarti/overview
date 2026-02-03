@@ -1,0 +1,4 @@
+Astromilon is a video game published by Continental Software and released on the Memotech MTX in 1984. It was created by Andy Southgate.
+
+Astromilon is a fixed screen shoot 'em up where the player has to blast down squadrons of alien fighters. Each wave consists of fifteen aliens that descends from the top of the screen down towards the player. They will fire at the player and some of them will turn into mutants that dive and home in on the player's ship. The player can move left and right like in any other shooter but can also use thrust to move upwards which might be necessary to avoid the aliens. A stage is cleared when all the aliens have been killed. 
+Aliens that move past the player and reach the bottom will reappear at the top. In total the game consist of six different alien formations, three alien types and increasing levels of speed. The game is over when the player has been killed three times.

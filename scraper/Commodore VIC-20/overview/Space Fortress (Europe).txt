@@ -1,0 +1,5 @@
+You are thrown off course by a computer malfunction while cruising through space and encounter the evil Sistorian space fortress. You must battle your way through various deadly defence forces then attempt to destroy the space fortress before it puts up its shields and disappears into hyperspace.
+
+Space Fortress is a Galaga type arcade style game where you can only move left or right and shoot. There are 20 skill levels, but you always start at skill level one. Each time you destroy the fortress you automatically advance to the next skill level. Each enemy ship is worth different values depending on enemy type, the Suicide Squad are worth 30, the Sidewinders are worth 40, the Sistorian Swoopers are worth 60, the Purple Avengers are worth 80 and the Space Fortress being worth 400 points. You begin with 5 lives and gain an extra life every time you destroy the space fortress, with a maximum of 9 lives. Rarely you may face a Super Alien that is almost impossible to kill, but you get points every time you hit it.
+
+Released in Europe by Romik Software, and also in Canada by Laing Marketing.

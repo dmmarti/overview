@@ -1,0 +1,3 @@
+Locomotion is an arcade-puzzle game in which you are presented with a top-down view of a railway network with a number of stations and junctions. Trains are released from stations at random intervals, each with a destination station. Your job is to get a set number of them to this destination within a time limit. 
+
+You control a cursor which can click on each of the junctions, toggling their positions. When trains reach a junction which is not set in a direction they can move through, they will stop until you move it. When they reach the wrong station they simply reverse and continue. If two trains make contact, they are lost, and a penalty is accrued.

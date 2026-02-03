@@ -1,0 +1,1 @@
+Carrier Attack is a shooting, where you control the guns of a carrier and have to shoot down a certain amount of hostile bombers. You can control your shots, but you lose points for just shooting without hitting anything.</Notes

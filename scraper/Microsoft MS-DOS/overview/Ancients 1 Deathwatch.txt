@@ -1,0 +1,5 @@
+Ancients 1: Death Watch is a mystical fantasy role-playing game, bringing players deep in the underground to do battle with bizarre monsters and find untold riches in and beneath the city of Locklaven.
+
+The player uses keyboard or mouse to control a party of four explorers who journey together and must work as a team to ward off the many inhabitants of the dungeon. Said dungeon consists of several levels with increasing difficulty and the (relatively) save town above ground in which the characters can shop and heal.
+
+Combat in the game is turn-based. Character improvement uses the traditional experience system, but after a level up the guild in Locklaven has to be visited. The game allows for three races (elf, dwarf and human) and four classes (warrior, thief, mage and priest).

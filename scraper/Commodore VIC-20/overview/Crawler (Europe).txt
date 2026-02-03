@@ -1,0 +1,5 @@
+Crawler is a Centipede homage. Destroy the crawler, piece by piece. Every piece will turn into a mushroom.
+
+Sometimes an evil thing will come from the left, bouncing up and down.
+
+Was part of the VIC-20 Cassette 6-Pack (Sampler)

@@ -1,0 +1,5 @@
+Commander Keen: Keen Dreams is a platform game. Its events take place after Commander Keen 3: Keen Must Die! but before Commander Keen 4: Secret of the Oracle. 
+
+Eight-year-old genius Billy "Commander Keen" Blaze, the hero of the universe, the saver of planets has a problem: his mom forces him to eat yucky vegetables. This night, he dreams that he found himself in the land of Tuberia, where sentient vegetables live and reign supreme, and where the evil king Boobus Tuber enslaves children brought by his Dream Machine.
+
+The objective is to reach and destroy king Boobus Tuber, but before this happens, Keen must find a number of Boobus Bombs which are the only things that can harm the king. The game begins with a top-down map of the land of Tuberia. This is the level select screen, where you can walk around and choose the next level you want to enter. On each level, you have to make your way to the exit, collecting Boobus Bombs on the way if there are any on this level. Once you finish the level, you're back on the overhead map.

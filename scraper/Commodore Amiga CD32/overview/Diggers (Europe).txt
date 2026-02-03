@@ -1,0 +1,3 @@
+Diggers is a Lemmings-style puzzle game where you command five alien miners (from a choice of four clans) and various gadgets to dig for treasure. The game is divided in excavation areas. Each area has a set amount of money you must raise before moving into the next one. To do so, you must sell your collected treasure to the bank.
+
+You select your "Diggers" by clicking on them with the left mouse button, and making them do a desired action by right-clicking on the screen and choosing from a icon menu.

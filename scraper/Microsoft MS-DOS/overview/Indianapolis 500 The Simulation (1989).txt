@@ -1,0 +1,5 @@
+Indianapolis 500: The Simulation is a 1989 computer game. It was hailed as the first step of differentiating racing games from the arcade realm and into racing simulation.[1] It was developed by the Papyrus Design Group, consisting of David Kaemmer and Omar Khudari,[2] and distributed by Electronic Arts. It first released for DOS and later for the Amiga in 1990.
+
+Indianapolis 500: The Simulation attempts to be a full simulation of the Indianapolis 500 race, with 33 cars and appropriate Indy car "feel". While racing, it only offers a first-person perspective, but the game offers a replay mode as well. Indy 500 offers the ability to realistically set up the car, and any changes made to the car directly affect how it handles.
+
+The field is represented as realistic and the qualifying order stays true to the 1989 Indianapolis 500 starting grid, with one exception: the player's car, numbered 17, replaces Car #29 of Rich Vogler, who qualified in 33rd and last place.

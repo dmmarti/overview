@@ -1,0 +1,1 @@
+Simple Simon is a interpretation of Ralph Baer's classic "touch" game of the '80, where the player needs to memorize a sequence of colors and tones and then press one of four function keys that are associated with that color and tone. As the player gets sequences correct, these sequences will become longer. The game ends if the player gets it wrong.

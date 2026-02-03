@@ -1,0 +1,7 @@
+Painter is a variation of the classic Amidar originally created for the arcades in 1981. Painter's gameplay is very similar to Amidar's bonus stages where the traditional boxes in the screen have points associated with. It can also be compared to Potty Painter in the Jungle which was one of the first Amidar variations for ZX Spectrum and Commodore 64.
+
+Painter's main goal is to fill all the boxes in each frame in a certain period of time by completing the pathways (lines) around them. This must be done before the "Bonus" value reaches zero. To complicate things the "Painter" has to avoid any collision with the "Chasers", some entities present in the game that will try to intercept him and destroy his work. The "Painter" will be forced to restart the phase all over again and one of his lives will be lost in the process.
+
+To defend himself during his gameplay and specially from the incredible speed the "Chasers" might get at the last skill factors of the game, the player has in his power a special tool: a gap creator. This weapon will create a temporary gap in the pathway lines preventing the "Chasers" from colliding with him. It can only be used three times at a time before any temporary gap is removed.
+
+The limit of Painter's skill factor is 6. "Chasers" intelligence and speed will increase proportionally to the skill factor and dramatically at this point of the gaming. Prepare yourself to be ambushed.

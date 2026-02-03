@@ -1,0 +1,1 @@
+Dione is a turn-based sci-fi strategy game where the player controls the mobile base "Dione" that can carry aircraft, amphibious craft and mechas. The player can choose to let the computer pick the units for him or choose by their own. The units all have different costs though.</Notes

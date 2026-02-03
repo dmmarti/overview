@@ -1,0 +1,1 @@
+Use thruster control to land the spaceship on the surface of Jupiter. Fuel consumption and speed readings are important for the player to determine how to land the craft. Choose from three landing pads of varying difficulty. Easiest landing pad multiplies the player's score by 2, hardest by 10.

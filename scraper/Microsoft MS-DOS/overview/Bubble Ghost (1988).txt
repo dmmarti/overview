@@ -1,0 +1,3 @@
+The objective is to guide a bubble throughout a number of halls in a haunted house. If the bubble hits any walls or obstacles, then it will pop and the player loses a life. Obstacles include lit candles, electricity and fans. These can be all controlled by the ghost, who can wander around the level freely and blow at things - such as the bubble to add speed, the candle to put out the flame, or switches to turn them on or off.
+
+It was the first French game adapted for the Game Boy.

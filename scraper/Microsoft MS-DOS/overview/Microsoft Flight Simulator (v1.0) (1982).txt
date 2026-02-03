@@ -1,0 +1,11 @@
+MS-Flight Simulator is modelled after the performance characteristics
+of an aircraft of the Cessna 182 class (single engine, land, with
+substantial performance). It is an ideal plane for pilot training
+because it has climb performance and speed that keep a pilot busy,
+especially on landing approach. The plane is slightly superior to an
+advanced World War I fighter.
+
+MS-Flight Simulator can provide hours of rewarding entertainment.
+ln addition to the easy and realistic simulation modes, it includes
+the British Ace war game, which lets you test your dogfighting and
+bombing skills.

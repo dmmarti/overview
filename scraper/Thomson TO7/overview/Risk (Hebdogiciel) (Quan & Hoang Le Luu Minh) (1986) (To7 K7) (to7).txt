@@ -1,0 +1,1 @@
+Players attempt to capture territories from other players by rolling higher die numbers. The game is won when one player has managed to occupy every territory.

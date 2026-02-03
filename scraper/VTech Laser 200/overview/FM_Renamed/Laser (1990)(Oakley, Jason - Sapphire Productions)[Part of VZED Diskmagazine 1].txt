@@ -1,0 +1,1 @@
+Laser is a simple one-on-one shoot 'em up. Shoot the attacking spacecraft before it shoots you.</Notes

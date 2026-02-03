@@ -1,0 +1,3 @@
+When playing Quest, you assume the character of a brave warrior, setting out to overcome the mighty forces of the evil Moorlock, master of the dark castle in the southern reaches of the realm.
+
+When the question "What now sire?" appears, you have a choice of entering a direction of "NORTH", "SOUTH", "EAST", or "WEST", a "USE" instruction or an "INVENTORY" instruction. You only need to enter the first letter of the instruction to proceed.

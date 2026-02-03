@@ -1,0 +1,1 @@
+A Space Invaders clone. It is your job to rid the universe of alien menace and to earn as much points as possible. Are you up to the task?</Notes

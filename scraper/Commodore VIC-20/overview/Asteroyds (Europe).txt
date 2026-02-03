@@ -1,0 +1,1 @@
+Asteroyds is a clone of the arcade classic, Asteroids. It was developed by John P. Shay (credited as J.P. Shay on the title screen) and published by Solar Software in 1983.</Notes

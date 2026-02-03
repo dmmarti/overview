@@ -1,1 +1,0 @@
-This computer translation of the board game is restricted to solitary play against the computer, Red being the player and Blue the opponent. It is however possible to let the machine handle a player's turn if so desired, which means it will effectively play against itself if this is done continuously. Games are played singly, there's no match score and doubling cube.

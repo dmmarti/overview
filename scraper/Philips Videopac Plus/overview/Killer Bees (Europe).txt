@@ -1,0 +1,25 @@
+The screen will alternate between The Killer Bees title and a silent demonstration game.
+
+To start a game, move the joystick of either hand control.
+
+Your swarm of 12 white bees will appear at the center of the screen. Use the same joystick to control their flight.
+
+Beebots from the insect civilization of BEM will invade Earth through the tunnels on three sides of the screen. The red Beebots move clockwise. The blue Beebots move counterclockwise.
+
+Sting a Beebot by flying over it. The longer your swarm remains in contact, the slower the beebot will travel. A Beebot will be dead and buried after it slows to a standstill. Surviving Beebots will be blocked by the grave markers. If a Beebot is slowed but is no longer being stung, it gradually regains its strength and speeds up.
+
+The Beebots are protected by up to three swarms of Killer Bees at any one time. Every time a swarm of Killer Bees makes contact with your swarm, you will lose some of your bees.
+
+The longer a swarm of Killer Bees remains on the screen, the more dangerous it becomes. They come out of the tunnel as Green Meanies and start exploring the screen. After a short time they advance to the Blue Bodyguard stage and protectively hover over the Beebots. The final and most dangerous phase of their evolution is the Red Devil stage. Red Devils will aggressively attack your swarm and become faster as the game progresses.
+
+Your only defense against the Killer Bees is the bug-zapping RoSHa Ray. It will become charged each time your swarm kills a Beebot, and red electrodes will follow the vertical motion of your white swarm. Press the action button to fire the bug zapper. It will instantly disintegrate any swarms to the left or right of your white swarm including those in tunnels or currently stinging your swarm and will not hurt your white swarm.
+
+Your bug-zapping RoSHa Ray will recharge every time you kill a Beebot. If your zapper is already charged, killing a second Beebot will not allow you two zaps.
+
+A round ends when you lose all your bees or kill all the Beebots. If you kill all the Beebots, a new round will automatically start at the next higher of the 26 challenge levels. The challenge level indicator is at the upper right corner of the screen.
+
+If you lose all your bees, a new game will automatically start at level 1.
+
+Three question marks at the upper left corner of the screen will request the initials of the high scoring player. The player enters his or her initials through the keyboard. The high score and the high scoring player's initials will remain on the screen until a higher score is achieved in succeeding games. (If you make a mistake, press CLEAR and re-enter you initials.)
+
+To start a new scoring cycle, press RESET. Move the joystick of either hand control, and a new game will start.

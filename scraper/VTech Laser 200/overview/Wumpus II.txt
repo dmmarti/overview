@@ -1,0 +1,13 @@
+Wumpus II is an updated version of Hunt the Wumpus. Gameplay is the same as the original; however, several new cave options are available.
+
+The goal of the game is to shoot a mythical creature known as the wumpus with an arrow. The player explores a cave containing 20 rooms, several bottomless pits, bats, and the wumpus. The game will provide clues which the player needs to use to figure out the layout of the cave. For example, if the game indicates there is a breeze then one (or more) of the adjacent rooms contains a pit, or if there is a wumpus smell then the wumpus is nearby. On each turn the player can either move to another room or shoot an arrow; entering a room which contains either a pit or the wumpus ends the game. Occasionally bats are encountered, which may carry the player off to another room randomly.
+
+Where Wumpus II varies from the original game is the availability of more intricate cave layouts; the following choices are available:
+Dodecahedron.
+Mobius strip.
+String of beads.
+Hex network.
+Dendrite with degeneracies.
+One way lattice.
+Build your own cave.
+The first three caves are normal caves; each room has three tunnels connecting to other rooms and each tunnel allows two way traffic. The other caves are irregular; some have one way tunnels, tunnels that connect back to the same room, or other variations.

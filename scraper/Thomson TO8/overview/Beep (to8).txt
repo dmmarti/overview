@@ -1,0 +1,1 @@
+BEEP is a 2D side-scrolling platformer with physics-based gameplay. You control a small robot equipped with an anti-gravity device, a jet-pack and a gun. Drive, jump, fly, swim and shoot your way through 24 levels scattered across 6 unique environments. Use BEEP’s anti-gravity device to directly manipulate the physics-based environments.

@@ -1,0 +1,3 @@
+Centurion: Defender of Rome is a turn-based strategy game. You start with one province, Rome, and one legion. To complete the game, you have to conquer all the provinces on the map. 
+
+One part of the game is micro-managing your provinces. You set up tax rates and make people happy by organizing games. In Rome, you can organize a chariot race, a gladiatorial combat or even a simulated naval battle; this starts an action mini-game where you control the chariot rider, gladiator or ship.

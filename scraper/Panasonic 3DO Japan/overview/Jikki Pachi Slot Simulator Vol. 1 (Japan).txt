@@ -1,0 +1,1 @@
+Jikki Pachi-Slot Simulator Vol. 1 offers a realistic simulation of Japanese slot machines, featuring strategy, battle, and introductory modes. Players can select from six distinct machine designs, each based on real-life counterparts. Before gameplay, options for token bets and paylines can be configured in a separate menu.

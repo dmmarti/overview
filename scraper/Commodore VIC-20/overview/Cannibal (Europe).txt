@@ -1,0 +1,1 @@
+Cannibal is an arcade-ish game, similar to Pac-Man. The goal is to eat all dots. Avoid the skull and the cannibals, unless you have a cross, then you can eat the cannibals yourself!</Notes

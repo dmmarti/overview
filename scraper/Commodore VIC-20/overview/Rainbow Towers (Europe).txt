@@ -1,0 +1,1 @@
+Rainbow Towers is a computerized version of the mathematical puzzle game the Towers of Hanoi for the Commodore VIC-20. It was developed by Ian Stewart and published by A.S.K. in 1983.</Notes

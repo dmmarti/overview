@@ -1,0 +1,1 @@
+Sports simulator of soccer of J-League Virtual Stadium for the game console Panasonic 3DO Interactive Multiplayer. Game is made on the same game engine as FIFA International Soccer. Actually it also is FIFA International Soccer but for the Japanese market with other name and a line-up of Japanese league.

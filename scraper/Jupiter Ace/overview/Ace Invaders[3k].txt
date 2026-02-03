@@ -1,0 +1,1 @@
+ACE Invaders is a side view single screen shooter where you control a spacecraft at the bottom of the screen, moving left or right, and blast various aliens that appear at the top of the screen moving downwards. You must keep blasting the aliens to prevent them from landing on the bottom of the screen and if one reaches the bottom then it is game over.</Notes

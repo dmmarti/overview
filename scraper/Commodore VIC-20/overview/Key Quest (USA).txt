@@ -1,0 +1,7 @@
+Released in 1983 by Microware for the VIC-20 and written and programmed by Randy Ubillos and David Dixon. A two page review of the game was written up in the December 1983 edition of Compute!’s Gazette. However, nothing in the review discusses its development. It does however provide a detailed look at gameplay.
+
+The premise of the game is simple. A wizard stored up treasures in the dungeon beneath his fortress. He also created creatures called Gorbs to defend his treasure. You control a character running through the dungeon to collect treasures. The Gorbs chase you through the maze-like dungeon. It actually has a bit of a PacMan feel to it. You have to collect treasures spread throughout the dungeon rooms, and once you collect 12 a key will appear. You pick up the key and then have to make it to the door, which leads you to the next portion of the dungeon.
+
+You are able to defend yourself against the Gorbs, but in a limited way. You can fire either to the right or to the left. The Gorbs also will not go near the treasures, so you are in a safe space when you get to them. You gain points for collecting treasure, shooting Gorbs, and by how quickly you complete each stage. There were four unique screens to work through and when you finished them, they repeated, only with more Gorbs moving at a higher rate of speed. (for the full review in Compute!’s Gazette visit: https://www.commodore.ca/gallery/magazines/gazette/Compute-Gazette-Issue-06-01.pdf)
+
+Source: https://www.oldschoolgamermagazine.com/key-quest-the-holy-grail-of-the-vic-20/

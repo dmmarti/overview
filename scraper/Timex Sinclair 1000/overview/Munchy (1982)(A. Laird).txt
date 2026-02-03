@@ -1,0 +1,1 @@
+Munchees is a Pac-Man clone where you must move around a maze to clear it by eating all the dots. As you eat the dots you have to avoid ghosts and if you touch one then you lose one of three lives. There are power-pills that can be eaten and these allow you to eat the ghosts for a short time. You have a choice of how many ghosts on the maze (1-4).

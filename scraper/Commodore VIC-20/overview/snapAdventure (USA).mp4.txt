@@ -1,0 +1,1 @@
+Adventureland is the first of Scott Adams' text adventures. Using simple two word commands you explore an enchanted world, solve puzzles and try to recover 13 lost treasures.

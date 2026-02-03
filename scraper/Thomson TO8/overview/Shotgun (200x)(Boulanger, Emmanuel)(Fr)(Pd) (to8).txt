@@ -1,0 +1,5 @@
+Shotgun is a death match game for 2 to 4 players. The characters run around in one of 7 selectable arenas and collect guns in order to shoot their opponents. Each gun carries three bullets of ammo. Collected guns re-appear after a few seconds on their place of origin. It is not possible however, to collect more than one gun at the same time.
+
+Once a player achieves the required score of 20 kills (or whatever has been configured in advance), the match is over and a score table is displayed. After that, the next match can be started.
+
+The game supports the classical games 4-player interface, it is however also playable as a 2-player game if the interface is unavailable. It was nevertheless designed explicitly as a 4-player game and it provides the most fun in this mode.

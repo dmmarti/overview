@@ -1,0 +1,7 @@
+Dawn Patrol is a World War I fighter air-combat game from TSR. 
+
+Although the name of the game coincides with TSR's role-playing game (RPG) of World War I air combat (which was adapted from the board game Fight in the Skies), the Dawn Patrol computer game is not a direct adaptation of the RPG. The only apparent relationship is that the games share a common name and theme.
+
+Dawn Patrol is a one-player real-time 3D flight simulation game that uses wire-frame style graphics to display opposing aircraft and terrain. The game puts you in a cockpit that features a simplified two-dimensional instrument panel. Your main instruments are an altimeter, compass, and airspeed indicator.
+
+The player can choose to fly one of twelve different aircraft, consisting of a mix of German, British and French planes that were involved in the war during the 1916-1918 time frame. These include flight simulator favorites such as the Fokker Triplane, Sopwith Camel, Fokker D.VII, and S.E. 5. The player also chooses which aircraft to fight against. While you can choose to fight against up to five aircraft at the same time, you are limited to these opposing planes being just one or two types of aircraft from the game's library of 12 planes.

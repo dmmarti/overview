@@ -1,0 +1,3 @@
+This is an arcade version of the Super City Crusher game for the Commodore VIC-20 with 3K RAM expansion.
+
+Pick one of the games from the menu. Then wait for the game to load and run. Press F1 to start the game. Your flying saucer is running low on fuel and needs to land safely on to the ground. Unfortunately however a city has been built on the ground. Your task is to destroy the city. Once you land safely you will score bonus points. Good luck.

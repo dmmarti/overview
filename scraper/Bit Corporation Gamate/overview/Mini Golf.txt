@@ -1,0 +1,3 @@
+Mini Golf was produced by Bally Sente in 1985.
+
+A cute putt-putt golf game with 18 holes featuring loops, a waterfall, and some simple animations.

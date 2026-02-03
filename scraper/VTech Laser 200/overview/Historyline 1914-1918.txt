@@ -1,0 +1,5 @@
+A turn-based strategy game set in World War I.
+
+Both players act simultaneously on a split screen. While one player can move his units, the other can attack and vice versa. The results of battles are shown in animated sequences that can be turned off or on depending on a player's choice.
+
+The objective is to capture the enemy's headquarters building (while guarding your own); the victory can also be achieved by annihilating every unit the enemy controls. The maps have various features - different terrain types, as well as depots (to repair units) and factories (to produce) as buildings. Captured building may contain 'free' units. The units gain experience; however, this experience isn't carried over from mission to mission in campaign mode.

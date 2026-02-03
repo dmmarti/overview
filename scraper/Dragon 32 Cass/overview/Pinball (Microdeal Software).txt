@@ -1,1 +1,0 @@
-Simulated pinball machine in full color graphics.

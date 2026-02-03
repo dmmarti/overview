@@ -1,0 +1,3 @@
+Sokoban is a puzzle game developed by Thinking Rabbit. Sega ported it to the SG-1000 in 1985. Neither version left Japan.
+
+Sokoban is the basis for Shove It! ...The Warehouse Game, released for the Sega Mega Drive.

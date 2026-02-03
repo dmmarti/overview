@@ -1,0 +1,1 @@
+A space-combat game in the theme of Space Invaders or Galaga that makes great use of the platform's speech synthesizer.</Notes

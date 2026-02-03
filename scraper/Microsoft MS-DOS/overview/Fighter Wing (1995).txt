@@ -1,0 +1,5 @@
+Fighter Wing is a flight simulator that instead of concentrating on a single type of aircraft, covers a wide array of flyable planes. You get to play in either Nato or soviet sides in a series of scenarios (no campaign mode) that take place over fictional situations (the President goes insane and orders a massive strike, etc.). On the Nato side, you can fly the F-4, F-15, F-16, F-18 and F-117. While on the Soviet side you get the MIG-21, 23, 29, 31 and the SU-27.
+
+Graphics are completely 3d with gouraud-shaded polygonal aircraft complete with insignias and other details, also present are clouds, smoke effects and ground modeled on actual map terrain and there's multiplayer support for up to 16 players.
+
+Available in both floppy and cd version with added fmv sequences.

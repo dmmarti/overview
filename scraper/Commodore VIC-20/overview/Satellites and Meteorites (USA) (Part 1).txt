@@ -1,0 +1,1 @@
+A clone of the 70's arcade classic Asteroids written by Roger L. Merritt and published by UMI in 1982 for the Commodore VIC-20.</Notes

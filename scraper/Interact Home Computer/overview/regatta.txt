@@ -1,0 +1,1 @@
+Virtual Regatta is an on online sailing race simulator that is played in real time. For each famous sailing race, Virtual Regatta simulates the real meteorological conditions experienced by the skippers and allows its players to participate in real time from their computers, by choosing the best settings for their boat, both the sails and the heading.</Notes

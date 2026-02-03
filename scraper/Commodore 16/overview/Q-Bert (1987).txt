@@ -1,0 +1,1 @@
+Q*bert is a conversion of the popular arcade game. The goal is to change all of the tiles on a pyramid to the target color. To do this you guide Q*bert around the pyramid, and every tile he hops on will change color. On early levels, a single hop will cha 

@@ -1,0 +1,1 @@
+Caterpillar (not to be confused with Caterpilla from Ocean Software) is a single player Centipede clone. It was developed by and published by Romik Software in 1983.</Notes

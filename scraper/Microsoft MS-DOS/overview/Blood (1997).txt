@@ -1,0 +1,15 @@
+Blood is a PC first person shooter computer game developed by Monolith Productions and distributed by GT Interactive. The full version was released for the PC on May 31, 1997, and became well-known for its copious amounts of gore and numerous stylistic and cultural references to literary and cinematic horror works. It was also the first Build engine game to feature voxels. 
+
+The game follows the story of Caleb, an early 20th century gunslinger seeking revenge against the dark god Tchernobog. It features a number of occult and horror themes. Blood includes an arsenal of weapons ranging from the standard to the bizarre, numerous enemies, and liberal amounts of graphic violence.
+
+A first-person shooter in the spirit of schlock horror/slasher flicks, the gameplay of Blood is witnessed through the eyes of the player-controlled character, Caleb, and consists of fighting the hordes of various enemies as he traverses the levels of the game. In single player mode, the objective of the player is to lead Caleb in his quest of revenge against his former master: this is achieved by navigating the levels of each separate episode, looking for an exit, until the "boss" level is reached and a showdown against a large opponent takes place. Each episode can be played separately, in no particular order, albeit these are organized to follow the game's storyline.
+
+The Blood franchise was continued with two official expansion packs titled Plasma Pak (developed by Monolith) and Cryptic Passage (developed by Sunstorm Interactive).
+ 
+One Unit: Whole Blood is a special collection of Blood games that includes the original Blood (fully patched) as well as the Cryptic Passage and Plasma Pak expansions, and an interactive game guide on Cd that included a walkthrough, maps, and video guides. 
+
+Getting the originals to run on modern systems can be difficult at best and requires either many 3rd party tweaks or manual configuration of Dosbox, but pre-configured dosbox versions are available cheaply on GoG and Steam.
+
+"Blood is the goriest, bloodiest, most horrific 3D first-person action game ever made. Visit a dark near-future world populated by hundreds of bloodthirsty enemies. You'll engage in a nightmarish battle against the minions of an ancient, forgotten god bent on wiping humanity from the face of the earth. With cultists, gargoyles, zombies, hellhounds, and an unholy host of other terrors, Blood immerses you in a world of horror unlike any you've experienced before."
+
+"You carved your soul to shreds in servitude to a dark god, but false promises and betrayal were your only reward. Now you have a score to settle and it will be measured in blood! Experience the madness in one carnage-soaked package! All the gore, all the unholy war! Zombies, cultists, gargoyles, hellhounds and blood!"

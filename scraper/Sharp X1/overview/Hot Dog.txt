@@ -1,0 +1,1 @@
+Hotdog is a simple skiing simulation game offering three events: slalom, mogul, and aerial. The player controls the skiier, and can move left and right as well as increase or decrease the speed. There is a single-player mode where the player is ranked against computer opponents, as well as a multiplayer mode for up to five players.</Notes
