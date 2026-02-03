@@ -1,10 +1,7 @@
-Games specifc to PacMan.
+Video games based on Pac-Man are among the most iconic and recognisable titles in gaming history. First appearing in arcades, Pac-Man introduced a unique style of gameplay that focused on movement, pattern recognition, and strategic decision-making rather than shooting or combat. Players guide Pac-Man through maze-like levels, eating pellets while avoiding colourful ghost enemies, each with distinct movement behaviours.
 
-This collection contains games from the following platforms:
+The simple concept hides surprising depth. Power pellets temporarily turn the tables, allowing Pac-Man to chase the ghosts, creating moments of risk-and-reward decision-making. As levels progress, enemy speed increases and patterns become more aggressive, testing player reflexes and memorisation. Bonus items and score-chasing further encourage mastery and replayability.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Pac-Man’s bright visuals, catchy sounds, and instantly recognisable characters helped it reach audiences far beyond traditional gamers. Over the years, the series has expanded with new mechanics, modes, and visual styles while maintaining its core identity. Pac-Man remains a timeless example of elegant game design and universal appeal.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

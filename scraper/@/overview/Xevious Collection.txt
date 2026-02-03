@@ -1,10 +1,7 @@
-Games specifc to Xevious.
+Xevious video games are classic vertical-scrolling shooters that helped define the shoot ’em up genre. Players pilot a futuristic aircraft through waves of enemy forces, dodging bullets, destroying ground targets, and facing increasingly complex bosses. The game’s design emphasises memorisation, pattern recognition, and precision, as enemies often attack in predictable formations that require quick reflexes and strategic targeting.
 
-This collection contains games from the following platforms:
+One of Xevious’s distinguishing features is the dual-weapon system, allowing players to attack both aerial and ground-based enemies simultaneously. This mechanic adds tactical depth, requiring careful planning and timing to clear levels efficiently. The visuals, while simple by modern standards, are vibrant and distinctive, giving each stage a unique feel. The soundtrack and sound effects complement the action, creating an immersive arcade experience.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Xevious’s influence on later scrolling shooters is profound, inspiring entire generations of shmups. Its balance of challenge, clarity, and engaging mechanics continues to make it a revered classic for fans of arcade action and retro gaming.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

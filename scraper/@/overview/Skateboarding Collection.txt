@@ -1,10 +1,3 @@
-Games specifc to Skateboarding.
+Skateboarding video games focus on performing tricks, mastering movement, and navigating urban environments. Players chain together jumps, flips, grinds, and manuals to score points or complete objectives. Physics-based controls reward precision and creativity, while free-roaming levels encourage exploration. Many games include progression systems, customisation, and licensed soundtracks that reflect skate culture. The genre balances technical skill with expressive freedom.
 
-This collection contains games from the following platforms:
-
-Arcades
-Computers
-Consoles
-Handhelds
-
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

@@ -1,10 +1,7 @@
-Games specifc to Robotron.
+Robotron video games are intense twin-stick shooters focused on survival and crowd control. Players battle overwhelming waves of enemies in enclosed arenas.
 
-This collection contains games from the following platforms:
+The controls allow independent movement and firing, demanding high skill and awareness. Fast pacing and relentless difficulty define the experience.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Robotron is a landmark in arcade shooter design.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

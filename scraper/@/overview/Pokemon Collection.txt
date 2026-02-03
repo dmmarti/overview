@@ -1,10 +1,7 @@
-Games specifc to Pokemon.
+Pokémon video games centre around exploration, collection, and turn-based strategy within a colourful fantasy world. Players capture, train, and battle creatures, building teams that balance strengths, weaknesses, and abilities.
 
-This collection contains games from the following platforms:
+The core gameplay loop of exploration, battles, and progression is simple yet deeply strategic. Creature types, evolutions, and moves encourage planning and experimentation. Story-driven campaigns are supported by multiplayer trading and battling, fostering community interaction.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Pokémon’s charm, accessibility, and depth have made it one of the most successful franchises in gaming history.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

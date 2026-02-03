@@ -1,10 +1,7 @@
-Games specifc to Q-Bert.
+Q*Bert video games are classic arcade action-puzzle titles focused on movement and timing. Players hop across a pyramid of cubes, changing their colours while avoiding enemies.
 
-This collection contains games from the following platforms:
+The diagonal movement and isometric perspective add challenge and uniqueness. Increasing enemy types and faster pacing create escalating tension.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Q*Bert’s quirky visuals and sounds have made it an enduring arcade icon.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

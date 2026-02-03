@@ -1,10 +1,3 @@
-Games specifc to Space Invaders.
+Space Invaders video games are foundational arcade shooters where players defend against descending alien waves. Simple controls and escalating difficulty create tense, addictive gameplay. Strategic positioning and timing are essential as enemy speed increases. The game’s iconic design helped shape the shooter genre.
 
-This collection contains games from the following platforms:
-
-Arcades
-Computers
-Consoles
-Handhelds
-
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

@@ -1,10 +1,7 @@
-Games specifc to Zork.
+Zork video games are pioneering text-based adventure experiences that emphasize storytelling, exploration, and problem-solving. Players navigate a rich, imaginative world entirely through textual commands, interacting with the environment, solving puzzles, and uncovering treasures while avoiding traps and adversaries.
 
-This collection contains games from the following platforms:
+Gameplay rewards careful observation, logical thinking, and creativity. Zork’s descriptive prose and intricate map design create a sense of immersion and adventure that challenges players to think critically and engage deeply with the story. The series is foundational to interactive fiction, influencing countless adventure and narrative-driven games.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Zork’s legacy endures as a testament to the power of imagination and text-based gameplay, offering intellectual and narrative-driven entertainment.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

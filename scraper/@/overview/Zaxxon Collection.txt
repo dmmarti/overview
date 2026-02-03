@@ -1,10 +1,7 @@
-Games specifc to Zaxxon.
+Zaxxon video games are isometric arcade shooters that were revolutionary for their time. Players pilot a spacecraft through fortress-like environments, dodging enemy fire, avoiding obstacles, and destroying strategic targets. The isometric perspective adds depth to movement and aiming, requiring players to manage both altitude and lateral positioning.
 
-This collection contains games from the following platforms:
+Gameplay emphasizes precision, timing, and memorisation of enemy patterns. Power-ups and score bonuses reward skillful play, while increasingly difficult levels test reflexes and strategy. Zaxxon’s unique visuals and dynamic action made it a standout among early arcade shooters.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Zaxxon remains a milestone in arcade history, showcasing creativity in both perspective and game design.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

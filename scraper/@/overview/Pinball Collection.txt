@@ -1,10 +1,7 @@
-Games specifc to Pinball.
+Pinball video games recreate the fast, reactive gameplay of physical pinball machines in digital form. Players control flippers to keep a ball in play, aiming for ramps, targets, and bonuses while avoiding drains. Timing, reflexes, and ball control are essential to achieving high scores.
 
-This collection contains games from the following platforms:
+Digital pinball allows for creative table designs that go beyond physical limitations, featuring animated elements, themed tables, and complex rule sets. Many pinball games replicate real machines in detail, while others introduce fantasy themes, story progression, and special modes. Scoring systems reward precision, combo play, and mastery of table layouts.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Pinball video games are known for their addictive nature, immersive sound effects, and satisfying physics. Whether realistic or imaginative, they capture the excitement and tension of pinball while offering endless replay value.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

@@ -1,10 +1,3 @@
-Games specifc to Sonic.
+Sonic video games are defined by speed, momentum, and vibrant platforming. Players guide Sonic through looping levels filled with enemies, rings, and hazards. Precision and reflexes are balanced with exploration and mastery of physics-based movement. Bright visuals, energetic music, and memorable characters define the series’ identity.
 
-This collection contains games from the following platforms:
-
-Arcades
-Computers
-Consoles
-Handhelds
-
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

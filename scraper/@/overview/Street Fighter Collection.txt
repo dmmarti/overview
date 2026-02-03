@@ -1,10 +1,9 @@
-Games specifc to Street Fighter.
+Street Fighter video games are a cornerstone of the fighting game genre, renowned for their strategic depth, precise controls, and competitive gameplay. Players select fighters with unique movesets, combos, and special abilities, facing opponents in one-on-one battles that test timing, reflexes, and tactical thinking.
 
-This collection contains games from the following platforms:
+Each fighter in Street Fighter offers distinct strengths and weaknesses, encouraging mastery and strategy. Combos, counters, and special moves require careful execution, rewarding skill and practice. Stages are designed to be visually engaging while maintaining clarity for fast-paced combat, and the soundtrack and character animations add to the series’ iconic style.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Street Fighter helped popularize the concept of competitive fighting games and remains a key fixture in esports and arcade history. Multiplayer modes, tournament settings, and ranking systems provide endless replay value, while single-player campaigns explore character backstories and rivalries.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+The franchise’s legacy is defined by innovation, accessibility, and a balance between casual fun and expert-level challenge. Street Fighter continues to be celebrated for its enduring mechanics, memorable characters, and cultural impact within gaming.
+
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

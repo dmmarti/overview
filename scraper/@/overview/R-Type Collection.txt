@@ -1,10 +1,7 @@
-Games specifc to R-Type.
+R-Type video games are side-scrolling shooters known for strategic pacing and biomechanical enemy design. Players use a detachable force pod for offence and defence.
 
-This collection contains games from the following platforms:
+Levels are carefully designed to reward positioning and memorisation rather than constant firing. Large bosses and atmospheric visuals create tension and spectacle.
 
-Arcades
-Computers
-Consoles
-Handhelds
+R-Type is regarded as one of the most thoughtful and influential shooters ever made.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

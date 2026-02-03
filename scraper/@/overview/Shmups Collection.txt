@@ -1,10 +1,3 @@
-Games specifc to Shmups.
+Shmups, short for shoot ’em ups, are action games centred on constant movement, dodging enemy fire, and destroying waves of opponents. Players control spacecraft or vehicles in scrolling levels filled with intricate bullet patterns and powerful bosses. Precision, memorisation, and quick reactions are key to survival. Shmups often feature power-ups, multiple weapon types, and scoring systems that reward aggressive yet controlled play. The genre ranges from accessible arcade-style games to extremely challenging “bullet hell” experiences, offering depth and replayability for dedicated players.
 
-This collection contains games from the following platforms:
-
-Arcades
-Computers
-Consoles
-Handhelds
-
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

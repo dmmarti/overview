@@ -1,10 +1,9 @@
-Games specifc to Tekken.
+Tekken video games are among the most popular and technically sophisticated 3D fighting franchises. Players select from a diverse roster of fighters, each with unique styles, combos, and special techniques, engaging in one-on-one matches that demand timing, precision, and strategy.
 
-This collection contains games from the following platforms:
+The series is known for its deep combat mechanics, including juggling combos, throws, counters, and movement strategies. Unlike traditional 2D fighters, Tekken emphasizes three-dimensional movement, allowing players to sidestep and reposition dynamically, which adds a layer of tactical depth. Story-driven campaigns also explore character relationships, rivalries, and family dynamics, enriching the gameplay with narrative context.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Tekken has a strong competitive scene, offering multiplayer tournaments and ranked play that challenge both casual and professional gamers. The franchise combines striking visuals, realistic animations, and detailed environments with responsive controls, creating an immersive and rewarding fighting experience.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+Tekken’s balance of accessibility for newcomers and depth for experts has cemented its status as a legendary series in the fighting game community.
+
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

@@ -1,10 +1,3 @@
-Games specifc to Soccer.
+Soccer video games recreate the world’s most popular sport, offering matches that range from realistic simulations to fast-paced arcade interpretations. Gameplay focuses on passing, positioning, shooting, and tactical decision-making. Many games feature tournaments, team management, and multiplayer modes. Accessibility and depth allow both casual play and long-term mastery.
 
-This collection contains games from the following platforms:
-
-Arcades
-Computers
-Consoles
-Handhelds
-
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.
