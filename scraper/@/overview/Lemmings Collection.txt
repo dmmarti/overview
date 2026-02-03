@@ -1,10 +1,7 @@
-Games specifc to Lemmings.
+Video games in the Lemmings series are classic puzzle titles built around problem-solving, timing, and careful planning. Players are tasked with guiding a group of small, mindless creatures safely through hazardous levels filled with traps, drops, and obstacles. The challenge lies in assigning specific skills—such as digging, building, blocking, or climbing—to individual lemmings to create a safe path for the group.
 
-This collection contains games from the following platforms:
+Each level presents a unique puzzle with multiple possible solutions, rewarding creativity and logical thinking. While the premise is simple, the difficulty steadily increases, requiring precise timing and efficient use of limited abilities. The games feature a charming visual style, humorous animations, and memorable music that contrast with the often devious level design.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Lemmings games are praised for their originality and depth, offering gameplay that is easy to understand but difficult to master. Their clever design has influenced countless puzzle games and remains enjoyable for players of all ages.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

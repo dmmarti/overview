@@ -1,10 +1,7 @@
-Games specifc to King Of Fighters.
+The King of Fighters video games are team-based fighting games that bring together characters from multiple SNK franchises. Players select teams of fighters and battle opponents in sequential one-on-one matches.
 
-This collection contains games from the following platforms:
+The series is known for its deep mechanics, precise controls, and competitive focus. Strategy extends beyond individual fights, as team order and resource management play key roles. Rich character backstories and evolving storylines add narrative depth.
 
-Arcades
-Computers
-Consoles
-Handhelds
+King of Fighters remains a cornerstone of competitive fighting games worldwide.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

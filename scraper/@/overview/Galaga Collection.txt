@@ -1,10 +1,7 @@
-Games specifc to Galaga.
+Video games based on Galaga are among the most iconic fixed-screen shooters ever created. Players control a lone spacecraft battling waves of alien enemies that move in distinctive, coordinated patterns.
 
-This collection contains games from the following platforms:
+Galaga is especially known for its risk-and-reward mechanic, where players can rescue captured ships to gain dual-firepower. This adds strategy to the fast-paced action, forcing players to choose between safety and greater offensive power. Enemy attack patterns become faster and more aggressive as stages progress.
 
-Arcades
-Computers
-Consoles
-Handhelds
+With tight controls, colourful visuals, and unforgettable sound effects, Galaga remains a benchmark for arcade shooter design. Its balance of challenge and fun continues to attract players across generations.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

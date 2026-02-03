@@ -1,10 +1,7 @@
-Games specifc to Bomberman.
+Video games in the Bomberman series are built around strategic maze-based action that combines quick thinking, precise movement, and explosive fun. Players control Bomberman characters who place bombs to destroy obstacles, defeat enemies, and trap opponents within confined arenas.
 
-This collection contains games from the following platforms:
+The gameplay is deceptively simple, yet highly tactical. Bomb placement, timing, and positioning are crucial, as explosions can eliminate enemies—or the player themselves. Power-ups enhance abilities by increasing blast range, bomb capacity, or movement speed, adding depth and unpredictability to each match.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Bomberman is especially celebrated for its multiplayer modes, where chaotic matches reward clever tactics and quick reactions. Bright visuals, cheerful music, and competitive gameplay have made the series a timeless favourite that appeals to casual and competitive players alike.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

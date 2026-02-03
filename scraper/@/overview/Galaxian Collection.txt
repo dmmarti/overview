@@ -1,10 +1,7 @@
-Games specifc to Galaxian.
+Galaxian video games helped advance the space shooter genre by introducing smoother movement, colourful visuals, and more aggressive enemy behaviour. Players defend against alien formations that swoop down in fast, unpredictable attacks.
 
-This collection contains games from the following platforms:
+Unlike earlier shooters, Galaxian requires constant movement and awareness, as enemies dive toward the player rather than remaining in fixed formations. The increasing speed and difficulty demand sharp reflexes and precision shooting.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Galaxian’s innovations laid the groundwork for many future shooters, including its famous successor. Its influence and challenging gameplay have earned it a lasting place in arcade history.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

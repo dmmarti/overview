@@ -1,10 +1,7 @@
-Games specifc to Centipede.
+Video games based on Centipede are classic arcade shooters focused on fast reflexes and precision. Players defend the bottom of the screen from descending insect-like enemies, with the centipede splitting into multiple segments when shot.
 
-This collection contains games from the following platforms:
+As stages progress, the pace increases and enemy patterns grow more complex. The simple controls and escalating difficulty make Centipede easy to learn but challenging to master. Its colourful visuals and distinctive sound effects add to its enduring appeal.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Centipede remains a defining example of early arcade design.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

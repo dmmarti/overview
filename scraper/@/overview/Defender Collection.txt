@@ -1,10 +1,5 @@
-Games specifc to Defender.
+Video games based on Defender are fast-paced arcade shooters that demand sharp reflexes, spatial awareness, and constant movement. Set against a horizontally scrolling alien landscape, players pilot a spacecraft tasked with protecting astronauts from relentless waves of enemies. The gameplay is intense and unforgiving, requiring mastery of thrust-based movement, rapid firing, and radar awareness to survive.
 
-This collection contains games from the following platforms:
+Defender stands out for its complexity compared to other early arcade shooters. Multiple enemy types attack from all directions, while objectives force players to balance offence with rescue missions. The minimalist visuals and distinctive sound effects heighten tension, making every moment feel urgent. Over time, Defender has appeared on many systems, preserving its reputation as a challenging, skill-driven classic.
 
-Arcades
-Computers
-Consoles
-Handhelds
-
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

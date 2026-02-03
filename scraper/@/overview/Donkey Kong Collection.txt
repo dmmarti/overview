@@ -1,10 +1,5 @@
-Games specifc to Donkey Kong.
+Video games starring Donkey Kong are foundational to video game history, introducing some of the earliest and most influential platforming mechanics. Originally debuting in arcades, the series follows the adventures of Donkey Kong and other characters through a variety of action-packed challenges.
 
-This collection contains games from the following platforms:
+Gameplay often focuses on precise jumping, obstacle avoidance, and timing-based challenges, later evolving into expansive platform adventures. Known for its colourful visuals, memorable music, and inventive level design, Donkey Kong has remained relevant across generations. The franchise’s lasting appeal lies in its balance of challenge, charm, and creativity.
 
-Arcades
-Computers
-Consoles
-Handhelds
-
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

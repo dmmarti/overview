@@ -1,10 +1,7 @@
-Games specifc to Arkanoid.
+Video games based on **Arkanoid** are built around simple yet highly addictive gameplay that has made the series one of the most recognisable classics in gaming history. Originally debuting in arcades, Arkanoid refined the brick-breaking formula by combining fast reflexes with strategic control, creating an experience that is easy to learn but challenging to master.
 
-This collection contains games from the following platforms:
+At its core, Arkanoid gameplay tasks players with controlling a paddle-like craft to bounce a ball upward, breaking formations of blocks while preventing the ball from falling off the screen. As levels progress, block layouts become more complex, requiring precise timing and careful positioning. A key feature of the series is the introduction of power-ups, which can expand or shrink the paddle, add multiple balls, slow down the action, or introduce laser weapons, dramatically changing the pace and strategy of each stage.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Arkanoid games are known for their clean visuals, responsive controls, and escalating difficulty that keeps players engaged and striving for higher scores. Later entries expanded on the original formula with new mechanics, themes, and visual styles while staying true to the core design that made the series iconic. Whether played casually or competitively, Arkanoid remains a timeless test of concentration, reflexes, and endurance.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

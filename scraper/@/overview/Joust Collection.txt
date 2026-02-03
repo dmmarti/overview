@@ -1,10 +1,7 @@
-Games specifc to Joust.
+Joust video games are classic arcade action titles with unique physics-based gameplay. Players control a flying knight mounted on an ostrich or stork, battling enemy knights in mid-air combat.
 
-This collection contains games from the following platforms:
+Success depends on mastering flight height and momentum, as higher positioning determines victory in collisions. The simple controls hide surprising depth, making matches intense and competitive. Cooperative and competitive multiplayer options add to the game’s replayability.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Joust’s originality, fast-paced action, and memorable design have made it a standout arcade classic.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

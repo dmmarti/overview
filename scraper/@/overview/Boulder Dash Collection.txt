@@ -1,10 +1,7 @@
-Games specifc to Boulder Dash.
+Boulder Dash video games are classic puzzle-action titles that combine strategy, timing, and environmental awareness. Players navigate underground caves filled with falling rocks, deadly hazards, and collectible gems, all while avoiding enemies and planning safe escape routes.
 
-This collection contains games from the following platforms:
+The gameplay revolves around digging through terrain while manipulating gravity-based elements. Rocks can be used as tools or threats, requiring careful planning to prevent accidental traps. Each level challenges players to collect a required number of gems before reaching the exit, often under increasing pressure from limited space or enemy movement.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Boulder Dash is praised for its simple mechanics paired with deep, thoughtful gameplay. Its clever level design and escalating difficulty have made it a lasting favourite among puzzle fans, influencing many later titles in the genre.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

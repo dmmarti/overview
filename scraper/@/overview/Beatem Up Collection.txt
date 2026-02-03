@@ -1,10 +1,7 @@
-Games specifc to Beatem Up.
+Beat ’em up video games focus on fast-paced, side-scrolling action where players battle waves of enemies using hand-to-hand combat and simple weaponry. Popularised during the arcade era, this genre emphasizes accessibility, cooperative play, and satisfying combat mechanics that reward timing and positioning.
 
-This collection contains games from the following platforms:
+Players typically move through urban streets, factories, or fantasy environments, defeating enemies with punches, kicks, throws, and special moves. Many beat ’em ups allow multiple players to team up locally, creating a social and energetic experience. Power-ups, character selection, and unique fighting styles add variety and replay value.
 
-Arcades
-Computers
-Consoles
-Handhelds
+The genre is known for its iconic soundtracks, expressive sprite animations, and straightforward objectives. While later titles introduced deeper mechanics, classic beat ’em ups remain popular for their pure action focus and nostalgic appeal, offering instant fun and intense arcade-style gameplay.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

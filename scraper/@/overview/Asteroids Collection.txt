@@ -1,10 +1,7 @@
-Games specifc to Asteroids.
+Video games based on **Asteroids** are among the most iconic and influential titles in arcade gaming history, helping define early action and shooter design. Originally released during the golden age of arcades, Asteroids introduced players to fast-paced, physics-based gameplay that relied on precision, awareness, and quick reflexes rather than complex controls or detailed visuals.
 
-This collection contains games from the following platforms:
+In Asteroids games, players pilot a small spacecraft in an open, wraparound space field, tasked with destroying drifting asteroids while avoiding collisions and enemy threats. The ship’s momentum-based movement adds a layer of challenge, requiring careful thrust control and strategic positioning. As larger asteroids break apart into smaller, faster fragments, the intensity steadily increases, pushing players to stay focused and adapt to the growing chaos.
 
-Arcades
-Computers
-Consoles
-Handhelds
+The series is well known for its minimalist presentation, originally using vector-style graphics that gave it a distinctive look and smooth motion. Sound effects and simple visual cues heighten the tension, making every near-miss feel dramatic. Over time, Asteroids has been reimagined across many platforms, adding new modes, visuals, and variations while preserving the core gameplay that made it a classic.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.

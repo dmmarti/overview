@@ -1,10 +1,7 @@
-Games specifc to Metroid.
+Metroid video games are atmospheric action-adventure titles focused on exploration, isolation, and discovery. Players navigate interconnected worlds, unlocking abilities that allow access to previously unreachable areas.
 
-This collection contains games from the following platforms:
+The series emphasizes non-linear progression, environmental storytelling, and a strong sense of mood. Combat is blended with puzzle-solving and exploration, rewarding curiosity and memory.
 
-Arcades
-Computers
-Consoles
-Handhelds
+Metroid’s influence on game design is immense, helping define an entire subgenre built on exploration-driven gameplay.
 
-All games from the various platforms are listed in a single collection for easy access to find them all.
+This collection contains games from Arcades, Computers, Consoles and Handhelds.
